@@ -1,0 +1,32 @@
+Black Turnstone (Arenaria melanocephala) - Photo Licenses
+=========================================================
+
+Photo 1 (Black_Turnstone.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/259533312/original.jpeg
+Source Page: https://www.inaturalist.org/photos/259533312
+Author: ethologist (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Black_Turnstone_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/259533325/original.jpeg
+Source Page: https://www.inaturalist.org/photos/259533325
+Author: ethologist (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Black_Turnstone_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/259533336/original.jpeg
+Source Page: https://www.inaturalist.org/photos/259533336
+Author: ethologist (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data

@@ -1,0 +1,32 @@
+Blue-throated Mountain-gem (Lampornis clemenciae) - Photo Licenses
+==================================================================
+
+Photo 1 (Blue-throated_Mountain-gem.jpg)
+------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/303367571/original.jpeg
+Source Page: https://www.inaturalist.org/photos/303367571
+Author: stellarlimpkin (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by stellarlimpkin on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Blue-throated_Mountain-gem_2.jpg)
+--------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/548718220/original.jpeg
+Source Page: https://www.inaturalist.org/photos/548718220
+Author: kodiakgarden (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kodiakgarden on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Blue-throated_Mountain-gem_3.jpg)
+--------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/235030225/original.jpeg
+Source Page: https://www.inaturalist.org/photos/235030225
+Author: tristanmcknight (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tristanmcknight on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

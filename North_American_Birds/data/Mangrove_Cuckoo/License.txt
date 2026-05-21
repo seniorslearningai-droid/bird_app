@@ -1,0 +1,33 @@
+Mangrove Cuckoo - Photo Licenses
+================================
+
+Photo 1 (Mangrove_Cuckoo.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/462439862/original.jpeg
+Source Page: https://www.inaturalist.org/photos/462439862
+Author: kodiakgarden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kodiakgarden (https://www.inaturalist.org/users/kodiakgarden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Mangrove_Cuckoo_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/377296424/original.jpeg
+Source Page: https://www.inaturalist.org/photos/377296424
+Author: cos-
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by cos- (https://www.inaturalist.org/users/cos-) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Mangrove_Cuckoo_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/358839236/original.jpeg
+Source Page: https://www.inaturalist.org/photos/358839236
+Author: joseph103
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by joseph103 (https://www.inaturalist.org/users/joseph103) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+

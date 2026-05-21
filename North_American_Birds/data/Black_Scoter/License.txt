@@ -1,0 +1,32 @@
+Black Scoter (Melanitta americana) - Photo Licenses
+===================================================
+
+Photo 1 (Black_Scoter.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/585020187/original.jpeg
+Source Page: https://www.inaturalist.org/photos/585020187
+Author: brost (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by brost on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Black_Scoter_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/585020221/original.jpeg
+Source Page: https://www.inaturalist.org/photos/585020221
+Author: brost (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by brost on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Black_Scoter_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/585020215/original.jpeg
+Source Page: https://www.inaturalist.org/photos/585020215
+Author: brost (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by brost on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

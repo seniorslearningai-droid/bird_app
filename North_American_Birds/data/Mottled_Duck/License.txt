@@ -1,0 +1,30 @@
+Mottled Duck (Anas fulvigula) - Photo Licenses
+==============================================
+
+NOTE: Only 1 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Mottled_Duck.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/373369816/original.jpeg
+Source Page: https://www.inaturalist.org/photos/373369816
+Author: gatorhawk
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by gatorhawk, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Mottled_Duck_2.jpg)
+----------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/f/fe/030_-_MOTTLED_DUCK_%282-20-08%29_santa_ana%2C_tx_%281%29_%288712310004%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:030_-_MOTTLED_DUCK_(2-20-08)_santa_ana,_tx_(1)_(8712310004).jpg
+Author: Alan Schmierer
+License: CC0 1.0 (Public Domain)
+Commercial Use: YES
+
+Photo 3 (Mottled_Duck_3.jpg)
+----------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/b/b0/030_-_MOTTLED_DUCK_%282-20-08%29_santa_ana%2C_tx_%282%29_%288712309438%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:030_-_MOTTLED_DUCK_(2-20-08)_santa_ana,_tx_(2)_(8712309438).jpg
+Author: Alan Schmierer
+License: CC0 1.0 (Public Domain)
+Commercial Use: YES

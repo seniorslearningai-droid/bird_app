@@ -1,0 +1,33 @@
+LeConte's Sparrow - Photo Licenses
+==================================
+
+Photo 1 (LeContes_Sparrow.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2566365/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2566365
+Author: cannizag
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by cannizag (https://www.inaturalist.org/users/cannizag) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (LeContes_Sparrow_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/331408301/original.jpeg
+Source Page: https://www.inaturalist.org/photos/331408301
+Author: nathanmayflower
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by nathanmayflower (https://www.inaturalist.org/users/nathanmayflower) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (LeContes_Sparrow_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/327483284/original.jpeg
+Source Page: https://www.inaturalist.org/photos/327483284
+Author: er-birds
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by er-birds (https://www.inaturalist.org/users/er-birds) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

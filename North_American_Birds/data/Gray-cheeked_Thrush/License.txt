@@ -1,0 +1,33 @@
+Gray-cheeked Thrush - Photo Licenses
+====================================
+
+Photo 1 (Gray-cheeked_Thrush.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/42729721/original.jpeg
+Source Page: https://www.inaturalist.org/photos/42729721
+Author: sydcannings
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by sydcannings (https://www.inaturalist.org/users/sydcannings) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Gray-cheeked_Thrush_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/133448073/original.jpeg
+Source Page: https://www.inaturalist.org/photos/133448073
+Author: benmeredyk
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by benmeredyk (https://www.inaturalist.org/users/benmeredyk) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Gray-cheeked_Thrush_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/37277328/original.jpeg
+Source Page: https://www.inaturalist.org/photos/37277328
+Author: jacobogre
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by jacobogre (https://www.inaturalist.org/users/jacobogre) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+

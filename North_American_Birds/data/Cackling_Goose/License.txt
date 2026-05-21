@@ -1,0 +1,32 @@
+Cackling Goose (Branta hutchinsii) - Photo Licenses
+===================================================
+
+Photo 1 (Cackling_Goose.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/169427831/original.jpeg
+Source Page: https://www.inaturalist.org/photos/169427831
+Author: pineten (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by pineten on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Cackling_Goose_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/169427839/original.jpeg
+Source Page: https://www.inaturalist.org/photos/169427839
+Author: pineten (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by pineten on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Cackling_Goose_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/178074629/original.jpeg
+Source Page: https://www.inaturalist.org/photos/178074629
+Author: littlelegofan (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by littlelegofan on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

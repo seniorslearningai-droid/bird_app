@@ -1,0 +1,33 @@
+Painted Bunting - Photo Licenses
+================================
+
+Photo 1 (Painted_Bunting.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/3179793/original.jpeg
+Source Page: https://www.inaturalist.org/photos/3179793
+Author: kpmcfarland
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Painted_Bunting_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/587714516/original.jpeg
+Source Page: https://www.inaturalist.org/photos/587714516
+Author: kcthetc1
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Painted_Bunting_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2846441/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2846441
+Author: cannizag
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by cannizag (https://www.inaturalist.org/users/cannizag) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

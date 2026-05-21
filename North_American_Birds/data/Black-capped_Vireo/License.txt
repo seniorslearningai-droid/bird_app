@@ -1,0 +1,32 @@
+Black-capped Vireo (Vireo atricapilla) - Photo Licenses
+=======================================================
+
+Photo 1 (Black-capped_Vireo.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/212643090/original.jpeg
+Source Page: https://www.inaturalist.org/photos/212643090
+Author: johnrosford (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by johnrosford on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Black-capped_Vireo_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/212643077/original.jpeg
+Source Page: https://www.inaturalist.org/photos/212643077
+Author: johnrosford (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by johnrosford on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Black-capped_Vireo_3.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/212643060/original.jpeg
+Source Page: https://www.inaturalist.org/photos/212643060
+Author: johnrosford (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by johnrosford on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

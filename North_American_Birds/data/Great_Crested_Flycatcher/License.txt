@@ -1,0 +1,33 @@
+Great Crested Flycatcher - Photo Licenses
+=========================================
+
+Photo 1 (Great_Crested_Flycatcher.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/199498319/original.jpeg
+Source Page: https://www.inaturalist.org/photos/199498319
+Author: chelsea_carroll
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by chelsea_carroll (https://www.inaturalist.org/users/chelsea_carroll) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Great_Crested_Flycatcher_2.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/137764659/original.jpeg
+Source Page: https://www.inaturalist.org/photos/137764659
+Author: kevinparker
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by kevinparker (https://www.inaturalist.org/users/kevinparker) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Great_Crested_Flycatcher_3.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/77948152/original.jpeg
+Source Page: https://www.inaturalist.org/photos/77948152
+Author: arthur-windsor
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by arthur-windsor (https://www.inaturalist.org/users/arthur-windsor) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

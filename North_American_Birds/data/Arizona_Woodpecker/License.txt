@@ -1,0 +1,32 @@
+Arizona Woodpecker (Leuconotopicus arizonae) - Photo Licenses
+=============================================================
+
+Photo 1 (Arizona_Woodpecker.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/51053071/original.jpeg
+Source Page: https://www.inaturalist.org/photos/51053071
+Author: gaudettelaura (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by gaudettelaura on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Arizona_Woodpecker_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/184991430/original.jpeg
+Source Page: https://www.inaturalist.org/photos/184991430
+Author: alinamartin (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by alinamartin on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Arizona_Woodpecker_3.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/184991420/original.jpeg
+Source Page: https://www.inaturalist.org/photos/184991420
+Author: alinamartin (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by alinamartin on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

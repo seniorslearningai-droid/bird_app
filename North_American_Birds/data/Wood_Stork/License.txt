@@ -1,0 +1,32 @@
+Wood Stork (Mycteria americana) - Photo Licenses
+================================================
+
+Photo 1 (Wood_Stork.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/305141842/original.jpeg
+Source Page: https://www.inaturalist.org/photos/305141842
+Author: conhawn
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by conhawn, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Wood_Stork_2.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/305141879/original.jpeg
+Source Page: https://www.inaturalist.org/photos/305141879
+Author: conhawn
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by conhawn, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Wood_Stork_3.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/305141908/original.jpeg
+Source Page: https://www.inaturalist.org/photos/305141908
+Author: conhawn
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by conhawn, licensed under CC BY
+Notes: iNaturalist observation

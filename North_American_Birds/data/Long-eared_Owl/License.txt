@@ -1,0 +1,33 @@
+Long-eared Owl - Photo Licenses
+===============================
+
+Photo 1 (Long-eared_Owl.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/579255566/original.jpeg
+Source Page: https://www.inaturalist.org/photos/579255566
+Author: charlottekirchner
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by charlottekirchner (https://www.inaturalist.org/users/charlottekirchner) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Long-eared_Owl_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/265422617/original.jpeg
+Source Page: https://www.inaturalist.org/photos/265422617
+Author: christoph_moning
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by christoph_moning (https://www.inaturalist.org/users/christoph_moning) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Long-eared_Owl_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/180059055/original.jpeg
+Source Page: https://www.inaturalist.org/photos/180059055
+Author: egorbirder
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by egorbirder (https://www.inaturalist.org/users/egorbirder) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

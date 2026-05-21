@@ -1,0 +1,32 @@
+Cedar Waxwing (Bombycilla cedrorum) - Photo Licenses
+====================================================
+
+Photo 1 (Cedar_Waxwing.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/110812374/original.jpeg
+Source Page: https://www.inaturalist.org/observations/68436715
+Author: sdz456 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by sdz456 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Cedar_Waxwing_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/170848062/original.jpeg
+Source Page: https://www.inaturalist.org/observations/102232125
+Author: cback (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by cback on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Cedar_Waxwing_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/266706327/original.jpeg
+Source Page: https://www.inaturalist.org/observations/154359639
+Author: radrat (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation

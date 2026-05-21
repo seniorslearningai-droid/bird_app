@@ -1,0 +1,49 @@
+Abert's Towhee (Melozone aberti) - Photo Licenses
+==================================================
+
+NOTE: Only 2 real photographs with free commercial licenses were found for Abert's Towhee
+across all major sources (iNaturalist, Wikimedia Commons, Flickr, and USFWS). This species
+has limited openly licensed photos available. All photos found are CC-BY 2.0 licensed from
+iNaturalist and meet commercial use requirements.
+
+Photo 1: Aberts_Towhee.jpg
+--------------------------
+Source: iNaturalist (https://www.inaturalist.org/observations/213586231)
+Direct URL: https://inaturalist-open-data.s3.amazonaws.com/photos/377475931/original.jpeg
+Author: Julio Ruiz (iNaturalist user: julioruiz)
+License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+Attribution: Photo by Julio Ruiz, used under CC BY 2.0 license
+Description: Abert's Towhee perched on a rock in desert scrub habitat, showing characteristic
+rusty crown and face coloring. Clear view of field marks.
+
+Photo 2: Aberts_Towhee_2.jpg
+----------------------------
+Source: iNaturalist (https://www.inaturalist.org/observations/203985612)
+Direct URL: https://inaturalist-open-data.s3.amazonaws.com/photos/360488413/original.jpeg
+Author: Julio Ruiz (iNaturalist user: julioruiz)
+License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+Attribution: Photo by Julio Ruiz, used under CC BY 2.0 license
+Description: Abert's Towhee in dense desert brush habitat (mesquite/saltbush). Shows bird's
+characteristic behavior of staying low in vegetation. Demonstrates habitat preference.
+
+---
+
+All photos are used in compliance with the CC BY 2.0 license, which permits:
+- Sharing and adapting the work for any purpose, including commercial use
+- Attribution to the original author (Julio Ruiz)
+- No additional restrictions
+
+Searches performed:
+- iNaturalist API: Found extensive results, only 2 with CC-BY licenses (rest were CC-BY-NC)
+- Wikimedia Commons Category: Melozone aberti - No qualifying photos found
+- Flickr: No qualifying commercial-license photos found for Abert's Towhee
+- USFWS Digital Library: No results for Abert's Towhee
+
+Photo 3 (Aberts_Towhee_3.jpg)
+-----------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/3/32/Abert%27s_Towhee_%2816758333132%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Abert%27s_Towhee_(16758333132).jpg
+Author: Mike's Birds
+License: CC BY-SA 2.0
+Commercial Use: YES
+Attribution: Photo by Mike's Birds, CC BY-SA 2.0

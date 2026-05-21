@@ -1,0 +1,33 @@
+Ring-necked Pheasant - Photo Licenses
+=====================================
+
+Photo 1 (Ring-necked_Pheasant.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/127255695/original.jpeg
+Source Page: https://www.inaturalist.org/photos/127255695
+Author: johnkrampl
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by johnkrampl (https://www.inaturalist.org/users/johnkrampl) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Ring-necked_Pheasant_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/28828916/original.jpeg
+Source Page: https://www.inaturalist.org/photos/28828916
+Author: jacqui-nz
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by jacqui-nz (https://www.inaturalist.org/users/jacqui-nz) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Ring-necked_Pheasant_3.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/104145335/original.jpeg
+Source Page: https://www.inaturalist.org/photos/104145335
+Author: johnkrampl
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by johnkrampl (https://www.inaturalist.org/users/johnkrampl) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

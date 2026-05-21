@@ -1,0 +1,33 @@
+Lesser Yellowlegs - Photo Licenses
+==================================
+
+Photo 1 (Lesser_Yellowlegs.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/177376819/original.jpeg
+Source Page: https://www.inaturalist.org/photos/177376819
+Author: quilicotriste
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by quilicotriste (https://www.inaturalist.org/users/quilicotriste) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Lesser_Yellowlegs_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/116651518/original.jpeg
+Source Page: https://www.inaturalist.org/photos/116651518
+Author: lucianomassa
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by lucianomassa (https://www.inaturalist.org/users/lucianomassa) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Lesser_Yellowlegs_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/272729704/original.jpeg
+Source Page: https://www.inaturalist.org/photos/272729704
+Author: brent329
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by brent329 (https://www.inaturalist.org/users/brent329) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

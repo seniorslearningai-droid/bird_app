@@ -1,0 +1,49 @@
+ACORN WOODPECKER PHOTO LICENSES AND ATTRIBUTION
+
+Photo 1: Acorn_Woodpecker.jpg
+Source: Wikimedia Commons
+URL: https://commons.wikimedia.org/wiki/File:Acorn_woodpecker_holding_a_nut_in_its_beak-0225.jpg
+Title: Acorn woodpecker holding a nut in its beak-0225.jpg
+Direct Image URL: https://upload.wikimedia.org/wikipedia/commons/0/0f/Acorn_woodpecker_holding_a_nut_in_its_beak-0225.jpg
+Author: Frank Schulenburg
+License: Creative Commons Attribution-Share Alike 4.0 International (CC-BY-SA 4.0)
+Description: Adult male Acorn Woodpecker holding an acorn in its beak, displaying the distinctive red crown, white face, and olive-green back against a tree trunk background.
+Use: Free for commercial use with attribution and under CC-BY-SA 4.0 terms
+File Size: 2.8 MB (1793×1793 pixels)
+
+Photo 2: Acorn_Woodpecker_2.jpg
+Source: iNaturalist
+URL: https://www.inaturalist.org/observations/201692925
+Observation ID: 201692925
+Image URL: https://inaturalist-open-data.s3.amazonaws.com/photos/356078598/original.jpg
+Observer: Robin Gwen Agarwal (username: anudibrachmom)
+Observation Date: March 6, 2024
+Location: Contra Costa County, CA, USA
+License: Creative Commons Attribution License (CC-BY)
+Description: Leucistic Acorn Woodpecker variant next to an oak tree showing visible acorn granaries (holes drilled by the woodpecker for storing acorns). One of two leucistic individuals seen at this location.
+Quality Grade: Research Grade
+Use: Free for commercial use with attribution under CC-BY terms
+File Size: 353 KB (907×1087 pixels)
+
+Photo 3: Acorn_Woodpecker_3.jpg
+Source: iNaturalist
+URL: https://www.inaturalist.org/observations/57802475
+Observation ID: 57802475
+Image URL: https://inaturalist-open-data.s3.amazonaws.com/photos/92231597/original.jpeg
+Observer: amutti
+Observation Date: July 1, 2020
+Location: Santa Barbara County, CA, USA
+License: Creative Commons Attribution License (CC-BY)
+Description: Juvenile Acorn Woodpecker awkwardly climbing a tree, calling after an adult. Shows younger plumage patterns distinct from adults.
+Quality Grade: Research Grade
+Notes: Original observation included sound clip of bird calling
+Use: Free for commercial use with attribution under CC-BY terms
+File Size: 804 KB (2048×1536 pixels)
+
+ATTRIBUTION SUMMARY:
+All photos are licensed for commercial use with proper attribution:
+- Photo 1: CC-BY-SA 4.0 (Frank Schulenburg)
+- Photo 2: CC-BY (Robin Gwen Agarwal / iNaturalist)
+- Photo 3: CC-BY (amutti / iNaturalist)
+
+When using these images, proper attribution must be provided as specified above.

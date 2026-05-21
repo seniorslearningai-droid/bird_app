@@ -1,0 +1,32 @@
+Double-crested Cormorant (Nannopterum auritum) - Photo Licenses
+===============================================================
+
+Photo 1 (Double-crested_Cormorant.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/369136154/original.jpeg
+Source Page: https://www.inaturalist.org/observations/208623826
+Author: gatorhawk (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by gatorhawk on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Double-crested_Cormorant_2.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/255454786/original.jpeg
+Source Page: https://www.inaturalist.org/observations/148352422
+Author: rainhead (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by rainhead on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Double-crested_Cormorant_3.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/179325608/original.jpeg
+Source Page: https://www.inaturalist.org/observations/106714305
+Author: isaac_krone (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by isaac_krone on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

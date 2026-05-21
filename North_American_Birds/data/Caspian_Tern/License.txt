@@ -1,0 +1,32 @@
+Caspian Tern (Hydroprogne caspia) - Photo Licenses
+==================================================
+
+Photo 1 (Caspian_Tern.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/618322674/original.jpeg
+Source Page: https://www.inaturalist.org/photos/618322674
+Author: gaudettelaura (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by gaudettelaura on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Caspian_Tern_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176296196/original.jpeg
+Source Page: https://www.inaturalist.org/photos/176296196
+Author: blevine (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by blevine on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Caspian_Tern_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/159317332/original.jpeg
+Source Page: https://www.inaturalist.org/photos/159317332
+Author: douch (iNaturalist)
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA allows commercial use with attribution and share-alike
+Attribution: Photo by douch on iNaturalist, CC BY-SA 4.0
+Notes: Downloaded from iNaturalist open data

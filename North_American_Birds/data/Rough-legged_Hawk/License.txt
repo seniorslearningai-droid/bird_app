@@ -1,0 +1,33 @@
+Rough-legged Hawk - Photo Licenses
+==================================
+
+Photo 1 (Rough-legged_Hawk.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/56411257/original.jpeg
+Source Page: https://www.inaturalist.org/photos/56411257
+Author: kpmcfarland
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Rough-legged_Hawk_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/261638447/original.jpeg
+Source Page: https://www.inaturalist.org/photos/261638447
+Author: ludaalimova
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ludaalimova (https://www.inaturalist.org/users/ludaalimova) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Rough-legged_Hawk_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/468160052/original.jpeg
+Source Page: https://www.inaturalist.org/photos/468160052
+Author: blazeclaw
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blazeclaw (https://www.inaturalist.org/users/blazeclaw) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

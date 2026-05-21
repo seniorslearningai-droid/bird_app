@@ -1,0 +1,32 @@
+Yellow-throated Warbler (Setophaga dominica) - Photo Licenses
+=============================================================
+
+Photo 1 (Yellow-throated_Warbler.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/71124588/original.jpeg
+Source Page: https://www.inaturalist.org/photos/71124588
+Author: bgsmith
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by bgsmith, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Yellow-throated_Warbler_2.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/71124578/original.jpeg
+Source Page: https://www.inaturalist.org/photos/71124578
+Author: bgsmith
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by bgsmith, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Yellow-throated_Warbler_3.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/125619273/original.jpeg
+Source Page: https://www.inaturalist.org/photos/125619273
+Author: mattyfelp
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mattyfelp, licensed under CC BY
+Notes: iNaturalist observation

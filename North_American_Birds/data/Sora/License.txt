@@ -1,0 +1,31 @@
+Sora (Porzana carolina) - Photo Licenses
+========================================
+
+Photo 1 (Sora.jpg)
+------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/110347262/original.jpeg
+Source Page: https://www.inaturalist.org/photos/110347262
+Author: radrat
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by radrat, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 2 (Sora_2.jpg)
+--------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/110347251/original.jpeg
+Source Page: https://www.inaturalist.org/photos/110347251
+Author: radrat
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by radrat, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 3 (Sora_3.jpg)
+--------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/4/4f/Mikebaird_-_Sora_%28Porzana_carolina%29_bird_waterbird_in_Morro_Bay_%28by%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Mikebaird_-_Sora_(Porzana_carolina)_bird_waterbird_in_Morro_Bay_(by).jpg
+Author: Mike Baird
+License: CC BY 2.0
+Commercial Use: YES
+Attribution: Photo by Mike Baird, CC BY 2.0

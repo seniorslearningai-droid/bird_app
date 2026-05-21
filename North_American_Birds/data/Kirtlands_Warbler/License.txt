@@ -1,0 +1,33 @@
+Kirtland's Warbler - Photo Licenses
+===================================
+
+Photo 1 (Kirtlands_Warbler.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/172538357/original.jpeg
+Source Page: https://www.inaturalist.org/photos/172538357
+Author: mattyfelp
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mattyfelp (https://www.inaturalist.org/users/mattyfelp) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Kirtlands_Warbler_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/73311356/original.jpeg
+Source Page: https://www.inaturalist.org/photos/73311356
+Author: birds_bugs_botany
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by birds_bugs_botany (https://www.inaturalist.org/users/birds_bugs_botany) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Kirtlands_Warbler_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/237988422/original.jpeg
+Source Page: https://www.inaturalist.org/photos/237988422
+Author: willemspan
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by willemspan (https://www.inaturalist.org/users/willemspan) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

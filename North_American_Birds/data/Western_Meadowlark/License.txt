@@ -1,0 +1,32 @@
+Western Meadowlark (Sturnella neglecta) - Photo Licenses
+========================================================
+
+Photo 1 (Western_Meadowlark.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/622606756/original.jpeg
+Source Page: https://www.inaturalist.org/photos/622606756
+Author: daughterdad
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by daughterdad, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Western_Meadowlark_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/12195398/original.jpeg
+Source Page: https://www.inaturalist.org/photos/12195398
+Author: hill_jasonm
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by hill_jasonm, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Western_Meadowlark_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/615740453/original.jpeg
+Source Page: https://www.inaturalist.org/photos/615740453
+Author: romainpboisseau
+License: CC BY-SA
+Commercial Use: YES - CC BY-SA allows commercial use with attribution
+Attribution: Photo by romainpboisseau, licensed under CC BY-SA
+Notes: iNaturalist observation

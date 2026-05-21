@@ -1,0 +1,33 @@
+Pine Siskin - Photo Licenses
+============================
+
+Photo 1 (Pine_Siskin.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/339619490/original.jpeg
+Source Page: https://www.inaturalist.org/photos/339619490
+Author: rawcomposition
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Pine_Siskin_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/589804573/original.jpeg
+Source Page: https://www.inaturalist.org/photos/589804573
+Author: carterdorscht
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Pine_Siskin_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2029363/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2029363
+Author: terathopius
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by terathopius (https://www.inaturalist.org/users/terathopius) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

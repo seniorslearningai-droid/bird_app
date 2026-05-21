@@ -1,0 +1,32 @@
+Eastern Towhee (Pipilo erythrophthalmus) - Photo Licenses
+=========================================================
+
+Photo 1 (Eastern_Towhee.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/114992760/original.jpeg
+Source Page: https://www.inaturalist.org/observations/70706284
+Author: carrieseltzer (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by carrieseltzer on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Eastern_Towhee_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/465541233/original.jpeg
+Source Page: https://www.inaturalist.org/observations/259350852
+Author: fernandoarvizu19 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Eastern_Towhee_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/578388369/original.jpeg
+Source Page: https://www.inaturalist.org/observations/319934931
+Author: davidfbird (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation

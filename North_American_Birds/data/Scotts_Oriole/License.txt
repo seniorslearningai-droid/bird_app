@@ -1,0 +1,33 @@
+Scott's Oriole - Photo Licenses
+===============================
+
+Photo 1 (Scotts_Oriole.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/252287618/original.jpeg
+Source Page: https://www.inaturalist.org/photos/252287618
+Author: blevine
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blevine (https://www.inaturalist.org/users/blevine) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Scotts_Oriole_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/403961581/original.jpeg
+Source Page: https://www.inaturalist.org/photos/403961581
+Author: tereso_hernandez
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by tereso_hernandez (https://www.inaturalist.org/users/tereso_hernandez) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Scotts_Oriole_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/586998933/original.jpeg
+Source Page: https://www.inaturalist.org/photos/586998933
+Author: kclarksdnhmorg
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kclarksdnhmorg (https://www.inaturalist.org/users/kclarksdnhmorg) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

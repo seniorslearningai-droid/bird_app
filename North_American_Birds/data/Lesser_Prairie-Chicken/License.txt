@@ -1,0 +1,32 @@
+Lesser Prairie-Chicken (Tympanuchus pallidicinctus) - Photo Licenses
+====================================================================
+
+Photo 1 (Lesser_Prairie-Chicken.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/34330272/original.jpeg
+Source Page: https://www.inaturalist.org/photos/34330272
+Author: rynaturalist
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by rynaturalist, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Lesser_Prairie-Chicken_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/34330719/original.jpeg
+Source Page: https://www.inaturalist.org/photos/34330719
+Author: rynaturalist
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by rynaturalist, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Lesser_Prairie-Chicken_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/651056932/original.jpeg
+Source Page: https://www.inaturalist.org/photos/651056932
+Author: bobw75
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by bobw75, licensed under CC BY
+Notes: iNaturalist observation

@@ -1,0 +1,29 @@
+Bewick's Wren (Thryomanes bewickii) - Photo Licenses
+======================================================
+
+Photo 1 (Bewicks_Wren.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/178766858/original.jpeg
+Source Page: https://www.inaturalist.org/observations/106419781
+Author: littlelegofan via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: littlelegofan, iNaturalist, CC BY 4.0
+
+Photo 2 (Bewicks_Wren_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/178766863/original.jpeg
+Source Page: https://www.inaturalist.org/observations/106419781
+Author: littlelegofan via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: littlelegofan, iNaturalist, CC BY 4.0
+
+Photo 3 (Bewicks_Wren_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/178766872/original.jpeg
+Source Page: https://www.inaturalist.org/observations/106419781
+Author: littlelegofan via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: littlelegofan, iNaturalist, CC BY 4.0

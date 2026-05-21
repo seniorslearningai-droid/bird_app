@@ -1,0 +1,32 @@
+Plumbeous Vireo (Vireo plumbeus) - Photo Licenses
+=================================================
+
+Photo 1 (Plumbeous_Vireo.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/92019639/original.jpeg
+Source Page: https://www.inaturalist.org/photos/92019639
+Author: christoph_moning
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by christoph_moning, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Plumbeous_Vireo_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/92019666/original.jpeg
+Source Page: https://www.inaturalist.org/photos/92019666
+Author: christoph_moning
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by christoph_moning, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Plumbeous_Vireo_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/92019693/original.jpeg
+Source Page: https://www.inaturalist.org/photos/92019693
+Author: christoph_moning
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by christoph_moning, licensed under CC BY
+Notes: iNaturalist observation

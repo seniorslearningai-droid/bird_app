@@ -1,0 +1,33 @@
+Killdeer - Photo Licenses
+=========================
+
+Photo 1 (Killdeer.jpg)
+----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/370022156/original.jpeg
+Source Page: https://www.inaturalist.org/photos/370022156
+Author: mattyfelp
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mattyfelp (https://www.inaturalist.org/users/mattyfelp) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Killdeer_2.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/133500791/original.jpeg
+Source Page: https://www.inaturalist.org/photos/133500791
+Author: tb_wildlife_photography
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by tb_wildlife_photography (https://www.inaturalist.org/users/tb_wildlife_photography) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Killdeer_3.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/67100327/original.jpeg
+Source Page: https://www.inaturalist.org/photos/67100327
+Author: sambiology
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by sambiology (https://www.inaturalist.org/users/sambiology) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

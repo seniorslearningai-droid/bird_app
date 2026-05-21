@@ -1,0 +1,33 @@
+Rufous Hummingbird - Photo Licenses
+===================================
+
+Photo 1 (Rufous_Hummingbird.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/603413538/original.jpeg
+Source Page: https://www.inaturalist.org/photos/603413538
+Author: amberenergy
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by amberenergy (https://www.inaturalist.org/users/amberenergy) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Rufous_Hummingbird_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/525834232/original.jpeg
+Source Page: https://www.inaturalist.org/photos/525834232
+Author: stephbrulot
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Rufous_Hummingbird_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/478519206/original.jpeg
+Source Page: https://www.inaturalist.org/photos/478519206
+Author: simonele
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by simonele (https://www.inaturalist.org/users/simonele) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

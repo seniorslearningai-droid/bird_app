@@ -1,0 +1,33 @@
+Gadwall - Photo Licenses
+========================
+
+Photo 1 (Gadwall.jpg)
+---------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/629535020/original.jpeg
+Source Page: https://www.inaturalist.org/photos/629535020
+Author: valerkov
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by valerkov (https://www.inaturalist.org/users/valerkov) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Gadwall_2.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/116092130/original.jpeg
+Source Page: https://www.inaturalist.org/photos/116092130
+Author: lukek
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by lukek (https://www.inaturalist.org/users/lukek) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Gadwall_3.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/465778475/original.jpeg
+Source Page: https://www.inaturalist.org/photos/465778475
+Author: chrismcv
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

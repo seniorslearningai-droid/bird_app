@@ -1,0 +1,32 @@
+White-winged Crossbill (Loxia leucoptera) - Photo Licenses
+==========================================================
+
+Photo 1 (White-winged_Crossbill.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/67624690/original.jpeg
+Source Page: https://www.inaturalist.org/photos/67624690
+Author: naturalist1691
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by naturalist1691, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (White-winged_Crossbill_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/67624712/original.jpeg
+Source Page: https://www.inaturalist.org/photos/67624712
+Author: naturalist1691
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by naturalist1691, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (White-winged_Crossbill_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/67624735/original.jpeg
+Source Page: https://www.inaturalist.org/photos/67624735
+Author: naturalist1691
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by naturalist1691, licensed under CC BY
+Notes: iNaturalist observation

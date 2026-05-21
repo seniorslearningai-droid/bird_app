@@ -1,0 +1,32 @@
+Bufflehead (Bucephala albeola) - Photo Licenses
+===============================================
+
+Photo 1 (Bufflehead.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/254507370/original.jpeg
+Source Page: https://www.inaturalist.org/observations/147860686
+Author: kalvinchan (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 2 (Bufflehead_2.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/340856726/original.jpeg
+Source Page: https://www.inaturalist.org/observations/193980549
+Author: littlelegofan (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 3 (Bufflehead_3.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/107047436/original.jpeg
+Source Page: https://www.inaturalist.org/observations/66406611
+Author: eckhartdpe (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)

@@ -1,0 +1,33 @@
+Least Sandpiper - Photo Licenses
+================================
+
+Photo 1 (Least_Sandpiper.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/170452083/original.jpeg
+Source Page: https://www.inaturalist.org/photos/170452083
+Author: blevine
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blevine (https://www.inaturalist.org/users/blevine) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Least_Sandpiper_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/150059586/original.jpeg
+Source Page: https://www.inaturalist.org/photos/150059586
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Least_Sandpiper_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/249160761/original.jpeg
+Source Page: https://www.inaturalist.org/photos/249160761
+Author: pholroyd
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by pholroyd (https://www.inaturalist.org/users/pholroyd) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

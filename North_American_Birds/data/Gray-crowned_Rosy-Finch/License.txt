@@ -1,0 +1,33 @@
+Gray-crowned Rosy-Finch - Photo Licenses
+========================================
+
+Photo 1 (Gray-crowned_Rosy-Finch.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/334881404/original.jpeg
+Source Page: https://www.inaturalist.org/photos/334881404
+Author: sprcrkwild
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by sprcrkwild (https://www.inaturalist.org/users/sprcrkwild) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Gray-crowned_Rosy-Finch_2.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/346850089/original.jpeg
+Source Page: https://www.inaturalist.org/photos/346850089
+Author: spencer3616
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by spencer3616 (https://www.inaturalist.org/users/spencer3616) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Gray-crowned_Rosy-Finch_3.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176770760/original.jpeg
+Source Page: https://www.inaturalist.org/photos/176770760
+Author: tomkennedy
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by tomkennedy (https://www.inaturalist.org/users/tomkennedy) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,33 @@
+Mountain Plover - Photo Licenses
+================================
+
+Photo 1 (Mountain_Plover.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/269635300/original.jpeg
+Source Page: https://www.inaturalist.org/photos/269635300
+Author: pineten
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by pineten (https://www.inaturalist.org/users/pineten) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Mountain_Plover_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/303898289/original.jpeg
+Source Page: https://www.inaturalist.org/photos/303898289
+Author: nlblock
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by nlblock (https://www.inaturalist.org/users/nlblock) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Mountain_Plover_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/609160022/original.jpeg
+Source Page: https://www.inaturalist.org/photos/609160022
+Author: chrisconard
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by chrisconard (https://www.inaturalist.org/users/chrisconard) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

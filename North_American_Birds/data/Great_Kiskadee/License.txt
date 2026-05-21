@@ -1,0 +1,33 @@
+Great Kiskadee - Photo Licenses
+===============================
+
+Photo 1 (Great_Kiskadee.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/138182686/original.jpeg
+Source Page: https://www.inaturalist.org/photos/138182686
+Author: krotalo25
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by krotalo25 (https://www.inaturalist.org/users/krotalo25) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Great_Kiskadee_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/237174984/original.jpeg
+Source Page: https://www.inaturalist.org/photos/237174984
+Author: mayela_y_ramon
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by mayela_y_ramon (https://www.inaturalist.org/users/mayela_y_ramon) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Great_Kiskadee_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/27795198/original.jpeg
+Source Page: https://www.inaturalist.org/photos/27795198
+Author: michelotto
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by michelotto (https://www.inaturalist.org/users/michelotto) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+

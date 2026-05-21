@@ -1,0 +1,30 @@
+Surf Scoter (Melanitta perspicillata) - Photo Licenses
+======================================================
+
+NOTE: Only 1 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Surf_Scoter.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/342408136/original.jpeg
+Source Page: https://www.inaturalist.org/photos/342408136
+Author: fernandoarvizu19
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Surf_Scoter_2.jpg)
+---------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/4/42/053_-_SURF_SCOTER_%2801-07-2015%29_morro_bay%2C_slo_co%2C_ca_-04_%2816134602549%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:053_-_SURF_SCOTER_(01-07-2015)_morro_bay,_slo_co,_ca_-04_(16134602549).jpg
+Author: Alan Schmierer
+License: CC0 1.0 (Public Domain)
+Commercial Use: YES
+
+Photo 3 (Surf_Scoter_3.jpg)
+---------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/3/3a/053_-_SURF_SCOTER_%2811-20-07%29_male%2C_sloco%2C_ca_%282%29_%288716761870%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:053_-_SURF_SCOTER_(11-20-07)_male,_sloco,_ca_(2)_(8716761870).jpg
+Author: Alan Schmierer
+License: CC0 1.0 (Public Domain)
+Commercial Use: YES

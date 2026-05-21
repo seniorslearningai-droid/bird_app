@@ -1,0 +1,32 @@
+Fulvous Whistling-Duck (Dendrocygna bicolor) - Photo Licenses
+=============================================================
+
+Photo 1 (Fulvous_Whistling-Duck.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/373601096/original.jpeg
+Source Page: https://www.inaturalist.org/photos/373601096
+Author: ricardo_betancourt (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ricardo_betancourt on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Fulvous_Whistling-Duck_2.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/151609456/original.jpeg
+Source Page: https://www.inaturalist.org/photos/151609456
+Author: alexmor (iNaturalist)
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA allows commercial use with attribution and share-alike
+Attribution: Photo by alexmor on iNaturalist, CC BY-SA 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Fulvous_Whistling-Duck_3.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/395259257/original.jpeg
+Source Page: https://www.inaturalist.org/photos/395259257
+Author: amantedarmanin (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by amantedarmanin on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

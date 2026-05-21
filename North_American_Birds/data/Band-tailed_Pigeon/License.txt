@@ -1,0 +1,29 @@
+Band-tailed Pigeon (Patagioenas fasciata) - Photo Licenses
+===========================================================
+
+Photo 1 (Band-tailed_Pigeon.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/7029758/original.jpg
+Source Page: https://www.inaturalist.org/observations/5676092
+Author: kjhurme via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: kjhurme, iNaturalist, CC BY 4.0
+
+Photo 2 (Band-tailed_Pigeon_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/327083923/original.jpeg
+Source Page: https://www.inaturalist.org/observations/187102231
+Author: blazeclaw via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: blazeclaw, iNaturalist, CC BY 4.0
+
+Photo 3 (Band-tailed_Pigeon_3.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/193254986/original.jpeg
+Source Page: https://www.inaturalist.org/observations/114444175
+Author: quilicotriste via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: quilicotriste, iNaturalist, CC BY 4.0

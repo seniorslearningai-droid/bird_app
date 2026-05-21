@@ -1,0 +1,33 @@
+Green Heron - Photo Licenses
+============================
+
+Photo 1 (Green_Heron.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/96387577/original.jpeg
+Source Page: https://www.inaturalist.org/photos/96387577
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Green_Heron_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/222740594/original.jpeg
+Source Page: https://www.inaturalist.org/photos/222740594
+Author: gatorhawk
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by gatorhawk (https://www.inaturalist.org/users/gatorhawk) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Green_Heron_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/429549758/original.jpeg
+Source Page: https://www.inaturalist.org/photos/429549758
+Author: sadawolk
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by sadawolk (https://www.inaturalist.org/users/sadawolk) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

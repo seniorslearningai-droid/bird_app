@@ -1,0 +1,29 @@
+Brown Pelican (Pelecanus occidentalis) - Photo Licenses
+=========================================================
+
+Photo 1 (Brown_Pelican.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/348929489/original.jpeg
+Source Page: https://www.inaturalist.org/observations/198025775
+Author: gaudettelaura via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: gaudettelaura, iNaturalist, CC BY 4.0
+
+Photo 2 (Brown_Pelican_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/175212698/original.jpg
+Source Page: https://www.inaturalist.org/observations/104552014
+Author: jamesmuehlner via iNaturalist
+License: CC BY-SA 4.0
+Commercial Use: YES
+Attribution: jamesmuehlner, iNaturalist, CC BY-SA 4.0
+
+Photo 3 (Brown_Pelican_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/51263273/original.jpg
+Source Page: https://www.inaturalist.org/observations/32673181
+Author: phylogenomics via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: phylogenomics, iNaturalist, CC BY 4.0

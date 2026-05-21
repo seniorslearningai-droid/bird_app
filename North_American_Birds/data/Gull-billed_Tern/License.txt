@@ -1,0 +1,33 @@
+Gull-billed Tern - Photo Licenses
+=================================
+
+Photo 1 (Gull-billed_Tern.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/76843341/original.jpeg
+Source Page: https://www.inaturalist.org/photos/76843341
+Author: yehoryatsiuk
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Gull-billed_Tern_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/479191344/original.jpeg
+Source Page: https://www.inaturalist.org/photos/479191344
+Author: amberenergy
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by amberenergy (https://www.inaturalist.org/users/amberenergy) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Gull-billed_Tern_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/396896552/original.jpeg
+Source Page: https://www.inaturalist.org/photos/396896552
+Author: invertebratist
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by invertebratist (https://www.inaturalist.org/users/invertebratist) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

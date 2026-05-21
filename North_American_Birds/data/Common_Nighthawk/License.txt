@@ -1,0 +1,32 @@
+Common Nighthawk (Chordeiles minor) - Photo Licenses
+====================================================
+
+Photo 1 (Common_Nighthawk.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/471224081/original.jpeg
+Source Page: https://www.inaturalist.org/observations/262292375
+Author: owenstrickland (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by owenstrickland on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Common_Nighthawk_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/420796358/original.jpeg
+Source Page: https://www.inaturalist.org/observations/236522088
+Author: kszafrajda (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kszafrajda on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Common_Nighthawk_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/14987767/original.jpeg
+Source Page: https://www.inaturalist.org/observations/10727149
+Author: lygodium63 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by lygodium63 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

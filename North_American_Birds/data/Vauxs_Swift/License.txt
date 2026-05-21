@@ -1,0 +1,29 @@
+Vaux's Swift (Chaetura vauxi) - Photo Licenses
+===================================================
+
+Photo 1 (Vauxs_Swift.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/e/e6/Chaetura_vauxi_270050460.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Chaetura_vauxi_270050460.jpg
+Author: Wendy McCrady
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use
+Attribution: Wendy McCrady
+
+Photo 2 (Vauxs_Swift_2.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/0/01/Chaetura_vauxi_355842614.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Chaetura_vauxi_355842614.jpg
+Author: Adam Jackson
+License: CC0
+Commercial Use: YES - CC0 allows commercial use
+Attribution: None required
+
+Photo 3 (Vauxs_Swift_3.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/0/07/Dead_Chaetura_vauxi_318498609.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Dead_Chaetura_vauxi_318498609.jpg
+Author: John Powers
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use
+Attribution: John Powers

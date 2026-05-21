@@ -1,0 +1,32 @@
+Ferruginous Hawk (Buteo regalis) - Photo Licenses
+=================================================
+
+Photo 1 (Ferruginous_Hawk.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/354940279/original.jpeg
+Source Page: https://www.inaturalist.org/observations/198945103
+Author: inkasaur (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by inkasaur on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Ferruginous_Hawk_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/458755260/original.jpeg
+Source Page: https://www.inaturalist.org/observations/255935733
+Author: madily (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by madily on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Ferruginous_Hawk_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/606346060/original.jpeg
+Source Page: https://www.inaturalist.org/observations/333918517
+Author: inkasaur (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by inkasaur on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

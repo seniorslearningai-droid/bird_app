@@ -1,0 +1,33 @@
+Red-necked Phalarope - Photo Licenses
+=====================================
+
+Photo 1 (Red-necked_Phalarope.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/306699438/original.jpeg
+Source Page: https://www.inaturalist.org/photos/306699438
+Author: christoph_moning
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by christoph_moning (https://www.inaturalist.org/users/christoph_moning) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Red-necked_Phalarope_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/306698976/original.jpeg
+Source Page: https://www.inaturalist.org/photos/306698976
+Author: christoph_moning
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by christoph_moning (https://www.inaturalist.org/users/christoph_moning) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Red-necked_Phalarope_3.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/550372040/original.jpeg
+Source Page: https://www.inaturalist.org/photos/550372040
+Author: hhulsberg
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

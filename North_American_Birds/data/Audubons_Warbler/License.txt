@@ -1,0 +1,32 @@
+Audubon's Warbler (Setophaga coronata auduboni) - Photo Licenses
+================================================================
+
+Photo 1 (Audubon_Warbler.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/252031775/original.jpeg
+Source Page: https://www.inaturalist.org/photos/252031775
+Author: phylogenomics (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by phylogenomics on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Audubon_Warbler_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/252031786/original.jpeg
+Source Page: https://www.inaturalist.org/photos/252031786
+Author: phylogenomics (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by phylogenomics on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Audubon_Warbler_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/602123141/original.jpeg
+Source Page: https://www.inaturalist.org/photos/602123141
+Author: tommy_andriollo (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tommy_andriollo on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

@@ -1,0 +1,32 @@
+Western Tanager (Piranga ludoviciana) - Photo Licenses
+======================================================
+
+Photo 1 (Western_Tanager.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/106474565/original.jpeg
+Source Page: https://www.inaturalist.org/photos/106474565
+Author: deejay
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by deejay, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 2 (Western_Tanager_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/106474587/original.jpeg
+Source Page: https://www.inaturalist.org/photos/106474587
+Author: deejay
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by deejay, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 3 (Western_Tanager_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/106474601/original.jpeg
+Source Page: https://www.inaturalist.org/photos/106474601
+Author: deejay
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by deejay, licensed under CC0
+Notes: iNaturalist observation

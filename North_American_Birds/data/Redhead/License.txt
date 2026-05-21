@@ -1,0 +1,33 @@
+Redhead - Photo Licenses
+========================
+
+Photo 1 (Redhead.jpg)
+---------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/336791322/original.jpeg
+Source Page: https://www.inaturalist.org/photos/336791322
+Author: hrodulf
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by hrodulf (https://www.inaturalist.org/users/hrodulf) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Redhead_2.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/151795611/original.jpeg
+Source Page: https://www.inaturalist.org/photos/151795611
+Author: ricardelremate
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ricardelremate (https://www.inaturalist.org/users/ricardelremate) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Redhead_3.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/329773334/original.jpeg
+Source Page: https://www.inaturalist.org/photos/329773334
+Author: francisco3_
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by francisco3_ (https://www.inaturalist.org/users/francisco3_) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

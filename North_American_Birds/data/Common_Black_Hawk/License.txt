@@ -1,0 +1,32 @@
+Common Black-Hawk (Buteogallus anthracinus) - Photo Licenses
+============================================================
+
+Photo 1 (Common_Black_Hawk.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/251601859/original.jpeg
+Source Page: https://www.inaturalist.org/photos/251601859
+Author: maria1890 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by maria1890 on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Common_Black_Hawk_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/251601871/original.jpeg
+Source Page: https://www.inaturalist.org/photos/251601871
+Author: maria1890 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by maria1890 on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Common_Black_Hawk_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/251601883/original.jpeg
+Source Page: https://www.inaturalist.org/photos/251601883
+Author: maria1890 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by maria1890 on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

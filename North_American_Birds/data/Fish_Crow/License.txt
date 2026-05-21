@@ -1,0 +1,32 @@
+Fish Crow (Corvus ossifragus) - Photo Licenses
+==============================================
+
+Photo 1 (Fish_Crow.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/112004492/original.jpeg
+Source Page: https://www.inaturalist.org/observations/69076127
+Author: lauralovesbirds (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by lauralovesbirds on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Fish_Crow_2.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/396618690/original.jpeg
+Source Page: https://www.inaturalist.org/observations/223817371
+Author: lizardking (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation
+
+Photo 3 (Fish_Crow_3.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/486758744/original.jpeg
+Source Page: https://www.inaturalist.org/observations/270650124
+Author: herons (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by herons on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

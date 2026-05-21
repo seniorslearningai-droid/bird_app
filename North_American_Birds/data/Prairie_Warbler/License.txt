@@ -1,0 +1,33 @@
+Prairie Warbler - Photo Licenses
+================================
+
+Photo 1 (Prairie_Warbler.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/4836789/original.jpeg
+Source Page: https://www.inaturalist.org/photos/4836789
+Author: fynkynd
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by fynkynd (https://www.inaturalist.org/users/fynkynd) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Prairie_Warbler_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/133777612/original.jpeg
+Source Page: https://www.inaturalist.org/photos/133777612
+Author: mattyfelp
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mattyfelp (https://www.inaturalist.org/users/mattyfelp) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Prairie_Warbler_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/98916447/original.jpeg
+Source Page: https://www.inaturalist.org/photos/98916447
+Author: cloaca_enthusiast
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,33 @@
+Green-winged Teal - Photo Licenses
+==================================
+
+Photo 1 (Green-winged_Teal.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/118585036/original.jpeg
+Source Page: https://www.inaturalist.org/photos/118585036
+Author: henriquep
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by henriquep (https://www.inaturalist.org/users/henriquep) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Green-winged_Teal_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/364941358/original.jpeg
+Source Page: https://www.inaturalist.org/photos/364941358
+Author: el_neotropico
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by el_neotropico (https://www.inaturalist.org/users/el_neotropico) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Green-winged_Teal_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/115789822/original.jpeg
+Source Page: https://www.inaturalist.org/photos/115789822
+Author: aimeeeasterling
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by aimeeeasterling (https://www.inaturalist.org/users/aimeeeasterling) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

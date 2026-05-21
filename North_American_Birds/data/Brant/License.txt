@@ -1,0 +1,29 @@
+Brant (Branta bernicla) - Photo Licenses
+=========================================
+
+Photo 1 (Brant.jpg)
+---------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/211693103/original.jpg
+Source Page: https://www.inaturalist.org/observations/124866348
+Author: aleksey_loginov via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: aleksey_loginov, iNaturalist, CC BY 4.0
+
+Photo 2 (Brant_2.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/342408174/original.jpg
+Source Page: https://www.inaturalist.org/observations/194747561
+Author: fernandoarvizu19 via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: fernandoarvizu19, iNaturalist, CC BY 4.0
+
+Photo 3 (Brant_3.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/259694003/original.jpg
+Source Page: https://www.inaturalist.org/observations/150587983
+Author: fernandoarvizu19 via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: fernandoarvizu19, iNaturalist, CC BY 4.0

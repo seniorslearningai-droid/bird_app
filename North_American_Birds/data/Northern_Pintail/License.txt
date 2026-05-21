@@ -1,0 +1,33 @@
+Northern Pintail - Photo Licenses
+=================================
+
+Photo 1 (Northern_Pintail.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/26297743/original.jpeg
+Source Page: https://www.inaturalist.org/photos/26297743
+Author: owenstrickland
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by owenstrickland (https://www.inaturalist.org/users/owenstrickland) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Northern_Pintail_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/481792431/original.jpeg
+Source Page: https://www.inaturalist.org/photos/481792431
+Author: anonymous_ebirder
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by anonymous_ebirder (https://www.inaturalist.org/users/anonymous_ebirder) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Northern_Pintail_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/471042179/original.jpeg
+Source Page: https://www.inaturalist.org/photos/471042179
+Author: diegodgd
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by diegodgd (https://www.inaturalist.org/users/diegodgd) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

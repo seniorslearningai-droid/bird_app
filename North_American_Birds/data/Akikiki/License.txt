@@ -1,0 +1,32 @@
+Akikiki (Oreomystis bairdi) - Photo Licenses
+=============================================
+
+Photo 1 (Akikiki.jpg)
+----------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/2/24/Oreomystis_bairdi.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Oreomystis_bairdi.jpg
+Author: Carter Atkinson, USGS (U.S. Geological Survey)
+License: Public Domain
+Commercial Use: YES - U.S. government work (USGS), public domain under federal copyright law
+Attribution: Photographer: Carter Atkinson, USGS
+Notes: Taken 13 May 2011. Original source: USGS photo gallery.
+
+Photo 2 (Akikiki_2.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/142822742/original.jpeg
+Source Page: https://www.inaturalist.org/observations/86672586
+Author: Loren Cassin Sackett (sacketlc) via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: Loren Cassin Sackett, iNaturalist, CC BY 4.0
+Notes: Observed February 2016, Kauai, Hawaii. Research Grade observation.
+
+Photo 3 (Akikiki_3.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/142822762/original.jpeg
+Source Page: https://www.inaturalist.org/observations/86672586
+Author: Loren Cassin Sackett (sacketlc) via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: Loren Cassin Sackett, iNaturalist, CC BY 4.0
+Notes: Observed February 2016, Kauai, Hawaii. Research Grade observation. Second photo from same observation.

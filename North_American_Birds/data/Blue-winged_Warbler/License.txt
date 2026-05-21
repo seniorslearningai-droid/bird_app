@@ -1,0 +1,29 @@
+Blue-winged Warbler (Vermivora cyanoptera) - Photo Licenses
+=============================================================
+
+Photo 1 (Blue-winged_Warbler.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/282637714/original.jpg
+Source Page: https://www.inaturalist.org/observations/163414657
+Author: davidfbird via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)
+
+Photo 2 (Blue-winged_Warbler_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/282639111/original.jpg
+Source Page: https://www.inaturalist.org/observations/163414657
+Author: davidfbird via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)
+
+Photo 3 (Blue-winged_Warbler_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/282639113/original.jpg
+Source Page: https://www.inaturalist.org/observations/163414657
+Author: davidfbird via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)

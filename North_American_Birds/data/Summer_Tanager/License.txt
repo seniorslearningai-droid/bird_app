@@ -1,0 +1,33 @@
+Summer Tanager (Piranga rubra) - Photo Licenses
+===============================================
+
+NOTE: Only 2 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Summer_Tanager.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/427179435/original.jpeg
+Source Page: https://www.inaturalist.org/photos/427179435
+Author: zr217
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by zr217, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Summer_Tanager_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/427179403/original.jpeg
+Source Page: https://www.inaturalist.org/photos/427179403
+Author: zr217
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by zr217, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Summer_Tanager_3.jpg)
+------------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/e/ea/1_summer_tanager_bougainvillea_4.12.25_DSC_7205-topaz-rawdenoise.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:1_summer_tanager_bougainvillea_4.12.25_DSC_7205-topaz-rawdenoise.jpg
+Author: Laura Wolf (lwolfartist)
+License: CC BY 2.0
+Commercial Use: YES
+Attribution: Photo by Laura Wolf, CC BY 2.0

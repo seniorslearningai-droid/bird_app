@@ -1,0 +1,32 @@
+Common Ground-Dove (Columbina passerina) - Photo Licenses
+=========================================================
+
+Photo 1 (Common_Ground-Dove.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/239705183/original.jpeg
+Source Page: https://www.inaturalist.org/observations/140075021
+Author: fernandoarvizu19 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Common_Ground-Dove_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/73372417/original.jpeg
+Source Page: https://www.inaturalist.org/observations/46263891
+Author: alexmor (iNaturalist)
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA allows commercial use with attribution
+Attribution: Photo by alexmor on iNaturalist, CC BY-SA 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Common_Ground-Dove_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/607581929/original.jpeg
+Source Page: https://www.inaturalist.org/observations/334556493
+Author: wesgapp (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by wesgapp on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

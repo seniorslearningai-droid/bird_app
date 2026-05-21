@@ -1,0 +1,33 @@
+Lucy's Warbler - Photo Licenses
+===============================
+
+Photo 1 (Lucys_Warbler.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/438053126/original.jpeg
+Source Page: https://www.inaturalist.org/photos/438053126
+Author: milliebasden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by milliebasden (https://www.inaturalist.org/users/milliebasden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Lucys_Warbler_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/513501546/original.jpeg
+Source Page: https://www.inaturalist.org/photos/513501546
+Author: johnrosford
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by johnrosford (https://www.inaturalist.org/users/johnrosford) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Lucys_Warbler_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/277368919/original.jpeg
+Source Page: https://www.inaturalist.org/photos/277368919
+Author: stellarlimpkin
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by stellarlimpkin (https://www.inaturalist.org/users/stellarlimpkin) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

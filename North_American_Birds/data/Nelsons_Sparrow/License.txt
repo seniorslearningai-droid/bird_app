@@ -1,0 +1,33 @@
+Nelson's Sparrow - Photo Licenses
+=================================
+
+Photo 1 (Nelsons_Sparrow.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/459564553/original.jpeg
+Source Page: https://www.inaturalist.org/photos/459564553
+Author: brandonjjohnson
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by brandonjjohnson (https://www.inaturalist.org/users/brandonjjohnson) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Nelsons_Sparrow_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2684975/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2684975
+Author: chuckdavis
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by chuckdavis (https://www.inaturalist.org/users/chuckdavis) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Nelsons_Sparrow_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/5247605/original.jpeg
+Source Page: https://www.inaturalist.org/photos/5247605
+Author: keimwj
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by keimwj (https://www.inaturalist.org/users/keimwj) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

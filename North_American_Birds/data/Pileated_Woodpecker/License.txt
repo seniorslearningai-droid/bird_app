@@ -1,0 +1,32 @@
+Pileated Woodpecker (Dryocopus pileatus) - Photo Licenses
+=========================================================
+
+Photo 1 (Pileated_Woodpecker.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/32126809/original.jpeg
+Source Page: https://www.inaturalist.org/photos/32126809
+Author: tkoffel
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tkoffel, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Pileated_Woodpecker_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/32127081/original.jpeg
+Source Page: https://www.inaturalist.org/photos/32127081
+Author: tkoffel
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tkoffel, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Pileated_Woodpecker_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/32127163/original.jpeg
+Source Page: https://www.inaturalist.org/photos/32127163
+Author: tkoffel
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tkoffel, licensed under CC BY
+Notes: iNaturalist observation

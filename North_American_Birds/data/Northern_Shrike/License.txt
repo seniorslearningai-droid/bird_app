@@ -1,0 +1,33 @@
+Northern Shrike - Photo Licenses
+================================
+
+Photo 1 (Northern_Shrike.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/610323952/original.jpeg
+Source Page: https://www.inaturalist.org/photos/610323952
+Author: colejwolf
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by colejwolf (https://www.inaturalist.org/users/colejwolf) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Northern_Shrike_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/100961447/original.jpeg
+Source Page: https://www.inaturalist.org/photos/100961447
+Author: colejwolf
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by colejwolf (https://www.inaturalist.org/users/colejwolf) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Northern_Shrike_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/268593348/original.jpeg
+Source Page: https://www.inaturalist.org/photos/268593348
+Author: seanvanderluit
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by seanvanderluit (https://www.inaturalist.org/users/seanvanderluit) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

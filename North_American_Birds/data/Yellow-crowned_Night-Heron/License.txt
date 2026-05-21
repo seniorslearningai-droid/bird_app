@@ -1,0 +1,32 @@
+Yellow-crowned Night-Heron (Nyctanassa violacea) - Photo Licenses
+=================================================================
+
+Photo 1 (Yellow-crowned_Night-Heron.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/52570505/original.jpeg
+Source Page: https://www.inaturalist.org/photos/52570505
+Author: spyle64
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by spyle64, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Yellow-crowned_Night-Heron_2.jpg)
+------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/68491900/original.jpeg
+Source Page: https://www.inaturalist.org/photos/68491900
+Author: natashahaggard
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by natashahaggard, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Yellow-crowned_Night-Heron_3.jpg)
+------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/569810323/original.jpeg
+Source Page: https://www.inaturalist.org/photos/569810323
+Author: wren-falcon
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by wren-falcon, licensed under CC BY
+Notes: iNaturalist observation

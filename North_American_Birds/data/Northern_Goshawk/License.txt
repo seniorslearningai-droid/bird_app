@@ -1,0 +1,33 @@
+Northern Goshawk - Photo Licenses
+=================================
+
+Photo 1 (Northern_Goshawk.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/341274444/original.jpeg
+Source Page: https://www.inaturalist.org/photos/341274444
+Author: muir
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by muir (https://www.inaturalist.org/users/muir) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Northern_Goshawk_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2714994/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2714994
+Author: pintail
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by pintail (https://www.inaturalist.org/users/pintail) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Northern_Goshawk_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/570093130/original.jpeg
+Source Page: https://www.inaturalist.org/photos/570093130
+Author: fyodorp
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by fyodorp (https://www.inaturalist.org/users/fyodorp) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

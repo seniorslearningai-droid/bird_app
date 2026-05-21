@@ -1,0 +1,33 @@
+Ovenbird - Photo Licenses
+=========================
+
+Photo 1 (Ovenbird.jpg)
+----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/99908278/original.jpeg
+Source Page: https://www.inaturalist.org/photos/99908278
+Author: leo_lagos
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by leo_lagos (https://www.inaturalist.org/users/leo_lagos) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Ovenbird_2.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/273696889/original.jpeg
+Source Page: https://www.inaturalist.org/photos/273696889
+Author: pablohcapovilla
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by pablohcapovilla (https://www.inaturalist.org/users/pablohcapovilla) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Ovenbird_3.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/331524592/original.jpeg
+Source Page: https://www.inaturalist.org/photos/331524592
+Author: gustavopuente
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

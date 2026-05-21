@@ -1,0 +1,29 @@
+Baird's Sparrow (Centronyx bairdii) - Photo Licenses
+===================================================
+
+Photo 1 (Bairds_Sparrow.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/253001458/original.jpeg
+Source Page: https://www.inaturalist.org/observations/147071289
+Author: mpoinat
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use
+Attribution: mpoinat
+
+Photo 2 (Bairds_Sparrow_2.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/253001468/original.jpeg
+Source Page: https://www.inaturalist.org/observations/147071289
+Author: mpoinat
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use
+Attribution: mpoinat
+
+Photo 3 (Bairds_Sparrow_3.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/430324885/original.jpeg
+Source Page: https://www.inaturalist.org/observations/241449063
+Author: kodiakgarden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use
+Attribution: kodiakgarden

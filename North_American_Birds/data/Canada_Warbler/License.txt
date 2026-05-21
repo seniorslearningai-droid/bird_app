@@ -1,0 +1,32 @@
+Canada Warbler (Cardellina canadensis) - Photo Licenses
+=======================================================
+
+Photo 1 (Canada_Warbler.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/135286276/original.jpeg
+Source Page: https://www.inaturalist.org/observations/82429714
+Author: mattyfelp (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 2 (Canada_Warbler_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/614870575/original.jpeg
+Source Page: https://www.inaturalist.org/observations/338146595
+Author: andrewlai530 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 3 (Canada_Warbler_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/342001267/original.jpeg
+Source Page: https://www.inaturalist.org/observations/194546701
+Author: rawcomposition (iNaturalist)
+License: CC0 1.0 Universal (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required
+Notes: Downloaded from iNaturalist (inaturalist.org)

@@ -1,0 +1,32 @@
+Eastern Phoebe (Sayornis phoebe) - Photo Licenses
+=================================================
+
+Photo 1 (Eastern_Phoebe.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176518584/original.jpeg
+Source Page: https://www.inaturalist.org/observations/105233020
+Author: seanvanderluit (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by seanvanderluit on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Eastern_Phoebe_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/11186316/original.jpeg
+Source Page: https://www.inaturalist.org/observations/8406388
+Author: abookb (iNaturalist)
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA allows commercial use with attribution
+Attribution: Photo by abookb on iNaturalist, CC BY-SA 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Eastern_Phoebe_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/98339126/original.jpeg
+Source Page: https://www.inaturalist.org/observations/61451269
+Author: phiditude (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by phiditude on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

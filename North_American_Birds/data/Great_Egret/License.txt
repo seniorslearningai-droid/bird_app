@@ -1,0 +1,33 @@
+Great Egret - Photo Licenses
+============================
+
+Photo 1 (Great_Egret.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176730273/original.jpeg
+Source Page: https://www.inaturalist.org/photos/176730273
+Author: ecovore
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ecovore (https://www.inaturalist.org/users/ecovore) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Great_Egret_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/493469366/original.jpeg
+Source Page: https://www.inaturalist.org/photos/493469366
+Author: william-harland
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by william-harland (https://www.inaturalist.org/users/william-harland) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Great_Egret_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/123196245/original.jpeg
+Source Page: https://www.inaturalist.org/photos/123196245
+Author: shivashenoy
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by shivashenoy (https://www.inaturalist.org/users/shivashenoy) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

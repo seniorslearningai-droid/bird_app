@@ -1,0 +1,33 @@
+Sage Thrasher - Photo Licenses
+==============================
+
+Photo 1 (Sage_Thrasher.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/333433761/original.jpeg
+Source Page: https://www.inaturalist.org/photos/333433761
+Author: pepe_gr
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by pepe_gr (https://www.inaturalist.org/users/pepe_gr) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Sage_Thrasher_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/350938112/original.jpeg
+Source Page: https://www.inaturalist.org/photos/350938112
+Author: radrat
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Sage_Thrasher_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/465981782/original.jpeg
+Source Page: https://www.inaturalist.org/photos/465981782
+Author: milliebasden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by milliebasden (https://www.inaturalist.org/users/milliebasden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

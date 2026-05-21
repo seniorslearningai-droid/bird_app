@@ -1,0 +1,32 @@
+Anna's Hummingbird (Calypte anna) - Photo Licenses
+====================================================
+
+Photo 1 (Annas_Hummingbird.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/58307395/original.jpeg
+Source Page: https://www.inaturalist.org/observations/36843492
+Author: jellyturtle via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: jellyturtle, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist.
+
+Photo 2 (Annas_Hummingbird_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/117315866/original.jpeg
+Source Page: https://www.inaturalist.org/observations/71999354
+Author: radrat via iNaturalist
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 places work in the public domain with no restrictions
+Attribution: No attribution required (CC0)
+Notes: Research grade observation on iNaturalist.
+
+Photo 3 (Annas_Hummingbird_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/448450499/original.jpeg
+Source Page: https://www.inaturalist.org/observations/250712213
+Author: rudyard via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: rudyard, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist.

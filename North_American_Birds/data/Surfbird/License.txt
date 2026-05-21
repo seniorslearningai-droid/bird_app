@@ -1,0 +1,32 @@
+Surfbird (Calidris virgata) - Photo Licenses
+============================================
+
+Photo 1 (Surfbird.jpg)
+----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/573585554/original.jpeg
+Source Page: https://www.inaturalist.org/photos/573585554
+Author: kalvinchan
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kalvinchan, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Surfbird_2.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/573585724/original.jpeg
+Source Page: https://www.inaturalist.org/photos/573585724
+Author: kalvinchan
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kalvinchan, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Surfbird_3.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/573586091/original.jpeg
+Source Page: https://www.inaturalist.org/photos/573586091
+Author: kalvinchan
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kalvinchan, licensed under CC BY
+Notes: iNaturalist observation

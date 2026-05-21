@@ -1,0 +1,31 @@
+Spotted Owl (Strix occidentalis) - Photo Licenses
+=================================================
+
+NOTE: Only 1 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Spotted_Owl.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2970421/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2970421
+Author: terathopius
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by terathopius, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Spotted_Owl_2.jpg)
+---------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/a/aa/California_spotted_owl%2C_2018_%2852716111935%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:California_spotted_owl,_2018_(52716111935).jpg
+Author: Rick Kuyper / USFWS Pacific Southwest Region
+License: Public Domain (U.S. Government work)
+Commercial Use: YES
+
+Photo 3 (Spotted_Owl_3.jpg)
+---------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/8/88/California_Spotted_Owl%2C_Stanislaus_National_Forest_%288427894580%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:California_Spotted_Owl,_Stanislaus_National_Forest_(8427894580).jpg
+Author: Pacific Southwest Region 5, USDA Forest Service
+License: Public Domain / CC BY 2.0
+Commercial Use: YES
+Attribution: Photo by USDA Forest Service, CC BY 2.0

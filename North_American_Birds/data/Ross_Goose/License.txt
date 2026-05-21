@@ -1,0 +1,32 @@
+Ross's Goose (Anser rossii) - Photo Licenses
+============================================
+
+Photo 1 (Ross_Goose.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/352667761/original.jpeg
+Source Page: https://www.inaturalist.org/photos/352667761
+Author: siwnaturalist
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by siwnaturalist, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Ross_Goose_2.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/352667773/original.jpeg
+Source Page: https://www.inaturalist.org/photos/352667773
+Author: siwnaturalist
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by siwnaturalist, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Ross_Goose_3.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/352667767/original.jpeg
+Source Page: https://www.inaturalist.org/photos/352667767
+Author: siwnaturalist
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by siwnaturalist, licensed under CC BY
+Notes: iNaturalist observation

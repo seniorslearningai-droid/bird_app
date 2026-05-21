@@ -1,0 +1,33 @@
+Hoary Redpoll - Photo Licenses
+==============================
+
+Photo 1 (Hoary_Redpoll.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/112107662/original.jpeg
+Source Page: https://www.inaturalist.org/photos/112107662
+Author: vladimirkharuk
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by vladimirkharuk (https://www.inaturalist.org/users/vladimirkharuk) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Hoary_Redpoll_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/114698453/original.jpeg
+Source Page: https://www.inaturalist.org/photos/114698453
+Author: ayatana_biophilium
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ayatana_biophilium (https://www.inaturalist.org/users/ayatana_biophilium) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Hoary_Redpoll_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/241747586/original.jpeg
+Source Page: https://www.inaturalist.org/photos/241747586
+Author: tcager
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

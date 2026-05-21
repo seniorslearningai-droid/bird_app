@@ -1,0 +1,32 @@
+Arctic Tern (Sterna paradisaea) - Photo Licenses
+=================================================
+
+Photo 1 (Arctic_Tern.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/437768/original.jpg
+Source Page: https://www.inaturalist.org/observations/351193
+Author: briangratwicke via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: briangratwicke, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist.
+
+Photo 2 (Arctic_Tern_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/417731161/original.jpeg
+Source Page: https://www.inaturalist.org/observations/234932679
+Author: afsarnayakkan via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: afsarnayakkan, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist.
+
+Photo 3 (Arctic_Tern_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/417731199/original.jpeg
+Source Page: https://www.inaturalist.org/observations/234932679
+Author: afsarnayakkan via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: afsarnayakkan, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist. Different photograph from the same observation as Photo 2.

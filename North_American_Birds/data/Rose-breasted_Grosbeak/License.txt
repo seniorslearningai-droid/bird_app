@@ -1,0 +1,33 @@
+Rose-breasted Grosbeak - Photo Licenses
+=======================================
+
+Photo 1 (Rose-breasted_Grosbeak.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/339455481/original.jpeg
+Source Page: https://www.inaturalist.org/photos/339455481
+Author: rawcomposition
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Rose-breasted_Grosbeak_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/196293848/original.jpeg
+Source Page: https://www.inaturalist.org/photos/196293848
+Author: wildreturn
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Rose-breasted_Grosbeak_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/339609024/original.jpeg
+Source Page: https://www.inaturalist.org/photos/339609024
+Author: rawcomposition
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

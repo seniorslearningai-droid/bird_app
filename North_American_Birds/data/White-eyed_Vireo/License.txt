@@ -1,0 +1,32 @@
+White-eyed Vireo (Vireo griseus) - Photo Licenses
+=================================================
+
+Photo 1 (White-eyed_Vireo.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/54157333/original.jpeg
+Source Page: https://www.inaturalist.org/photos/54157333
+Author: skitterbug
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by skitterbug, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (White-eyed_Vireo_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/272653025/original.jpeg
+Source Page: https://www.inaturalist.org/photos/272653025
+Author: codystricker
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by codystricker, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (White-eyed_Vireo_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/272653154/original.jpeg
+Source Page: https://www.inaturalist.org/photos/272653154
+Author: codystricker
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by codystricker, licensed under CC BY
+Notes: iNaturalist observation

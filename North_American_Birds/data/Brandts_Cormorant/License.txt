@@ -1,0 +1,29 @@
+Brandt's Cormorant (Urile penicillatus) - Photo Licenses
+==========================================================
+
+Photo 1 (Brandts_Cormorant.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/339608327/original.jpg
+Source Page: https://www.inaturalist.org/observations/193331758
+Author: rawcomposition via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)
+
+Photo 2 (Brandts_Cormorant_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/133517280/original.jpg
+Source Page: https://www.inaturalist.org/observations/81402237
+Author: chilipossum via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: chilipossum, iNaturalist, CC BY 4.0
+
+Photo 3 (Brandts_Cormorant_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/353068821/original.jpeg
+Source Page: https://www.inaturalist.org/observations/200149490
+Author: archer_birds via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: archer_birds, iNaturalist, CC BY 4.0

@@ -1,0 +1,33 @@
+Lark Bunting - Photo Licenses
+=============================
+
+Photo 1 (Lark_Bunting.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/108836200/original.jpeg
+Source Page: https://www.inaturalist.org/photos/108836200
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Lark_Bunting_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/488606210/original.jpeg
+Source Page: https://www.inaturalist.org/photos/488606210
+Author: radrat
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Lark_Bunting_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/108737096/original.jpeg
+Source Page: https://www.inaturalist.org/photos/108737096
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

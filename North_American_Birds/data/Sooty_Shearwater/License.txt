@@ -1,0 +1,32 @@
+Sooty Shearwater (Ardenna grisea) - Photo Licenses
+==================================================
+
+Photo 1 (Sooty_Shearwater.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/453525443/original.jpeg
+Source Page: https://www.inaturalist.org/photos/453525443
+Author: ingvildriska
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ingvildriska, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Sooty_Shearwater_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/3144734/original.jpeg
+Source Page: https://www.inaturalist.org/photos/3144734
+Author: hokonui
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by hokonui, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Sooty_Shearwater_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/3144735/original.jpeg
+Source Page: https://www.inaturalist.org/photos/3144735
+Author: hokonui
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by hokonui, licensed under CC BY
+Notes: iNaturalist observation

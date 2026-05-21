@@ -1,0 +1,32 @@
+Cactus Wren (Campylorhynchus brunneicapillus) - Photo Licenses
+==============================================================
+
+Photo 1 (Cactus_Wren.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/463415600/original.jpeg
+Source Page: https://www.inaturalist.org/observations/258309603
+Author: aparrot1 (iNaturalist)
+License: CC0 1.0 Universal (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 2 (Cactus_Wren_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/332569135/original.jpeg
+Source Page: https://www.inaturalist.org/observations/189790947
+Author: blevine (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 3 (Cactus_Wren_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/236143632/original.jpeg
+Source Page: https://www.inaturalist.org/observations/138189183
+Author: mayela_y_ramon (iNaturalist)
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY-SA 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)

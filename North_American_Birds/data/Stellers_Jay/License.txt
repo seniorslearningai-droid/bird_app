@@ -1,0 +1,32 @@
+Steller's Jay (Cyanocitta stelleri) - Photo Licenses
+====================================================
+
+Photo 1 (Stellers_Jay.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/289178714/original.jpeg
+Source Page: https://www.inaturalist.org/photos/289178714
+Author: rajanrao
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by rajanrao, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Stellers_Jay_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/288380557/original.jpeg
+Source Page: https://www.inaturalist.org/photos/288380557
+Author: littlelegofan
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by littlelegofan, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Stellers_Jay_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/548695212/original.jpeg
+Source Page: https://www.inaturalist.org/photos/548695212
+Author: a_virginian
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by a_virginian, licensed under CC BY
+Notes: iNaturalist observation

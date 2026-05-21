@@ -1,0 +1,25 @@
+Ainley's Storm-Petrel (Hydrobates cheimomnestes) - Photo Licenses
+==================================================================
+
+NOTE: No real photographs with free commercial-use licenses exist for this species.
+Ainley's Storm-Petrel is critically endangered (~500 individuals), breeding only
+on Guadalupe Island, Mexico. All known photos carry CC BY-NC (non-commercial only).
+
+Sources checked with no qualifying results:
+- Wikimedia Commons: range map only, no photos
+- iNaturalist: photos exist but all CC BY-NC (non-commercial)
+- Flickr (commercial-use filter): no results
+- USFWS Digital Library: no results
+
+Image 1 (Ainleys_Storm-Petrel.jpg)
+------------------------------------
+Type: AI-generated pencil crayon illustration
+Tool: Pollinations.ai (https://image.pollinations.ai) — free, no API key required
+Prompt: hand drawn pencil crayon sketch of an Ainley's Storm-Petrel (Hydrobates
+        cheimomnestes), small dark sooty-brown seabird flying low over ocean waves,
+        white rump patch with dark central stripe visible, slightly forked tail,
+        naturalist field sketch style, colored pencil drawing on white paper,
+        detailed nature illustration
+License: CC0 / Public Domain — Pollinations.ai generated images are free for any use
+Commercial Use: YES
+Notes: Generated based on scientific descriptions of the bird's appearance.

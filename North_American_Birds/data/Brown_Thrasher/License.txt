@@ -1,0 +1,29 @@
+Brown Thrasher (Toxostoma rufum) - Photo Licenses
+===================================================
+
+Photo 1 (Brown_Thrasher.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/186561540/original.jpeg
+Source Page: https://www.inaturalist.org/observations/110579205
+Author: wildreturn via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)
+
+Photo 2 (Brown_Thrasher_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/302099534/original.jpeg
+Source Page: https://www.inaturalist.org/observations/173926256
+Author: matthias55 via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)
+
+Photo 3 (Brown_Thrasher_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/302099668/original.jpeg
+Source Page: https://www.inaturalist.org/observations/173926256
+Author: matthias55 via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)

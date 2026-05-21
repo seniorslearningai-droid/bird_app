@@ -1,0 +1,33 @@
+Great Black-backed Gull - Photo Licenses
+========================================
+
+Photo 1 (Great_Black-backed_Gull.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/241713648/original.jpeg
+Source Page: https://www.inaturalist.org/photos/241713648
+Author: robw
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Great_Black-backed_Gull_2.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/345101366/original.jpeg
+Source Page: https://www.inaturalist.org/photos/345101366
+Author: diegodgd
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by diegodgd (https://www.inaturalist.org/users/diegodgd) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Great_Black-backed_Gull_3.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/215062687/original.jpeg
+Source Page: https://www.inaturalist.org/photos/215062687
+Author: cofa
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by cofa (https://www.inaturalist.org/users/cofa) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

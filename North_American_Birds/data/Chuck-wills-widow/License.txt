@@ -1,0 +1,32 @@
+Chuck-wills-widow (Antrostomus carolinensis) - Photo Licenses
+=============================================================
+
+Photo 1 (Chuck-wills-widow.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/296287800/original.jpeg
+Source Page: https://www.inaturalist.org/observations/170794158
+Author: blazeclaw (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by blazeclaw on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Chuck-wills-widow_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/16507891/original.jpeg
+Source Page: https://www.inaturalist.org/observations/11559814
+Author: atlnature (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by atlnature on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Chuck-wills-widow_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/275963305/original.jpeg
+Source Page: https://www.inaturalist.org/observations/159716628
+Author: dylanshaw (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by dylanshaw on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

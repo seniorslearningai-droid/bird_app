@@ -1,0 +1,29 @@
+Brown-headed Cowbird (Molothrus ater) - Photo Licenses
+========================================================
+
+Photo 1 (Brown-headed_Cowbird.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/8717139/original.jpeg
+Source Page: https://www.inaturalist.org/observations/6843342
+Author: sdz456 via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: sdz456, iNaturalist, CC BY 4.0
+
+Photo 2 (Brown-headed_Cowbird_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/400076064/original.jpg
+Source Page: https://www.inaturalist.org/observations/225639151
+Author: mcferny via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: mcferny, iNaturalist, CC BY 4.0
+
+Photo 3 (Brown-headed_Cowbird_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/57203706/original.jpg
+Source Page: https://www.inaturalist.org/observations/36205657
+Author: radrat via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)

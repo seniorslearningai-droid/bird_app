@@ -1,0 +1,33 @@
+Horned Puffin - Photo Licenses
+==============================
+
+Photo 1 (Horned_Puffin.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2816192/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2816192
+Author: terathopius
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by terathopius (https://www.inaturalist.org/users/terathopius) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Horned_Puffin_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/419339615/original.jpeg
+Source Page: https://www.inaturalist.org/photos/419339615
+Author: loisfraser
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by loisfraser (https://www.inaturalist.org/users/loisfraser) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Horned_Puffin_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2709090/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2709090
+Author: annikaml
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by annikaml (https://www.inaturalist.org/users/annikaml) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

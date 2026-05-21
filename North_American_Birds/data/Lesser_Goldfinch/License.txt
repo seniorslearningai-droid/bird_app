@@ -1,0 +1,33 @@
+Lesser Goldfinch - Photo Licenses
+=================================
+
+Photo 1 (Lesser_Goldfinch.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/106254385/original.jpeg
+Source Page: https://www.inaturalist.org/photos/106254385
+Author: geographerdave
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by geographerdave (https://www.inaturalist.org/users/geographerdave) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Lesser_Goldfinch_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/172792753/original.jpeg
+Source Page: https://www.inaturalist.org/photos/172792753
+Author: quilicotriste
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by quilicotriste (https://www.inaturalist.org/users/quilicotriste) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Lesser_Goldfinch_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/74339387/original.jpeg
+Source Page: https://www.inaturalist.org/photos/74339387
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,29 @@
+Belted Kingfisher (Megaceryle alcyon) - Photo Licenses
+=======================================================
+
+Photo 1 (Belted_Kingfisher.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/62536274/original.jpg
+Source Page: https://www.inaturalist.org/observations/39418726
+Author: phylogenomics via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: phylogenomics, iNaturalist, CC BY 4.0
+
+Photo 2 (Belted_Kingfisher_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/62537444/original.jpg
+Source Page: https://www.inaturalist.org/observations/39418726
+Author: phylogenomics via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: phylogenomics, iNaturalist, CC BY 4.0
+
+Photo 3 (Belted_Kingfisher_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/454250553/original.jpg
+Source Page: https://www.inaturalist.org/observations/253668988
+Author: emilyd47 via iNaturalist
+License: CC BY-SA 4.0
+Commercial Use: YES
+Attribution: emilyd47, iNaturalist, CC BY-SA 4.0

@@ -1,0 +1,33 @@
+Marsh Wren - Photo Licenses
+===========================
+
+Photo 1 (Marsh_Wren.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/143727896/original.jpeg
+Source Page: https://www.inaturalist.org/photos/143727896
+Author: psweet
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by psweet (https://www.inaturalist.org/users/psweet) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Marsh_Wren_2.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/50146274/original.jpeg
+Source Page: https://www.inaturalist.org/photos/50146274
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Marsh_Wren_3.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/76231076/original.jpeg
+Source Page: https://www.inaturalist.org/photos/76231076
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

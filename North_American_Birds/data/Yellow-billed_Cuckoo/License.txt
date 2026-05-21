@@ -1,0 +1,32 @@
+Yellow-billed Cuckoo (Coccyzus americanus) - Photo Licenses
+===========================================================
+
+Photo 1 (Yellow-billed_Cuckoo.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/33263626/original.jpeg
+Source Page: https://www.inaturalist.org/photos/33263626
+Author: kirk_gardner
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kirk_gardner, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Yellow-billed_Cuckoo_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/143702666/original.jpeg
+Source Page: https://www.inaturalist.org/photos/143702666
+Author: wildreturn
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by wildreturn, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 3 (Yellow-billed_Cuckoo_3.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/43959802/original.jpeg
+Source Page: https://www.inaturalist.org/photos/43959802
+Author: brushdk
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by brushdk, licensed under CC BY
+Notes: iNaturalist observation

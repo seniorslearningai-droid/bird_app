@@ -1,0 +1,32 @@
+Clarks Nutcracker (Nucifraga columbiana) - Photo Licenses
+=========================================================
+
+Photo 1 (Clarks_Nutcracker.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/111846755/original.jpeg
+Source Page: https://www.inaturalist.org/observations/68990319
+Author: kenkneidel (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation
+
+Photo 2 (Clarks_Nutcracker_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/254507471/original.jpeg
+Source Page: https://www.inaturalist.org/observations/147860705
+Author: kalvinchan (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kalvinchan on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Clarks_Nutcracker_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/221873397/original.jpeg
+Source Page: https://www.inaturalist.org/observations/130461879
+Author: mhincz (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mhincz on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

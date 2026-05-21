@@ -1,0 +1,33 @@
+Pacific Loon - Photo Licenses
+=============================
+
+Photo 1 (Pacific_Loon.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2959562/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2959562
+Author: terathopius
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by terathopius (https://www.inaturalist.org/users/terathopius) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Pacific_Loon_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/172494537/original.jpeg
+Source Page: https://www.inaturalist.org/photos/172494537
+Author: frank103
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by frank103 (https://www.inaturalist.org/users/frank103) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Pacific_Loon_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/342653344/original.jpeg
+Source Page: https://www.inaturalist.org/photos/342653344
+Author: fernandoarvizu19
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 (https://www.inaturalist.org/users/fernandoarvizu19) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

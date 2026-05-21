@@ -1,0 +1,32 @@
+Snowy Owl (Bubo scandiacus) - Photo Licenses
+============================================
+
+Photo 1 (Snowy_Owl.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/175457284/original.jpeg
+Source Page: https://www.inaturalist.org/photos/175457284
+Author: mattyfelp
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mattyfelp, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Snowy_Owl_2.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/175457294/original.jpeg
+Source Page: https://www.inaturalist.org/photos/175457294
+Author: mattyfelp
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mattyfelp, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Snowy_Owl_3.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/175457302/original.jpeg
+Source Page: https://www.inaturalist.org/photos/175457302
+Author: mattyfelp
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mattyfelp, licensed under CC BY
+Notes: iNaturalist observation

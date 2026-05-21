@@ -1,0 +1,33 @@
+Loggerhead Shrike - Photo Licenses
+==================================
+
+Photo 1 (Loggerhead_Shrike.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/72406779/original.jpeg
+Source Page: https://www.inaturalist.org/photos/72406779
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Loggerhead_Shrike_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/252826088/original.jpeg
+Source Page: https://www.inaturalist.org/photos/252826088
+Author: fernandoarvizu19
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 (https://www.inaturalist.org/users/fernandoarvizu19) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Loggerhead_Shrike_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/107945353/original.jpeg
+Source Page: https://www.inaturalist.org/photos/107945353
+Author: ncb1221
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ncb1221 (https://www.inaturalist.org/users/ncb1221) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,32 @@
+Downy Woodpecker (Dryobates pubescens) - Photo Licenses
+=======================================================
+
+Photo 1 (Downy_Woodpecker.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/177108982/original.jpeg
+Source Page: https://www.inaturalist.org/observations/105542582
+Author: ayatana_biophilium (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ayatana_biophilium on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Downy_Woodpecker_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/169943089/original.jpeg
+Source Page: https://www.inaturalist.org/observations/101740561
+Author: pinefrog (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by pinefrog on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Downy_Woodpecker_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/31579590/original.jpeg
+Source Page: https://www.inaturalist.org/observations/20452544
+Author: schoenitz (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation

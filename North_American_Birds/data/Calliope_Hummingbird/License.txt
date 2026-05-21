@@ -1,0 +1,32 @@
+Calliope Hummingbird (Selasphorus calliope) - Photo Licenses
+============================================================
+
+Photo 1 (Calliope_Hummingbird.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/436294843/original.jpeg
+Source Page: https://www.inaturalist.org/observations/244582246
+Author: radrat (iNaturalist)
+License: CC0 1.0 Universal (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 2 (Calliope_Hummingbird_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/605772452/original.jpeg
+Source Page: https://www.inaturalist.org/observations/333670351
+Author: brandonjjohnson (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 3 (Calliope_Hummingbird_3.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/82792210/original.jpeg
+Source Page: https://www.inaturalist.org/observations/52094009
+Author: radrat (iNaturalist)
+License: CC0 1.0 Universal (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required
+Notes: Downloaded from iNaturalist (inaturalist.org)

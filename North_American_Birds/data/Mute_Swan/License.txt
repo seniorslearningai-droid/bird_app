@@ -1,0 +1,33 @@
+Mute Swan - Photo Licenses
+==========================
+
+Photo 1 (Mute_Swan.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/13855998/original.jpeg
+Source Page: https://www.inaturalist.org/photos/13855998
+Author: carnifex
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by carnifex (https://www.inaturalist.org/users/carnifex) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Mute_Swan_2.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/84409529/original.jpeg
+Source Page: https://www.inaturalist.org/photos/84409529
+Author: hungryholobiont
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by hungryholobiont (https://www.inaturalist.org/users/hungryholobiont) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Mute_Swan_3.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/19354835/original.jpeg
+Source Page: https://www.inaturalist.org/photos/19354835
+Author: philpav
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by philpav (https://www.inaturalist.org/users/philpav) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

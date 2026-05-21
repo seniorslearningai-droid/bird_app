@@ -1,0 +1,32 @@
+Swainson's Thrush (Catharus ustulatus) - Photo Licenses
+=======================================================
+
+Photo 1 (Swainsons_Thrush.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/137845507/original.jpeg
+Source Page: https://www.inaturalist.org/photos/137845507
+Author: funvill
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by funvill, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 2 (Swainsons_Thrush_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/137845539/original.jpeg
+Source Page: https://www.inaturalist.org/photos/137845539
+Author: funvill
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by funvill, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 3 (Swainsons_Thrush_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/137845590/original.jpeg
+Source Page: https://www.inaturalist.org/photos/137845590
+Author: funvill
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by funvill, licensed under CC0
+Notes: iNaturalist observation

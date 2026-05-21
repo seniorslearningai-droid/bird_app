@@ -1,0 +1,33 @@
+Northern Rough-winged Swallow - Photo Licenses
+==============================================
+
+Photo 1 (Northern_Rough-winged_Swallow.jpg)
+-------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/33087057/original.jpeg
+Source Page: https://www.inaturalist.org/photos/33087057
+Author: robw
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Northern_Rough-winged_Swallow_2.jpg)
+---------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/214948216/original.jpeg
+Source Page: https://www.inaturalist.org/photos/214948216
+Author: blevine
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blevine (https://www.inaturalist.org/users/blevine) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Northern_Rough-winged_Swallow_3.jpg)
+---------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/526739066/original.jpeg
+Source Page: https://www.inaturalist.org/photos/526739066
+Author: emilyd47
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by emilyd47 (https://www.inaturalist.org/users/emilyd47) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+

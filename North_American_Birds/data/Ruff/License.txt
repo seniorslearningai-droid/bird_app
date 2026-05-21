@@ -1,0 +1,29 @@
+Ruff (Calidris pugnax) - Photo Licenses
+===================================================
+
+Photo 1 (Ruff.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/d/d2/Philomachuspugnaxmap.png
+Source Page: https://commons.wikimedia.org/wiki/File:Philomachuspugnaxmap.png
+Author: No machine-readable author provided. Jimfbleak assumed (based on copyright claims).
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use
+Attribution: No machine-readable author provided. Jimfbleak assumed (based on copyright claims).
+
+Photo 2 (Ruff_2.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/2/20/Basai_Wetland_Gurgaon_DSC9289_ruff.JPG
+Source Page: https://commons.wikimedia.org/wiki/File:Basai_Wetland_Gurgaon_DSC9289_ruff.JPG
+Author: T. R. Shankar Raman
+License: CC BY-SA 3.0
+Commercial Use: YES - CC BY-SA 3.0 allows commercial use
+Attribution: T. R. Shankar Raman
+
+Photo 3 (Ruff_3.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/f/f7/Brushane_Ruff_%2831543196370%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Brushane_Ruff_(31543196370).jpg
+Author: Åsa Berndtsson
+License: CC BY 2.0
+Commercial Use: YES - CC BY 2.0 allows commercial use
+Attribution: Åsa Berndtsson

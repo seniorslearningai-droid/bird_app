@@ -1,0 +1,33 @@
+Sanderling - Photo Licenses
+===========================
+
+Photo 1 (Sanderling.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/232281217/original.jpeg
+Source Page: https://www.inaturalist.org/photos/232281217
+Author: that_bee_guy
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by that_bee_guy (https://www.inaturalist.org/users/that_bee_guy) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Sanderling_2.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/109303312/original.jpeg
+Source Page: https://www.inaturalist.org/photos/109303312
+Author: schylerbrown
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Sanderling_3.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/452315720/original.jpeg
+Source Page: https://www.inaturalist.org/photos/452315720
+Author: viktor-n
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by viktor-n (https://www.inaturalist.org/users/viktor-n) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

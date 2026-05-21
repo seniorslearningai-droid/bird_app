@@ -1,0 +1,32 @@
+Sooty Tern (Onychoprion fuscatus) - Photo Licenses
+==================================================
+
+Photo 1 (Sooty_Tern.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/335093667/original.jpeg
+Source Page: https://www.inaturalist.org/photos/335093667
+Author: abnatural
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by abnatural, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Sooty_Tern_2.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/335094722/original.jpeg
+Source Page: https://www.inaturalist.org/photos/335094722
+Author: abnatural
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by abnatural, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Sooty_Tern_3.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/335094723/original.jpeg
+Source Page: https://www.inaturalist.org/photos/335094723
+Author: abnatural
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by abnatural, licensed under CC BY
+Notes: iNaturalist observation

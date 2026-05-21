@@ -1,0 +1,33 @@
+Northern Flicker - Photo Licenses
+=================================
+
+Photo 1 (Northern_Flicker.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/595035685/original.jpeg
+Source Page: https://www.inaturalist.org/photos/595035685
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Northern_Flicker_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/194749425/original.jpeg
+Source Page: https://www.inaturalist.org/photos/194749425
+Author: wildreturn
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Northern_Flicker_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/326421846/original.jpeg
+Source Page: https://www.inaturalist.org/photos/326421846
+Author: kristym
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kristym (https://www.inaturalist.org/users/kristym) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

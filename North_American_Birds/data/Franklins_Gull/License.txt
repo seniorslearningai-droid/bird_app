@@ -1,0 +1,32 @@
+Franklin's Gull (Leucophaeus pipixcan) - Photo Licenses
+=======================================================
+
+Photo 1 (Franklins_Gull.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/130915563/original.jpeg
+Source Page: https://www.inaturalist.org/photos/130915563
+Author: sebastian_hb (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by sebastian_hb on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Franklins_Gull_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/381683851/original.jpeg
+Source Page: https://www.inaturalist.org/photos/381683851
+Author: polichara (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Franklins_Gull_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/381692477/original.jpeg
+Source Page: https://www.inaturalist.org/photos/381692477
+Author: polichara (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data

@@ -1,0 +1,33 @@
+Sagebrush Sparrow - Photo Licenses
+==================================
+
+Photo 1 (Sagebrush_Sparrow.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/336067582/original.jpeg
+Source Page: https://www.inaturalist.org/photos/336067582
+Author: tristanmcknight
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by tristanmcknight (https://www.inaturalist.org/users/tristanmcknight) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Sagebrush_Sparrow_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/462038984/original.jpeg
+Source Page: https://www.inaturalist.org/photos/462038984
+Author: rajanrao
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by rajanrao (https://www.inaturalist.org/users/rajanrao) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Sagebrush_Sparrow_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/170872208/original.jpeg
+Source Page: https://www.inaturalist.org/photos/170872208
+Author: mpoinat
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by mpoinat (https://www.inaturalist.org/users/mpoinat) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+

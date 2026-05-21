@@ -1,0 +1,29 @@
+Atlantic Puffin (Fratercula arctica) - Photo Licenses
+======================================================
+
+Photo 1 (Atlantic_Puffin.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/193715532/original.jpg
+Source Page: https://www.inaturalist.org/observations/114739787
+Author: birdingjulia via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: birdingjulia, iNaturalist, CC BY 4.0
+
+Photo 2 (Atlantic_Puffin_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/193715506/original.jpg
+Source Page: https://www.inaturalist.org/observations/114739787
+Author: birdingjulia via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: birdingjulia, iNaturalist, CC BY 4.0
+
+Photo 3 (Atlantic_Puffin_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/467763437/original.jpeg
+Source Page: https://www.inaturalist.org/observations/260466628
+Author: allan5519 via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: allan5519, iNaturalist, CC BY 4.0

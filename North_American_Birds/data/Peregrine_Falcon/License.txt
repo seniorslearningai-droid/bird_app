@@ -1,0 +1,33 @@
+Peregrine Falcon - Photo Licenses
+=================================
+
+Photo 1 (Peregrine_Falcon.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/243839915/original.jpeg
+Source Page: https://www.inaturalist.org/photos/243839915
+Author: poggi_photos
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by poggi_photos (https://www.inaturalist.org/users/poggi_photos) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Peregrine_Falcon_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/626747287/original.jpeg
+Source Page: https://www.inaturalist.org/photos/626747287
+Author: sunnyjosef
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by sunnyjosef (https://www.inaturalist.org/users/sunnyjosef) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Peregrine_Falcon_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/35648686/original.jpeg
+Source Page: https://www.inaturalist.org/photos/35648686
+Author: lukek
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by lukek (https://www.inaturalist.org/users/lukek) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+

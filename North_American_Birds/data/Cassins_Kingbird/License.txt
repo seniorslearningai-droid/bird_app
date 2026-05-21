@@ -1,0 +1,32 @@
+Cassins Kingbird (Tyrannus vociferans) - Photo Licenses
+=======================================================
+
+Photo 1 (Cassins_Kingbird.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/251935228/original.jpeg
+Source Page: https://www.inaturalist.org/observations/146526836
+Author: maucalderon (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by maucalderon on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Cassins_Kingbird_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/152786401/original.jpeg
+Source Page: https://www.inaturalist.org/observations/92290310
+Author: sessilefielder (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by sessilefielder on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Cassins_Kingbird_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/471060234/original.jpeg
+Source Page: https://www.inaturalist.org/observations/262178661
+Author: daiyadoggo (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation

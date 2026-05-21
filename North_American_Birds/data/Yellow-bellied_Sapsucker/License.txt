@@ -1,0 +1,32 @@
+Yellow-bellied Sapsucker (Sphyrapicus varius) - Photo Licenses
+==============================================================
+
+Photo 1 (Yellow-bellied_Sapsucker.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/173209821/original.jpeg
+Source Page: https://www.inaturalist.org/photos/173209821
+Author: anthony296
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by anthony296, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 2 (Yellow-bellied_Sapsucker_2.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/516639160/original.jpeg
+Source Page: https://www.inaturalist.org/photos/516639160
+Author: martint66
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by martint66, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Yellow-bellied_Sapsucker_3.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/516639253/original.jpeg
+Source Page: https://www.inaturalist.org/photos/516639253
+Author: martint66
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by martint66, licensed under CC BY
+Notes: iNaturalist observation

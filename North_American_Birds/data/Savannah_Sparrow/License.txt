@@ -1,0 +1,33 @@
+Savannah Sparrow - Photo Licenses
+=================================
+
+Photo 1 (Savannah_Sparrow.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/287296692/original.jpeg
+Source Page: https://www.inaturalist.org/photos/287296692
+Author: stevestevens
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Savannah_Sparrow_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/178386364/original.jpeg
+Source Page: https://www.inaturalist.org/photos/178386364
+Author: mpoinat
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by mpoinat (https://www.inaturalist.org/users/mpoinat) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Savannah_Sparrow_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/177964540/original.jpeg
+Source Page: https://www.inaturalist.org/photos/177964540
+Author: sadawolk
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by sadawolk (https://www.inaturalist.org/users/sadawolk) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

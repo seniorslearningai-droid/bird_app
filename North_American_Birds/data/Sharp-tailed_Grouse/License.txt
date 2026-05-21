@@ -1,0 +1,32 @@
+Sharp-tailed Grouse (Tympanuchus phasianellus) - Photo Licenses
+===============================================================
+
+Photo 1 (Sharp-tailed_Grouse.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/129779603/original.jpeg
+Source Page: https://www.inaturalist.org/photos/129779603
+Author: georectified
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by georectified, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Sharp-tailed_Grouse_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/129779609/original.jpeg
+Source Page: https://www.inaturalist.org/photos/129779609
+Author: georectified
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by georectified, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Sharp-tailed_Grouse_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/129779618/original.jpeg
+Source Page: https://www.inaturalist.org/photos/129779618
+Author: georectified
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by georectified, licensed under CC BY
+Notes: iNaturalist observation

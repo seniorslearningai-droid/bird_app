@@ -1,0 +1,33 @@
+Long-billed Dowitcher - Photo Licenses
+======================================
+
+Photo 1 (Long-billed_Dowitcher.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/73040184/original.jpeg
+Source Page: https://www.inaturalist.org/photos/73040184
+Author: blairdudeck
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blairdudeck (https://www.inaturalist.org/users/blairdudeck) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Long-billed_Dowitcher_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/177819065/original.jpeg
+Source Page: https://www.inaturalist.org/photos/177819065
+Author: ram_k
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ram_k (https://www.inaturalist.org/users/ram_k) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Long-billed_Dowitcher_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/60032979/original.jpeg
+Source Page: https://www.inaturalist.org/photos/60032979
+Author: sushantmore
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

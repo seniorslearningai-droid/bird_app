@@ -1,0 +1,33 @@
+Herring Gull - Photo Licenses
+=============================
+
+Photo 1 (Herring_Gull.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/648/original.jpeg
+Source Page: https://www.inaturalist.org/photos/648
+Author: biogeek
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by biogeek (https://www.inaturalist.org/users/biogeek) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Herring_Gull_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/473233444/original.jpeg
+Source Page: https://www.inaturalist.org/photos/473233444
+Author: priyastoric
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by priyastoric (https://www.inaturalist.org/users/priyastoric) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Herring_Gull_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/112687953/original.jpeg
+Source Page: https://www.inaturalist.org/photos/112687953
+Author: zacpeterson
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by zacpeterson (https://www.inaturalist.org/users/zacpeterson) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

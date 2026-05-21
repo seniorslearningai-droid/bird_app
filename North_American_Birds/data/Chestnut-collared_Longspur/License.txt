@@ -1,0 +1,32 @@
+Chestnut-collared Longspur (Calcarius ornatus) - Photo Licenses
+===============================================================
+
+Photo 1 (Chestnut-collared_Longspur.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/334646310/original.jpeg
+Source Page: https://www.inaturalist.org/observations/190841926
+Author: mpoinat (iNaturalist)
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA allows commercial use with attribution
+Attribution: Photo by mpoinat on iNaturalist, CC BY-SA 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Chestnut-collared_Longspur_2.jpg)
+------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/202933908/original.jpeg
+Source Page: https://www.inaturalist.org/observations/120011494
+Author: ruthie123 (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation
+
+Photo 3 (Chestnut-collared_Longspur_3.jpg)
+------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/454539749/original.jpeg
+Source Page: https://www.inaturalist.org/observations/253815910
+Author: mainebirder (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mainebirder on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

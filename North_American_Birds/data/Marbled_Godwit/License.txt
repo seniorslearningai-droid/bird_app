@@ -1,0 +1,33 @@
+Marbled Godwit - Photo Licenses
+===============================
+
+Photo 1 (Marbled_Godwit.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/243134022/original.jpeg
+Source Page: https://www.inaturalist.org/photos/243134022
+Author: hawkparty
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by hawkparty (https://www.inaturalist.org/users/hawkparty) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Marbled_Godwit_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/111690093/original.jpeg
+Source Page: https://www.inaturalist.org/photos/111690093
+Author: kueda
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kueda (https://www.inaturalist.org/users/kueda) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Marbled_Godwit_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/243133895/original.jpeg
+Source Page: https://www.inaturalist.org/photos/243133895
+Author: hawkparty
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by hawkparty (https://www.inaturalist.org/users/hawkparty) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

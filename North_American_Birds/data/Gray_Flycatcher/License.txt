@@ -1,0 +1,33 @@
+Gray Flycatcher - Photo Licenses
+================================
+
+Photo 1 (Gray_Flycatcher.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/272230724/original.jpeg
+Source Page: https://www.inaturalist.org/photos/272230724
+Author: rejoicegassah
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by rejoicegassah (https://www.inaturalist.org/users/rejoicegassah) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Gray_Flycatcher_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/379855637/original.jpeg
+Source Page: https://www.inaturalist.org/photos/379855637
+Author: chrismcv
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Gray_Flycatcher_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/409085806/original.jpeg
+Source Page: https://www.inaturalist.org/photos/409085806
+Author: patricia_mees
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by patricia_mees (https://www.inaturalist.org/users/patricia_mees) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

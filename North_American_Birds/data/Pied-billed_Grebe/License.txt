@@ -1,0 +1,33 @@
+Pied-billed Grebe - Photo Licenses
+==================================
+
+Photo 1 (Pied-billed_Grebe.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/70152459/original.jpeg
+Source Page: https://www.inaturalist.org/photos/70152459
+Author: kent_ozment
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Pied-billed_Grebe_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/172441951/original.jpeg
+Source Page: https://www.inaturalist.org/photos/172441951
+Author: tomkennedy
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by tomkennedy (https://www.inaturalist.org/users/tomkennedy) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Pied-billed_Grebe_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/249989437/original.jpeg
+Source Page: https://www.inaturalist.org/photos/249989437
+Author: cynodon
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by cynodon (https://www.inaturalist.org/users/cynodon) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

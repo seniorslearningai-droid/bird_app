@@ -1,0 +1,32 @@
+Wilson's Snipe (Gallinago delicata) - Photo Licenses
+====================================================
+
+Photo 1 (Wilsons_Snipe.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/256269731/original.jpeg
+Source Page: https://www.inaturalist.org/photos/256269731
+Author: suecar
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by suecar, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Wilsons_Snipe_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/256269736/original.jpeg
+Source Page: https://www.inaturalist.org/photos/256269736
+Author: suecar
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by suecar, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Wilsons_Snipe_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/119695361/original.jpeg
+Source Page: https://www.inaturalist.org/photos/119695361
+Author: radrat
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by radrat, licensed under CC0
+Notes: iNaturalist observation

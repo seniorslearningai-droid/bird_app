@@ -1,0 +1,33 @@
+White-throated Swift (Aeronautes saxatalis) - Photo Licenses
+============================================================
+
+NOTE: Only 2 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (White-throated_Swift.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/481377938/original.jpeg
+Source Page: https://www.inaturalist.org/photos/481377938
+Author: rawcomposition
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by rawcomposition, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 2 (White-throated_Swift_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/475169847/original.jpeg
+Source Page: https://www.inaturalist.org/photos/475169847
+Author: decoyhedgehog
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by decoyhedgehog, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (White-throated_Swift_3.jpg)
+------------------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/2/2e/Aeronautes_saxatalis%2C_Kerr_Dam%2C_Montana_1.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Aeronautes_saxatalis,_Kerr_Dam,_Montana_1.jpg
+Author: Caleb Putnam
+License: CC BY 2.0
+Commercial Use: YES
+Attribution: Photo by Caleb Putnam, CC BY 2.0

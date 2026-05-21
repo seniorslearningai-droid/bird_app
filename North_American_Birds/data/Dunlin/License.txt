@@ -1,0 +1,32 @@
+Dunlin (Calidris alpina) - Photo Licenses
+=========================================
+
+Photo 1 (Dunlin.jpg)
+--------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/9455983/original.jpeg
+Source Page: https://www.inaturalist.org/observations/7306008
+Author: navin_sasikumar (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by navin_sasikumar on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Dunlin_2.jpg)
+----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/123912796/original.jpeg
+Source Page: https://www.inaturalist.org/observations/75721462
+Author: donalddavesne (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by donalddavesne on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Dunlin_3.jpg)
+----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/24556962/original.jpeg
+Source Page: https://www.inaturalist.org/observations/16340096
+Author: andywilson (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation

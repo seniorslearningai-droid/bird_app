@@ -1,0 +1,32 @@
+Willow Ptarmigan (Lagopus lagopus) - Photo Licenses
+===================================================
+
+Photo 1 (Willow_Ptarmigan.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/192223609/original.jpeg
+Source Page: https://www.inaturalist.org/photos/192223609
+Author: christoph_moning
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by christoph_moning, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Willow_Ptarmigan_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/192223829/original.jpeg
+Source Page: https://www.inaturalist.org/photos/192223829
+Author: christoph_moning
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by christoph_moning, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Willow_Ptarmigan_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/192224055/original.jpeg
+Source Page: https://www.inaturalist.org/photos/192224055
+Author: christoph_moning
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by christoph_moning, licensed under CC BY
+Notes: iNaturalist observation

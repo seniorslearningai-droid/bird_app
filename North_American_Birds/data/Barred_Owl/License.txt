@@ -1,0 +1,29 @@
+Barred Owl (Strix varia) - Photo Licenses
+==========================================
+
+Photo 1 (Barred_Owl.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/464374794/original.jpeg
+Source Page: https://www.inaturalist.org/observations/258778023
+Author: bugeyedbernie via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: bugeyedbernie, iNaturalist, CC BY 4.0
+
+Photo 2 (Barred_Owl_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/464375591/original.jpeg
+Source Page: https://www.inaturalist.org/observations/258778023
+Author: bugeyedbernie via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: bugeyedbernie, iNaturalist, CC BY 4.0
+
+Photo 3 (Barred_Owl_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/464375296/original.jpeg
+Source Page: https://www.inaturalist.org/observations/258778023
+Author: bugeyedbernie via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: bugeyedbernie, iNaturalist, CC BY 4.0

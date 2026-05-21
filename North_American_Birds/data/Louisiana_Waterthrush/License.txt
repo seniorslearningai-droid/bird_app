@@ -1,0 +1,33 @@
+Louisiana Waterthrush - Photo Licenses
+======================================
+
+Photo 1 (Louisiana_Waterthrush.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/363627147/original.jpeg
+Source Page: https://www.inaturalist.org/photos/363627147
+Author: mattyfelp
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mattyfelp (https://www.inaturalist.org/users/mattyfelp) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Louisiana_Waterthrush_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/339618568/original.jpeg
+Source Page: https://www.inaturalist.org/photos/339618568
+Author: rawcomposition
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Louisiana_Waterthrush_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/359902705/original.jpeg
+Source Page: https://www.inaturalist.org/photos/359902705
+Author: northcut1
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by northcut1 (https://www.inaturalist.org/users/northcut1) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

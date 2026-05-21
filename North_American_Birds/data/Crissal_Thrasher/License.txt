@@ -1,0 +1,32 @@
+Crissal Thrasher (Toxostoma crissale) - Photo Licenses
+======================================================
+
+Photo 1 (Crissal_Thrasher.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/111244714/original.jpeg
+Source Page: https://www.inaturalist.org/photos/111244714
+Author: serpophaga (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by serpophaga on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Crissal_Thrasher_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/469396570/original.jpeg
+Source Page: https://www.inaturalist.org/photos/469396570
+Author: symbioptic (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Crissal_Thrasher_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/469396584/original.jpeg
+Source Page: https://www.inaturalist.org/photos/469396584
+Author: symbioptic (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data

@@ -1,0 +1,32 @@
+Evening Grosbeak (Coccothraustes vespertinus) - Photo Licenses
+==============================================================
+
+Photo 1 (Evening_Grosbeak.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/249224870/original.jpeg
+Source Page: https://www.inaturalist.org/observations/145119046
+Author: ayatana_biophilium (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ayatana_biophilium on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Evening_Grosbeak_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/255604917/original.jpeg
+Source Page: https://www.inaturalist.org/observations/148430558
+Author: blakemross (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by blakemross on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Evening_Grosbeak_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/500748377/original.jpeg
+Source Page: https://www.inaturalist.org/observations/278870102
+Author: bentleysmom78 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by bentleysmom78 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

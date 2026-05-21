@@ -1,0 +1,32 @@
+Seaside Sparrow (Ammospiza maritima) - Photo Licenses
+=====================================================
+
+NOTE: Only 1 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Seaside_Sparrow.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/197355748/original.jpeg
+Source Page: https://www.inaturalist.org/photos/197355748
+Author: lauralovesbirds
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by lauralovesbirds, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Seaside_Sparrow_2.jpg)
+-------------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/2/27/Seaside_sparrow_%2820591%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Seaside_sparrow_(20591).jpg
+Author: Rhododendrites
+License: CC BY-SA 4.0
+Commercial Use: YES
+Attribution: Photo by Rhododendrites, CC BY-SA 4.0
+
+Photo 3 (Seaside_Sparrow_3.jpg)
+-------------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/a/a6/Seaside_Sparrow_%2826454037674%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Seaside_Sparrow_(26454037674).jpg
+Author: Don Faulkner
+License: CC BY-SA 2.0
+Commercial Use: YES
+Attribution: Photo by Don Faulkner, CC BY-SA 2.0

@@ -1,0 +1,32 @@
+Yellow-rumped Warbler (Setophaga coronata) - Photo Licenses
+===========================================================
+
+Photo 1 (Yellow-rumped_Warbler.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/252031775/original.jpeg
+Source Page: https://www.inaturalist.org/photos/252031775
+Author: phylogenomics
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by phylogenomics, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Yellow-rumped_Warbler_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/252031786/original.jpeg
+Source Page: https://www.inaturalist.org/photos/252031786
+Author: phylogenomics
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by phylogenomics, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Yellow-rumped_Warbler_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/408742214/original.jpeg
+Source Page: https://www.inaturalist.org/photos/408742214
+Author: mattyfelp
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mattyfelp, licensed under CC BY
+Notes: iNaturalist observation

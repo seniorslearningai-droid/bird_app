@@ -1,0 +1,33 @@
+Great Horned Owl - Photo Licenses
+=================================
+
+Photo 1 (Great_Horned_Owl.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/264835127/original.jpeg
+Source Page: https://www.inaturalist.org/photos/264835127
+Author: wildreturn
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Great_Horned_Owl_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/408807127/original.jpeg
+Source Page: https://www.inaturalist.org/photos/408807127
+Author: ouzel
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ouzel (https://www.inaturalist.org/users/ouzel) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Great_Horned_Owl_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/427724222/original.jpeg
+Source Page: https://www.inaturalist.org/photos/427724222
+Author: ouzel
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ouzel (https://www.inaturalist.org/users/ouzel) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

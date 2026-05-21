@@ -1,0 +1,33 @@
+Ruby-crowned Kinglet - Photo Licenses
+=====================================
+
+Photo 1 (Ruby-crowned_Kinglet.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/60807214/original.jpeg
+Source Page: https://www.inaturalist.org/photos/60807214
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Ruby-crowned_Kinglet_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176519083/original.jpeg
+Source Page: https://www.inaturalist.org/photos/176519083
+Author: nellcant23
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by nellcant23 (https://www.inaturalist.org/users/nellcant23) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Ruby-crowned_Kinglet_3.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/261887162/original.jpeg
+Source Page: https://www.inaturalist.org/photos/261887162
+Author: blevine
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blevine (https://www.inaturalist.org/users/blevine) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

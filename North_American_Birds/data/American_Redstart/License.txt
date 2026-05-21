@@ -1,0 +1,32 @@
+American Redstart (Setophaga ruticilla) - Photo Licenses
+=========================================================
+
+Photo 1 (American_Redstart.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/154868013/original.jpg
+Source Page: https://www.inaturalist.org/observations/93438785
+Author: davidfbird via iNaturalist
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 places work in the public domain with no restrictions
+Attribution: No attribution required (CC0)
+Notes: Research grade observation on iNaturalist.
+
+Photo 2 (American_Redstart_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/71956210/original.jpg
+Source Page: https://www.inaturalist.org/observations/45380114
+Author: peterwchen via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: peterwchen, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist.
+
+Photo 3 (American_Redstart_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/339600708/original.jpg
+Source Page: https://www.inaturalist.org/observations/193327356
+Author: rawcomposition via iNaturalist
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 places work in the public domain with no restrictions
+Attribution: No attribution required (CC0)
+Notes: Research grade observation on iNaturalist.

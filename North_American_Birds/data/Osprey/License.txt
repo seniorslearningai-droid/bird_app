@@ -1,0 +1,33 @@
+Osprey - Photo Licenses
+=======================
+
+Photo 1 (Osprey.jpg)
+--------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/359330074/original.jpeg
+Source Page: https://www.inaturalist.org/photos/359330074
+Author: mycapecodadventurepictures
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mycapecodadventurepictures (https://www.inaturalist.org/users/mycapecodadventurepictures) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Osprey_2.jpg)
+----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/247280869/original.jpeg
+Source Page: https://www.inaturalist.org/photos/247280869
+Author: alinamartin
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by alinamartin (https://www.inaturalist.org/users/alinamartin) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Osprey_3.jpg)
+----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/307162871/original.jpeg
+Source Page: https://www.inaturalist.org/photos/307162871
+Author: jdshide
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,30 @@
+Western Grebe (Aechmophorus occidentalis) - Photo Licenses
+==========================================================
+
+NOTE: Only 1 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Western_Grebe.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/470828134/original.jpeg
+Source Page: https://www.inaturalist.org/photos/470828134
+Author: kodiakgarden
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kodiakgarden, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Western_Grebe_2.jpg)
+-----------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/b/b1/100_-_WESTERN_GREBE_%2811-20-07%29_sloco%2C_ca_%288721011401%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:100_-_WESTERN_GREBE_(11-20-07)_sloco,_ca_(8721011401).jpg
+Author: Alan Schmierer
+License: CC0 1.0 (Public Domain)
+Commercial Use: YES
+
+Photo 3 (Western_Grebe_3.jpg)
+-----------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/8/8b/100_-_WESTERN_GREBE_%2812-17-11%29_moss_landing%2C_ca_%281%29_%288722131780%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:100_-_WESTERN_GREBE_(12-17-11)_moss_landing,_ca_(1)_(8722131780).jpg
+Author: Alan Schmierer
+License: CC0 1.0 (Public Domain)
+Commercial Use: YES

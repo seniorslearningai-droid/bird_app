@@ -1,0 +1,32 @@
+Sprague's Pipit (Anthus spragueii) - Photo Licenses
+===================================================
+
+Photo 1 (Spragues_Pipit.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/439167208/original.jpeg
+Source Page: https://www.inaturalist.org/photos/439167208
+Author: archer_birds
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by archer_birds, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Spragues_Pipit_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/439167993/original.jpeg
+Source Page: https://www.inaturalist.org/photos/439167993
+Author: archer_birds
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by archer_birds, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Spragues_Pipit_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/192545272/original.jpeg
+Source Page: https://www.inaturalist.org/photos/192545272
+Author: slamonde
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by slamonde, licensed under CC BY
+Notes: iNaturalist observation

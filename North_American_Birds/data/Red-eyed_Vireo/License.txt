@@ -1,0 +1,33 @@
+Red-eyed Vireo - Photo Licenses
+===============================
+
+Photo 1 (Red-eyed_Vireo.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/158043683/original.jpeg
+Source Page: https://www.inaturalist.org/photos/158043683
+Author: davidfbird
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Red-eyed_Vireo_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/538798801/original.jpeg
+Source Page: https://www.inaturalist.org/photos/538798801
+Author: julesthebirder
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by julesthebirder (https://www.inaturalist.org/users/julesthebirder) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Red-eyed_Vireo_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/95646829/original.jpeg
+Source Page: https://www.inaturalist.org/photos/95646829
+Author: antoine_guiguet_
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by antoine_guiguet_ (https://www.inaturalist.org/users/antoine_guiguet_) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

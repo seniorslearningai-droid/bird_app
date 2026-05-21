@@ -1,0 +1,32 @@
+King Rail (Rallus elegans) - Photo Licenses
+===========================================
+
+Photo 1 (King_Rail.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/488480957/original.jpeg
+Source Page: https://www.inaturalist.org/photos/488480957
+Author: brandonjjohnson
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by brandonjjohnson, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (King_Rail_2.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/488480974/original.jpeg
+Source Page: https://www.inaturalist.org/photos/488480974
+Author: brandonjjohnson
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by brandonjjohnson, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (King_Rail_3.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/489345139/original.jpeg
+Source Page: https://www.inaturalist.org/photos/489345139
+Author: brandonjjohnson
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by brandonjjohnson, licensed under CC BY
+Notes: iNaturalist observation

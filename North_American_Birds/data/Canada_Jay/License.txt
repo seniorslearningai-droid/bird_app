@@ -1,0 +1,32 @@
+Canada Jay (Perisoreus canadensis) - Photo Licenses
+===================================================
+
+Photo 1 (Canada_Jay.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/31718325/original.jpeg
+Source Page: https://www.inaturalist.org/observations/20546244
+Author: owenstrickland (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 2 (Canada_Jay_2.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/254801498/original.jpeg
+Source Page: https://www.inaturalist.org/observations/148011607
+Author: owenstrickland (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 3 (Canada_Jay_3.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/35154501/original.jpeg
+Source Page: https://www.inaturalist.org/observations/22687319
+Author: jstraka (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)

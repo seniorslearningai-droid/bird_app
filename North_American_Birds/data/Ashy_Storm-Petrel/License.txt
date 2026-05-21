@@ -1,0 +1,32 @@
+Ashy Storm-Petrel (Hydrobates homochroa) - Photo Licenses
+=========================================================
+
+Photo 1 (Ashy_Storm-Petrel.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/95792635/original.jpeg
+Source Page: https://www.inaturalist.org/photos/95792635
+Author: radrat (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Ashy_Storm-Petrel_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/95792654/original.jpeg
+Source Page: https://www.inaturalist.org/photos/95792654
+Author: radrat (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Ashy_Storm-Petrel_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/96046960/original.jpeg
+Source Page: https://www.inaturalist.org/photos/96046960
+Author: radrat (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data

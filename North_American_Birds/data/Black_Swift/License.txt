@@ -1,0 +1,32 @@
+Black Swift (Cypseloides niger) - Photo Licenses
+================================================
+
+Photo 1 (Black_Swift.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/544774037/original.jpeg
+Source Page: https://www.inaturalist.org/photos/544774037
+Author: davidbroadland (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Black_Swift_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/204951361/original.jpeg
+Source Page: https://www.inaturalist.org/photos/204951361
+Author: handroid (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by handroid on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Black_Swift_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/339543283/original.jpeg
+Source Page: https://www.inaturalist.org/photos/339543283
+Author: rawcomposition (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data

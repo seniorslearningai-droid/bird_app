@@ -1,0 +1,32 @@
+Costas Hummingbird (Calypte costae) - Photo Licenses
+====================================================
+
+Photo 1 (Costas_Hummingbird.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/172094863/original.jpeg
+Source Page: https://www.inaturalist.org/observations/102895482
+Author: blevine (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by blevine on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Costas_Hummingbird_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/171235379/original.jpeg
+Source Page: https://www.inaturalist.org/observations/102439361
+Author: blevine (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by blevine on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Costas_Hummingbird_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/524165086/original.jpeg
+Source Page: https://www.inaturalist.org/observations/291332831
+Author: smeckert (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by smeckert on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

@@ -1,0 +1,32 @@
+Snail Kite (Rostrhamus sociabilis) - Photo Licenses
+===================================================
+
+Photo 1 (Snail_Kite.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/31341912/original.jpeg
+Source Page: https://www.inaturalist.org/photos/31341912
+Author: keesgroenendijk
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by keesgroenendijk, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Snail_Kite_2.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/277983360/original.jpeg
+Source Page: https://www.inaturalist.org/photos/277983360
+Author: mfeaver
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mfeaver, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Snail_Kite_3.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/277983754/original.jpeg
+Source Page: https://www.inaturalist.org/photos/277983754
+Author: mfeaver
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mfeaver, licensed under CC BY
+Notes: iNaturalist observation

@@ -1,0 +1,32 @@
+Verdin (Auriparus flaviceps) - Photo Licenses
+=============================================
+
+NOTE: Only 1 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Verdin.jpg)
+--------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/246679570/original.jpeg
+Source Page: https://www.inaturalist.org/photos/246679570
+Author: fernandoarvizu19
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Verdin_2.jpg)
+----------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/a/a1/Auriparus_flaviceps_1_%281%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Auriparus_flaviceps_1_(1).jpg
+Author: Wayne Dumbleton
+License: CC BY 2.0
+Commercial Use: YES
+Attribution: Photo by Wayne Dumbleton, CC BY 2.0
+
+Photo 3 (Verdin_3.jpg)
+----------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/e/ea/Auriparus_flaviceps_1.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Auriparus_flaviceps_1.jpg
+Author: Larry Page
+License: CC BY 2.0
+Commercial Use: YES
+Attribution: Photo by Larry Page, CC BY 2.0

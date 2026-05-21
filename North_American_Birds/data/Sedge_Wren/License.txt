@@ -1,0 +1,29 @@
+Sedge Wren (Cistothorus platensis) - Photo Licenses
+===================================================
+
+Photo 1 (Sedge_Wren.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/143727896/original.jpeg
+Source Page: https://www.inaturalist.org/observations/87201655
+Author: psweet
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use
+Attribution: psweet
+
+Photo 2 (Sedge_Wren_2.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/177376572/original.jpeg
+Source Page: https://www.inaturalist.org/observations/105684521
+Author: quilicotriste
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use
+Attribution: quilicotriste
+
+Photo 3 (Sedge_Wren_3.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/190032969/original.jpeg
+Source Page: https://www.inaturalist.org/observations/112505363
+Author: stevestevens
+License: CC0
+Commercial Use: YES - CC0 allows commercial use
+Attribution: stevestevens

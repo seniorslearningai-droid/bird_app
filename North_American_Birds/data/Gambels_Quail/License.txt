@@ -1,0 +1,33 @@
+Gambel's Quail - Photo Licenses
+===============================
+
+Photo 1 (Gambels_Quail.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/451717373/original.jpeg
+Source Page: https://www.inaturalist.org/photos/451717373
+Author: peterwchen
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by peterwchen (https://www.inaturalist.org/users/peterwchen) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Gambels_Quail_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/32503066/original.jpeg
+Source Page: https://www.inaturalist.org/photos/32503066
+Author: ck2az
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ck2az (https://www.inaturalist.org/users/ck2az) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Gambels_Quail_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/121223402/original.jpeg
+Source Page: https://www.inaturalist.org/photos/121223402
+Author: dankillam
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by dankillam (https://www.inaturalist.org/users/dankillam) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,33 @@
+Oak Titmouse - Photo Licenses
+=============================
+
+Photo 1 (Oak_Titmouse.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/621298/original.jpeg
+Source Page: https://www.inaturalist.org/photos/621298
+Author: justin2
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by justin2 (https://www.inaturalist.org/users/justin2) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Oak_Titmouse_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/99409493/original.jpeg
+Source Page: https://www.inaturalist.org/photos/99409493
+Author: farrispa
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by farrispa (https://www.inaturalist.org/users/farrispa) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Oak_Titmouse_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/525317794/original.jpeg
+Source Page: https://www.inaturalist.org/photos/525317794
+Author: nettiecat
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by nettiecat (https://www.inaturalist.org/users/nettiecat) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

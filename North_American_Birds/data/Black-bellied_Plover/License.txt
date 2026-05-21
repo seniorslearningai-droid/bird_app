@@ -1,0 +1,29 @@
+Black-bellied Plover (Pluvialis squatarola) - Photo Licenses
+=============================================================
+
+Photo 1 (Black-bellied_Plover.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/177430493/original.jpeg
+Source Page: https://www.inaturalist.org/observations/105730898
+Author: tonyrebelo via iNaturalist
+License: CC BY-SA 4.0
+Commercial Use: YES
+Attribution: tonyrebelo, iNaturalist, CC BY-SA 4.0
+
+Photo 2 (Black-bellied_Plover_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/449678785/original.jpeg
+Source Page: https://www.inaturalist.org/observations/251328747
+Author: russnamitz via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)
+
+Photo 3 (Black-bellied_Plover_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/429955494/original.jpg
+Source Page: https://www.inaturalist.org/observations/241258945
+Author: diegodgd via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: diegodgd, iNaturalist, CC BY 4.0

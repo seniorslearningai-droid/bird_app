@@ -1,0 +1,1214 @@
+Bird Name	Folder
+Abert's Towhee	Aberts_Towhee
+Acadian Flycatcher	Acadian_Flycatcher
+Acorn Woodpecker	Acorn_Woodpecker
+African Collared-Dove	African_Collared-Dove
+African Silverbill	African_Silverbill
+Agami Heron	Agami_Heron
+Ainley's Storm-Petrel	Ainleys_Storm-Petrel
+Akekee	Akekee
+Akiapolaau	Akiapolaau
+Akikiki	Akikiki
+Akohekohe	Akohekohe
+Alder Flycatcher	Alder_Flycatcher
+Aleutian Tern	Aleutian_Tern
+Allen's Hummingbird	Allens_Hummingbird
+Altamira Oriole	Altamira_Oriole
+Amaui	Amaui
+Amazon Kingfisher	Amazon_Kingfisher
+American Avocet	American_Avocet
+American Barn Owl	American_Barn_Owl
+American Bittern	American_Bittern
+American Black Duck	American_Black_Duck
+American Coot	American_Coot
+American Crow	American_Crow
+American Dipper	American_Dipper
+American Flamingo	American_Flamingo
+American Golden-Plover	American_Golden-Plover
+American Goldfinch	American_Goldfinch
+American Goshawk	American_Goshawk
+American Herring Gull	Herring_Gull
+American Kestrel	American_Kestrel
+American Oystercatcher	American_Oystercatcher
+American Pipit	American_Pipit
+American Pygmy Kingfisher	American_Pygmy_Kingfisher
+American Redstart	American_Redstart
+American Robin	American_Robin
+American Three-toed Woodpecker	American_Three-toed_Woodpecker
+American Tree Sparrow	American_Tree_Sparrow
+American White Pelican	American_White_Pelican
+American Wigeon	American_Wigeon
+American Woodcock	American_Woodcock
+Amethyst-throated Mountain-gem	Amethyst-throated_Mountain-gem
+Ancient Murrelet	Ancient_Murrelet
+Anhinga	Anhinga
+Anianiau	Anianiau
+Anna's Hummingbird	Annas_Hummingbird
+Antillean Nighthawk	Antillean_Nighthawk
+Antillean Palm Swift	Antillean_Palm_Swift
+Apapane	Apapane
+Aplomado Falcon	Aplomado_Falcon
+Arctic Loon	Arctic_Loon
+Arctic Tern	Arctic_Tern
+Arctic Warbler	Arctic_Warbler
+Arizona Woodpecker	Arizona_Woodpecker
+Ash-throated Flycatcher	Ash-throated_Flycatcher
+Ashy Storm-Petrel	Ashy_Storm-Petrel
+Asian Brown Flycatcher	Asian_Brown_Flycatcher
+Asian Rosy-Finch	Asian_Rosy-Finch
+Atlantic Puffin	Atlantic_Puffin
+Atlantic Yellow-nosed (Yellow-nosed) Albatross	Atlantic_Yellow-nosed_(Yellow-nosed)_Albatross
+Audubon's Oriole	Audubons_Oriole
+Audubon's Warbler	Audubons_Warbler
+Aztec Thrush	Aztec_Thrush
+Azure Gallinule*	Azure_Gallinule*
+Bachman's Sparrow	Bachmans_Sparrow
+Bachman's Warbler	Bachmans_Warbler
+Bahama Mockingbird	Bahama_Mockingbird
+Bahama Swallow	Bahama_Swallow
+Bahama Woodstar	Bahama_Woodstar
+Baikal Teal	Baikal_Teal
+Baird's Sandpiper	Bairds_Sandpiper
+Baird's Sparrow	Bairds_Sparrow
+Bald Eagle	Bald_Eagle
+Baltimore Oriole	Baltimore_Oriole
+Bananaquit	Bananaquit
+Band-rumped Storm-Petrel	Band-rumped_Storm-Petrel
+Band-tailed Pigeon	Band-tailed_Pigeon
+Bank Swallow	Bank_Swallow
+Bar-tailed Godwit	Bar-tailed_Godwit
+Bare-throated Tiger-Heron	Bare-throated_Tiger-Heron
+Barn Owl	Barn_Owl
+Barn Swallow	Barn_Swallow
+Barnacle Goose	Barnacle_Goose
+Barolo Shearwater	Barolo_Shearwater
+Barred Owl	Barred_Owl
+Barrow's Goldeneye	Barrows_Goldeneye
+Bat Falcon	Bat_Falcon
+Bay-breasted Warbler	Bay-breasted_Warbler
+Belcher's Gull	Belchers_Gull
+Bell's Sparrow	Bells_Sparrow
+Bell's Vireo	Bells_Vireo
+Belted Kingfisher	Belted_Kingfisher
+Bendire's Thrasher	Bendires_Thrasher
+Bermuda Petrel	Bermuda_Petrel
+Berylline Hummingbird	Berylline_Hummingbird
+Bewick's Wren	Bewicks_Wren
+Bicknell's Thrush	Bicknells_Thrush
+Bishop's Oo	Bishops_Oo
+Black Catbird*	Black_Catbird*
+Black Francolin	Black_Francolin
+Black Guillemot	Black_Guillemot
+Black Kite	Black_Kite
+Black Mamo	Black_Mamo
+Black Noddy	Black_Noddy
+Black Oystercatcher	Black_Oystercatcher
+Black Phoebe	Black_Phoebe
+Black Rail	Black_Rail
+Black Rosy-Finch	Black_Rosy-Finch
+Black Scoter	Black_Scoter
+Black Skimmer	Black_Skimmer
+Black Storm-Petrel	Black_Storm-Petrel
+Black Swift	Black_Swift
+Black Tern	Black_Tern
+Black Turnstone	Black_Turnstone
+Black Vulture	Black_Vulture
+Black-and-white Warbler	Black-and-white_Warbler
+Black-backed Oriole	Black-backed_Oriole
+Black-backed Woodpecker	Black-backed_Woodpecker
+Black-bellied Plover	Black-bellied_Plover
+Black-bellied Storm-Petrel	Black-bellied_Storm-Petrel
+Black-bellied Whistling-Duck	Black-bellied_Whistling-Duck
+Black-billed Cuckoo	Black-billed_Cuckoo
+Black-billed Magpie	Black-billed_Magpie
+Black-browed Albatross	Black-browed_Albatross
+Black-capped Chickadee	Black-capped_Chickadee
+Black-capped Gnatcatcher	Black-capped_Gnatcatcher
+Black-capped Petrel	Black-capped_Petrel
+Black-capped Vireo	Black-capped_Vireo
+Black-chinned Hummingbird	Black-chinned_Hummingbird
+Black-chinned Sparrow	Black-chinned_Sparrow
+Black-crested Titmouse	Black-crested_Titmouse
+Black-crowned Night Heron	Black-crowned_Night-Heron
+Black-crowned Night-Heron	Black-crowned_Night-Heron
+Black-faced Grassquit	Black-faced_Grassquit
+Black-footed Albatross	Black-footed_Albatross
+Black-headed Grosbeak	Black-headed_Grosbeak
+Black-headed Gull	Black-headed_Gull
+Black-headed Nightingale-Thrush	Black-headed_Nightingale-Thrush
+Black-legged Kittiwake	Black-legged_Kittiwake
+Black-necked Stilt	Black-necked_Stilt
+Black-tailed Gnatcatcher	Black-tailed_Gnatcatcher
+Black-tailed Godwit	Black-tailed_Godwit
+Black-tailed Gull	Black-tailed_Gull
+Black-throated Blue Warbler	Black-throated_Blue_Warbler
+Black-throated Gray Warbler	Black-throated_Gray_Warbler
+Black-throated Green Warbler	Black-throated_Green_Warbler
+Black-throated Sparrow	Black-throated_Sparrow
+Black-vented Oriole	Black-vented_Oriole
+Black-vented Shearwater	Black-vented_Shearwater
+Black-whiskered Vireo	Black-whiskered_Vireo
+Black-winged Petrel	Black-winged_Petrel
+Black-winged Stilt	Black-winged_Stilt
+Blackburnian Warbler	Blackburnian_Warbler
+Blackpoll Warbler	Blackpoll_Warbler
+Blue Bunting	Blue_Bunting
+Blue Grosbeak	Blue_Grosbeak
+Blue Jay	Blue_Jay
+Blue Mockingbird	Blue_Mockingbird
+Blue Rock-Thrush	Blue_Rock-Thrush
+Blue-and-white Swallow	Blue-and-white_Swallow
+Blue-and-yellow Macaw	Blue-and-yellow_Macaw
+Blue-billed White-Tern	Blue-billed_White-Tern
+Blue-black Grassquit	Blue-black_Grassquit
+Blue-crowned Parakeet	Blue-crowned_Parakeet
+Blue-footed Booby	Blue-footed_Booby
+Blue-gray Gnatcatcher	Blue-gray_Gnatcatcher
+Blue-gray Noddy	Blue-gray_Noddy
+Blue-gray Tanager	Blue-gray_Tanager
+Blue-headed Vireo	Blue-headed_Vireo
+Blue-throated Mountain-gem	Blue-throated_Mountain-gem
+Blue-winged Teal	Blue-winged_Teal
+Blue-winged Warbler	Blue-winged_Warbler
+Bluethroat	Bluethroat
+Blyth's Reed Warbler	Blyths_Reed_Warbler
+Boat-tailed Grackle	Boat-tailed_Grackle
+Bobolink	Bobolink
+Bohemian Waxwing	Bohemian_Waxwing
+Bonaparte's Gull	Bonapartes_Gull
+Bonin Petrel	Bonin_Petrel
+Boreal Chickadee	Boreal_Chickadee
+Boreal Owl	Boreal_Owl
+Botteri's Sparrow	Botteris_Sparrow
+Brambling	Brambling
+Brandt's Cormorant	Brandts_Cormorant
+Brant	Brant
+Brant's Goose	Brants_Goose
+Brewer's Blackbird	Brewers_Blackbird
+Brewer's Sparrow	Brewers_Sparrow
+Bridled Tern	Bridled_Tern
+Bridled Titmouse	Bridled_Titmouse
+Bristle-thighed Curlew	Bristle-thighed_Curlew
+Broad-billed Hummingbird	Broad-billed_Hummingbird
+Broad-billed Sandpiper	Broad-billed_Sandpiper
+Broad-tailed Hummingbird	Broad-tailed_Hummingbird
+Broad-winged Hawk	Broad-winged_Hawk
+Bronzed Cowbird	Bronzed_Cowbird
+Brown Booby	Brown_Booby
+Brown Creeper	Brown_Creeper
+Brown Jay	Brown_Jay
+Brown Noddy	Brown_Noddy
+Brown Pelican	Brown_Pelican
+Brown Shrike	Brown_Shrike
+Brown Thrasher	Brown_Thrasher
+Brown-backed Solitaire	Brown-backed_Solitaire
+Brown-capped Rosy-Finch	Brown-capped_Rosy-Finch
+Brown-chested Martin	Brown-chested_Martin
+Brown-crested Flycatcher	Brown-crested_Flycatcher
+Brown-headed Cowbird	Brown-headed_Cowbird
+Brown-headed Nuthatch	Brown-headed_Nuthatch
+Bryan's Shearwater	Bryans_Shearwater
+Budgerigar	Budgerigar
+Buff-bellied Hummingbird	Buff-bellied_Hummingbird
+Buff-breasted Flycatcher	Buff-breasted_Flycatcher
+Buff-breasted Sandpiper	Buff-breasted_Sandpiper
+Buff-collared Nightjar	Buff-collared_Nightjar
+Bufflehead	Bufflehead
+Buller's Shearwater	Bullers_Shearwater
+Bullock's Oriole	Bullocks_Oriole
+Bulwer's Petrel	Bulwers_Petrel
+Bumblebee Hummingbird	Bumblebee_Hummingbird
+Burrowing Owl	Burrowing_Owl
+Burrowing Parakeet	Burrowing_Parakeet
+Bushtit	Bushtit
+Cackling Goose	Cackling_Goose
+Cactus Wren	Cactus_Wren
+California Condor	California_Condor
+California Gnatcatcher	California_Gnatcatcher
+California Gull	California_Gull
+California Quail	California_Quail
+California Scrub-Jay	California_Scrub-Jay
+California Thrasher	California_Thrasher
+California Towhee	California_Towhee
+Calliope Hummingbird	Calliope_Hummingbird
+Canada Goose	Canada_Goose
+Canada Jay	Canada_Jay
+Canada Warbler	Canada_Warbler
+Canvasback	Canvasback
+Canyon Towhee	Canyon_Towhee
+Canyon Wren	Canyon_Wren
+Cape May Warbler	Cape_May_Warbler
+Cape Verde Shearwater	Cape_Verde_Shearwater
+Carolina Chickadee	Carolina_Chickadee
+Carolina Parakeet	Carolina_Parakeet
+Carolina Wren	Carolina_Wren
+Caspian Tern	Caspian_Tern
+Cassia Crossbill	Cassia_Crossbill
+Cassin's Auklet	Cassins_Auklet
+Cassin's Finch	Cassins_Finch
+Cassin's Kingbird	Cassins_Kingbird
+Cassin's Sparrow	Cassins_Sparrow
+Cassin's Vireo	Cassins_Vireo
+Cattle Tyrant	Cattle_Tyrant
+Cave Swallow	Cave_Swallow
+Cedar Waxwing	Cedar_Waxwing
+Cerulean Warbler	Cerulean_Warbler
+Chatham Albatross	Chatham_Albatross
+Chestnut Munia	Chestnut_Munia
+Chestnut-backed Chickadee	Chestnut-backed_Chickadee
+Chestnut-bellied Sandgrouse	Chestnut-bellied_Sandgrouse
+Chestnut-collared Longspur	Chestnut-collared_Longspur
+Chestnut-fronted Macaw	Chestnut-fronted_Macaw
+Chestnut-sided Warbler	Chestnut-sided_Warbler
+Chihuahuan Meadowlark	Chihuahuan_Meadowlark
+Chihuahuan Raven	Chihuahuan_Raven
+Chimney Swift	Chimney_Swift
+Chinese Egret	Chinese_Egret
+Chinese Hwamei	Chinese_Hwamei
+Chinese Pond-Heron	Chinese_Pond-Heron
+Chinese Sparrowhawk	Chinese_Sparrowhawk
+Chipping Sparrow	Chipping_Sparrow
+Christmas Shearwater	Christmas_Shearwater
+Chuck-will's-widow	Chuck-wills-widow
+Chukar	Chukar
+Cinnamon Hummingbird	Cinnamon_Hummingbird
+Cinnamon Teal	Cinnamon_Teal
+Citrine Wagtail	Citrine_Wagtail
+Clapper Rail	Clapper_Rail
+Clark's Grebe	Clarks_Grebe
+Clark's Nutcracker	Clarks_Nutcracker
+Clay-colored Sparrow	Clay-colored_Sparrow
+Clay-colored Thrush	Clay-colored_Thrush
+Cliff Swallow	Cliff_Swallow
+Cocos Booby	Cocos_Booby
+Colima Warbler	Colima_Warbler
+Collared Forest-Falcon	Collared_Forest-Falcon
+Collared Plover	Collared_Plover
+Common Black Hawk	Common_Black_Hawk
+Common Chaffinch	Common_Chaffinch
+Common Chiffchaff	Common_Chiffchaff
+Common Crane	Common_Crane
+Common Cuckoo	Common_Cuckoo
+Common Eider	Common_Eider
+Common Gallinule	Common_Gallinule
+Common Goldeneye	Common_Goldeneye
+Common Grackle	Common_Grackle
+Common Greenshank	Common_Greenshank
+Common Ground Dove	Common_Ground-Dove
+Common Ground-Dove	Common_Ground-Dove
+Common Gull	Common_Gull
+Common Loon	Common_Loon
+Common Merganser	Common_Merganser
+Common Murre	Common_Murre
+Common Myna	Common_Myna
+Common Nighthawk	Common_Nighthawk
+Common Pauraque	Common_Pauraque
+Common Pochard	Common_Pochard
+Common Poorwill	Common_Poorwill
+Common Raven	Common_Raven
+Common Redpoll	Common_Redpoll
+Common Redshank	Common_Redshank
+Common Redstart	Common_Redstart
+Common Ringed Plover	Common_Ringed_Plover
+Common Rosefinch	Common_Rosefinch
+Common Sandpiper	Common_Sandpiper
+Common Scoter	Common_Scoter
+Common Shelduck	Common_Shelduck
+Common Snipe	Common_Snipe
+Common Swift	Common_Swift
+Common Tern	Common_Tern
+Common Waxbill	Common_Waxbill
+Common Wood-Pigeon	Common_Wood-Pigeon
+Common Yellowthroat	Common_Yellowthroat
+Connecticut Warbler	Connecticut_Warbler
+Cook's Petrel	Cooks_Petrel
+Cooper's Hawk	Coopers_Hawk
+Corn Crake	Corn_Crake
+Cory's Shearwater	Corys_Shearwater
+Costa's Hummingbird	Costas_Hummingbird
+Couch's Kingbird	Couchs_Kingbird
+Crane Hawk	Crane_Hawk
+Craveri's Murrelet	Craveris_Murrelet
+Crescent-chested Warbler	Crescent-chested_Warbler
+Crested Auklet	Crested_Auklet
+Crested Caracara	Crested_Caracara
+Crested Myna	Crested_Myna
+Crimson-collared Grosbeak	Crimson-collared_Grosbeak
+Crissal Thrasher	Crissal_Thrasher
+Crowned Slaty Flycatcher	Crowned_Slaty_Flycatcher
+Cuban Martin	Cuban_Martin
+Cuban Pewee	Cuban_Pewee
+Cuban Vireo	Cuban_Vireo
+Curlew Sandpiper	Curlew_Sandpiper
+Curve-billed Thrasher	Curve-billed_Thrasher
+Dark-billed Cuckoo	Dark-billed_Cuckoo
+Dark-eyed Junco	Dark-eyed_Junco
+Dark-sided Flycatcher	Dark-sided_Flycatcher
+Demoiselle Crane	Demoiselle_Crane
+Desertas (Fea’s) Petrel	Desertas_(Feas)_Petrel
+Dickcissel	Dickcissel
+Double-crested Cormorant	Double-crested_Cormorant
+Double-striped Thick-knee	Double-striped_Thick-knee
+Double-toothed Kite	Double-toothed_Kite
+Dovekie	Dovekie
+Downy Woodpecker	Downy_Woodpecker
+Dunlin	Dunlin
+Dusky Flycatcher	Dusky_Flycatcher
+Dusky Grouse	Dusky_Grouse
+Dusky Thrush	Dusky_Thrush
+Dusky Warbler	Dusky_Warbler
+Dusky-capped Flycatcher	Dusky-capped_Flycatcher
+Eared Grebe	Eared_Grebe
+Eared Quetzal	Eared_Quetzal
+Eastern Bluebird	Eastern_Bluebird
+Eastern Cattle-Egret	Eastern_Cattle-Egret
+Eastern Kingbird	Eastern_Kingbird
+Eastern Meadowlark	Eastern_Meadowlark
+Eastern Phoebe	Eastern_Phoebe
+Eastern Screech-Owl	Eastern_Screech-Owl
+Eastern Spot-billed Duck	Eastern_Spot-billed_Duck
+Eastern Towhee	Eastern_Towhee
+Eastern Warbling-Vireo	Eastern_Warbling-Vireo
+Eastern Whip-poor-will	Whip-poor-will
+Eastern Wood-Pewee	Eastern_Wood-Pewee
+Eastern Yellow Wagtail	Eastern_Yellow_Wagtail
+Egyptian Goose	Egyptian_Goose
+Elegant Tern	Elegant_Tern
+Elegant Trogon	Elegant_Trogon
+Elf Owl	Elf_Owl
+Emperor Goose	Emperor_Goose
+Erckel's Spurfowl	Erckels_Spurfowl
+Eskimo Curlew	Eskimo_Curlew
+Eurasian (Common) Hoopoe	Eurasian_(Common)_Hoopoe
+Eurasian (Common) Moorhen	Eurasian_(Common)_Moorhen
+Eurasian Blackbird	Eurasian_Blackbird
+Eurasian Bullfinch	Eurasian_Bullfinch
+Eurasian Collared-Dove	Eurasian_Collared-Dove
+Eurasian Coot	Eurasian_Coot
+Eurasian Curlew	Eurasian_Curlew
+Eurasian Dotterel	Eurasian_Dotterel
+Eurasian Hobby	Eurasian_Hobby
+Eurasian Jackdaw	Eurasian_Jackdaw
+Eurasian Kestrel	Eurasian_Kestrel
+Eurasian Oystercatcher	Eurasian_Oystercatcher
+Eurasian Siskin	Eurasian_Siskin
+Eurasian Skylark	Eurasian_Skylark
+Eurasian Sparrowhawk	Eurasian_Sparrowhawk
+Eurasian Tree Sparrow	Eurasian_Tree_Sparrow
+Eurasian Whimbrel	Eurasian_Whimbrel
+Eurasian Wigeon	Eurasian_Wigeon
+Eurasian Woodcock	Eurasian_Woodcock
+Eurasian Wryneck	Eurasian_Wryneck
+European Golden-Plover	European_Golden-Plover
+European Goldfinch	European_Goldfinch
+European Herring Gull	European_Herring_Gull
+European Robin	European_Robin
+European Starling	European_Starling
+European Storm-Petrel	European_Storm-Petrel
+European Turtle-Dove	European_Turtle-Dove
+Evening Grosbeak	Evening_Grosbeak
+Eyebrowed Thrush	Eyebrowed_Thrush
+Falcated Duck	Falcated_Duck
+Fan-tailed Warbler	Fan-tailed_Warbler
+Far Eastern Curlew	Far_Eastern_Curlew
+Ferruginous Hawk	Ferruginous_Hawk
+Ferruginous Pygmy-Owl	Ferruginous_Pygmy-Owl
+Field Sparrow	Field_Sparrow
+Fieldfare	Fieldfare
+Fish Crow	Fish_Crow
+Five-striped Sparrow	Five-striped_Sparrow
+Flame-colored Tanager	Flame-colored_Tanager
+Flammulated Owl	Flammulated_Owl
+Flesh-footed Shearwater	Flesh-footed_Shearwater
+Florida Scrub-Jay	Florida_Scrub-Jay
+Fork-tailed Flycatcher	Fork-tailed_Flycatcher
+Fork-tailed Storm-Petrel	Fork-tailed_Storm-Petrel
+Forster's Tern	Forsters_Tern
+Fox Sparrow	Fox_Sparrow
+Franklin's Gull	Franklins_Gull
+Fulvous Whistling-Duck	Fulvous_Whistling-Duck
+Gadwall	Gadwall
+Gambel's Quail	Gambels_Quail
+Garganey	Garganey
+Gila Woodpecker	Gila_Woodpecker
+Gilded Flicker	Gilded_Flicker
+Glaucous Gull	Glaucous_Gull
+Glaucous-winged Gull	Glaucous-winged_Gull
+Glossy Ibis	Glossy_Ibis
+Golden Eagle	Golden_Eagle
+Golden Pheasant	Golden_Pheasant
+Golden-cheeked Warbler	Golden-cheeked_Warbler
+Golden-crowned Kinglet	Golden-crowned_Kinglet
+Golden-crowned Sparrow	Golden-crowned_Sparrow
+Golden-crowned Warbler	Golden-crowned_Warbler
+Golden-fronted Woodpecker	Golden-fronted_Woodpecker
+Golden-winged Warbler	Golden-winged_Warbler
+Grace's Warbler	Graces_Warbler
+Grasshopper Sparrow	Grasshopper_Sparrow
+Gray Bunting	Gray_Bunting
+Gray Catbird	Gray_Catbird
+Gray Flycatcher	Gray_Flycatcher
+Gray Francolin	Gray_Francolin
+Gray Gull	Gray_Gull
+Gray Hawk	Gray_Hawk
+Gray Heron	Gray_Heron
+Gray Kingbird	Gray_Kingbird
+Gray Nightjar	Gray_Nightjar
+Gray Partridge	Gray_Partridge
+Gray Silky-flycatcher	Gray_Silky-flycatcher
+Gray Thrasher	Gray_Thrasher
+Gray Vireo	Gray_Vireo
+Gray Wagtail	Gray_Wagtail
+Gray-backed Tern	Gray-backed_Tern
+Gray-breasted Martin	Gray-breasted_Martin
+Gray-cheeked Thrush	Gray-cheeked_Thrush
+Gray-collared Becard	Gray-collared_Becard
+Gray-crowned Rosy-Finch	Gray-crowned_Rosy-Finch
+Gray-crowned Yellowthroat	Gray-crowned_Yellowthroat
+Gray-faced Petrel	Gray-faced_Petrel
+Gray-headed (Purple) Swamphen	Gray-headed_(Purple)_Swamphen
+Gray-headed Chickadee	Gray-headed_Chickadee
+Gray-hooded Gull	Gray-hooded_Gull
+Gray-streaked Flycatcher	Gray-streaked_Flycatcher
+Gray-tailed Tattler	Gray-tailed_Tattler
+Graylag Goose	Graylag_Goose
+Great Auk	Great_Auk
+Great Black Hawk	Great_Black_Hawk
+Great Black-backed Gull	Great_Black-backed_Gull
+Great Blue Heron	Great_Blue_Heron
+Great Cormorant	Great_Cormorant
+Great Crested Flycatcher	Great_Crested_Flycatcher
+Great Crested Tern	Great_Crested_Tern
+Great Egret	Great_Egret
+Great Frigatebird	Great_Frigatebird
+Great Gray Owl	Great_Gray_Owl
+Great Horned Owl	Great_Horned_Owl
+Great Kiskadee	Great_Kiskadee
+Great Knot	Great_Knot
+Great Shearwater	Great_Shearwater
+Great Skua	Great_Skua
+Great Spotted Woodpecker	Great_Spotted_Woodpecker
+Great Tit	Great_Tit
+Great White Pelican	Great_White_Pelican
+Great-tailed Grackle	Great-tailed_Grackle
+Greater Amakihi	Greater_Amakihi
+Greater Koa-Finch	Greater_Koa-Finch
+Greater Necklaced Laughingthrush	Greater_Necklaced_Laughingthrush
+Greater Pewee	Greater_Pewee
+Greater Prairie-Chicken	Greater_Prairie-Chicken
+Greater Roadrunner	Greater_Roadrunner
+Greater Sage-Grouse	Sage_Grouse
+Greater Sand-Plover	Greater_Sand-Plover
+Greater Scaup	Greater_Scaup
+Greater White-fronted Goose	Greater_White-fronted_Goose
+Greater Yellowlegs	Greater_Yellowlegs
+Green Heron	Green_Heron
+Green Jay	Green_Jay
+Green Kingfisher	Green_Kingfisher
+Green Parakeet	Green_Parakeet
+Green Sandpiper	Green_Sandpiper
+Green-breasted Mango	Green-breasted_Mango
+Green-tailed Towhee	Green-tailed_Towhee
+Green-winged Teal	Green-winged_Teal
+Greenish Elaenia	Greenish_Elaenia
+Groove-billed Ani	Groove-billed_Ani
+Guadalupe Murrelet	Guadalupe_Murrelet
+Gull-billed Tern	Gull-billed_Tern
+Gunnison Sage-Grouse	Gunnison_Sage-Grouse
+Gyrfalcon	Gyrfalcon
+Hairy Woodpecker	Hairy_Woodpecker
+Hammond's Flycatcher	Hammonds_Flycatcher
+Harlequin Duck	Harlequin_Duck
+Harris's Hawk	Harriss_Hawk
+Harris's Sparrow	Harriss_Sparrow
+Hawaii Akepa	Hawaii_Akepa
+Hawaii Amakihi	Hawaii_Amakihi
+Hawaii Creeper	Hawaii_Creeper
+Hawaii Elepaio	Hawaii_Elepaio
+Hawaii Mamo	Hawaii_Mamo
+Hawaii Oo	Hawaii_Oo
+Hawaiian Coot	Hawaiian_Coot
+Hawaiian Crow	Hawaiian_Crow
+Hawaiian Duck	Hawaiian_Duck
+Hawaiian Goose	Hawaiian_Goose
+Hawaiian Hawk	Hawaiian_Hawk
+Hawaiian Petrel	Hawaiian_Petrel
+Hawaiian Rail	Hawaiian_Rail
+Hawfinch	Hawfinch
+Heermann's Gull	Heermanns_Gull
+Hen Harrier	Hen_Harrier
+Henslow's Sparrow	Henslows_Sparrow
+Hepatic Tanager	Hepatic_Tanager
+Herald Petrel	Herald_Petrel
+Hermit Thrush	Hermit_Thrush
+Hermit Warbler	Hermit_Warbler
+Herring Gull	Herring_Gull
+Himalayan Snowcock	Himalayan_Snowcock
+Hoary Redpoll	Hoary_Redpoll
+Hooded Crane	Hooded_Crane
+Hooded Crow	Hooded_Crow
+Hooded Merganser	Hooded_Merganser
+Hooded Oriole	Hooded_Oriole
+Hooded Warbler	Hooded_Warbler
+Hook-billed Kite	Hook-billed_Kite
+Horned Grebe	Horned_Grebe
+Horned Lark	Horned_Lark
+Horned Puffin	Horned_Puffin
+House Crow	House_Crow
+House Finch	House_Finch
+House Sparrow	House_Sparrow
+Hudsonian Godwit	Hudsonian_Godwit
+Hudsonian Whimbrel	Whimbrel
+Hutton's Vireo	Huttons_Vireo
+Iceland Gull	Iceland_Gull
+Icterine Warbler	Icterine_Warbler
+Iiwi	Iiwi
+Inca Dove	Inca_Dove
+Inca Tern	Inca_Tern
+Indian Peafowl	Indian_Peafowl
+Indigo Bunting	Indigo_Bunting
+Island Canary	Island_Canary
+Island Scrub-Jay	Island_Scrub-Jay
+Ivory Gull	Ivory_Gull
+Ivory-billed Woodpecker	Ivory-billed_Woodpecker
+Jabiru	Jabiru
+Jack Snipe	Jack_Snipe
+Japanese Bush Warbler	Japanese_Bush_Warbler
+Japanese Quail*	Japanese_Quail*
+Java Sparrow	Java_Sparrow
+Jouanin's Petrel	Jouanins_Petrel
+Juan Fernandez Petrel	Juan_Fernandez_Petrel
+Juniper Titmouse	Juniper_Titmouse
+Kakawahie	Kakawahie
+Kalij Pheasant	Kalij_Pheasant
+Kamao	Kamao
+Kamchatka Leaf Warbler	Kamchatka_Leaf_Warbler
+Kauai Akialoa	Kauai_Akialoa
+Kauai Amakihi	Kauai_Amakihi
+Kauai Elepaio	Kauai_Elepaio
+Kauai Nukupuu	Kauai_Nukupuu
+Kauai Oo	Kauai_Oo
+Kelp Gull	Kelp_Gull
+Kentish Plover	Kentish_Plover
+Kentucky Warbler	Kentucky_Warbler
+Kermadec Petrel	Kermadec_Petrel
+Key West Quail-Dove	Key_West_Quail-Dove
+Killdeer	Killdeer
+King Eider	King_Eider
+King Rail	King_Rail
+Kioea	Kioea
+Kirtland's Warbler	Kirtlands_Warbler
+Kittlitz's Murrelet	Kittlitzs_Murrelet
+Kona Grosbeak	Kona_Grosbeak
+La Sagra's Flycatcher	La_Sagras_Flycatcher
+Labrador Duck	Labrador_Duck
+Ladder-backed Woodpecker	Ladder-backed_Woodpecker
+Lanai Hookbill	Lanai_Hookbill
+Lanceolated Warbler	Lanceolated_Warbler
+Lapland Longspur	Lapland_Longspur
+Large-billed Tern	Large-billed_Tern
+Lark Bunting	Lark_Bunting
+Lark Sparrow	Lark_Sparrow
+Laughing Gull	Laughing_Gull
+Lavender Waxbill	Lavender_Waxbill
+Lawrence's Goldfinch	Lawrences_Goldfinch
+Laysan Albatross	Laysan_Albatross
+Laysan Duck	Laysan_Duck
+Laysan Finch	Laysan_Finch
+Laysan Honeycreeper	Laysan_Honeycreeper
+Laysan Rail	Laysan_Rail
+Lazuli Bunting	Lazuli_Bunting
+Leach's Storm-Petrel	Leachs_Storm-Petrel
+Least Auklet	Least_Auklet
+Least Bittern	Least_Bittern
+Least Flycatcher	Least_Flycatcher
+Least Grebe	Least_Grebe
+Least Sandpiper	Least_Sandpiper
+Least Storm-Petrel	Least_Storm-Petrel
+Least Tern	Least_Tern
+LeConte's Sparrow	LeContes_Sparrow
+LeConte's Thrasher	LeContes_Thrasher
+Lesser Akialoa	Lesser_Akialoa
+Lesser Black-backed Gull	Lesser_Black-backed_Gull
+Lesser Frigatebird	Lesser_Frigatebird
+Lesser Goldfinch	Lesser_Goldfinch
+Lesser Koa-Finch	Lesser_Koa-Finch
+Lesser Nighthawk	Lesser_Nighthawk
+Lesser Prairie-Chicken	Lesser_Prairie-Chicken
+Lesser Scaup	Lesser_Scaup
+Lesser White-fronted Goose	Lesser_White-fronted_Goose
+Lesser Whitethroat	Lesser_Whitethroat
+Lesser Yellowlegs	Lesser_Yellowlegs
+Lesson's Seedeater	Lessons_Seedeater
+Lewis's Woodpecker	Lewiss_Woodpecker
+Light-mantled Albatross	Light-mantled_Albatross
+Lilac-crowned Amazon	Lilac-crowned_Amazon
+Limpkin	Limpkin
+Lincoln's Sparrow	Lincolns_Sparrow
+Little Blue Heron	Little_Blue_Heron
+Little Bunting	Little_Bunting
+Little Curlew	Little_Curlew
+Little Egret	Little_Egret
+Little Gull	Little_Gull
+Little Ringed Plover	Little_Ringed_Plover
+Little Stint	Little_Stint
+Little Tern	Little_Tern
+Little White-Tern	Little_White-Tern
+Loggerhead Kingbird	Loggerhead_Kingbird
+Loggerhead Shrike	Loggerhead_Shrike
+Long-billed Curlew	Long-billed_Curlew
+Long-billed Dowitcher	Long-billed_Dowitcher
+Long-billed Murrelet	Long-billed_Murrelet
+Long-billed Thrasher	Long-billed_Thrasher
+Long-eared Owl	Long-eared_Owl
+Long-legged Buzzard	Long-legged_Buzzard
+Long-tailed Duck	Long-tailed_Duck
+Long-tailed Jaeger	Long-tailed_Jaeger
+Long-toed Stint	Long-toed_Stint
+Louisiana Waterthrush	Louisiana_Waterthrush
+Lucifer Hummingbird	Lucifer_Hummingbird
+Lucy's Warbler	Lucys_Warbler
+MacGillivray's Warbler	MacGillivrays_Warbler
+Magnificent Frigatebird	Magnificent_Frigatebird
+Magnolia Warbler	Magnolia_Warbler
+Mallard	Mallard
+Mandarin Duck	Mandarin_Duck
+Mangrove Cuckoo	Mangrove_Cuckoo
+Mangrove Swallow	Mangrove_Swallow
+Mangrove Yellow (Yellow) Warbler	Mangrove_Yellow_(Yellow)_Warbler
+Manx Shearwater	Manx_Shearwater
+Marbled Godwit	Marbled_Godwit
+Marbled Murrelet	Marbled_Murrelet
+Mariana Swiftlet	Mariana_Swiftlet
+Marsh Sandpiper	Marsh_Sandpiper
+Marsh Wren	Marsh_Wren
+Masked Booby	Masked_Booby
+Masked Duck	Masked_Duck
+Masked Tityra	Masked_Tityra
+Maui Akepa	Maui_Akepa
+Maui Alauahio	Maui_Alauahio
+Maui Nukupuu	Maui_Nukupuu
+Maui Parrotbill	Maui_Parrotbill
+Maui-nui Akialoa	Maui-nui_Akialoa
+McCown's Longspur	McCowns_Longspur
+McKay's Bunting	McKays_Bunting
+Medium Egret	Medium_Egret
+Merlin	Merlin
+Mexican Chickadee	Mexican_Chickadee
+Mexican Duck	Mexican_Duck
+Mexican Jay	Mexican_Jay
+Mexican Violetear	Mexican_Violetear
+Mexican Whip-poor-will	Mexican_Whip-poor-will
+Middendorff's Grasshopper Warbler	Middendorffs_Grasshopper_Warbler
+Millerbird	Millerbird
+Mississippi Kite	Mississippi_Kite
+Mistle Thrush	Mistle_Thrush
+Mitred Parakeet	Mitred_Parakeet
+Monk Parakeet	Monk_Parakeet
+Montezuma Quail	Montezuma_Quail
+Morelet's Seedeater	Morelets_Seedeater
+Mottled Duck	Mottled_Duck
+Mottled Owl	Mottled_Owl
+Mottled Petrel	Mottled_Petrel
+Mountain Bluebird	Mountain_Bluebird
+Mountain Chickadee	Mountain_Chickadee
+Mountain Plover	Mountain_Plover
+Mountain Quail	Mountain_Quail
+Mourning Dove	Mourning_Dove
+Mourning Warbler	Mourning_Warbler
+Mugimaki Flycatcher	Mugimaki_Flycatcher
+Murphy's Petrel	Murphys_Petrel
+Muscovy Duck	Muscovy_Duck
+Mute Swan	Mute_Swan
+Nanday Parakeet	Nanday_Parakeet
+Narcissus Flycatcher	Narcissus_Flycatcher
+Nashville Warbler	Nashville_Warbler
+Naumann's Thrush	Naumanns_Thrush
+Nazca Booby	Nazca_Booby
+Nelson's Sparrow	Nelsons_Sparrow
+Neotropic Cormorant	Neotropic_Cormorant
+Newell's Shearwater	Newells_Shearwater
+Nihoa Finch	Nihoa_Finch
+Northern Beardless-Tyrannulet	Northern_Beardless-Tyrannulet
+Northern Bobwhite	Northern_Bobwhite
+Northern Boobook	Northern_Boobook
+Northern Cardinal	Northern_Cardinal
+Northern Flicker	Northern_Flicker
+Northern Fulmar	Northern_Fulmar
+Northern Gannet	Northern_Gannet
+Northern Giant-Petrel	Northern_Giant-Petrel
+Northern Goshawk	Northern_Goshawk
+Northern Harrier	Northern_Harrier
+Northern Hawk Owl	Northern_Hawk_Owl
+Northern House Wren	Northern_House_Wren
+Northern Jacana	Northern_Jacana
+Northern Lapwing	Northern_Lapwing
+Northern Mockingbird	Northern_Mockingbird
+Northern Parula	Northern_Parula
+Northern Pintail	Northern_Pintail
+Northern Pygmy-Owl	Northern_Pygmy-Owl
+Northern Red Bishop	Northern_Red_Bishop
+Northern Rough-winged Swallow	Northern_Rough-winged_Swallow
+Northern Saw-whet Owl	Northern_Saw-whet_Owl
+Northern Shoveler	Northern_Shoveler
+Northern Shrike	Northern_Shrike
+Northern Waterthrush	Northern_Waterthrush
+Northern Wheatear	Northern_Wheatear
+Northern Yellow (Yellow) Warbler	Northern_Yellow_(Yellow)_Warbler
+Nuttall's Woodpecker	Nuttalls_Woodpecker
+Nutting's Flycatcher	Nuttings_Flycatcher
+Oahu Akepa	Oahu_Akepa
+Oahu Akialoa	Oahu_Akialoa
+Oahu Alauahio	Oahu_Alauahio
+Oahu Amakihi	Oahu_Amakihi
+Oahu Elepaio	Oahu_Elepaio
+Oahu Nukupuu	Oahu_Nukupuu
+Oahu Oo	Oahu_Oo
+Oak Titmouse	Oak_Titmouse
+Olive Sparrow	Olive_Sparrow
+Olive Warbler	Olive_Warbler
+Olive-backed Pipit	Olive-backed_Pipit
+Olive-sided Flycatcher	Olive-sided_Flycatcher
+Olomao	Olomao
+Omao	Omao
+Orange-billed Nightingale-Thrush	Orange-billed_Nightingale-Thrush
+Orange-cheeked Waxbill	Orange-cheeked_Waxbill
+Orange-crowned Warbler	Orange-crowned_Warbler
+Orange-winged Parrot	Orange-winged_Parrot
+Orchard Oriole	Orchard_Oriole
+Oriental Cuckoo	Oriental_Cuckoo
+Oriental Greenfinch	Oriental_Greenfinch
+Oriental Honey-buzzard	Oriental_Honey-buzzard
+Oriental Pratincole	Oriental_Pratincole
+Oriental Scops-Owl	Oriental_Scops-Owl
+Oriental Turtle-Dove	Oriental_Turtle-Dove
+Osprey	Osprey
+Ou	Ou
+Ovenbird	Ovenbird
+Pacific (Fork-tailed) Swift	Pacific_(Fork-tailed)_Swift
+Pacific Golden-Plover	Pacific_Golden-Plover
+Pacific Loon	Pacific_Loon
+Pacific Wren	Pacific_Wren
+Pacific-slope Flycatcher	Pacific-slope_Flycatcher
+Paint-billed Crake	Paint-billed_Crake
+Painted Bunting	Painted_Bunting
+Painted Redstart	Painted_Redstart
+Palila	Palila
+Pallas's Bunting	Pallass_Bunting
+Pallas's Grasshopper Warbler	Pallass_Grasshopper_Warbler
+Pallas's Gull	Pallass_Gull
+Pallas's Leaf Warbler	Pallass_Leaf_Warbler
+Pallas's Rosefinch	Pallass_Rosefinch
+Palm Warbler	Palm_Warbler
+Parakeet Auklet	Parakeet_Auklet
+Parasitic Jaeger	Parasitic_Jaeger
+Parkinson's Petrel	Parkinsons_Petrel
+Passenger Pigeon	Passenger_Pigeon
+Pechora Pipit	Pechora_Pipit
+Pectoral Sandpiper	Pectoral_Sandpiper
+Pelagic Cormorant	Pelagic_Cormorant
+Peregrine Falcon	Peregrine_Falcon
+Phainopepla	Phainopepla
+Philadelphia Vireo	Philadelphia_Vireo
+Pied Wheatear	Pied_Wheatear
+Pied-billed Grebe	Pied-billed_Grebe
+Pigeon Guillemot	Pigeon_Guillemot
+Pileated Woodpecker	Pileated_Woodpecker
+Pin-tailed Snipe	Pin-tailed_Snipe
+Pin-tailed Whydah	Pin-tailed_Whydah
+Pine Bunting	Pine_Bunting
+Pine Flycatcher	Pine_Flycatcher
+Pine Grosbeak	Pine_Grosbeak
+Pine Siskin	Pine_Siskin
+Pine Warbler	Pine_Warbler
+Pink-footed Goose	Pink-footed_Goose
+Pink-footed Shearwater	Pink-footed_Shearwater
+Pinyon Jay	Pinyon_Jay
+Piping Plover	Piping_Plover
+Piratic Flycatcher	Piratic_Flycatcher
+Plain Chachalaca	Plain_Chachalaca
+Plain-capped Starthroat	Plain-capped_Starthroat
+Plumbeous Vireo	Plumbeous_Vireo
+Pomarine Jaeger	Pomarine_Jaeger
+Poo-uli	Poo-uli
+Prairie Falcon	Prairie_Falcon
+Prairie Warbler	Prairie_Warbler
+Prothonotary Warbler	Prothonotary_Warbler
+Providence Petrel	Providence_Petrel
+Puaiohi	Puaiohi
+Purple Finch	Purple_Finch
+Purple Gallinule	Purple_Gallinule
+Purple Martin	Purple_Martin
+Purple Sandpiper	Purple_Sandpiper
+Pygmy Nuthatch	Pygmy_Nuthatch
+Pyrrhuloxia	Pyrrhuloxia
+Razorbill	Razorbill
+Red Avadavat	Red_Avadavat
+Red Crossbill	Red_Crossbill
+Red Junglefowl	Red_Junglefowl
+Red Knot	Red_Knot
+Red Phalarope	Red_Phalarope
+Red-backed Shrike	Red-backed_Shrike
+Red-bellied Woodpecker	Red-bellied_Woodpecker
+Red-billed Leiothrix	Red-billed_Leiothrix
+Red-billed Pigeon	Red-billed_Pigeon
+Red-billed Tropicbird	Red-billed_Tropicbird
+Red-breasted Merganser	Red-breasted_Merganser
+Red-breasted Nuthatch	Red-breasted_Nuthatch
+Red-breasted Sapsucker	Red-breasted_Sapsucker
+Red-cockaded Woodpecker	Red-cockaded_Woodpecker
+Red-crested Cardinal	Red-crested_Cardinal
+Red-crowned Amazon	Red-crowned_Amazon
+Red-eyed Vireo	Red-eyed_Vireo
+Red-faced Cormorant	Red-faced_Cormorant
+Red-faced Warbler	Red-faced_Warbler
+Red-flanked Bluetail	Red-flanked_Bluetail
+Red-footed Booby	Red-footed_Booby
+Red-footed Falcon	Red-footed_Falcon
+Red-headed Woodpecker	Red-headed_Woodpecker
+Red-legged Honeycreeper	Red-legged_Honeycreeper
+Red-legged Kittiwake	Red-legged_Kittiwake
+Red-legged Thrush	Red-legged_Thrush
+Red-lored Amazon	Red-lored_Amazon
+Red-masked Parakeet	Red-masked_Parakeet
+Red-naped Sapsucker	Red-naped_Sapsucker
+Red-necked Grebe	Red-necked_Grebe
+Red-necked Phalarope	Red-necked_Phalarope
+Red-necked Stint	Red-necked_Stint
+Red-shouldered Hawk	Red-shouldered_Hawk
+Red-tailed Hawk	Red-tailed_Hawk
+Red-tailed Tropicbird	Red-tailed_Tropicbird
+Red-throated Loon	Red-throated_Loon
+Red-throated Pipit	Red-throated_Pipit
+Red-vented Bulbul	Red-vented_Bulbul
+Red-whiskered Bulbul	Red-whiskered_Bulbul
+Red-winged Blackbird	Red-winged_Blackbird
+Reddish Egret	Reddish_Egret
+Redhead	Redhead
+Redpoll	Redpoll
+Redwing	Redwing
+Reed Bunting	Reed_Bunting
+Rhinoceros Auklet	Rhinoceros_Auklet
+Ridgway's Rail	Ridgways_Rail
+Ring-billed Gull	Ring-billed_Gull
+Ring-necked Duck	Ring-necked_Duck
+Ring-necked Pheasant	Ring-necked_Pheasant
+Ringed Kingfisher	Ringed_Kingfisher
+Ringed Storm-Petrel	Ringed_Storm-Petrel
+River Warbler	River_Warbler
+Rivoli's Hummingbird	Rivolis_Hummingbird
+Roadside Hawk	Roadside_Hawk
+Rock Dove	Rock_Dove
+Rock Pigeon	Rock_Dove
+Rock Ptarmigan	Rock_Ptarmigan
+Rock Sandpiper	Rock_Sandpiper
+Rock Wren	Rock_Wren
+Rose-breasted Grosbeak	Rose-breasted_Grosbeak
+Rose-ringed Parakeet	Rose-ringed_Parakeet
+Rose-throated Becard	Rose-throated_Becard
+Roseate Spoonbill	Roseate_Spoonbill
+Roseate Tern	Roseate_Tern
+Ross' Goose	Ross_Goose
+Ross's Goose	Ross_Goose
+Ross's Gull	Rosss_Gull
+Rosy-faced Lovebird	Rosy-faced_Lovebird
+Rough-legged Hawk	Rough-legged_Hawk
+Royal Tern	Royal_Tern
+Ruby-crowned Kinglet	Ruby-crowned_Kinglet
+Ruby-throated Hummingbird	Ruby-throated_Hummingbird
+Ruddy Duck	Ruddy_Duck
+Ruddy Ground Dove	Ruddy_Ground_Dove
+Ruddy Quail-Dove	Ruddy_Quail-Dove
+Ruddy Shelduck	Ruddy_Shelduck
+Ruddy Turnstone	Ruddy_Turnstone
+Ruff	Ruff
+Ruffed Grouse	Ruffed_Grouse
+Rufous Hummingbird	Rufous_Hummingbird
+Rufous-backed Robin	Rufous-backed_Robin
+Rufous-capped Warbler	Rufous-capped_Warbler
+Rufous-collared Sparrow	Rufous-collared_Sparrow
+Rufous-crowned Sparrow	Rufous-crowned_Sparrow
+Rufous-necked Wood-Rail	Rufous-necked_Wood-Rail
+Rufous-tailed Robin	Rufous-tailed_Robin
+Rufous-tailed Rock-Thrush	Rufous-tailed_Rock-Thrush
+Rufous-winged Sparrow	Rufous-winged_Sparrow
+Rustic Bunting	Rustic_Bunting
+Rusty Blackbird	Rusty_Blackbird
+Sabine's Gull	Sabines_Gull
+Saffron Finch	Saffron_Finch
+Sage Grouse	Sage_Grouse
+Sage Sparrow	Sage_Sparrow
+Sage Thrasher	Sage_Thrasher
+Sagebrush Sparrow	Sagebrush_Sparrow
+Saltmarsh Sparrow	Saltmarsh_Sparrow
+Salvin's Albatross	Salvins_Albatross
+Sanderling	Sanderling
+Sandhill Crane	Sandhill_Crane
+Sandwich Tern	Sandwich_Tern
+Sargasso Shearwater	Sargasso_Shearwater
+Savannah Sparrow	Savannah_Sparrow
+Say's Phoebe	Says_Phoebe
+Scaled Quail	Scaled_Quail
+Scaly-breasted Munia	Scaly-breasted_Munia
+Scaly-naped Pigeon	Scaly-naped_Pigeon
+Scarlet Ibis	Scarlet_Ibis
+Scarlet Tanager	Scarlet_Tanager
+Scissor-tailed Flycatcher	Scissor-tailed_Flycatcher
+Scopoli's Shearwater	Scopolis_Shearwater
+Scott's Oriole	Scotts_Oriole
+Scripps's Murrelet	Scrippss_Murrelet
+Seaside Sparrow	Seaside_Sparrow
+Sedge Warbler	Sedge_Warbler
+Sedge Wren	Sedge_Wren
+Semipalmated Plover	Semipalmated_Plover
+Semipalmated Sandpiper	Semipalmated_Sandpiper
+Sharp-shinned Hawk	Sharp-shinned_Hawk
+Sharp-tailed Grouse	Sharp-tailed_Grouse
+Sharp-tailed Sandpiper	Sharp-tailed_Sandpiper
+Shiny Cowbird	Shiny_Cowbird
+Short-billed Dowitcher	Short-billed_Dowitcher
+Short-billed Gull	Short-billed_Gull
+Short-eared Owl	Short-eared_Owl
+Short-tailed Albatross	Short-tailed_Albatross
+Short-tailed Hawk	Short-tailed_Hawk
+Short-tailed Shearwater	Short-tailed_Shearwater
+Siberian Accentor	Siberian_Accentor
+Siberian Blue Robin	Siberian_Blue_Robin
+Siberian House-Martin	Siberian_House-Martin
+Siberian Pipit	Siberian_Pipit
+Siberian Rubythroat	Siberian_Rubythroat
+Siberian Sand-Plover	Siberian_Sand-Plover
+Siberian Stonechat	Siberian_Stonechat
+Silver Pheasant	Silver_Pheasant
+Sinaloa Wren	Sinaloa_Wren
+Slate-throated Redstart	Slate-throated_Redstart
+Slaty-backed Gull	Slaty-backed_Gull
+Slender-billed Curlew	Slender-billed_Curlew
+Small-billed Elaenia	Small-billed_Elaenia
+Smew	Smew
+Smith's Longspur	Smiths_Longspur
+Smooth-billed Ani	Smooth-billed_Ani
+Snail Kite	Snail_Kite
+Snow Bunting	Snow_Bunting
+Snow Goose	Snow_Goose
+Snowy Egret	Snowy_Egret
+Snowy Owl	Snowy_Owl
+Snowy Plover	Snowy_Plover
+Social Flycatcher	Social_Flycatcher
+Solitary Sandpiper	Solitary_Sandpiper
+Solitary Snipe	Solitary_Snipe
+Song Sparrow	Song_Sparrow
+Song Thrush	Song_Thrush
+Sooty Grouse	Sooty_Grouse
+Sooty Shearwater	Sooty_Shearwater
+Sooty Tern	Sooty_Tern
+Sora	Sora
+South Polar Skua	South_Polar_Skua
+Southern Lapwing	Southern_Lapwing
+Southern Martin	Southern_Martin
+Spectacled Eider	Spectacled_Eider
+Spoon-billed Sandpiper	Spoon-billed_Sandpiper
+Spot-breasted Oriole	Spot-breasted_Oriole
+Spotted Dove	Spotted_Dove
+Spotted Flycatcher	Spotted_Flycatcher
+Spotted Owl	Spotted_Owl
+Spotted Rail	Spotted_Rail
+Spotted Redshank	Spotted_Redshank
+Spotted Sandpiper	Spotted_Sandpiper
+Spotted Towhee	Spotted_Towhee
+Sprague's Pipit	Spragues_Pipit
+Spruce Grouse	Spruce_Grouse
+Stejneger's Petrel	Stejnegers_Petrel
+Stejneger's Scoter	Stejnegers_Scoter
+Steller's Eider	Stellers_Eider
+Steller's Jay	Stellers_Jay
+Steller's Sea-Eagle	Stellers_Sea-Eagle
+Stilt Sandpiper	Stilt_Sandpiper
+Streak-backed Oriole	Streak-backed_Oriole
+Streaked Shearwater	Streaked_Shearwater
+Striped Sparrow	Striped_Sparrow
+Stygian Owl	Stygian_Owl
+Sulphur-bellied Flycatcher	Sulphur-bellied_Flycatcher
+Summer Tanager	Summer_Tanager
+Sungrebe	Sungrebe
+Surf Scoter	Surf_Scoter
+Surfbird	Surfbird
+Swainson's Hawk	Swainsons_Hawk
+Swainson's Thrush	Swainsons_Thrush
+Swainson's Warbler	Swainsons_Warbler
+Swallow-tailed Gull	Swallow-tailed_Gull
+Swallow-tailed Kite	Swallow-tailed_Kite
+Swamp Sparrow	Swamp_Sparrow
+Swinhoe's Storm-Petrel	Swinhoes_Storm-Petrel
+Swinhoe's White-eye	Swinhoes_White-eye
+Tahiti Petrel	Tahiti_Petrel
+Taiga Bean-Goose	Taiga_Bean-Goose
+Taiga Flycatcher	Taiga_Flycatcher
+Tamaulipas Crow	Tamaulipas_Crow
+Tanimbar Corella	Tanimbar_Corella
+Tawny-shouldered Blackbird	Tawny-shouldered_Blackbird
+Temminck's Stint	Temmincks_Stint
+Tennessee Warbler	Tennessee_Warbler
+Terek Sandpiper	Terek_Sandpiper
+Thick-billed Kingbird	Thick-billed_Kingbird
+Thick-billed Longspur	McCowns_Longspur
+Thick-billed Murre	Thick-billed_Murre
+Thick-billed Parrot	Thick-billed_Parrot
+Thick-billed Vireo	Thick-billed_Vireo
+Thick-billed Warbler	Thick-billed_Warbler
+Townsend's Solitaire	Townsends_Solitaire
+Townsend's Storm-Petrel	Townsends_Storm-Petrel
+Townsend's Warbler	Townsends_Warbler
+Tree Pipit	Tree_Pipit
+Tree Swallow	Tree_Swallow
+Tricolored Blackbird	Tricolored_Blackbird
+Tricolored Heron	Tricolored_Heron
+Tricolored Munia	Tricolored_Munia
+Trindade Petrel	Trindade_Petrel
+Tristram's Storm-Petrel	Tristrams_Storm-Petrel
+Tropical Kingbird	Tropical_Kingbird
+Tropical Mockingbird	Tropical_Mockingbird
+Tropical Parula	Tropical_Parula
+Trumpeter Swan	Trumpeter_Swan
+Tufted Duck	Tufted_Duck
+Tufted Flycatcher	Tufted_Flycatcher
+Tufted Puffin	Tufted_Puffin
+Tufted Titmouse	Tufted_Titmouse
+Tundra Bean-Goose	Tundra_Bean-Goose
+Tundra Swan	Tundra_Swan
+Turkey Vulture	Turkey_Vulture
+Ula-ai-hawane	Ula-ai-hawane
+Upland Sandpiper	Upland_Sandpiper
+Variable Hawk*	Variable_Hawk*
+Varied Bunting	Varied_Bunting
+Varied Thrush	Varied_Thrush
+Variegated Flycatcher	Variegated_Flycatcher
+Vaux's Swift	Vauxs_Swift
+Veery	Veery
+Vega Gull	Vega_Gull
+Verdin	Verdin
+Vermilion Flycatcher	Vermilion_Flycatcher
+Vesper Sparrow	Vesper_Sparrow
+Violet-crowned Hummingbird	Violet-crowned_Hummingbird
+Violet-green Swallow	Violet-green_Swallow
+Virginia Rail	Virginia_Rail
+Virginia's Warbler	Virginias_Warbler
+Wandering Albatross	Wandering_Albatross
+Wandering Tattler	Wandering_Tattler
+Warbling White-eye	Warbling_White-eye
+Waved Albatross	Waved_Albatross
+Wedge-rumped Storm-Petrel	Wedge-rumped_Storm-Petrel
+Wedge-tailed Shearwater	Wedge-tailed_Shearwater
+West Indian Whistling-Duck	West_Indian_Whistling-Duck
+Western Bluebird	Western_Bluebird
+Western Cattle-Egret	Western_Cattle-Egret
+Western Flycatcher	Western_Flycatcher
+Western Grebe	Western_Grebe
+Western Gull	Western_Gull
+Western Kingbird	Western_Kingbird
+Western Marsh Harrier	Western_Marsh_Harrier
+Western Meadowlark	Western_Meadowlark
+Western Reef-Heron	Western_Reef-Heron
+Western Sandpiper	Western_Sandpiper
+Western Screech-Owl	Western_Screech-Owl
+Western Spindalis	Western_Spindalis
+Western Tanager	Western_Tanager
+Western Warbling-Vireo	Western_Warbling-Vireo
+Western Wood-Pewee	Western_Wood-Pewee
+Whip-poor-will	Whip-poor-will
+Whiskered Auklet	Whiskered_Auklet
+Whiskered Screech-Owl	Whiskered_Screech-Owl
+Whiskered Tern	Whiskered_Tern
+White Ibis	White_Ibis
+White Wagtail	White_Wagtail
+White-breasted Nuthatch	White-breasted_Nuthatch
+White-capped Albatross	White-capped_Albatross
+White-cheeked Pintail	White-cheeked_Pintail
+White-chinned Petrel	White-chinned_Petrel
+White-collared Swift	White-collared_Swift
+White-crested Elaenia	White-crested_Elaenia
+White-crowned Pigeon	White-crowned_Pigeon
+White-crowned Sparrow	White-crowned_Sparrow
+White-eared Hummingbird	White-eared_Hummingbird
+White-eyed Parakeet	White-eyed_Parakeet
+White-eyed Vireo	White-eyed_Vireo
+White-faced Ibis	White-faced_Ibis
+White-faced Storm-Petrel	White-faced_Storm-Petrel
+White-fronted Amazon	White-fronted_Amazon
+White-headed Woodpecker	White-headed_Woodpecker
+White-necked Petrel	White-necked_Petrel
+White-rumped Sandpiper	White-rumped_Sandpiper
+White-rumped Shama	White-rumped_Shama
+White-tailed Eagle	White-tailed_Eagle
+White-tailed Hawk	White-tailed_Hawk
+White-tailed Kite	White-tailed_Kite
+White-tailed Ptarmigan	White-tailed_Ptarmigan
+White-tailed Tropicbird	White-tailed_Tropicbird
+White-throated Needletail	White-throated_Needletail
+White-throated Sparrow	White-throated_Sparrow
+White-throated Swift	White-throated_Swift
+White-throated Thrush	White-throated_Thrush
+White-tipped Dove	White-tipped_Dove
+White-winged Crossbill	White-winged_Crossbill
+White-winged Dove	White-winged_Dove
+White-winged Parakeet	White-winged_Parakeet
+White-winged Scoter	White-winged_Scoter
+White-winged Tern	White-winged_Tern
+Whooper Swan	Whooper_Swan
+Whooping Crane	Whooping_Crane
+Wild Turkey	Wild_Turkey
+Willet	Willet
+Williamson's Sapsucker	Williamsons_Sapsucker
+Willow Flycatcher	Willow_Flycatcher
+Willow Ptarmigan	Willow_Ptarmigan
+Willow Warbler	Willow_Warbler
+Wilson's Phalarope	Wilsons_Phalarope
+Wilson's Plover	Wilsons_Plover
+Wilson's Snipe	Wilsons_Snipe
+Wilson's Storm-Petrel	Wilsons_Storm-Petrel
+Wilson's Warbler	Wilsons_Warbler
+Winter Wren	Winter_Wren
+Wood Duck	Wood_Duck
+Wood Sandpiper	Wood_Sandpiper
+Wood Stork	Wood_Stork
+Wood Thrush	Wood_Thrush
+Wood Warbler	Wood_Warbler
+Woodhouse's Scrub-Jay	Woodhouses_Scrub-Jay
+Worm-eating Warbler	Worm-eating_Warbler
+Worthen's Sparrow	Worthens_Sparrow
+Wrentit	Wrentit
+Xantus's Hummingbird	Xantuss_Hummingbird
+Yellow Bittern	Yellow_Bittern
+Yellow Grosbeak	Yellow_Grosbeak
+Yellow Rail	Yellow_Rail
+Yellow-bellied Flycatcher	Yellow-bellied_Flycatcher
+Yellow-bellied Sapsucker	Yellow-bellied_Sapsucker
+Yellow-billed Cardinal	Yellow-billed_Cardinal
+Yellow-billed Cuckoo	Yellow-billed_Cuckoo
+Yellow-billed Loon	Yellow-billed_Loon
+Yellow-billed Magpie	Yellow-billed_Magpie
+Yellow-breasted Bunting	Yellow-breasted_Bunting
+Yellow-breasted Chat	Yellow-breasted_Chat
+Yellow-browed Bunting	Yellow-browed_Bunting
+Yellow-browed Warbler	Yellow-browed_Warbler
+Yellow-chevroned Parakeet	Yellow-chevroned_Parakeet
+Yellow-crowned Night Heron	Yellow-crowned_Night-Heron
+Yellow-crowned Night-Heron	Yellow-crowned_Night-Heron
+Yellow-eyed Junco	Yellow-eyed_Junco
+Yellow-faced Grassquit	Yellow-faced_Grassquit
+Yellow-footed Gull	Yellow-footed_Gull
+Yellow-fronted Canary	Yellow-fronted_Canary
+Yellow-green Vireo	Yellow-green_Vireo
+Yellow-headed Amazon	Yellow-headed_Amazon
+Yellow-headed Blackbird	Yellow-headed_Blackbird
+Yellow-headed Caracara	Yellow-headed_Caracara
+Yellow-legged Gull	Yellow-legged_Gull
+Yellow-rumped Warbler	Yellow-rumped_Warbler
+Yellow-throated Bunting	Yellow-throated_Bunting
+Yellow-throated Vireo	Yellow-throated_Vireo
+Yellow-throated Warbler	Yellow-throated_Warbler
+Yucatan Vireo	Yucatan_Vireo
+Zebra Dove	Zebra_Dove
+Zenaida Dove	Zenaida_Dove
+Zino's Petrel	Zinos_Petrel
+Zone-tailed Hawk	Zone-tailed_Hawk

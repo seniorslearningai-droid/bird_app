@@ -1,0 +1,32 @@
+Wild Turkey (Meleagris gallopavo) - Photo Licenses
+==================================================
+
+Photo 1 (Wild_Turkey.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/19232661/original.jpeg
+Source Page: https://www.inaturalist.org/photos/19232661
+Author: kueda
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kueda, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Wild_Turkey_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/20497431/original.jpeg
+Source Page: https://www.inaturalist.org/photos/20497431
+Author: tsn
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tsn, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Wild_Turkey_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/20497432/original.jpeg
+Source Page: https://www.inaturalist.org/photos/20497432
+Author: tsn
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tsn, licensed under CC BY
+Notes: iNaturalist observation

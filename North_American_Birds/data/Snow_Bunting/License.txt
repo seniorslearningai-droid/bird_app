@@ -1,0 +1,30 @@
+Snow Bunting (Plectrophenax nivalis) - Photo Licenses
+=====================================================
+
+NOTE: Only 1 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Snow_Bunting.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/355271868/original.jpeg
+Source Page: https://www.inaturalist.org/photos/355271868
+Author: mikhail_87_
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mikhail_87_, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Snow_Bunting_2.jpg)
+----------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/1/12/BUNTING%2C_SNOW_%289-1-08%29_gambell%2C_ak_-10_%282828485806%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:BUNTING,_SNOW_(9-1-08)_gambell,_ak_-10_(2828485806).jpg
+Author: Alan Schmierer
+License: CC0 1.0 (Public Domain)
+Commercial Use: YES
+
+Photo 3 (Snow_Bunting_3.jpg)
+----------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/7/78/BUNTING%2C_SNOW_%289-1-08%29_gambell%2C_ak_-11_%282843429229%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:BUNTING,_SNOW_(9-1-08)_gambell,_ak_-11_(2843429229).jpg
+Author: Alan Schmierer
+License: CC0 1.0 (Public Domain)
+Commercial Use: YES

@@ -1,0 +1,32 @@
+Solitary Sandpiper (Tringa solitaria) - Photo Licenses
+======================================================
+
+Photo 1 (Solitary_Sandpiper.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/195481029/original.jpeg
+Source Page: https://www.inaturalist.org/photos/195481029
+Author: doviende
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by doviende, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Solitary_Sandpiper_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/195481020/original.jpeg
+Source Page: https://www.inaturalist.org/photos/195481020
+Author: doviende
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by doviende, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Solitary_Sandpiper_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/317721442/original.jpeg
+Source Page: https://www.inaturalist.org/photos/317721442
+Author: milliebasden
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by milliebasden, licensed under CC BY
+Notes: iNaturalist observation

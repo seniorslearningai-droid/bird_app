@@ -1,0 +1,33 @@
+Short-billed Dowitcher - Photo Licenses
+=======================================
+
+Photo 1 (Short-billed_Dowitcher.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176211906/original.jpeg
+Source Page: https://www.inaturalist.org/photos/176211906
+Author: blevine
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blevine (https://www.inaturalist.org/users/blevine) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Short-billed_Dowitcher_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/323935282/original.jpeg
+Source Page: https://www.inaturalist.org/photos/323935282
+Author: tdita
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by tdita (https://www.inaturalist.org/users/tdita) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Short-billed_Dowitcher_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176211824/original.jpeg
+Source Page: https://www.inaturalist.org/photos/176211824
+Author: blevine
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blevine (https://www.inaturalist.org/users/blevine) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

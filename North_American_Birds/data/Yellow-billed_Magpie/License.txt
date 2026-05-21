@@ -1,0 +1,32 @@
+Yellow-billed Magpie (Pica nuttalli) - Photo Licenses
+=====================================================
+
+Photo 1 (Yellow-billed_Magpie.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/172419105/original.jpeg
+Source Page: https://www.inaturalist.org/photos/172419105
+Author: tlaloc27
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tlaloc27, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Yellow-billed_Magpie_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/172419107/original.jpeg
+Source Page: https://www.inaturalist.org/photos/172419107
+Author: tlaloc27
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tlaloc27, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Yellow-billed_Magpie_3.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/80903353/original.jpeg
+Source Page: https://www.inaturalist.org/photos/80903353
+Author: zabbey
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by zabbey, licensed under CC BY
+Notes: iNaturalist observation

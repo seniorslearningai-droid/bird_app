@@ -1,0 +1,33 @@
+Harris's Hawk - Photo Licenses
+==============================
+
+Photo 1 (Harriss_Hawk.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/258831544/original.jpeg
+Source Page: https://www.inaturalist.org/photos/258831544
+Author: fernandoarvizu19
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 (https://www.inaturalist.org/users/fernandoarvizu19) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Harriss_Hawk_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/461956734/original.jpeg
+Source Page: https://www.inaturalist.org/photos/461956734
+Author: kodiakgarden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kodiakgarden (https://www.inaturalist.org/users/kodiakgarden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Harriss_Hawk_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/342273530/original.jpeg
+Source Page: https://www.inaturalist.org/photos/342273530
+Author: johnrosford
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by johnrosford (https://www.inaturalist.org/users/johnrosford) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

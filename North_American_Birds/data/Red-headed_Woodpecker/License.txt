@@ -1,0 +1,33 @@
+Red-headed Woodpecker - Photo Licenses
+======================================
+
+Photo 1 (Red-headed_Woodpecker.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/48557520/original.jpeg
+Source Page: https://www.inaturalist.org/photos/48557520
+Author: louiseinva
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by louiseinva (https://www.inaturalist.org/users/louiseinva) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Red-headed_Woodpecker_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/58293673/original.jpeg
+Source Page: https://www.inaturalist.org/photos/58293673
+Author: bmac922
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by bmac922 (https://www.inaturalist.org/users/bmac922) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Red-headed_Woodpecker_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/364972674/original.jpeg
+Source Page: https://www.inaturalist.org/photos/364972674
+Author: matgerke
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by matgerke (https://www.inaturalist.org/users/matgerke) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

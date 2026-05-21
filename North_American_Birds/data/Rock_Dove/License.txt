@@ -1,0 +1,32 @@
+Rock Dove (Columba livia) - Photo Licenses
+==========================================
+
+Photo 1 (Rock_Dove.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/131366491/original.jpeg
+Source Page: https://www.inaturalist.org/photos/131366491
+Author: zoology123
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by zoology123, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Rock_Dove_2.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/106619240/original.jpeg
+Source Page: https://www.inaturalist.org/photos/106619240
+Author: odonut
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by odonut, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Rock_Dove_3.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/106617831/original.jpeg
+Source Page: https://www.inaturalist.org/photos/106617831
+Author: odonut
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by odonut, licensed under CC BY
+Notes: iNaturalist observation

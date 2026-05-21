@@ -1,0 +1,32 @@
+Eurasian Collared-Dove (Streptopelia decaocto) - Photo Licenses
+===============================================================
+
+Photo 1 (Eurasian_Collared-Dove.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/614430450/original.jpeg
+Source Page: https://www.inaturalist.org/observations/337930388
+Author: ra_teo (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ra_teo on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Eurasian_Collared-Dove_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/453514613/original.jpeg
+Source Page: https://www.inaturalist.org/observations/253298182
+Author: zebedeugalinha (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by zebedeugalinha on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Eurasian_Collared-Dove_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/555849988/original.jpeg
+Source Page: https://www.inaturalist.org/observations/308115909
+Author: zebedeugalinha (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by zebedeugalinha on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

@@ -1,0 +1,29 @@
+Bobolink (Dolichonyx oryzivorus) - Photo Licenses
+==================================================
+
+Photo 1 (Bobolink.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/445805732/original.jpg
+Source Page: https://www.inaturalist.org/observations/249400638
+Author: jujurenoult via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: jujurenoult, iNaturalist, CC BY 4.0
+
+Photo 2 (Bobolink_2.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/445805804/original.jpg
+Source Page: https://www.inaturalist.org/observations/249400638
+Author: jujurenoult via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: jujurenoult, iNaturalist, CC BY 4.0
+
+Photo 3 (Bobolink_3.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/298600568/original.jpeg
+Source Page: https://www.inaturalist.org/observations/172062670
+Author: ellyne via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)

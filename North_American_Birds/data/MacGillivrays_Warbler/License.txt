@@ -1,0 +1,33 @@
+MacGillivray's Warbler - Photo Licenses
+=======================================
+
+Photo 1 (MacGillivrays_Warbler.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/352078155/original.jpeg
+Source Page: https://www.inaturalist.org/photos/352078155
+Author: fernandoarvizu19
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 (https://www.inaturalist.org/users/fernandoarvizu19) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (MacGillivrays_Warbler_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/225473869/original.jpeg
+Source Page: https://www.inaturalist.org/photos/225473869
+Author: mpoinat
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by mpoinat (https://www.inaturalist.org/users/mpoinat) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (MacGillivrays_Warbler_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/235658863/original.jpeg
+Source Page: https://www.inaturalist.org/photos/235658863
+Author: blevine
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blevine (https://www.inaturalist.org/users/blevine) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,32 @@
+American Robin (Turdus migratorius) - Photo Licenses
+=====================================================
+
+Photo 1 (American_Robin.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/370528121/original.jpg
+Source Page: https://www.inaturalist.org/observations/209375487
+Author: milaturov via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: milaturov, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist.
+
+Photo 2 (American_Robin_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/190120595/original.jpeg
+Source Page: https://www.inaturalist.org/observations/112558925
+Author: kbeza31979 via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: kbeza31979, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist.
+
+Photo 3 (American_Robin_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/137799056/original.jpeg
+Source Page: https://www.inaturalist.org/observations/83879912
+Author: radrat via iNaturalist
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 places work in the public domain with no restrictions
+Attribution: No attribution required (CC0)
+Notes: Research grade observation on iNaturalist.

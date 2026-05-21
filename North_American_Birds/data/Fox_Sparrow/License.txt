@@ -1,0 +1,33 @@
+Fox Sparrow - Photo Licenses
+============================
+
+Photo 1 (Fox_Sparrow.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/166219882/original.jpeg
+Source Page: https://www.inaturalist.org/photos/166219882
+Author: blakemross
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blakemross (https://www.inaturalist.org/users/blakemross) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Fox_Sparrow_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/330974382/original.jpeg
+Source Page: https://www.inaturalist.org/photos/330974382
+Author: efalquet
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Fox_Sparrow_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2415965/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2415965
+Author: terathopius
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by terathopius (https://www.inaturalist.org/users/terathopius) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

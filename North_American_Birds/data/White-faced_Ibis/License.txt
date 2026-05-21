@@ -1,0 +1,32 @@
+White-faced Ibis (Plegadis chihi) - Photo Licenses
+==================================================
+
+Photo 1 (White-faced_Ibis.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/79756841/original.jpeg
+Source Page: https://www.inaturalist.org/photos/79756841
+Author: phylogenomics
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by phylogenomics, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (White-faced_Ibis_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/12180056/original.jpeg
+Source Page: https://www.inaturalist.org/photos/12180056
+Author: pajeu
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by pajeu, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 3 (White-faced_Ibis_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/86656048/original.jpeg
+Source Page: https://www.inaturalist.org/photos/86656048
+Author: simpylmare55
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by simpylmare55, licensed under CC BY
+Notes: iNaturalist observation

@@ -1,0 +1,32 @@
+Eastern Meadowlark (Sturnella magna) - Photo Licenses
+=====================================================
+
+Photo 1 (Eastern_Meadowlark.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/178984323/original.jpeg
+Source Page: https://www.inaturalist.org/observations/106536270
+Author: wildreturn (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation
+
+Photo 2 (Eastern_Meadowlark_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/98967959/original.jpeg
+Source Page: https://www.inaturalist.org/observations/61819482
+Author: gpasch (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by gpasch on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Eastern_Meadowlark_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/33030867/original.jpeg
+Source Page: https://www.inaturalist.org/observations/21356240
+Author: thibaudaronson (iNaturalist)
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA allows commercial use with attribution
+Attribution: Photo by thibaudaronson on iNaturalist, CC BY-SA 4.0
+Notes: iNaturalist observation

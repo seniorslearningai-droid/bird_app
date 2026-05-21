@@ -1,0 +1,33 @@
+Nuttall's Woodpecker - Photo Licenses
+=====================================
+
+Photo 1 (Nuttalls_Woodpecker.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/130613033/original.jpeg
+Source Page: https://www.inaturalist.org/photos/130613033
+Author: garth_harwood
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by garth_harwood (https://www.inaturalist.org/users/garth_harwood) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Nuttalls_Woodpecker_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/173030097/original.jpeg
+Source Page: https://www.inaturalist.org/photos/173030097
+Author: justin2
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by justin2 (https://www.inaturalist.org/users/justin2) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Nuttalls_Woodpecker_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/105176038/original.jpeg
+Source Page: https://www.inaturalist.org/photos/105176038
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,29 @@
+Broad-tailed Hummingbird (Selasphorus platycercus) - Photo Licenses
+=====================================================================
+
+Photo 1 (Broad-tailed_Hummingbird.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/561513004/original.jpg
+Source Page: https://www.inaturalist.org/observations/311077687
+Author: bobw75 via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: bobw75, iNaturalist, CC BY 4.0
+
+Photo 2 (Broad-tailed_Hummingbird_2.jpg)
+------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/561513007/original.jpg
+Source Page: https://www.inaturalist.org/observations/311077687
+Author: bobw75 via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: bobw75, iNaturalist, CC BY 4.0
+
+Photo 3 (Broad-tailed_Hummingbird_3.jpg)
+------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/561513009/original.jpg
+Source Page: https://www.inaturalist.org/observations/311077687
+Author: bobw75 via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: bobw75, iNaturalist, CC BY 4.0

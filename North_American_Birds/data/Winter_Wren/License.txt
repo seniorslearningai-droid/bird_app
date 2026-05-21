@@ -1,0 +1,32 @@
+Winter Wren (Troglodytes hiemalis) - Photo Licenses
+===================================================
+
+Photo 1 (Winter_Wren.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/123587450/original.jpeg
+Source Page: https://www.inaturalist.org/photos/123587450
+Author: william_stephens
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by william_stephens, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Winter_Wren_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/123587445/original.jpeg
+Source Page: https://www.inaturalist.org/photos/123587445
+Author: william_stephens
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by william_stephens, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Winter_Wren_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/123587457/original.jpeg
+Source Page: https://www.inaturalist.org/photos/123587457
+Author: william_stephens
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by william_stephens, licensed under CC BY
+Notes: iNaturalist observation

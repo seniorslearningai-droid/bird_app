@@ -1,0 +1,32 @@
+Virginia's Warbler (Leiothlypis virginiae) - Photo Licenses
+===========================================================
+
+Photo 1 (Virginia_Warbler.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/371441199/original.jpeg
+Source Page: https://www.inaturalist.org/photos/371441199
+Author: julioruiz
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by julioruiz, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Virginia_Warbler_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/70280619/original.jpeg
+Source Page: https://www.inaturalist.org/photos/70280619
+Author: tcantrell52
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tcantrell52, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Virginia_Warbler_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/70280824/original.jpeg
+Source Page: https://www.inaturalist.org/photos/70280824
+Author: tcantrell52
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tcantrell52, licensed under CC BY
+Notes: iNaturalist observation

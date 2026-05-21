@@ -1,0 +1,29 @@
+Black-headed Grosbeak (Pheucticus melanocephalus) - Photo Licenses
+====================================================================
+
+Photo 1 (Black-headed_Grosbeak.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/473499348/original.jpg
+Source Page: https://www.inaturalist.org/observations/263559471
+Author: kodiakgarden via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: kodiakgarden, iNaturalist, CC BY 4.0
+
+Photo 2 (Black-headed_Grosbeak_2.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/134761134/original.jpeg
+Source Page: https://www.inaturalist.org/observations/82122551
+Author: funvill via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)
+
+Photo 3 (Black-headed_Grosbeak_3.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/134761758/original.jpeg
+Source Page: https://www.inaturalist.org/observations/82122551
+Author: funvill via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)

@@ -1,0 +1,33 @@
+Northern Saw-whet Owl - Photo Licenses
+======================================
+
+Photo 1 (Northern_Saw-whet_Owl.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/448450481/original.jpeg
+Source Page: https://www.inaturalist.org/photos/448450481
+Author: rudyard
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by rudyard (https://www.inaturalist.org/users/rudyard) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Northern_Saw-whet_Owl_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/240816012/original.jpeg
+Source Page: https://www.inaturalist.org/photos/240816012
+Author: ciaodb
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ciaodb (https://www.inaturalist.org/users/ciaodb) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Northern_Saw-whet_Owl_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/64354712/original.jpeg
+Source Page: https://www.inaturalist.org/photos/64354712
+Author: kpmcfarland
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,32 @@
+Chestnut-sided Warbler (Setophaga pensylvanica) - Photo Licenses
+================================================================
+
+Photo 1 (Chestnut-sided_Warbler.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/12628736/original.jpeg
+Source Page: https://www.inaturalist.org/observations/9310930
+Author: reuvenm (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation
+
+Photo 2 (Chestnut-sided_Warbler_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/145204398/original.jpeg
+Source Page: https://www.inaturalist.org/observations/88036143
+Author: wildreturn (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation
+
+Photo 3 (Chestnut-sided_Warbler_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/277338611/original.jpeg
+Source Page: https://www.inaturalist.org/observations/160495531
+Author: bschwamb (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by bschwamb on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

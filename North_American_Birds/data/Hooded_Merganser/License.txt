@@ -1,0 +1,33 @@
+Hooded Merganser - Photo Licenses
+=================================
+
+Photo 1 (Hooded_Merganser.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/243821460/original.jpeg
+Source Page: https://www.inaturalist.org/photos/243821460
+Author: bluejaybluejay
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by bluejaybluejay (https://www.inaturalist.org/users/bluejaybluejay) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Hooded_Merganser_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/365544882/original.jpeg
+Source Page: https://www.inaturalist.org/photos/365544882
+Author: codonoghue
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by codonoghue (https://www.inaturalist.org/users/codonoghue) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Hooded_Merganser_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/605188781/original.jpeg
+Source Page: https://www.inaturalist.org/photos/605188781
+Author: milliebasden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by milliebasden (https://www.inaturalist.org/users/milliebasden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

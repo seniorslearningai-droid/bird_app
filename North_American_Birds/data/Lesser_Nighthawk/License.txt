@@ -1,0 +1,33 @@
+Lesser Nighthawk - Photo Licenses
+=================================
+
+Photo 1 (Lesser_Nighthawk.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/218042185/original.jpeg
+Source Page: https://www.inaturalist.org/photos/218042185
+Author: johnrosford
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by johnrosford (https://www.inaturalist.org/users/johnrosford) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Lesser_Nighthawk_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/71853014/original.jpeg
+Source Page: https://www.inaturalist.org/photos/71853014
+Author: alexmor
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by alexmor (https://www.inaturalist.org/users/alexmor) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Lesser_Nighthawk_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/218042193/original.jpeg
+Source Page: https://www.inaturalist.org/photos/218042193
+Author: johnrosford
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by johnrosford (https://www.inaturalist.org/users/johnrosford) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

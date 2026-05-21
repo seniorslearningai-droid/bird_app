@@ -1,0 +1,33 @@
+Spotted Towhee (Pipilo maculatus) - Photo Licenses
+==================================================
+
+NOTE: Only 2 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Spotted_Towhee.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/241166062/original.jpeg
+Source Page: https://www.inaturalist.org/photos/241166062
+Author: smeckert
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by smeckert, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Spotted_Towhee_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/258910821/original.jpeg
+Source Page: https://www.inaturalist.org/photos/258910821
+Author: kalvinchan
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kalvinchan, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Spotted_Towhee_3.jpg)
+------------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/8/84/2016.06.01_20.02.24_DSC04670_-_Flickr_-_andrey_zharkikh.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:2016.06.01_20.02.24_DSC04670_-_Flickr_-_andrey_zharkikh.jpg
+Author: Andrey Zharkikh
+License: CC BY 2.0
+Commercial Use: YES
+Attribution: Photo by Andrey Zharkikh, CC BY 2.0

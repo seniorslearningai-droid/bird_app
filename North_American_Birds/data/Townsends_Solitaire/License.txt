@@ -1,0 +1,32 @@
+Townsend's Solitaire (Myadestes townsendi) - Photo Licenses
+===========================================================
+
+Photo 1 (Townsends_Solitaire.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/117290059/original.jpeg
+Source Page: https://www.inaturalist.org/photos/117290059
+Author: doviende
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by doviende, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Townsends_Solitaire_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/117290085/original.jpeg
+Source Page: https://www.inaturalist.org/photos/117290085
+Author: doviende
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by doviende, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Townsends_Solitaire_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/117290102/original.jpeg
+Source Page: https://www.inaturalist.org/photos/117290102
+Author: doviende
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by doviende, licensed under CC BY
+Notes: iNaturalist observation

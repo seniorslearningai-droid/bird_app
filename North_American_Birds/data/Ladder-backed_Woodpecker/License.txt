@@ -1,0 +1,33 @@
+Ladder-backed Woodpecker - Photo Licenses
+=========================================
+
+Photo 1 (Ladder-backed_Woodpecker.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/238606029/original.jpeg
+Source Page: https://www.inaturalist.org/photos/238606029
+Author: fernandoarvizu19
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 (https://www.inaturalist.org/users/fernandoarvizu19) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Ladder-backed_Woodpecker_2.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/465457/original.jpeg
+Source Page: https://www.inaturalist.org/photos/465457
+Author: juancruzado
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by juancruzado (https://www.inaturalist.org/users/juancruzado) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Ladder-backed_Woodpecker_3.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/468130486/original.jpeg
+Source Page: https://www.inaturalist.org/photos/468130486
+Author: milliebasden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by milliebasden (https://www.inaturalist.org/users/milliebasden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

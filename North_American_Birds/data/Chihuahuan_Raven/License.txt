@@ -1,0 +1,32 @@
+Chihuahuan Raven (Corvus cryptoleucus) - Photo Licenses
+=======================================================
+
+Photo 1 (Chihuahuan_Raven.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/31294204/original.jpeg
+Source Page: https://www.inaturalist.org/photos/31294204
+Author: ck2az (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ck2az on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Chihuahuan_Raven_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/31294192/original.jpeg
+Source Page: https://www.inaturalist.org/photos/31294192
+Author: ck2az (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ck2az on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Chihuahuan_Raven_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/31294198/original.jpeg
+Source Page: https://www.inaturalist.org/photos/31294198
+Author: ck2az (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ck2az on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

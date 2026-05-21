@@ -1,0 +1,33 @@
+Pygmy Nuthatch - Photo Licenses
+===============================
+
+Photo 1 (Pygmy_Nuthatch.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/298314421/original.jpeg
+Source Page: https://www.inaturalist.org/photos/298314421
+Author: chilipossum
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by chilipossum (https://www.inaturalist.org/users/chilipossum) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Pygmy_Nuthatch_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/240953488/original.jpeg
+Source Page: https://www.inaturalist.org/photos/240953488
+Author: colincroft
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by colincroft (https://www.inaturalist.org/users/colincroft) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Pygmy_Nuthatch_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/454590402/original.jpeg
+Source Page: https://www.inaturalist.org/photos/454590402
+Author: chilipossum
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by chilipossum (https://www.inaturalist.org/users/chilipossum) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

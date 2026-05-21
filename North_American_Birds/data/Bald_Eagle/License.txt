@@ -1,0 +1,29 @@
+Bald Eagle (Haliaeetus leucocephalus) - Photo Licenses
+=======================================================
+
+Photo 1 (Bald_Eagle.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/384490244/original.jpg
+Source Page: https://www.inaturalist.org/observations/217347432
+Author: marcel_pepin via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: marcel_pepin, iNaturalist, CC BY 4.0
+
+Photo 2 (Bald_Eagle_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/384490227/original.jpg
+Source Page: https://www.inaturalist.org/observations/217347432
+Author: marcel_pepin via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: marcel_pepin, iNaturalist, CC BY 4.0
+
+Photo 3 (Bald_Eagle_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/384490222/original.jpg
+Source Page: https://www.inaturalist.org/observations/217347432
+Author: marcel_pepin via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: marcel_pepin, iNaturalist, CC BY 4.0

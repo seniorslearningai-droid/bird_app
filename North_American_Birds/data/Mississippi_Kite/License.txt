@@ -1,0 +1,33 @@
+Mississippi Kite - Photo Licenses
+=================================
+
+Photo 1 (Mississippi_Kite.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/217241646/original.jpeg
+Source Page: https://www.inaturalist.org/photos/217241646
+Author: kcthetc1
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Mississippi_Kite_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/513594745/original.jpeg
+Source Page: https://www.inaturalist.org/photos/513594745
+Author: mjpapay
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mjpapay (https://www.inaturalist.org/users/mjpapay) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Mississippi_Kite_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/422300611/original.jpeg
+Source Page: https://www.inaturalist.org/photos/422300611
+Author: lauralovesbirds
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by lauralovesbirds (https://www.inaturalist.org/users/lauralovesbirds) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

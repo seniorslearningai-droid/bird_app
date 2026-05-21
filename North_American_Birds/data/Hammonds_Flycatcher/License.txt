@@ -1,0 +1,33 @@
+Hammond's Flycatcher - Photo Licenses
+=====================================
+
+Photo 1 (Hammonds_Flycatcher.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/574869054/original.jpeg
+Source Page: https://www.inaturalist.org/photos/574869054
+Author: kevinfloyd
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kevinfloyd (https://www.inaturalist.org/users/kevinfloyd) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Hammonds_Flycatcher_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2699066/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2699066
+Author: terathopius
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by terathopius (https://www.inaturalist.org/users/terathopius) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Hammonds_Flycatcher_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/96699995/original.jpeg
+Source Page: https://www.inaturalist.org/photos/96699995
+Author: benkeen
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

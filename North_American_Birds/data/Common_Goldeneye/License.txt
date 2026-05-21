@@ -1,0 +1,32 @@
+Common Goldeneye (Bucephala clangula) - Photo Licenses
+======================================================
+
+Photo 1 (Common_Goldeneye.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/323041744/original.jpeg
+Source Page: https://www.inaturalist.org/observations/184835248
+Author: leptonia (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by leptonia on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Common_Goldeneye_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/234449854/original.jpeg
+Source Page: https://www.inaturalist.org/observations/137375975
+Author: brdnrdr (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by brdnrdr on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Common_Goldeneye_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/96093483/original.jpeg
+Source Page: https://www.inaturalist.org/observations/60057695
+Author: sspencerbirds (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by sspencerbirds on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

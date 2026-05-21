@@ -1,0 +1,33 @@
+Lesser Scaup - Photo Licenses
+=============================
+
+Photo 1 (Lesser_Scaup.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/109354374/original.jpeg
+Source Page: https://www.inaturalist.org/photos/109354374
+Author: madily
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by madily (https://www.inaturalist.org/users/madily) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Lesser_Scaup_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/259772524/original.jpeg
+Source Page: https://www.inaturalist.org/photos/259772524
+Author: judygva
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by judygva (https://www.inaturalist.org/users/judygva) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Lesser_Scaup_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/394290606/original.jpeg
+Source Page: https://www.inaturalist.org/photos/394290606
+Author: hanyiwang
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by hanyiwang (https://www.inaturalist.org/users/hanyiwang) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

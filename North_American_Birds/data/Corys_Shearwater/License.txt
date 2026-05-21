@@ -1,0 +1,32 @@
+Cory's Shearwater (Calonectris diomedea) - Photo Licenses
+=========================================================
+
+Photo 1 (Coras_Shearwater.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/462377403/original.jpeg
+Source Page: https://www.inaturalist.org/photos/462377403
+Author: donalddavesne (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by donalddavesne on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Coras_Shearwater_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/462377391/original.jpeg
+Source Page: https://www.inaturalist.org/photos/462377391
+Author: donalddavesne (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by donalddavesne on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Coras_Shearwater_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/462377404/original.jpeg
+Source Page: https://www.inaturalist.org/photos/462377404
+Author: donalddavesne (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by donalddavesne on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

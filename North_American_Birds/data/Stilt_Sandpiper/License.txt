@@ -1,0 +1,32 @@
+Stilt Sandpiper (Calidris himantopus) - Photo Licenses
+======================================================
+
+Photo 1 (Stilt_Sandpiper.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/470843861/original.jpeg
+Source Page: https://www.inaturalist.org/photos/470843861
+Author: owenstrickland
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by owenstrickland, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Stilt_Sandpiper_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/426158000/original.jpeg
+Source Page: https://www.inaturalist.org/photos/426158000
+Author: pepe_gr
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by pepe_gr, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Stilt_Sandpiper_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/426158045/original.jpeg
+Source Page: https://www.inaturalist.org/photos/426158045
+Author: pepe_gr
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by pepe_gr, licensed under CC BY
+Notes: iNaturalist observation

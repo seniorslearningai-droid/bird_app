@@ -1,0 +1,32 @@
+Bullock's Oriole (Icterus bullockii) - Photo Licenses
+=====================================================
+
+Photo 1 (Bullocks_Oriole.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/203420079/original.jpeg
+Source Page: https://www.inaturalist.org/photos/203420079
+Author: mbeisen (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mbeisen on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Bullocks_Oriole_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/203420094/original.jpeg
+Source Page: https://www.inaturalist.org/photos/203420094
+Author: mbeisen (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mbeisen on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Bullocks_Oriole_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/203420105/original.jpeg
+Source Page: https://www.inaturalist.org/photos/203420105
+Author: mbeisen (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mbeisen on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

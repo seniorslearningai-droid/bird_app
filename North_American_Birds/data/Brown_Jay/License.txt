@@ -1,0 +1,29 @@
+Brown Jay (Psilorhinus morio) - Photo Licenses
+===================================================
+
+Photo 1 (Brown_Jay.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/282150197/original.jpeg
+Source Page: https://www.inaturalist.org/observations/163149002
+Author: juan-mt
+License: CC0
+Commercial Use: YES - CC0 allows commercial use
+Attribution: juan-mt
+
+Photo 2 (Brown_Jay_2.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/282150232/original.jpeg
+Source Page: https://www.inaturalist.org/observations/163149002
+Author: juan-mt
+License: CC0
+Commercial Use: YES - CC0 allows commercial use
+Attribution: juan-mt
+
+Photo 3 (Brown_Jay_3.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/131539836/original.jpeg
+Source Page: https://www.inaturalist.org/observations/80264973
+Author: ricardelremate
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use
+Attribution: ricardelremate

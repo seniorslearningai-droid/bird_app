@@ -1,0 +1,33 @@
+Greater Yellowlegs - Photo Licenses
+===================================
+
+Photo 1 (Greater_Yellowlegs.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/234178376/original.jpeg
+Source Page: https://www.inaturalist.org/photos/234178376
+Author: georectified
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by georectified (https://www.inaturalist.org/users/georectified) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Greater_Yellowlegs_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/481023671/original.jpeg
+Source Page: https://www.inaturalist.org/photos/481023671
+Author: irinamitine
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by irinamitine (https://www.inaturalist.org/users/irinamitine) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Greater_Yellowlegs_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/259416057/original.jpeg
+Source Page: https://www.inaturalist.org/photos/259416057
+Author: ariadnat
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ariadnat (https://www.inaturalist.org/users/ariadnat) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

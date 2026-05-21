@@ -1,0 +1,32 @@
+Bushtit (Psaltriparus minimus) - Photo Licenses
+===============================================
+
+Photo 1 (Bushtit.jpg)
+---------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/41242125/original.jpeg
+Source Page: https://www.inaturalist.org/observations/26554379
+Author: milliebasden (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 2 (Bushtit_2.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/179041049/original.jpeg
+Source Page: https://www.inaturalist.org/observations/106566091
+Author: phylogenomics (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 3 (Bushtit_3.jpg)
+-----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/346893721/original.jpeg
+Source Page: https://www.inaturalist.org/observations/197017987
+Author: geographerdave (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)

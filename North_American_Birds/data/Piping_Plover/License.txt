@@ -1,0 +1,33 @@
+Piping Plover - Photo Licenses
+==============================
+
+Photo 1 (Piping_Plover.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/627397751/original.jpeg
+Source Page: https://www.inaturalist.org/photos/627397751
+Author: gobyhunter
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by gobyhunter (https://www.inaturalist.org/users/gobyhunter) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Piping_Plover_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/557329690/original.jpeg
+Source Page: https://www.inaturalist.org/photos/557329690
+Author: robbieedun
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by robbieedun (https://www.inaturalist.org/users/robbieedun) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Piping_Plover_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/1792907/original.jpeg
+Source Page: https://www.inaturalist.org/photos/1792907
+Author: botanygirl
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by botanygirl (https://www.inaturalist.org/users/botanygirl) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

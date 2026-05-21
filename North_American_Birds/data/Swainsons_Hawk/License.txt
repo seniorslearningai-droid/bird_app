@@ -1,0 +1,32 @@
+Swainson's Hawk (Buteo swainsoni) - Photo Licenses
+==================================================
+
+Photo 1 (Swainsons_Hawk.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/374407044/original.jpeg
+Source Page: https://www.inaturalist.org/photos/374407044
+Author: anhingas
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by anhingas, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Swainsons_Hawk_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/149549013/original.jpeg
+Source Page: https://www.inaturalist.org/photos/149549013
+Author: phylogenomics
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by phylogenomics, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Swainsons_Hawk_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/511521063/original.jpeg
+Source Page: https://www.inaturalist.org/photos/511521063
+Author: aparrot1
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by aparrot1, licensed under CC0
+Notes: iNaturalist observation

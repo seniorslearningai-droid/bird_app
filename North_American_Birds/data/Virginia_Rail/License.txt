@@ -1,0 +1,32 @@
+Virginia Rail (Rallus limicola) - Photo Licenses
+================================================
+
+NOTE: Only 2 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Virginia_Rail.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/81617996/original.jpeg
+Source Page: https://www.inaturalist.org/photos/81617996
+Author: tiluchi
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tiluchi, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Virginia_Rail_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/81618033/original.jpeg
+Source Page: https://www.inaturalist.org/photos/81618033
+Author: tiluchi
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tiluchi, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Virginia_Rail_3.jpg)
+-----------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/a/a1/239A_-_VIRGINIA_RAIL_%2812-17-2015%29_bog_hole%2C_san_rafael_grasslands%2C_santa_cruz_co%2C_az_-01_%2823189739653%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:239A_-_VIRGINIA_RAIL_(12-17-2015)_bog_hole,_san_rafael_grasslands,_santa_cruz_co,_az_-01_(23189739653).jpg
+Author: Alan Schmierer
+License: CC0 1.0 (Public Domain)
+Commercial Use: YES

@@ -1,0 +1,32 @@
+Thick-billed Murre (Uria lomvia) - Photo Licenses
+=================================================
+
+Photo 1 (Thick-billed_Murre.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/432811204/original.jpeg
+Source Page: https://www.inaturalist.org/photos/432811204
+Author: prokhozhyj
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by prokhozhyj, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Thick-billed_Murre_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/432812034/original.jpeg
+Source Page: https://www.inaturalist.org/photos/432812034
+Author: prokhozhyj
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by prokhozhyj, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Thick-billed_Murre_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/432812091/original.jpeg
+Source Page: https://www.inaturalist.org/photos/432812091
+Author: prokhozhyj
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by prokhozhyj, licensed under CC BY
+Notes: iNaturalist observation

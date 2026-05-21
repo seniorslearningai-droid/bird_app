@@ -1,0 +1,33 @@
+Harris's Sparrow - Photo Licenses
+=================================
+
+Photo 1 (Harriss_Sparrow.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/110157896/original.jpeg
+Source Page: https://www.inaturalist.org/photos/110157896
+Author: once_casadastraphobic_bird
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by once_casadastraphobic_bird (https://www.inaturalist.org/users/once_casadastraphobic_bird) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Harriss_Sparrow_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/13673032/original.jpeg
+Source Page: https://www.inaturalist.org/photos/13673032
+Author: mchlfx
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mchlfx (https://www.inaturalist.org/users/mchlfx) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Harriss_Sparrow_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/114571199/original.jpeg
+Source Page: https://www.inaturalist.org/photos/114571199
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

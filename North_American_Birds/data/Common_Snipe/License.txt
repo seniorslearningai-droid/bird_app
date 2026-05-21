@@ -1,0 +1,32 @@
+Common Snipe (Gallinago gallinago) - Photo Licenses
+===================================================
+
+Photo 1 (Common_Snipe.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/102020340/original.jpeg
+Source Page: https://www.inaturalist.org/photos/102020340
+Author: terathopius (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by terathopius on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Common_Snipe_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/628501393/original.jpeg
+Source Page: https://www.inaturalist.org/photos/628501393
+Author: hh525 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by hh525 on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Common_Snipe_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/3672384/original.jpeg
+Source Page: https://www.inaturalist.org/photos/3672384
+Author: treegrow (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by treegrow on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

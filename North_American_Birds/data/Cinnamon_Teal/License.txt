@@ -1,0 +1,32 @@
+Cinnamon Teal (Spatula cyanoptera) - Photo Licenses
+===================================================
+
+Photo 1 (Cinnamon_Teal.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/77811914/original.jpeg
+Source Page: https://www.inaturalist.org/observations/49023516
+Author: phylogenomics (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by phylogenomics on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Cinnamon_Teal_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/171997159/original.jpeg
+Source Page: https://www.inaturalist.org/observations/102841627
+Author: lucianomassa (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by lucianomassa on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Cinnamon_Teal_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/351790294/original.jpeg
+Source Page: https://www.inaturalist.org/observations/199478047
+Author: mcburly (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mcburly on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

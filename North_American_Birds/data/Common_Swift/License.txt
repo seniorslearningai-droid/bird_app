@@ -1,0 +1,29 @@
+Common Swift (Apus apus) - Photo Licenses
+===================================================
+
+Photo 1 (Common_Swift.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/e/ea/7707.Groningen_urban_flora_fauna_inclusief_bouwen_gierzwaluwkasten_nestkasten_vogels.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:7707.Groningen_urban_flora_fauna_inclusief_bouwen_gierzwaluwkasten_nestkasten_vogels.jpg
+Author: Andre Hosper
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use
+Attribution: Andre Hosper
+
+Photo 2 (Common_Swift_2.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/9/9b/Ailes_martinet_noir.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Ailes_martinet_noir.jpg
+Author: Finch
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use
+Attribution: Finch
+
+Photo 3 (Common_Swift_3.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/2/24/Apus_apus_%28Mauersegler%29_2024-07-16_%2801%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Apus_apus_(Mauersegler)_2024-07-16_(01).jpg
+Author: Simon Mannweiler
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use
+Attribution: Simon Mannweiler

@@ -1,0 +1,33 @@
+Purple Sandpiper - Photo Licenses
+=================================
+
+Photo 1 (Purple_Sandpiper.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/103184294/original.jpeg
+Source Page: https://www.inaturalist.org/photos/103184294
+Author: sdz456
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by sdz456 (https://www.inaturalist.org/users/sdz456) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Purple_Sandpiper_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/217004325/original.jpeg
+Source Page: https://www.inaturalist.org/photos/217004325
+Author: aleksey_loginov
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by aleksey_loginov (https://www.inaturalist.org/users/aleksey_loginov) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Purple_Sandpiper_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/464379778/original.jpeg
+Source Page: https://www.inaturalist.org/photos/464379778
+Author: dominic
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by dominic (https://www.inaturalist.org/users/dominic) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

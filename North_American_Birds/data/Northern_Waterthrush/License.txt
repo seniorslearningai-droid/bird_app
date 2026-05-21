@@ -1,0 +1,33 @@
+Northern Waterthrush - Photo Licenses
+=====================================
+
+Photo 1 (Northern_Waterthrush.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/356834930/original.jpeg
+Source Page: https://www.inaturalist.org/photos/356834930
+Author: fernandoarvizu19
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 (https://www.inaturalist.org/users/fernandoarvizu19) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Northern_Waterthrush_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/36503246/original.jpeg
+Source Page: https://www.inaturalist.org/photos/36503246
+Author: sesernam
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by sesernam (https://www.inaturalist.org/users/sesernam) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Northern_Waterthrush_3.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/566371099/original.jpeg
+Source Page: https://www.inaturalist.org/photos/566371099
+Author: julesthebirder
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by julesthebirder (https://www.inaturalist.org/users/julesthebirder) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

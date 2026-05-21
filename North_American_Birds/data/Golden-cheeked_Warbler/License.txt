@@ -1,0 +1,32 @@
+Golden-cheeked Warbler (Setophaga chrysoparia) - Photo Licenses
+===============================================================
+
+Photo 1 (Golden-cheeked_Warbler.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/360468256/original.jpeg
+Source Page: https://www.inaturalist.org/photos/360468256
+Author: codystricker (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by codystricker on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Golden-cheeked_Warbler_2.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/360468259/original.jpeg
+Source Page: https://www.inaturalist.org/photos/360468259
+Author: codystricker (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by codystricker on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Golden-cheeked_Warbler_3.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/360468261/original.jpeg
+Source Page: https://www.inaturalist.org/photos/360468261
+Author: codystricker (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by codystricker on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

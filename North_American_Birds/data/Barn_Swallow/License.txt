@@ -1,0 +1,29 @@
+Barn Swallow (Hirundo rustica) - Photo Licenses
+================================================
+
+Photo 1 (Barn_Swallow.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/575999585/original.jpg
+Source Page: https://www.inaturalist.org/observations/239048645
+Author: diegodgd via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: diegodgd, iNaturalist, CC BY 4.0
+
+Photo 2 (Barn_Swallow_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/326606761/original.jpeg
+Source Page: https://www.inaturalist.org/observations/186839287
+Author: skyfaller via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: skyfaller, iNaturalist, CC BY 4.0
+
+Photo 3 (Barn_Swallow_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/50359152/original.jpeg
+Source Page: https://www.inaturalist.org/observations/32127406
+Author: claudekolwelter via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: claudekolwelter, iNaturalist, CC BY 4.0

@@ -1,0 +1,32 @@
+Warbling Vireo (Vireo gilvus) - Photo Licenses
+==============================================
+
+Photo 1 (Warbling_Vireo.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/383303869/original.jpeg
+Source Page: https://www.inaturalist.org/photos/383303869
+Author: mhincz
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mhincz, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Warbling_Vireo_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/383303880/original.jpeg
+Source Page: https://www.inaturalist.org/photos/383303880
+Author: mhincz
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mhincz, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Warbling_Vireo_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/9142012/original.jpeg
+Source Page: https://www.inaturalist.org/photos/9142012
+Author: cichlidmike
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by cichlidmike, licensed under CC BY
+Notes: iNaturalist observation

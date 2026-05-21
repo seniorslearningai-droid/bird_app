@@ -1,0 +1,33 @@
+Pectoral Sandpiper - Photo Licenses
+===================================
+
+Photo 1 (Pectoral_Sandpiper.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/241524041/original.jpeg
+Source Page: https://www.inaturalist.org/photos/241524041
+Author: radrat
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Pectoral_Sandpiper_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/190891815/original.jpeg
+Source Page: https://www.inaturalist.org/photos/190891815
+Author: shivashenoy
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by shivashenoy (https://www.inaturalist.org/users/shivashenoy) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Pectoral_Sandpiper_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/102048700/original.jpeg
+Source Page: https://www.inaturalist.org/photos/102048700
+Author: germansarmientocruz
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by germansarmientocruz (https://www.inaturalist.org/users/germansarmientocruz) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,33 @@
+House Sparrow - Photo Licenses
+==============================
+
+Photo 1 (House_Sparrow.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/212832926/original.jpeg
+Source Page: https://www.inaturalist.org/photos/212832926
+Author: carnifex
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by carnifex (https://www.inaturalist.org/users/carnifex) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (House_Sparrow_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/467543991/original.jpeg
+Source Page: https://www.inaturalist.org/photos/467543991
+Author: william-harland
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by william-harland (https://www.inaturalist.org/users/william-harland) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (House_Sparrow_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/177949148/original.jpeg
+Source Page: https://www.inaturalist.org/photos/177949148
+Author: sascha_n
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by sascha_n (https://www.inaturalist.org/users/sascha_n) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,32 @@
+White-winged Dove (Zenaida asiatica) - Photo Licenses
+=====================================================
+
+Photo 1 (White-winged_Dove.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/459518893/original.jpeg
+Source Page: https://www.inaturalist.org/photos/459518893
+Author: connlindajo
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by connlindajo, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (White-winged_Dove_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/459518862/original.jpeg
+Source Page: https://www.inaturalist.org/photos/459518862
+Author: connlindajo
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by connlindajo, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (White-winged_Dove_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/236130081/original.jpeg
+Source Page: https://www.inaturalist.org/photos/236130081
+Author: fernandoarvizu19
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19, licensed under CC BY
+Notes: iNaturalist observation

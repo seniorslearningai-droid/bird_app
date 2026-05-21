@@ -1,0 +1,32 @@
+Eurasian Wigeon (Mareca penelope) - Photo Licenses
+==================================================
+
+Photo 1 (Eurasian_Wigeon.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/111779966/original.jpeg
+Source Page: https://www.inaturalist.org/photos/111779966
+Author: christoph_moning (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by christoph_moning on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Eurasian_Wigeon_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/259053341/original.jpeg
+Source Page: https://www.inaturalist.org/photos/259053341
+Author: allan5519 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by allan5519 on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Eurasian_Wigeon_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/259061714/original.jpeg
+Source Page: https://www.inaturalist.org/photos/259061714
+Author: allan5519 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by allan5519 on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

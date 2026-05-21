@@ -1,0 +1,33 @@
+Red Knot - Photo Licenses
+=========================
+
+Photo 1 (Red_Knot.jpg)
+----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/458961407/original.jpeg
+Source Page: https://www.inaturalist.org/photos/458961407
+Author: kodiakgarden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kodiakgarden (https://www.inaturalist.org/users/kodiakgarden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Red_Knot_2.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/73006558/original.jpeg
+Source Page: https://www.inaturalist.org/photos/73006558
+Author: daniel_e
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Red_Knot_3.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/246002197/original.jpeg
+Source Page: https://www.inaturalist.org/photos/246002197
+Author: rkl
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by rkl (https://www.inaturalist.org/users/rkl) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

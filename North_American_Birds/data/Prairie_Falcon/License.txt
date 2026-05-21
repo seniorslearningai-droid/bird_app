@@ -1,0 +1,33 @@
+Prairie Falcon - Photo Licenses
+===============================
+
+Photo 1 (Prairie_Falcon.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/105947787/original.jpeg
+Source Page: https://www.inaturalist.org/photos/105947787
+Author: meganralph
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Prairie_Falcon_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/12489423/original.jpeg
+Source Page: https://www.inaturalist.org/photos/12489423
+Author: milliebasden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by milliebasden (https://www.inaturalist.org/users/milliebasden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Prairie_Falcon_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/608916757/original.jpeg
+Source Page: https://www.inaturalist.org/photos/608916757
+Author: guy23
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by guy23 (https://www.inaturalist.org/users/guy23) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

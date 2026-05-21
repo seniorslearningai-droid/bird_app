@@ -1,0 +1,32 @@
+Tennessee Warbler (Leiothlypis peregrina) - Photo Licenses
+==========================================================
+
+Photo 1 (Tennessee_Warbler.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/95739089/original.jpeg
+Source Page: https://www.inaturalist.org/photos/95739089
+Author: kpmcfarland
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by kpmcfarland, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 2 (Tennessee_Warbler_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/95738907/original.jpeg
+Source Page: https://www.inaturalist.org/photos/95738907
+Author: kpmcfarland
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by kpmcfarland, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 3 (Tennessee_Warbler_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/95739051/original.jpeg
+Source Page: https://www.inaturalist.org/photos/95739051
+Author: kpmcfarland
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by kpmcfarland, licensed under CC0
+Notes: iNaturalist observation

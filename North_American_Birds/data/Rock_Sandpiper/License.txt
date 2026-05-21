@@ -1,0 +1,32 @@
+Rock Sandpiper (Calidris ptilocnemis) - Photo Licenses
+======================================================
+
+Photo 1 (Rock_Sandpiper.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/459061396/original.jpeg
+Source Page: https://www.inaturalist.org/photos/459061396
+Author: kodiakgarden
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kodiakgarden, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Rock_Sandpiper_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/288775632/original.jpeg
+Source Page: https://www.inaturalist.org/photos/288775632
+Author: rajanrao
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by rajanrao, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Rock_Sandpiper_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2823502/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2823502
+Author: terathopius
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by terathopius, licensed under CC BY
+Notes: iNaturalist observation

@@ -1,0 +1,29 @@
+Blue-winged Teal (Spatula discors) - Photo Licenses
+=====================================================
+
+Photo 1 (Blue-winged_Teal.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/361706321/original.jpg
+Source Page: https://www.inaturalist.org/observations/204624793
+Author: quentin_benet_cibois via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: quentin_benet_cibois, iNaturalist, CC BY 4.0
+
+Photo 2 (Blue-winged_Teal_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/115789822/original.jpg
+Source Page: https://www.inaturalist.org/observations/71147418
+Author: aimeeeasterling via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: aimeeeasterling, iNaturalist, CC BY 4.0
+
+Photo 3 (Blue-winged_Teal_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/342327655/original.jpg
+Source Page: https://www.inaturalist.org/observations/194707057
+Author: ericklug via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: ericklug, iNaturalist, CC BY 4.0

@@ -1,0 +1,32 @@
+Black-backed Woodpecker (Picoides arcticus) - Photo Licenses
+============================================================
+
+Photo 1 (Black-backed_Woodpecker.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/473200750/original.jpeg
+Source Page: https://www.inaturalist.org/photos/473200750
+Author: teamontagna (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by teamontagna on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Black-backed_Woodpecker_2.jpg)
+-----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/473200789/original.jpeg
+Source Page: https://www.inaturalist.org/photos/473200789
+Author: teamontagna (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by teamontagna on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Black-backed_Woodpecker_3.jpg)
+-----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/107470615/original.jpeg
+Source Page: https://www.inaturalist.org/photos/107470615
+Author: georectified (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by georectified on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

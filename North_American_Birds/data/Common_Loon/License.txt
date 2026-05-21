@@ -1,0 +1,32 @@
+Common Loon (Gavia immer) - Photo Licenses
+==========================================
+
+Photo 1 (Common_Loon.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/209710844/original.jpeg
+Source Page: https://www.inaturalist.org/observations/123770073
+Author: hryc111 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by hryc111 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Common_Loon_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/418281664/original.jpeg
+Source Page: https://www.inaturalist.org/observations/235220977
+Author: alexis_orion (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by alexis_orion on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Common_Loon_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/250790226/original.jpeg
+Source Page: https://www.inaturalist.org/observations/145939070
+Author: dustin777 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by dustin777 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

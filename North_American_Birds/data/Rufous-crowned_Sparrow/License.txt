@@ -1,0 +1,33 @@
+Rufous-crowned Sparrow - Photo Licenses
+=======================================
+
+Photo 1 (Rufous-crowned_Sparrow.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/159474496/original.jpeg
+Source Page: https://www.inaturalist.org/photos/159474496
+Author: milliebasden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by milliebasden (https://www.inaturalist.org/users/milliebasden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Rufous-crowned_Sparrow_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/480355735/original.jpeg
+Source Page: https://www.inaturalist.org/photos/480355735
+Author: codystricker
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by codystricker (https://www.inaturalist.org/users/codystricker) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Rufous-crowned_Sparrow_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/111242510/original.jpeg
+Source Page: https://www.inaturalist.org/photos/111242510
+Author: jmaley
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by jmaley (https://www.inaturalist.org/users/jmaley) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

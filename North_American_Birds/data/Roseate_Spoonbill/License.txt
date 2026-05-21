@@ -1,0 +1,33 @@
+Roseate Spoonbill - Photo Licenses
+==================================
+
+Photo 1 (Roseate_Spoonbill.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/174351446/original.jpeg
+Source Page: https://www.inaturalist.org/photos/174351446
+Author: blazeclaw
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blazeclaw (https://www.inaturalist.org/users/blazeclaw) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Roseate_Spoonbill_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/147826092/original.jpeg
+Source Page: https://www.inaturalist.org/photos/147826092
+Author: stevestevens
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Roseate_Spoonbill_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2069153/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2069153
+Author: terathopius
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by terathopius (https://www.inaturalist.org/users/terathopius) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

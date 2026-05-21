@@ -1,0 +1,29 @@
+Blackburnian Warbler (Setophaga fusca) - Photo Licenses
+=========================================================
+
+Photo 1 (Blackburnian_Warbler.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/135287418/original.jpg
+Source Page: https://www.inaturalist.org/observations/82430300
+Author: mattyfelp via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: mattyfelp, iNaturalist, CC BY 4.0
+
+Photo 2 (Blackburnian_Warbler_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/408727804/original.jpeg
+Source Page: https://www.inaturalist.org/observations/230207029
+Author: mattyfelp via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: mattyfelp, iNaturalist, CC BY 4.0
+
+Photo 3 (Blackburnian_Warbler_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/390818850/original.jpg
+Source Page: https://www.inaturalist.org/observations/220729942
+Author: ryanfm via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: ryanfm, iNaturalist, CC BY 4.0

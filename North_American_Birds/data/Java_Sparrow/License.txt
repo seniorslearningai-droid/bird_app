@@ -1,0 +1,29 @@
+Java Sparrow (Lonchura oryzivora) - Photo Licenses
+===================================================
+
+Photo 1 (Java_Sparrow.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/c/c5/Areale_Padda_oryzivora.JPG
+Source Page: https://commons.wikimedia.org/wiki/File:Areale_Padda_oryzivora.JPG
+Author: Gallo71
+License: Public domain
+Commercial Use: YES - Public domain allows commercial use
+Attribution: Gallo71
+
+Photo 2 (Java_Sparrow_2.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/2/21/Is_bird_1.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Is_bird_1.jpg
+Author: Utari Soraya Putri
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use
+Attribution: Utari Soraya Putri
+
+Photo 3 (Java_Sparrow_3.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/1/11/Is_bird_2.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Is_bird_2.jpg
+Author: Utari Soraya Putri
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use
+Attribution: Utari Soraya Putri

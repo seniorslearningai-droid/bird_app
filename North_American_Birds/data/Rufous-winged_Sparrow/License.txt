@@ -1,0 +1,32 @@
+Rufous-winged Sparrow (Peucaea carpalis) - Photo Licenses
+=========================================================
+
+Photo 1 (Rufous-winged_Sparrow.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/265990527/original.jpeg
+Source Page: https://www.inaturalist.org/photos/265990527
+Author: richardlitt
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by richardlitt, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Rufous-winged_Sparrow_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/354096657/original.jpeg
+Source Page: https://www.inaturalist.org/photos/354096657
+Author: danielskatz
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by danielskatz, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Rufous-winged_Sparrow_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/354096659/original.jpeg
+Source Page: https://www.inaturalist.org/photos/354096659
+Author: danielskatz
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by danielskatz, licensed under CC BY
+Notes: iNaturalist observation

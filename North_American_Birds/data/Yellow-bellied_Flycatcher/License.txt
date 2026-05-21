@@ -1,0 +1,32 @@
+Yellow-bellied Flycatcher (Empidonax flaviventris) - Photo Licenses
+===================================================================
+
+Photo 1 (Yellow-bellied_Flycatcher.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/341470336/original.jpeg
+Source Page: https://www.inaturalist.org/photos/341470336
+Author: russnamitz
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by russnamitz, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 2 (Yellow-bellied_Flycatcher_2.jpg)
+-----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/341470335/original.jpeg
+Source Page: https://www.inaturalist.org/photos/341470335
+Author: russnamitz
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by russnamitz, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 3 (Yellow-bellied_Flycatcher_3.jpg)
+-----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/341470339/original.jpeg
+Source Page: https://www.inaturalist.org/photos/341470339
+Author: russnamitz
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by russnamitz, licensed under CC0
+Notes: iNaturalist observation

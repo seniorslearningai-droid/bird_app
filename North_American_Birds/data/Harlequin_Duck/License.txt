@@ -1,0 +1,33 @@
+Harlequin Duck - Photo Licenses
+===============================
+
+Photo 1 (Harlequin_Duck.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/53608302/original.jpeg
+Source Page: https://www.inaturalist.org/photos/53608302
+Author: dmitry_kulakov
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by dmitry_kulakov (https://www.inaturalist.org/users/dmitry_kulakov) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Harlequin_Duck_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/355464720/original.jpeg
+Source Page: https://www.inaturalist.org/photos/355464720
+Author: judygva
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by judygva (https://www.inaturalist.org/users/judygva) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Harlequin_Duck_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/347053480/original.jpeg
+Source Page: https://www.inaturalist.org/photos/347053480
+Author: mattyfelp
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mattyfelp (https://www.inaturalist.org/users/mattyfelp) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

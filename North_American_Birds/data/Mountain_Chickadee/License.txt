@@ -1,0 +1,32 @@
+Mountain Chickadee (Poecile gambeli) - Photo Licenses
+=====================================================
+
+Photo 1 (Mountain_Chickadee.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/334591428/original.jpeg
+Source Page: https://www.inaturalist.org/photos/334591428
+Author: quinnbirds
+License: CC BY-SA
+Commercial Use: YES - CC BY-SA allows commercial use with attribution
+Attribution: Photo by quinnbirds, licensed under CC BY-SA
+Notes: iNaturalist observation
+
+Photo 2 (Mountain_Chickadee_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/440491661/original.jpeg
+Source Page: https://www.inaturalist.org/photos/440491661
+Author: smeckert
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by smeckert, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Mountain_Chickadee_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/440491887/original.jpeg
+Source Page: https://www.inaturalist.org/photos/440491887
+Author: smeckert
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by smeckert, licensed under CC BY
+Notes: iNaturalist observation

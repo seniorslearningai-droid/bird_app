@@ -1,0 +1,32 @@
+American Black Duck (Anas rubripes) - Photo Licenses
+=====================================================
+
+Photo 1 (American_Black_Duck.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/173020103/original.jpg
+Source Page: https://www.inaturalist.org/observations/103387191
+Author: sadawolk via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: sadawolk, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist.
+
+Photo 2 (American_Black_Duck_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176925603/original.jpeg
+Source Page: https://www.inaturalist.org/observations/105446361
+Author: apgarm via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: apgarm, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist.
+
+Photo 3 (American_Black_Duck_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176925644/original.jpeg
+Source Page: https://www.inaturalist.org/observations/105446361
+Author: apgarm via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: apgarm, iNaturalist, CC BY 4.0
+Notes: Second photo from same research grade observation on iNaturalist.

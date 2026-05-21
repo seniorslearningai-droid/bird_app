@@ -1,0 +1,32 @@
+Hairy Woodpecker - Photo Licenses
+==================================
+
+Photo 1 (Hairy_Woodpecker.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/32280644/original.jpeg
+Source Page: https://www.inaturalist.org/photos/32280644
+Author: kkucera
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kkucera (https://www.inaturalist.org/users/kkucera) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Hairy_Woodpecker_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/248588440/original.jpeg
+Source Page: https://www.inaturalist.org/photos/248588440
+Author: blakemross
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blakemross (https://www.inaturalist.org/users/blakemross) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Hairy_Woodpecker_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/185291143/original.jpeg
+Source Page: https://www.inaturalist.org/photos/185291143
+Author: geographerdave
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by geographerdave (https://www.inaturalist.org/users/geographerdave) / CC BY 4.0
+Notes: Downloaded from iNaturalist

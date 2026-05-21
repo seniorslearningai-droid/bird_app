@@ -1,0 +1,33 @@
+Red-breasted Nuthatch - Photo Licenses
+======================================
+
+Photo 1 (Red-breasted_Nuthatch.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/226568368/original.jpeg
+Source Page: https://www.inaturalist.org/photos/226568368
+Author: lyneisfilm
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Red-breasted_Nuthatch_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/595255474/original.jpeg
+Source Page: https://www.inaturalist.org/photos/595255474
+Author: terrybb
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Red-breasted_Nuthatch_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176955918/original.jpeg
+Source Page: https://www.inaturalist.org/photos/176955918
+Author: muir
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by muir (https://www.inaturalist.org/users/muir) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

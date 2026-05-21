@@ -1,0 +1,33 @@
+Mourning Warbler - Photo Licenses
+=================================
+
+Photo 1 (Mourning_Warbler.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/20357505/original.jpeg
+Source Page: https://www.inaturalist.org/photos/20357505
+Author: hill_jasonm
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by hill_jasonm (https://www.inaturalist.org/users/hill_jasonm) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Mourning_Warbler_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/289725031/original.jpeg
+Source Page: https://www.inaturalist.org/photos/289725031
+Author: kirk_gardner
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kirk_gardner (https://www.inaturalist.org/users/kirk_gardner) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Mourning_Warbler_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/137275984/original.jpeg
+Source Page: https://www.inaturalist.org/photos/137275984
+Author: laurenchronister
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

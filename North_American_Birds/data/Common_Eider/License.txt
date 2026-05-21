@@ -1,0 +1,32 @@
+Common Eider (Somateria mollissima) - Photo Licenses
+====================================================
+
+Photo 1 (Common_Eider.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/101349350/original.jpeg
+Source Page: https://www.inaturalist.org/photos/101349350
+Author: christoph_moning (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by christoph_moning on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Common_Eider_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/101351037/original.jpeg
+Source Page: https://www.inaturalist.org/photos/101351037
+Author: christoph_moning (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by christoph_moning on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Common_Eider_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/101351113/original.jpeg
+Source Page: https://www.inaturalist.org/photos/101351113
+Author: christoph_moning (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by christoph_moning on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

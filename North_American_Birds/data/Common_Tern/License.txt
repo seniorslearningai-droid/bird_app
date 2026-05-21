@@ -1,0 +1,32 @@
+Common Tern (Sterna hirundo) - Photo Licenses
+=============================================
+
+Photo 1 (Common_Tern.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/22243644/original.jpeg
+Source Page: https://www.inaturalist.org/observations/14902467
+Author: jlayman (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by jlayman on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Common_Tern_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/301674117/original.jpeg
+Source Page: https://www.inaturalist.org/observations/173698243
+Author: wmich_birding (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by wmich_birding on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Common_Tern_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/130866514/original.jpeg
+Source Page: https://www.inaturalist.org/observations/79877448
+Author: davidfbird (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation

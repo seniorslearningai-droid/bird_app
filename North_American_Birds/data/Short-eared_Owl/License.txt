@@ -1,0 +1,32 @@
+Short-eared Owl (Asio flammeus) - Photo Licenses
+================================================
+
+Photo 1 (Short-eared_Owl.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/112697544/original.jpeg
+Source Page: https://www.inaturalist.org/photos/112697544
+Author: ecovore
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ecovore, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Short-eared_Owl_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/240721114/original.jpeg
+Source Page: https://www.inaturalist.org/photos/240721114
+Author: ecovore
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ecovore, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Short-eared_Owl_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/370171323/original.jpeg
+Source Page: https://www.inaturalist.org/photos/370171323
+Author: rawcomposition
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by rawcomposition, licensed under CC0
+Notes: iNaturalist observation

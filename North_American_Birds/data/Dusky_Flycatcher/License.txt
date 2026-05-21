@@ -1,0 +1,32 @@
+Dusky Flycatcher (Empidonax oberholseri) - Photo Licenses
+=========================================================
+
+Photo 1 (Dusky_Flycatcher.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/104931795/original.jpeg
+Source Page: https://www.inaturalist.org/photos/104931795
+Author: quilicotriste (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by quilicotriste on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Dusky_Flycatcher_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/525833885/original.jpeg
+Source Page: https://www.inaturalist.org/photos/525833885
+Author: stephbrulot (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Dusky_Flycatcher_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/17890433/original.jpeg
+Source Page: https://www.inaturalist.org/photos/17890433
+Author: henrydelange (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by henrydelange on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

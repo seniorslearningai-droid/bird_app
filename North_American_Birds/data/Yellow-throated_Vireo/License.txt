@@ -1,0 +1,32 @@
+Yellow-throated Vireo (Vireo flavifrons) - Photo Licenses
+=========================================================
+
+Photo 1 (Yellow-throated_Vireo.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/195347973/original.jpeg
+Source Page: https://www.inaturalist.org/photos/195347973
+Author: wildreturn
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by wildreturn, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 2 (Yellow-throated_Vireo_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/249894624/original.jpeg
+Source Page: https://www.inaturalist.org/photos/249894624
+Author: wildreturn
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by wildreturn, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 3 (Yellow-throated_Vireo_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/249894626/original.jpeg
+Source Page: https://www.inaturalist.org/photos/249894626
+Author: wildreturn
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by wildreturn, licensed under CC0
+Notes: iNaturalist observation

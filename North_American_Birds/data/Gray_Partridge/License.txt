@@ -1,0 +1,33 @@
+Gray Partridge - Photo Licenses
+===============================
+
+Photo 1 (Gray_Partridge.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/112336977/original.jpeg
+Source Page: https://www.inaturalist.org/photos/112336977
+Author: plucian
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Gray_Partridge_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/337416063/original.jpeg
+Source Page: https://www.inaturalist.org/photos/337416063
+Author: birdingjulia
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by birdingjulia (https://www.inaturalist.org/users/birdingjulia) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Gray_Partridge_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/342931430/original.jpeg
+Source Page: https://www.inaturalist.org/photos/342931430
+Author: elenasmirnova
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by elenasmirnova (https://www.inaturalist.org/users/elenasmirnova) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,33 @@
+Horned Lark - Photo Licenses
+============================
+
+Photo 1 (Horned_Lark.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/33635012/original.jpeg
+Source Page: https://www.inaturalist.org/photos/33635012
+Author: shalana
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by shalana (https://www.inaturalist.org/users/shalana) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Horned_Lark_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/183478476/original.jpeg
+Source Page: https://www.inaturalist.org/photos/183478476
+Author: farrispa
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by farrispa (https://www.inaturalist.org/users/farrispa) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Horned_Lark_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/117203922/original.jpeg
+Source Page: https://www.inaturalist.org/photos/117203922
+Author: opisska
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by opisska (https://www.inaturalist.org/users/opisska) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

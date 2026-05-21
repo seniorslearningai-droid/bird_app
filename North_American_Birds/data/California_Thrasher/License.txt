@@ -1,0 +1,32 @@
+California Thrasher (Toxostoma redivivum) - Photo Licenses
+==========================================================
+
+Photo 1 (California_Thrasher.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/619323365/original.jpeg
+Source Page: https://www.inaturalist.org/observations/340338204
+Author: zabbey (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 2 (California_Thrasher_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/337796617/original.jpeg
+Source Page: https://www.inaturalist.org/observations/192426948
+Author: irinamitine (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 3 (California_Thrasher_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/105434232/original.jpeg
+Source Page: https://www.inaturalist.org/observations/65498381
+Author: farrispa (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)

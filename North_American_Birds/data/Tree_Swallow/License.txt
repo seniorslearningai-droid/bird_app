@@ -1,0 +1,32 @@
+Tree Swallow (Tachycineta bicolor) - Photo Licenses
+===================================================
+
+Photo 1 (Tree_Swallow.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/330274968/original.jpeg
+Source Page: https://www.inaturalist.org/photos/330274968
+Author: blevine
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by blevine, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Tree_Swallow_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/330274990/original.jpeg
+Source Page: https://www.inaturalist.org/photos/330274990
+Author: blevine
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by blevine, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Tree_Swallow_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/133783442/original.jpeg
+Source Page: https://www.inaturalist.org/photos/133783442
+Author: mattyfelp
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mattyfelp, licensed under CC BY
+Notes: iNaturalist observation

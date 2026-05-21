@@ -1,0 +1,33 @@
+Lapland Longspur - Photo Licenses
+=================================
+
+Photo 1 (Lapland_Longspur.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/71135858/original.jpeg
+Source Page: https://www.inaturalist.org/photos/71135858
+Author: ruseva
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ruseva (https://www.inaturalist.org/users/ruseva) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Lapland_Longspur_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/180162121/original.jpeg
+Source Page: https://www.inaturalist.org/photos/180162121
+Author: blakemross
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blakemross (https://www.inaturalist.org/users/blakemross) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Lapland_Longspur_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/104798191/original.jpeg
+Source Page: https://www.inaturalist.org/photos/104798191
+Author: rudyard
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by rudyard (https://www.inaturalist.org/users/rudyard) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

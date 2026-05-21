@@ -1,0 +1,29 @@
+Bay-breasted Warbler (Setophaga castanea) - Photo Licenses
+===========================================================
+
+Photo 1 (Bay-breasted_Warbler.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/439547800/original.jpg
+Source Page: https://www.inaturalist.org/observations/246239450
+Author: jujurenoult via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: jujurenoult, iNaturalist, CC BY 4.0
+
+Photo 2 (Bay-breasted_Warbler_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/439547836/original.jpg
+Source Page: https://www.inaturalist.org/observations/246239450
+Author: jujurenoult via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: jujurenoult, iNaturalist, CC BY 4.0
+
+Photo 3 (Bay-breasted_Warbler_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/439547867/original.jpg
+Source Page: https://www.inaturalist.org/observations/246239450
+Author: jujurenoult via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: jujurenoult, iNaturalist, CC BY 4.0

@@ -1,0 +1,32 @@
+Carolina Chickadee (Poecile carolinensis) - Photo Licenses
+==========================================================
+
+Photo 1 (Carolina_Chickadee.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/276075078/original.jpeg
+Source Page: https://www.inaturalist.org/observations/159777920
+Author: tmurphy (iNaturalist)
+License: CC0 1.0 Universal (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 2 (Carolina_Chickadee_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/452623993/original.jpeg
+Source Page: https://www.inaturalist.org/observations/252823628
+Author: connlindajo (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 3 (Carolina_Chickadee_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/471300358/original.jpeg
+Source Page: https://www.inaturalist.org/observations/262342290
+Author: connlindajo (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)

@@ -1,0 +1,33 @@
+Pelagic Cormorant - Photo Licenses
+==================================
+
+Photo 1 (Pelagic_Cormorant.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/182201420/original.jpeg
+Source Page: https://www.inaturalist.org/photos/182201420
+Author: deefault
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by deefault (https://www.inaturalist.org/users/deefault) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Pelagic_Cormorant_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/248480265/original.jpeg
+Source Page: https://www.inaturalist.org/photos/248480265
+Author: kueda
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kueda (https://www.inaturalist.org/users/kueda) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Pelagic_Cormorant_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/562155752/original.jpeg
+Source Page: https://www.inaturalist.org/photos/562155752
+Author: criminy
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by criminy (https://www.inaturalist.org/users/criminy) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

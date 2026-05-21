@@ -1,0 +1,32 @@
+Cape May Warbler (Setophaga tigrina) - Photo Licenses
+=====================================================
+
+Photo 1 (Cape_May_Warbler.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/18089935/original.jpeg
+Source Page: https://www.inaturalist.org/observations/12527236
+Author: mmulqueen (iNaturalist)
+License: CC0 1.0 Universal (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 2 (Cape_May_Warbler_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/39640861/original.jpeg
+Source Page: https://www.inaturalist.org/observations/25582054
+Author: jdee (iNaturalist)
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY-SA 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 3 (Cape_May_Warbler_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/225554855/original.jpeg
+Source Page: https://www.inaturalist.org/observations/132456849
+Author: jdee (iNaturalist)
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY-SA 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)

@@ -1,0 +1,32 @@
+Cassins Finch (Haemorhous cassinii) - Photo Licenses
+====================================================
+
+Photo 1 (Cassins_Finch.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/30837062/original.jpeg
+Source Page: https://www.inaturalist.org/observations/19981708
+Author: ck2az (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ck2az on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Cassins_Finch_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/381571031/original.jpeg
+Source Page: https://www.inaturalist.org/observations/215797590
+Author: craigmartin (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation
+
+Photo 3 (Cassins_Finch_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/393164817/original.jpeg
+Source Page: https://www.inaturalist.org/observations/221983577
+Author: louisiv826 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by louisiv826 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

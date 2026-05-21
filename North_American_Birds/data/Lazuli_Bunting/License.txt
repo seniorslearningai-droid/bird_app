@@ -1,0 +1,33 @@
+Lazuli Bunting - Photo Licenses
+===============================
+
+Photo 1 (Lazuli_Bunting.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/123748494/original.jpeg
+Source Page: https://www.inaturalist.org/photos/123748494
+Author: madily
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by madily (https://www.inaturalist.org/users/madily) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Lazuli_Bunting_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/211627705/original.jpeg
+Source Page: https://www.inaturalist.org/photos/211627705
+Author: blazeclaw
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blazeclaw (https://www.inaturalist.org/users/blazeclaw) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Lazuli_Bunting_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/356106259/original.jpeg
+Source Page: https://www.inaturalist.org/photos/356106259
+Author: fernandoarvizu19
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 (https://www.inaturalist.org/users/fernandoarvizu19) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

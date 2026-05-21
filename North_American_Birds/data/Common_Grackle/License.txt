@@ -1,0 +1,32 @@
+Common Grackle (Quiscalus quiscula) - Photo Licenses
+====================================================
+
+Photo 1 (Common_Grackle.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/358304157/original.jpeg
+Source Page: https://www.inaturalist.org/observations/202846748
+Author: shaunpatc (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by shaunpatc on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Common_Grackle_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/377496437/original.jpeg
+Source Page: https://www.inaturalist.org/observations/213601154
+Author: carrieseltzer (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by carrieseltzer on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Common_Grackle_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/124901553/original.jpeg
+Source Page: https://www.inaturalist.org/observations/76354786
+Author: buggybuddy (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation

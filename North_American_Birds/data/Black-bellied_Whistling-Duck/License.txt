@@ -1,0 +1,32 @@
+Black-bellied Whistling-Duck (Dendrocygna autumnalis) - Photo Licenses
+======================================================================
+
+Photo 1 (Black-bellied_Whistling-Duck.jpg)
+--------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/411961630/original.jpeg
+Source Page: https://www.inaturalist.org/photos/411961630
+Author: geosesarma (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by geosesarma on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Black-bellied_Whistling-Duck_2.jpg)
+----------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/411961613/original.jpeg
+Source Page: https://www.inaturalist.org/photos/411961613
+Author: geosesarma (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by geosesarma on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Black-bellied_Whistling-Duck_3.jpg)
+----------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/302875501/original.jpeg
+Source Page: https://www.inaturalist.org/photos/302875501
+Author: agonzalo (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by agonzalo on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

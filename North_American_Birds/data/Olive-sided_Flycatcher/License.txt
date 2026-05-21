@@ -1,0 +1,33 @@
+Olive-sided Flycatcher - Photo Licenses
+=======================================
+
+Photo 1 (Olive-sided_Flycatcher.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/131738464/original.jpeg
+Source Page: https://www.inaturalist.org/photos/131738464
+Author: sydcannings
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by sydcannings (https://www.inaturalist.org/users/sydcannings) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Olive-sided_Flycatcher_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/71532002/original.jpeg
+Source Page: https://www.inaturalist.org/photos/71532002
+Author: atlnature
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by atlnature (https://www.inaturalist.org/users/atlnature) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Olive-sided_Flycatcher_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/504972306/original.jpeg
+Source Page: https://www.inaturalist.org/photos/504972306
+Author: kgarrett
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

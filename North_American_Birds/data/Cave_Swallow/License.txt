@@ -1,0 +1,32 @@
+Cave Swallow (Petrochelidon fulva) - Photo Licenses
+===================================================
+
+Photo 1 (Cave_Swallow.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/530201085/original.jpeg
+Source Page: https://www.inaturalist.org/observations/294559763
+Author: johnrosford (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by johnrosford on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Cave_Swallow_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/448291551/original.jpeg
+Source Page: https://www.inaturalist.org/observations/250635835
+Author: zacpeterson (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by zacpeterson on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Cave_Swallow_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/63619210/original.jpeg
+Source Page: https://www.inaturalist.org/observations/40058132
+Author: tcantrell52 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tcantrell52 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

@@ -1,0 +1,32 @@
+Canada Goose (Branta canadensis) - Photo Licenses
+=================================================
+
+Photo 1 (Canada_Goose.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/123908815/original.jpeg
+Source Page: https://www.inaturalist.org/observations/75718382
+Author: leahmfulton (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 2 (Canada_Goose_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/319483760/original.jpeg
+Source Page: https://www.inaturalist.org/observations/183152390
+Author: bluejaybluejay (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 3 (Canada_Goose_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/37800057/original.jpeg
+Source Page: https://www.inaturalist.org/observations/24446071
+Author: cotterh (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)

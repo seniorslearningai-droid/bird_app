@@ -1,0 +1,32 @@
+Sage Sparrow (Artemisiospiza nevadensis) - Photo Licenses
+=========================================================
+
+Photo 1 (Sage_Sparrow.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/336067582/original.jpeg
+Source Page: https://www.inaturalist.org/photos/336067582
+Author: tristanmcknight
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tristanmcknight, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Sage_Sparrow_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/336067594/original.jpeg
+Source Page: https://www.inaturalist.org/photos/336067594
+Author: tristanmcknight
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tristanmcknight, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Sage_Sparrow_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/336067601/original.jpeg
+Source Page: https://www.inaturalist.org/photos/336067601
+Author: tristanmcknight
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tristanmcknight, licensed under CC BY
+Notes: iNaturalist observation

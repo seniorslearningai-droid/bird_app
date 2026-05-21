@@ -1,0 +1,33 @@
+Lincoln's Sparrow - Photo Licenses
+==================================
+
+Photo 1 (Lincolns_Sparrow.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/471031045/original.jpeg
+Source Page: https://www.inaturalist.org/photos/471031045
+Author: kodiakgarden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kodiakgarden (https://www.inaturalist.org/users/kodiakgarden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Lincolns_Sparrow_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/181604213/original.jpeg
+Source Page: https://www.inaturalist.org/photos/181604213
+Author: inbetweenbays
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by inbetweenbays (https://www.inaturalist.org/users/inbetweenbays) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Lincolns_Sparrow_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/239475077/original.jpeg
+Source Page: https://www.inaturalist.org/photos/239475077
+Author: lisa63
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by lisa63 (https://www.inaturalist.org/users/lisa63) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

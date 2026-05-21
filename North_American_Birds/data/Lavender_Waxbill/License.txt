@@ -1,0 +1,29 @@
+Lavender Waxbill (Estrilda caerulescens) - Photo Licenses
+===================================================
+
+Photo 1 (Lavender_Waxbill.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/363668632/original.jpeg
+Source Page: https://www.inaturalist.org/observations/205658286
+Author: wolfgang_ahlmer
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use
+Attribution: wolfgang_ahlmer
+
+Photo 2 (Lavender_Waxbill_2.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/363669350/original.jpeg
+Source Page: https://www.inaturalist.org/observations/205658286
+Author: wolfgang_ahlmer
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use
+Attribution: wolfgang_ahlmer
+
+Photo 3 (Lavender_Waxbill_3.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/343900109/original.jpeg
+Source Page: https://www.inaturalist.org/observations/195475924
+Author: lucykeith-diagne
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use
+Attribution: lucykeith-diagne

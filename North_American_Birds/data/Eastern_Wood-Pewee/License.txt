@@ -1,0 +1,32 @@
+Eastern Wood-Pewee (Contopus virens) - Photo Licenses
+=====================================================
+
+Photo 1 (Eastern_Wood-Pewee.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/21177779/original.jpeg
+Source Page: https://www.inaturalist.org/observations/14266386
+Author: tanyuu (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tanyuu on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Eastern_Wood-Pewee_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/67966814/original.jpeg
+Source Page: https://www.inaturalist.org/observations/42798857
+Author: juan_carlos_caicedo_hdz (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by juan_carlos_caicedo_hdz on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Eastern_Wood-Pewee_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/410284598/original.jpeg
+Source Page: https://www.inaturalist.org/observations/231037934
+Author: codonoghue (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by codonoghue on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

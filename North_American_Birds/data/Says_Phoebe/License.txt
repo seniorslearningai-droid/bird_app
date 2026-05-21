@@ -1,0 +1,33 @@
+Say's Phoebe - Photo Licenses
+=============================
+
+Photo 1 (Says_Phoebe.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/177575930/original.jpeg
+Source Page: https://www.inaturalist.org/photos/177575930
+Author: blevine
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blevine (https://www.inaturalist.org/users/blevine) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Says_Phoebe_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/247011480/original.jpeg
+Source Page: https://www.inaturalist.org/photos/247011480
+Author: peterwchen
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by peterwchen (https://www.inaturalist.org/users/peterwchen) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Says_Phoebe_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/304941579/original.jpeg
+Source Page: https://www.inaturalist.org/photos/304941579
+Author: sprcrkwild
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by sprcrkwild (https://www.inaturalist.org/users/sprcrkwild) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

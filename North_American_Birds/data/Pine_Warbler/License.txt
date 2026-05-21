@@ -1,0 +1,33 @@
+Pine Warbler - Photo Licenses
+=============================
+
+Photo 1 (Pine_Warbler.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/233232419/original.jpeg
+Source Page: https://www.inaturalist.org/photos/233232419
+Author: ncb1221
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ncb1221 (https://www.inaturalist.org/users/ncb1221) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Pine_Warbler_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/16801887/original.jpeg
+Source Page: https://www.inaturalist.org/photos/16801887
+Author: kodiakgarden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kodiakgarden (https://www.inaturalist.org/users/kodiakgarden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Pine_Warbler_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/172538357/original.jpeg
+Source Page: https://www.inaturalist.org/photos/172538357
+Author: mattyfelp
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mattyfelp (https://www.inaturalist.org/users/mattyfelp) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

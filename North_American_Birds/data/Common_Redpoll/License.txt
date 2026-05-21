@@ -1,0 +1,32 @@
+Common Redpoll (Acanthis flammea) - Photo Licenses
+==================================================
+
+Photo 1 (Common_Redpoll.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/112107662/original.jpeg
+Source Page: https://www.inaturalist.org/observations/69131230
+Author: vladimirkharuk (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by vladimirkharuk on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Common_Redpoll_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/116983206/original.jpeg
+Source Page: https://www.inaturalist.org/observations/71814689
+Author: egorbirder (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by egorbirder on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Common_Redpoll_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/114698453/original.jpeg
+Source Page: https://www.inaturalist.org/observations/70541108
+Author: ayatana_biophilium (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ayatana_biophilium on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

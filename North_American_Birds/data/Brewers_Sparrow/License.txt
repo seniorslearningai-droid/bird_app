@@ -1,0 +1,29 @@
+Brewer's Sparrow (Spizella breweri) - Photo Licenses
+======================================================
+
+Photo 1 (Brewers_Sparrow.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/601830282/original.jpg
+Source Page: https://www.inaturalist.org/observations/331719846
+Author: pileated via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: pileated, iNaturalist, CC BY 4.0
+
+Photo 2 (Brewers_Sparrow_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/158080831/original.jpg
+Source Page: https://www.inaturalist.org/observations/95235814
+Author: phylogenomics via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: phylogenomics, iNaturalist, CC BY 4.0
+
+Photo 3 (Brewers_Sparrow_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/113379396/original.jpeg
+Source Page: https://www.inaturalist.org/observations/69818161
+Author: cduchardt via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: cduchardt, iNaturalist, CC BY 4.0

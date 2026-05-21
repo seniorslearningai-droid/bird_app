@@ -1,0 +1,33 @@
+LeConte's Thrasher - Photo Licenses
+===================================
+
+Photo 1 (LeContes_Thrasher.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/580038439/original.jpeg
+Source Page: https://www.inaturalist.org/photos/580038439
+Author: russnamitz
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (LeContes_Thrasher_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/606019576/original.jpeg
+Source Page: https://www.inaturalist.org/photos/606019576
+Author: mainebirder
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mainebirder (https://www.inaturalist.org/users/mainebirder) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (LeContes_Thrasher_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/446030155/original.jpeg
+Source Page: https://www.inaturalist.org/photos/446030155
+Author: russnamitz
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

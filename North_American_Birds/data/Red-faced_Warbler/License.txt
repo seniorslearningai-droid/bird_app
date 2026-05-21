@@ -1,0 +1,33 @@
+Red-faced Warbler - Photo Licenses
+==================================
+
+Photo 1 (Red-faced_Warbler.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/267022619/original.jpeg
+Source Page: https://www.inaturalist.org/photos/267022619
+Author: tristanmcknight
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by tristanmcknight (https://www.inaturalist.org/users/tristanmcknight) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Red-faced_Warbler_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/462814160/original.jpeg
+Source Page: https://www.inaturalist.org/photos/462814160
+Author: kodiakgarden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kodiakgarden (https://www.inaturalist.org/users/kodiakgarden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Red-faced_Warbler_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/301993598/original.jpeg
+Source Page: https://www.inaturalist.org/photos/301993598
+Author: stellarlimpkin
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by stellarlimpkin (https://www.inaturalist.org/users/stellarlimpkin) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

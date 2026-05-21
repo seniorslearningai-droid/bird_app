@@ -1,0 +1,33 @@
+Purple Gallinule - Photo Licenses
+=================================
+
+Photo 1 (Purple_Gallinule.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/206042814/original.jpeg
+Source Page: https://www.inaturalist.org/photos/206042814
+Author: gatorhawk
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by gatorhawk (https://www.inaturalist.org/users/gatorhawk) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Purple_Gallinule_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/118398135/original.jpeg
+Source Page: https://www.inaturalist.org/photos/118398135
+Author: ricardelremate
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ricardelremate (https://www.inaturalist.org/users/ricardelremate) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Purple_Gallinule_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/331777939/original.jpeg
+Source Page: https://www.inaturalist.org/photos/331777939
+Author: zihaowang
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by zihaowang (https://www.inaturalist.org/users/zihaowang) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

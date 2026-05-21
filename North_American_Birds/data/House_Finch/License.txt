@@ -1,0 +1,33 @@
+House Finch - Photo Licenses
+============================
+
+Photo 1 (House_Finch.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/77680959/original.jpeg
+Source Page: https://www.inaturalist.org/photos/77680959
+Author: dennisvo
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by dennisvo (https://www.inaturalist.org/users/dennisvo) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (House_Finch_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/133962880/original.jpeg
+Source Page: https://www.inaturalist.org/photos/133962880
+Author: bungelina
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by bungelina (https://www.inaturalist.org/users/bungelina) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (House_Finch_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/243934694/original.jpeg
+Source Page: https://www.inaturalist.org/photos/243934694
+Author: fernandoarvizu19
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 (https://www.inaturalist.org/users/fernandoarvizu19) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

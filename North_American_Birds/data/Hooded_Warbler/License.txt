@@ -1,0 +1,33 @@
+Hooded Warbler - Photo Licenses
+===============================
+
+Photo 1 (Hooded_Warbler.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/339621550/original.jpeg
+Source Page: https://www.inaturalist.org/photos/339621550
+Author: rawcomposition
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Hooded_Warbler_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/24581598/original.jpeg
+Source Page: https://www.inaturalist.org/photos/24581598
+Author: andywilson
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Hooded_Warbler_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/480736458/original.jpeg
+Source Page: https://www.inaturalist.org/photos/480736458
+Author: kuykenwil
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

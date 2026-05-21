@@ -1,0 +1,32 @@
+Coopers Hawk (Accipiter cooperii) - Photo Licenses
+==================================================
+
+Photo 1 (Coopers_Hawk.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/43282408/original.jpeg
+Source Page: https://www.inaturalist.org/observations/27793926
+Author: rebeccamatsubara (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by rebeccamatsubara on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Coopers_Hawk_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/250887134/original.jpeg
+Source Page: https://www.inaturalist.org/observations/145989457
+Author: birds_bugs_botany (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by birds_bugs_botany on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Coopers_Hawk_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/32948726/original.jpeg
+Source Page: https://www.inaturalist.org/observations/21306664
+Author: annikaml (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by annikaml on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

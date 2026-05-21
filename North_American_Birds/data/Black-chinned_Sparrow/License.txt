@@ -1,0 +1,32 @@
+Black-chinned Sparrow (Spizella atrogularis) - Photo Licenses
+=============================================================
+
+Photo 1 (Black-chinned_Sparrow.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/70220749/original.jpeg
+Source Page: https://www.inaturalist.org/photos/70220749
+Author: jmaley (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by jmaley on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Black-chinned_Sparrow_2.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/70220667/original.jpeg
+Source Page: https://www.inaturalist.org/photos/70220667
+Author: jmaley (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by jmaley on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Black-chinned_Sparrow_3.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/366875369/original.jpeg
+Source Page: https://www.inaturalist.org/photos/366875369
+Author: garyleavens (iNaturalist)
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA allows commercial use with attribution and share-alike
+Attribution: Photo by garyleavens on iNaturalist, CC BY-SA 4.0
+Notes: Downloaded from iNaturalist open data

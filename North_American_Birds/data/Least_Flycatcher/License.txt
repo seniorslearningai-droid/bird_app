@@ -1,0 +1,33 @@
+Least Flycatcher - Photo Licenses
+=================================
+
+Photo 1 (Least_Flycatcher.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/146928874/original.jpeg
+Source Page: https://www.inaturalist.org/photos/146928874
+Author: eldaniels
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by eldaniels (https://www.inaturalist.org/users/eldaniels) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Least_Flycatcher_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/199895204/original.jpeg
+Source Page: https://www.inaturalist.org/photos/199895204
+Author: seanvanderluit
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by seanvanderluit (https://www.inaturalist.org/users/seanvanderluit) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Least_Flycatcher_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/238238585/original.jpeg
+Source Page: https://www.inaturalist.org/photos/238238585
+Author: madily
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by madily (https://www.inaturalist.org/users/madily) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,33 @@
+Grasshopper Sparrow - Photo Licenses
+====================================
+
+Photo 1 (Grasshopper_Sparrow.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/93897589/original.jpeg
+Source Page: https://www.inaturalist.org/photos/93897589
+Author: colejwolf
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by colejwolf (https://www.inaturalist.org/users/colejwolf) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Grasshopper_Sparrow_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/60207218/original.jpeg
+Source Page: https://www.inaturalist.org/photos/60207218
+Author: jose_colorado-dapa
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by jose_colorado-dapa (https://www.inaturalist.org/users/jose_colorado-dapa) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Grasshopper_Sparrow_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/169901139/original.jpeg
+Source Page: https://www.inaturalist.org/photos/169901139
+Author: scaup
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by scaup (https://www.inaturalist.org/users/scaup) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

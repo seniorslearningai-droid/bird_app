@@ -1,0 +1,33 @@
+Northern Harrier - Photo Licenses
+=================================
+
+Photo 1 (Northern_Harrier.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/464466268/original.jpeg
+Source Page: https://www.inaturalist.org/photos/464466268
+Author: keimwj
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by keimwj (https://www.inaturalist.org/users/keimwj) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Northern_Harrier_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/134615032/original.jpeg
+Source Page: https://www.inaturalist.org/photos/134615032
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Northern_Harrier_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/242309124/original.jpeg
+Source Page: https://www.inaturalist.org/photos/242309124
+Author: jujurenoult
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by jujurenoult (https://www.inaturalist.org/users/jujurenoult) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

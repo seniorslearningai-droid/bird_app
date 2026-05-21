@@ -1,0 +1,32 @@
+Varied Thrush (Ixoreus naevius) - Photo Licenses
+================================================
+
+Photo 1 (Varied_Thrush.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/257715956/original.jpeg
+Source Page: https://www.inaturalist.org/photos/257715956
+Author: igor322
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by igor322, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 2 (Varied_Thrush_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/257715965/original.jpeg
+Source Page: https://www.inaturalist.org/photos/257715965
+Author: igor322
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by igor322, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 3 (Varied_Thrush_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/257715986/original.jpeg
+Source Page: https://www.inaturalist.org/photos/257715986
+Author: igor322
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by igor322, licensed under CC0
+Notes: iNaturalist observation

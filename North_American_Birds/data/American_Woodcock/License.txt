@@ -1,0 +1,32 @@
+American Woodcock (Scolopax minor) - Photo Licenses
+====================================================
+
+Photo 1 (American_Woodcock.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/80508213/original.jpg
+Source Page: https://www.inaturalist.org/observations/50692417
+Author: hill_jasonm via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: hill_jasonm, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist.
+
+Photo 2 (American_Woodcock_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/519439322/original.jpg
+Source Page: https://www.inaturalist.org/observations/288829982
+Author: rynxs via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: rynxs, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist.
+
+Photo 3 (American_Woodcock_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/257374422/original.jpeg
+Source Page: https://www.inaturalist.org/observations/149369601
+Author: blazeclaw via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES - Creative Commons Attribution allows commercial use with attribution
+Attribution: blazeclaw, iNaturalist, CC BY 4.0
+Notes: Research grade observation on iNaturalist.

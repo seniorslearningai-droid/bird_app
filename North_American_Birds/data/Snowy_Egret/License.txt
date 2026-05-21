@@ -1,0 +1,32 @@
+Snowy Egret (Egretta thula) - Photo Licenses
+============================================
+
+Photo 1 (Snowy_Egret.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/258308451/original.jpeg
+Source Page: https://www.inaturalist.org/photos/258308451
+Author: muir
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by muir, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Snowy_Egret_2.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/258308458/original.jpeg
+Source Page: https://www.inaturalist.org/photos/258308458
+Author: muir
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by muir, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Snowy_Egret_3.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/370590161/original.jpeg
+Source Page: https://www.inaturalist.org/photos/370590161
+Author: franc1997
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by franc1997, licensed under CC BY
+Notes: iNaturalist observation

@@ -1,0 +1,32 @@
+Cassins Sparrow (Peucaea cassinii) - Photo Licenses
+===================================================
+
+Photo 1 (Cassins_Sparrow.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/420811123/original.jpeg
+Source Page: https://www.inaturalist.org/observations/236530145
+Author: kszafrajda (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kszafrajda on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Cassins_Sparrow_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/358913269/original.jpeg
+Source Page: https://www.inaturalist.org/observations/203165951
+Author: lyneisfilm (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation
+
+Photo 3 (Cassins_Sparrow_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/32074684/original.jpeg
+Source Page: https://www.inaturalist.org/observations/20796639
+Author: jschavez1 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by jschavez1 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

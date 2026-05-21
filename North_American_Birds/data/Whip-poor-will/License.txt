@@ -1,0 +1,32 @@
+Eastern Whip-poor-will (Antrostomus vociferus) - Photo Licenses
+===============================================================
+
+NOTE: Only 2 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Whip-poor-will.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/280910414/original.jpeg
+Source Page: https://www.inaturalist.org/photos/280910414
+Author: sudomir
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by sudomir, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Whip-poor-will_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/280910482/original.jpeg
+Source Page: https://www.inaturalist.org/photos/280910482
+Author: sudomir
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by sudomir, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Whip-poor-will_3.jpg)
+------------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/8/83/Antrostomus_vociferus%2C_Lancaster%2C_Massachusetts_1.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Antrostomus_vociferus,_Lancaster,_Massachusetts_1.jpg
+Author: Alan Schmierer
+License: CC0 1.0 (Public Domain)
+Commercial Use: YES

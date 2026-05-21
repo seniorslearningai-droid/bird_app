@@ -1,0 +1,33 @@
+Ring-necked Duck - Photo Licenses
+=================================
+
+Photo 1 (Ring-necked_Duck.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/351161177/original.jpeg
+Source Page: https://www.inaturalist.org/photos/351161177
+Author: mikeycerw
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mikeycerw (https://www.inaturalist.org/users/mikeycerw) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Ring-necked_Duck_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/12665007/original.jpeg
+Source Page: https://www.inaturalist.org/photos/12665007
+Author: reuvenm
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Ring-necked_Duck_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/111757286/original.jpeg
+Source Page: https://www.inaturalist.org/photos/111757286
+Author: cuihenggang
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

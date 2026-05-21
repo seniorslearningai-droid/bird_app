@@ -1,0 +1,32 @@
+Burrowing Owl (Athene cunicularia) - Photo Licenses
+===================================================
+
+Photo 1 (Burrowing_Owl.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/352308304/original.jpeg
+Source Page: https://www.inaturalist.org/observations/199747584
+Author: typophyllum (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 2 (Burrowing_Owl_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/451006170/original.jpeg
+Source Page: https://www.inaturalist.org/observations/251993378
+Author: radrat (iNaturalist)
+License: CC0 1.0 Universal (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 3 (Burrowing_Owl_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/265189782/original.jpeg
+Source Page: https://www.inaturalist.org/observations/153533777
+Author: xochitlzeta (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)

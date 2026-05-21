@@ -1,0 +1,32 @@
+Common Poorwill (Phalaenoptilus nuttallii) - Photo Licenses
+===========================================================
+
+Photo 1 (Common_Poorwill.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/243027332/original.jpeg
+Source Page: https://www.inaturalist.org/observations/141813796
+Author: fernandoarvizu19 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Common_Poorwill_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/6160/original.jpeg
+Source Page: https://www.inaturalist.org/observations/3404
+Author: kueda (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by kueda on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Common_Poorwill_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/98760395/original.jpeg
+Source Page: https://www.inaturalist.org/observations/61700223
+Author: sulavanderplank (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by sulavanderplank on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

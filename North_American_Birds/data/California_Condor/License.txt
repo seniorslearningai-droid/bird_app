@@ -1,0 +1,32 @@
+California Condor (Gymnogyps californianus) - Photo Licenses
+============================================================
+
+Photo 1 (California_Condor.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/5686033/original.jpeg
+Source Page: https://www.inaturalist.org/observations/4683505
+Author: mlrosten (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 2 (California_Condor_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/7610686/original.jpeg
+Source Page: https://www.inaturalist.org/observations/6084416
+Author: rick (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)
+
+Photo 3 (California_Condor_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/584756861/original.jpeg
+Source Page: https://www.inaturalist.org/observations/323176670
+Author: staffordcorey (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use
+Attribution: Photo by iNaturalist user (see Author above), CC BY 4.0
+Notes: Downloaded from iNaturalist (inaturalist.org)

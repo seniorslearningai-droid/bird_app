@@ -1,0 +1,32 @@
+Black Tern (Chlidonias niger) - Photo Licenses
+==============================================
+
+Photo 1 (Black_Tern.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2694775/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2694775
+Author: pintail (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by pintail on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Black_Tern_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2694776/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2694776
+Author: pintail (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by pintail on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Black_Tern_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2694777/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2694777
+Author: pintail (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by pintail on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

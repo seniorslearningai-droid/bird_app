@@ -1,0 +1,32 @@
+Snow Goose (Anser caerulescens) - Photo Licenses
+================================================
+
+Photo 1 (Snow_Goose.jpg)
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/215872657/original.jpeg
+Source Page: https://www.inaturalist.org/photos/215872657
+Author: tomfeild
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tomfeild, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Snow_Goose_2.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/215872664/original.jpeg
+Source Page: https://www.inaturalist.org/photos/215872664
+Author: tomfeild
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tomfeild, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Snow_Goose_3.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/56654025/original.jpeg
+Source Page: https://www.inaturalist.org/photos/56654025
+Author: andywilson
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by andywilson, licensed under CC0
+Notes: iNaturalist observation

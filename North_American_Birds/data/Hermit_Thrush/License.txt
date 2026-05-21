@@ -1,0 +1,33 @@
+Hermit Thrush - Photo Licenses
+==============================
+
+Photo 1 (Hermit_Thrush.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/118379876/original.jpeg
+Source Page: https://www.inaturalist.org/photos/118379876
+Author: jmaley
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by jmaley (https://www.inaturalist.org/users/jmaley) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Hermit_Thrush_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2709840/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2709840
+Author: gaudettelaura
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by gaudettelaura (https://www.inaturalist.org/users/gaudettelaura) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Hermit_Thrush_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/16842683/original.jpeg
+Source Page: https://www.inaturalist.org/photos/16842683
+Author: paulroots
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by paulroots (https://www.inaturalist.org/users/paulroots) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

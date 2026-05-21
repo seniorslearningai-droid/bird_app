@@ -1,0 +1,32 @@
+Yellow-headed Blackbird (Xanthocephalus xanthocephalus) - Photo Licenses
+========================================================================
+
+Photo 1 (Yellow-headed_Blackbird.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/195510928/original.jpeg
+Source Page: https://www.inaturalist.org/photos/195510928
+Author: littlelegofan
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by littlelegofan, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Yellow-headed_Blackbird_2.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/195510947/original.jpeg
+Source Page: https://www.inaturalist.org/photos/195510947
+Author: littlelegofan
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by littlelegofan, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Yellow-headed_Blackbird_3.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/195510961/original.jpeg
+Source Page: https://www.inaturalist.org/photos/195510961
+Author: littlelegofan
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by littlelegofan, licensed under CC BY
+Notes: iNaturalist observation

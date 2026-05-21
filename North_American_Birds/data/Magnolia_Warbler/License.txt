@@ -1,0 +1,33 @@
+Magnolia Warbler - Photo Licenses
+=================================
+
+Photo 1 (Magnolia_Warbler.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/12628736/original.jpeg
+Source Page: https://www.inaturalist.org/photos/12628736
+Author: reuvenm
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Magnolia_Warbler_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/135286764/original.jpeg
+Source Page: https://www.inaturalist.org/photos/135286764
+Author: mattyfelp
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mattyfelp (https://www.inaturalist.org/users/mattyfelp) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Magnolia_Warbler_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/432479665/original.jpeg
+Source Page: https://www.inaturalist.org/photos/432479665
+Author: serpophaga
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by serpophaga (https://www.inaturalist.org/users/serpophaga) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

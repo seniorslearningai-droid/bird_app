@@ -1,0 +1,33 @@
+Lawrence's Goldfinch - Photo Licenses
+=====================================
+
+Photo 1 (Lawrences_Goldfinch.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/258169169/original.jpeg
+Source Page: https://www.inaturalist.org/photos/258169169
+Author: yuli_dimas
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by yuli_dimas (https://www.inaturalist.org/users/yuli_dimas) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Lawrences_Goldfinch_2.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/74426889/original.jpeg
+Source Page: https://www.inaturalist.org/photos/74426889
+Author: phylogenomics
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by phylogenomics (https://www.inaturalist.org/users/phylogenomics) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Lawrences_Goldfinch_3.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/165113065/original.jpeg
+Source Page: https://www.inaturalist.org/photos/165113065
+Author: lisatucsonaz
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by lisatucsonaz (https://www.inaturalist.org/users/lisatucsonaz) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

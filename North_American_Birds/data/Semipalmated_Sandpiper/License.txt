@@ -1,0 +1,33 @@
+Semipalmated Sandpiper - Photo Licenses
+=======================================
+
+Photo 1 (Semipalmated_Sandpiper.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/70192773/original.jpeg
+Source Page: https://www.inaturalist.org/photos/70192773
+Author: howardw
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use with attribution and share-alike
+Attribution: Photo by howardw (https://www.inaturalist.org/users/howardw) / CC BY-SA 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Semipalmated_Sandpiper_2.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/56449398/original.jpeg
+Source Page: https://www.inaturalist.org/photos/56449398
+Author: keimwj
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by keimwj (https://www.inaturalist.org/users/keimwj) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Semipalmated_Sandpiper_3.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/353431966/original.jpeg
+Source Page: https://www.inaturalist.org/photos/353431966
+Author: don54
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

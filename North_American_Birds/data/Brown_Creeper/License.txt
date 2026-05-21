@@ -1,0 +1,29 @@
+Brown Creeper (Certhia americana) - Photo Licenses
+====================================================
+
+Photo 1 (Brown_Creeper.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/148661823/original.jpg
+Source Page: https://www.inaturalist.org/observations/89987709
+Author: richardlitt via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: richardlitt, iNaturalist, CC BY 4.0
+
+Photo 2 (Brown_Creeper_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/185285723/original.jpg
+Source Page: https://www.inaturalist.org/observations/109886279
+Author: thyg via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)
+
+Photo 3 (Brown_Creeper_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/462405331/original.jpeg
+Source Page: https://www.inaturalist.org/observations/257743430
+Author: sprcrkwild via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: sprcrkwild, iNaturalist, CC BY 4.0

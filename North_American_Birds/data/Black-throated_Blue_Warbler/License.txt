@@ -1,0 +1,29 @@
+Black-throated Blue Warbler (Setophaga caerulescens) - Photo Licenses
+======================================================================
+
+Photo 1 (Black-throated_Blue_Warbler.jpg)
+-------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/145205044/original.jpg
+Source Page: https://www.inaturalist.org/observations/88036145
+Author: wildreturn via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)
+
+Photo 2 (Black-throated_Blue_Warbler_2.jpg)
+---------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/416387777/original.jpeg
+Source Page: https://www.inaturalist.org/observations/234241607
+Author: eraskin via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: eraskin, iNaturalist, CC BY 4.0
+
+Photo 3 (Black-throated_Blue_Warbler_3.jpg)
+---------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/416387850/original.jpeg
+Source Page: https://www.inaturalist.org/observations/234241607
+Author: eraskin via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: eraskin, iNaturalist, CC BY 4.0

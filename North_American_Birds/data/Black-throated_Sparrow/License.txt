@@ -1,0 +1,32 @@
+Black-throated Sparrow (Amphispiza bilineata) - Photo Licenses
+==============================================================
+
+Photo 1 (Black-throated_Sparrow.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/252826099/original.jpeg
+Source Page: https://www.inaturalist.org/photos/252826099
+Author: fernandoarvizu19 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Black-throated_Sparrow_2.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/236762062/original.jpeg
+Source Page: https://www.inaturalist.org/photos/236762062
+Author: fernandoarvizu19 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by fernandoarvizu19 on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Black-throated_Sparrow_3.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/165161509/original.jpeg
+Source Page: https://www.inaturalist.org/photos/165161509
+Author: velodrome (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by velodrome on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data

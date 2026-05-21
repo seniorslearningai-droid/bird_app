@@ -1,0 +1,33 @@
+Forster's Tern - Photo Licenses
+===============================
+
+Photo 1 (Forsters_Tern.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176296270/original.jpeg
+Source Page: https://www.inaturalist.org/photos/176296270
+Author: blevine
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by blevine (https://www.inaturalist.org/users/blevine) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Forsters_Tern_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/102460253/original.jpeg
+Source Page: https://www.inaturalist.org/photos/102460253
+Author: jraiford
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by jraiford (https://www.inaturalist.org/users/jraiford) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Forsters_Tern_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/21003537/original.jpeg
+Source Page: https://www.inaturalist.org/photos/21003537
+Author: mmulqueen
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

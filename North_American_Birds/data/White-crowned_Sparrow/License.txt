@@ -1,0 +1,32 @@
+White-crowned Sparrow (Zonotrichia leucophrys) - Photo Licenses
+===============================================================
+
+Photo 1 (White-crowned_Sparrow.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/615941200/original.jpeg
+Source Page: https://www.inaturalist.org/photos/615941200
+Author: jmjo
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by jmjo, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (White-crowned_Sparrow_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/615941208/original.jpeg
+Source Page: https://www.inaturalist.org/photos/615941208
+Author: jmjo
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by jmjo, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (White-crowned_Sparrow_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/615941197/original.jpeg
+Source Page: https://www.inaturalist.org/photos/615941197
+Author: jmjo
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by jmjo, licensed under CC BY
+Notes: iNaturalist observation

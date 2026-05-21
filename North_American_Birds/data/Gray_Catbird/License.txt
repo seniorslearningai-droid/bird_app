@@ -1,0 +1,33 @@
+Gray Catbird - Photo Licenses
+=============================
+
+Photo 1 (Gray_Catbird.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/338912304/original.jpeg
+Source Page: https://www.inaturalist.org/photos/338912304
+Author: kristym
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by kristym (https://www.inaturalist.org/users/kristym) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Gray_Catbird_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/38963878/original.jpeg
+Source Page: https://www.inaturalist.org/photos/38963878
+Author: thebirdnerd
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by thebirdnerd (https://www.inaturalist.org/users/thebirdnerd) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Gray_Catbird_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/401092706/original.jpeg
+Source Page: https://www.inaturalist.org/photos/401092706
+Author: donalddavesne
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by donalddavesne (https://www.inaturalist.org/users/donalddavesne) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

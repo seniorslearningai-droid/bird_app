@@ -1,0 +1,32 @@
+Tufted Duck (Aythya fuligula) - Photo Licenses
+==============================================
+
+NOTE: Only 1 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Tufted_Duck.jpg)
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/383940968/original.jpeg
+Source Page: https://www.inaturalist.org/photos/383940968
+Author: orcacroissant
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by orcacroissant, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Tufted_Duck_2.jpg)
+---------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/f/f3/20140202_008_Kessel_Weerdbeemden_Kuifeenden_%2812274235753%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:20140202_008_Kessel_Weerdbeemden_Kuifeenden_(12274235753).jpg
+Author: Jac. Janssen
+License: CC BY 2.0
+Commercial Use: YES
+Attribution: Photo by Jac. Janssen, CC BY 2.0
+
+Photo 3 (Tufted_Duck_3.jpg)
+---------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/0/01/20140327_013_Kessel_Weerdbeemden_Kuifeenden_%2813493530853%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:20140327_013_Kessel_Weerdbeemden_Kuifeenden_(13493530853).jpg
+Author: Jac. Janssen
+License: CC BY 2.0
+Commercial Use: YES
+Attribution: Photo by Jac. Janssen, CC BY 2.0

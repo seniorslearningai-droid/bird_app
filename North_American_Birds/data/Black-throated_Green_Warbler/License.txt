@@ -1,0 +1,29 @@
+Black-throated Green Warbler (Setophaga virens) - Photo Licenses
+=================================================================
+
+Photo 1 (Black-throated_Green_Warbler.jpg)
+--------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/235086928/original.jpeg
+Source Page: https://www.inaturalist.org/observations/137625367
+Author: wildlife13 via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: wildlife13, iNaturalist, CC BY 4.0
+
+Photo 2 (Black-throated_Green_Warbler_2.jpg)
+----------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/235087160/original.jpeg
+Source Page: https://www.inaturalist.org/observations/137625367
+Author: wildlife13 via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: wildlife13, iNaturalist, CC BY 4.0
+
+Photo 3 (Black-throated_Green_Warbler_3.jpg)
+----------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/191288138/original.jpg
+Source Page: https://www.inaturalist.org/observations/113210944
+Author: w_mark_c via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)

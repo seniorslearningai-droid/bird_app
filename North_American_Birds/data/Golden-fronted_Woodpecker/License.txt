@@ -1,0 +1,33 @@
+Golden-fronted Woodpecker - Photo Licenses
+==========================================
+
+Photo 1 (Golden-fronted_Woodpecker.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/157962554/original.jpeg
+Source Page: https://www.inaturalist.org/photos/157962554
+Author: johnrosford
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by johnrosford (https://www.inaturalist.org/users/johnrosford) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Golden-fronted_Woodpecker_2.jpg)
+-----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/292715662/original.jpeg
+Source Page: https://www.inaturalist.org/photos/292715662
+Author: sandy_loam22
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by sandy_loam22 (https://www.inaturalist.org/users/sandy_loam22) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Golden-fronted_Woodpecker_3.jpg)
+-----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/210077561/original.jpeg
+Source Page: https://www.inaturalist.org/photos/210077561
+Author: ricardelremate
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by ricardelremate (https://www.inaturalist.org/users/ricardelremate) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

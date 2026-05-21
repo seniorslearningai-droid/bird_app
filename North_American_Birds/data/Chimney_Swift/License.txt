@@ -1,0 +1,32 @@
+Chimney Swift (Chaetura pelagica) - Photo Licenses
+==================================================
+
+Photo 1 (Chimney_Swift.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/143746829/original.jpeg
+Source Page: https://www.inaturalist.org/observations/87211923
+Author: wildreturn (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation
+
+Photo 2 (Chimney_Swift_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/1591710/original.jpeg
+Source Page: https://www.inaturalist.org/observations/1268258
+Author: terathopius (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by terathopius on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Chimney_Swift_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/172261741/original.jpeg
+Source Page: https://www.inaturalist.org/observations/103154027
+Author: alinam (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by alinam on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

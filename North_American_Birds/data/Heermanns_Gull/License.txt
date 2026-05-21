@@ -1,0 +1,33 @@
+Heermann's Gull - Photo Licenses
+================================
+
+Photo 1 (Heermanns_Gull.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/268668449/original.jpeg
+Source Page: https://www.inaturalist.org/photos/268668449
+Author: stevestevens
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Heermanns_Gull_2.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/323702124/original.jpeg
+Source Page: https://www.inaturalist.org/photos/323702124
+Author: chilipossum
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by chilipossum (https://www.inaturalist.org/users/chilipossum) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Heermanns_Gull_3.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/410387988/original.jpeg
+Source Page: https://www.inaturalist.org/photos/410387988
+Author: aparrot1
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

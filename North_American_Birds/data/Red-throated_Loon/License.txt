@@ -1,0 +1,33 @@
+Red-throated Loon - Photo Licenses
+==================================
+
+Photo 1 (Red-throated_Loon.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/523772630/original.jpeg
+Source Page: https://www.inaturalist.org/photos/523772630
+Author: egorbirder
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by egorbirder (https://www.inaturalist.org/users/egorbirder) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Red-throated_Loon_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/329176543/original.jpeg
+Source Page: https://www.inaturalist.org/photos/329176543
+Author: egorbirder
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by egorbirder (https://www.inaturalist.org/users/egorbirder) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Red-throated_Loon_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/492102675/original.jpeg
+Source Page: https://www.inaturalist.org/photos/492102675
+Author: chilipossum
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by chilipossum (https://www.inaturalist.org/users/chilipossum) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

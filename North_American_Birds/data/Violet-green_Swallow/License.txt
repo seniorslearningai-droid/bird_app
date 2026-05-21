@@ -1,0 +1,32 @@
+Violet-green Swallow (Tachycineta thalassina) - Photo Licenses
+==============================================================
+
+Photo 1 (Violet-green_Swallow.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/401843923/original.jpeg
+Source Page: https://www.inaturalist.org/photos/401843923
+Author: ryanfm
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ryanfm, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Violet-green_Swallow_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/401843922/original.jpeg
+Source Page: https://www.inaturalist.org/photos/401843922
+Author: ryanfm
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ryanfm, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Violet-green_Swallow_3.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/401843944/original.jpeg
+Source Page: https://www.inaturalist.org/photos/401843944
+Author: ryanfm
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ryanfm, licensed under CC BY
+Notes: iNaturalist observation

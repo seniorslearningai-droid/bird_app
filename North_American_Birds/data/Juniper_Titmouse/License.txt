@@ -1,0 +1,33 @@
+Juniper Titmouse - Photo Licenses
+=================================
+
+Photo 1 (Juniper_Titmouse.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/268744237/original.jpeg
+Source Page: https://www.inaturalist.org/photos/268744237
+Author: milliebasden
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by milliebasden (https://www.inaturalist.org/users/milliebasden) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Juniper_Titmouse_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/304634194/original.jpeg
+Source Page: https://www.inaturalist.org/photos/304634194
+Author: colejwolf
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by colejwolf (https://www.inaturalist.org/users/colejwolf) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Juniper_Titmouse_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/272056943/original.jpeg
+Source Page: https://www.inaturalist.org/photos/272056943
+Author: tomkennedy
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by tomkennedy (https://www.inaturalist.org/users/tomkennedy) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,33 @@
+Least Bittern - Photo Licenses
+==============================
+
+Photo 1 (Least_Bittern.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/305676176/original.jpeg
+Source Page: https://www.inaturalist.org/photos/305676176
+Author: mattyfelp
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mattyfelp (https://www.inaturalist.org/users/mattyfelp) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Least_Bittern_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/133777840/original.jpeg
+Source Page: https://www.inaturalist.org/photos/133777840
+Author: mattyfelp
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mattyfelp (https://www.inaturalist.org/users/mattyfelp) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Least_Bittern_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/374682082/original.jpeg
+Source Page: https://www.inaturalist.org/photos/374682082
+Author: terrapinjoe
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by terrapinjoe (https://www.inaturalist.org/users/terrapinjoe) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

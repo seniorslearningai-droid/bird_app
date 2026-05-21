@@ -1,0 +1,33 @@
+Sulphur-bellied Flycatcher (Myiodynastes luteiventris) - Photo Licenses
+=======================================================================
+
+NOTE: Only 2 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Sulphur-bellied_Flycatcher.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/75830796/original.jpeg
+Source Page: https://www.inaturalist.org/photos/75830796
+Author: victordm
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by victordm, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Sulphur-bellied_Flycatcher_2.jpg)
+------------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/329181660/original.jpeg
+Source Page: https://www.inaturalist.org/photos/329181660
+Author: tiluchi
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by tiluchi, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Sulphur-bellied_Flycatcher_3.jpg)
+------------------------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/e/e8/Sulphur-bellied_Flycatcher_%28Myiodynastes_luteiventris%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Sulphur-bellied_Flycatcher_(Myiodynastes_luteiventris).jpg
+Author: Dominic Sherony
+License: CC BY-SA 2.0
+Commercial Use: YES
+Attribution: Photo by Dominic Sherony, CC BY-SA 2.0

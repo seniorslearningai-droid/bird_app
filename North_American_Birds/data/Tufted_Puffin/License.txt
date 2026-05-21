@@ -1,0 +1,33 @@
+Tufted Puffin (Fratercula cirrhata) - Photo Licenses
+====================================================
+
+NOTE: Only 2 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Tufted_Puffin.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2812798/original.jpeg
+Source Page: https://www.inaturalist.org/photos/2812798
+Author: terathopius
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by terathopius, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Tufted_Puffin_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/10074682/original.jpeg
+Source Page: https://www.inaturalist.org/photos/10074682
+Author: serpophaga
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by serpophaga, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Tufted_Puffin_3.jpg)
+-----------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/6/61/Alaska_aboard_the_Admiralty_Dream_%287761763948%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Alaska_aboard_the_Admiralty_Dream_(7761763948).jpg
+Author: Christopher Michel
+License: CC BY 2.0
+Commercial Use: YES
+Attribution: Photo by Christopher Michel, CC BY 2.0

@@ -1,0 +1,33 @@
+Roseate Tern (Sterna dougallii) - Photo Licenses
+================================================
+
+NOTE: Only 2 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Roseate_Tern.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/295162927/original.jpeg
+Source Page: https://www.inaturalist.org/photos/295162927
+Author: mattyfelp
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mattyfelp, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Roseate_Tern_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/220850678/original.jpeg
+Source Page: https://www.inaturalist.org/photos/220850678
+Author: desertnaturalist
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by desertnaturalist, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Roseate_Tern_3.jpg)
+----------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/1/1f/2016-08-17_Sterna_dougallii%2C_St_Marys_Island%2C_Northumberland_03.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:2016-08-17_Sterna_dougallii,_St_Marys_Island,_Northumberland_03.jpg
+Author: MPF
+License: CC BY-SA 4.0
+Commercial Use: YES
+Attribution: Photo by MPF, CC BY-SA 4.0

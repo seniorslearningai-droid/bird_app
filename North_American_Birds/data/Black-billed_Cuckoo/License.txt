@@ -1,0 +1,29 @@
+Black-billed Cuckoo (Coccyzus erythropthalmus) - Photo Licenses
+================================================================
+
+Photo 1 (Black-billed_Cuckoo.jpg)
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/79063913/original.jpg
+Source Page: https://www.inaturalist.org/observations/49799267
+Author: davidfbird via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)
+
+Photo 2 (Black-billed_Cuckoo_2.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/79064235/original.jpg
+Source Page: https://www.inaturalist.org/observations/49799267
+Author: davidfbird via iNaturalist
+License: CC0 (Public Domain)
+Commercial Use: YES
+Attribution: No attribution required (CC0)
+
+Photo 3 (Black-billed_Cuckoo_3.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/98578108/original.jpg
+Source Page: https://www.inaturalist.org/observations/61595074
+Author: lauralovesbirds via iNaturalist
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: lauralovesbirds, iNaturalist, CC BY 4.0

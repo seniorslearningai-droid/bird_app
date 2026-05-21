@@ -1,0 +1,32 @@
+White-tailed Kite (Elanus leucurus) - Photo Licenses
+====================================================
+
+Photo 1 (White-tailed_Kite.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176952604/original.jpeg
+Source Page: https://www.inaturalist.org/photos/176952604
+Author: phylogenomics
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by phylogenomics, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (White-tailed_Kite_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176952490/original.jpeg
+Source Page: https://www.inaturalist.org/photos/176952490
+Author: phylogenomics
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by phylogenomics, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (White-tailed_Kite_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/176952499/original.jpeg
+Source Page: https://www.inaturalist.org/photos/176952499
+Author: phylogenomics
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by phylogenomics, licensed under CC BY
+Notes: iNaturalist observation

@@ -1,0 +1,31 @@
+Western Bluebird (Sialia mexicana) - Photo Licenses
+===================================================
+
+NOTE: Only 1 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Western_Bluebird.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/477080640/original.jpeg
+Source Page: https://www.inaturalist.org/photos/477080640
+Author: harrier
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by harrier, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Western_Bluebird_2.jpg)
+--------------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/b/b5/060319_western_bluebird_female_simon_wray_odfw_%2850092192482%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:060319_western_bluebird_female_simon_wray_odfw_(50092192482).jpg
+Author: Oregon Department of Fish & Wildlife (Simon Wray)
+License: CC BY-SA 2.0
+Commercial Use: YES
+Attribution: Photo by Oregon DFW, CC BY-SA 2.0
+
+Photo 3 (Western_Bluebird_3.jpg)
+--------------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/c/c3/2012.09.14.111537_Sialia_mexicana_female_Mather_Point_Grand_Canyon_Arizona.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:2012.09.14.111537_Sialia_mexicana_female_Mather_Point_Grand_Canyon_Arizona.jpg
+Author: Hermann Luyken
+License: CC0 1.0 (Public Domain)
+Commercial Use: YES

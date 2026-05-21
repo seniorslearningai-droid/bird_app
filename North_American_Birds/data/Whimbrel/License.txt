@@ -1,0 +1,32 @@
+Whimbrel (Numenius phaeopus) - Photo Licenses
+=============================================
+
+NOTE: Only 1 qualifying photo(s) found with free commercial-use license.
+
+Photo 1 (Whimbrel.jpg)
+----------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/293261887/original.jpeg
+Source Page: https://www.inaturalist.org/photos/293261887
+Author: ornitoloca
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ornitoloca, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Whimbrel_2.jpg)
+------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/c/c2/A_Whimbrel_in_Stordalens_nature_reserve.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:A_Whimbrel_in_Stordalens_nature_reserve.jpg
+Author: Jarl Strömbom
+License: CC BY-SA 4.0
+Commercial Use: YES
+Attribution: Photo by Jarl Strömbom, CC BY-SA 4.0
+
+Photo 3 (Whimbrel_3.jpg)
+------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/2/2d/Eurasian_whimbrel_%28Numenius_phaeopus%29_in_Morocco.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Eurasian_whimbrel_(Numenius_phaeopus)_in_Morocco.jpg
+Author: Jan Ebr & Ivana Ebrová
+License: CC BY 4.0
+Commercial Use: YES
+Attribution: Photo by Jan Ebr & Ivana Ebrová, CC BY 4.0

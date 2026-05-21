@@ -1,0 +1,32 @@
+Dark-eyed Junco (Junco hyemalis) - Photo Licenses
+=================================================
+
+Photo 1 (Dark-eyed_Junco.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/52405060/original.jpeg
+Source Page: https://www.inaturalist.org/observations/33368824
+Author: jdee (iNaturalist)
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA allows commercial use with attribution
+Attribution: Photo by jdee on iNaturalist, CC BY-SA 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Dark-eyed_Junco_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/342823120/original.jpeg
+Source Page: https://www.inaturalist.org/observations/194946495
+Author: ecovore (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by ecovore on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Dark-eyed_Junco_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/171202646/original.jpeg
+Source Page: https://www.inaturalist.org/observations/102420611
+Author: sarahwill412 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by sarahwill412 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

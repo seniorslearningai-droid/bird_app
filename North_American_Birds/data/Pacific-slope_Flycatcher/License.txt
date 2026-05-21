@@ -1,0 +1,33 @@
+Pacific-slope Flycatcher - Photo Licenses
+=========================================
+
+Photo 1 (Pacific-slope_Flycatcher.jpg)
+--------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/353507343/original.jpeg
+Source Page: https://www.inaturalist.org/photos/353507343
+Author: mattyfelp
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by mattyfelp (https://www.inaturalist.org/users/mattyfelp) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Pacific-slope_Flycatcher_2.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/113329582/original.jpeg
+Source Page: https://www.inaturalist.org/photos/113329582
+Author: liamsteele
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by liamsteele (https://www.inaturalist.org/users/liamsteele) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Pacific-slope_Flycatcher_3.jpg)
+----------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/12977241/original.jpeg
+Source Page: https://www.inaturalist.org/photos/12977241
+Author: francisco3_
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by francisco3_ (https://www.inaturalist.org/users/francisco3_) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

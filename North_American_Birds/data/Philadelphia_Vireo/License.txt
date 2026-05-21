@@ -1,0 +1,33 @@
+Philadelphia Vireo - Photo Licenses
+===================================
+
+Photo 1 (Philadelphia_Vireo.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/26295047/original.jpeg
+Source Page: https://www.inaturalist.org/photos/26295047
+Author: owenstrickland
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by owenstrickland (https://www.inaturalist.org/users/owenstrickland) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Philadelphia_Vireo_2.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/290965637/original.jpeg
+Source Page: https://www.inaturalist.org/photos/290965637
+Author: adamfritz
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by adamfritz (https://www.inaturalist.org/users/adamfritz) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Philadelphia_Vireo_3.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/173395842/original.jpeg
+Source Page: https://www.inaturalist.org/photos/173395842
+Author: gonodactylus
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by gonodactylus (https://www.inaturalist.org/users/gonodactylus) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

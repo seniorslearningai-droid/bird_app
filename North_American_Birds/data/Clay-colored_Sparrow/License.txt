@@ -1,0 +1,32 @@
+Clay-colored Sparrow (Spizella pallida) - Photo Licenses
+========================================================
+
+Photo 1 (Clay-colored_Sparrow.jpg)
+----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/561670720/original.jpeg
+Source Page: https://www.inaturalist.org/observations/311159077
+Author: enspring (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation
+
+Photo 2 (Clay-colored_Sparrow_2.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/54158495/original.jpeg
+Source Page: https://www.inaturalist.org/observations/34413716
+Author: jlayman (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by jlayman on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Clay-colored_Sparrow_3.jpg)
+------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/169049189/original.jpeg
+Source Page: https://www.inaturalist.org/observations/101239905
+Author: textileranger (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0, no restrictions
+Attribution: None required (CC0)
+Notes: iNaturalist observation

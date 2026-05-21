@@ -1,0 +1,32 @@
+Eastern Bluebird (Sialia sialis) - Photo Licenses
+=================================================
+
+Photo 1 (Eastern_Bluebird.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/183618557/original.jpeg
+Source Page: https://www.inaturalist.org/observations/109184174
+Author: sandysocean (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by sandysocean on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Eastern_Bluebird_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/63765267/original.jpeg
+Source Page: https://www.inaturalist.org/observations/40137449
+Author: leptonia (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by leptonia on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Eastern_Bluebird_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/186344026/original.jpeg
+Source Page: https://www.inaturalist.org/observations/110803393
+Author: sspencerbirds (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by sspencerbirds on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

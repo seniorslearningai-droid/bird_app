@@ -1,0 +1,32 @@
+Clarks Grebe (Aechmophorus clarkii) - Photo Licenses
+====================================================
+
+Photo 1 (Clarks_Grebe.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/216921225/original.jpeg
+Source Page: https://www.inaturalist.org/observations/127757014
+Author: connie43 (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by connie43 on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation
+
+Photo 2 (Clarks_Grebe_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/2640240/original.jpeg
+Source Page: https://www.inaturalist.org/observations/2370876
+Author: juancruzado (iNaturalist)
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA allows commercial use with attribution
+Attribution: Photo by juancruzado on iNaturalist, CC BY-SA 4.0
+Notes: iNaturalist observation
+
+Photo 3 (Clarks_Grebe_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/461283644/original.jpeg
+Source Page: https://www.inaturalist.org/observations/257174831
+Author: milliebasden (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by milliebasden on iNaturalist, CC BY 4.0
+Notes: iNaturalist observation

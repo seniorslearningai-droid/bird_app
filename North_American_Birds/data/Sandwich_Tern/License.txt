@@ -1,0 +1,33 @@
+Sandwich Tern - Photo Licenses
+==============================
+
+Photo 1 (Sandwich_Tern.jpg)
+---------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/393789789/original.jpeg
+Source Page: https://www.inaturalist.org/photos/393789789
+Author: stanley110
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by stanley110 (https://www.inaturalist.org/users/stanley110) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Sandwich_Tern_2.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/429954607/original.jpeg
+Source Page: https://www.inaturalist.org/photos/429954607
+Author: diegodgd
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by diegodgd (https://www.inaturalist.org/users/diegodgd) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Sandwich_Tern_3.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/636723920/original.jpeg
+Source Page: https://www.inaturalist.org/photos/636723920
+Author: gwheelereb
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+

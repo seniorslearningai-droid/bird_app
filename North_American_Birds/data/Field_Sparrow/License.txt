@@ -1,0 +1,32 @@
+Field Sparrow (Spizella pusilla) - Photo Licenses
+=================================================
+
+Photo 1 (Field_Sparrow.jpg)
+-----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/77280673/original.jpeg
+Source Page: https://www.inaturalist.org/photos/77280673
+Author: mmcmasters (iNaturalist)
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by mmcmasters on iNaturalist, CC BY 4.0
+Notes: Downloaded from iNaturalist open data
+
+Photo 2 (Field_Sparrow_2.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/481810022/original.jpeg
+Source Page: https://www.inaturalist.org/photos/481810022
+Author: cvharris (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data
+
+Photo 3 (Field_Sparrow_3.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/481810053/original.jpeg
+Source Page: https://www.inaturalist.org/photos/481810053
+Author: cvharris (iNaturalist)
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 public domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist open data

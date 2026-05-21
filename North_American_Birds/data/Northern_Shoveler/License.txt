@@ -1,0 +1,33 @@
+Northern Shoveler - Photo Licenses
+==================================
+
+Photo 1 (Northern_Shoveler.jpg)
+-------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/30467934/original.jpeg
+Source Page: https://www.inaturalist.org/photos/30467934
+Author: annikaml
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by annikaml (https://www.inaturalist.org/users/annikaml) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+
+Photo 2 (Northern_Shoveler_2.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/342842647/original.jpeg
+Source Page: https://www.inaturalist.org/photos/342842647
+Author: lyneisfilm
+License: CC0 (Public Domain Dedication)
+Commercial Use: YES - CC0 Public Domain, no restrictions
+Attribution: No attribution required (CC0)
+Notes: Downloaded from iNaturalist
+
+Photo 3 (Northern_Shoveler_3.jpg)
+---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/53546911/original.jpeg
+Source Page: https://www.inaturalist.org/photos/53546911
+Author: charlottekirchner
+License: CC BY 4.0
+Commercial Use: YES - CC BY 4.0 allows commercial use with attribution
+Attribution: Photo by charlottekirchner (https://www.inaturalist.org/users/charlottekirchner) / CC BY 4.0
+Notes: Downloaded from iNaturalist
+

@@ -1,0 +1,32 @@
+Snowy Plover (Charadrius nivosus) - Photo Licenses
+==================================================
+
+Photo 1 (Snowy_Plover.jpg)
+--------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/178524921/original.jpeg
+Source Page: https://www.inaturalist.org/photos/178524921
+Author: arnrytterjensen
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by arnrytterjensen, licensed under CC0
+Notes: iNaturalist observation
+
+Photo 2 (Snowy_Plover_2.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/249365085/original.jpeg
+Source Page: https://www.inaturalist.org/photos/249365085
+Author: brook
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by brook, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Snowy_Plover_3.jpg)
+----------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/116069514/original.jpeg
+Source Page: https://www.inaturalist.org/photos/116069514
+Author: stephannflora
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by stephannflora, licensed under CC BY
+Notes: iNaturalist observation

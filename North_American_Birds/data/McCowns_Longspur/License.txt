@@ -1,0 +1,32 @@
+McCown's Longspur (Rhynchophanes mccownii) - Photo Licenses
+===========================================================
+
+Photo 1 (McCowns_Longspur.jpg)
+------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/44061229/original.jpeg
+Source Page: https://www.inaturalist.org/photos/44061229
+Author: benmeredyk
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by benmeredyk, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (McCowns_Longspur_2.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/380896377/original.jpeg
+Source Page: https://www.inaturalist.org/photos/380896377
+Author: quinnbirds
+License: CC BY-SA
+Commercial Use: YES - CC BY-SA allows commercial use with attribution
+Attribution: Photo by quinnbirds, licensed under CC BY-SA
+Notes: iNaturalist observation
+
+Photo 3 (McCowns_Longspur_3.jpg)
+--------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/541540123/original.jpeg
+Source Page: https://www.inaturalist.org/photos/541540123
+Author: danielskatz
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by danielskatz, licensed under CC BY
+Notes: iNaturalist observation

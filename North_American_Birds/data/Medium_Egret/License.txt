@@ -1,0 +1,29 @@
+Medium Egret (Ardea intermedia) - Photo Licenses
+===================================================
+
+Photo 1 (Medium_Egret.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/9/97/A_pouse_in_the_green.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:A_pouse_in_the_green.jpg
+Author: EcoScriptor
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use
+Attribution: EcoScriptor
+
+Photo 2 (Medium_Egret_2.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/f/f0/An_Intermediate_Egret_%28Ardea_intermedia%29.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:An_Intermediate_Egret_(Ardea_intermedia).jpg
+Author: micluna
+License: CC BY-SA 4.0
+Commercial Use: YES - CC BY-SA 4.0 allows commercial use
+Attribution: micluna
+
+Photo 3 (Medium_Egret_3.jpg)
+-------------------------
+URL: https://upload.wikimedia.org/wikipedia/commons/a/a3/Ardea_intermedia_P9160604_-_panoramio.jpg
+Source Page: https://commons.wikimedia.org/wiki/File:Ardea_intermedia_P9160604_-_panoramio.jpg
+Author: resource70
+License: CC BY 3.0
+Commercial Use: YES - CC BY 3.0 allows commercial use
+Attribution: resource70

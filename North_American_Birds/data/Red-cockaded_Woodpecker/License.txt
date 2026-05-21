@@ -1,0 +1,32 @@
+Red-cockaded Woodpecker (Dryobates borealis) - Photo Licenses
+=============================================================
+
+Photo 1 (Red-cockaded_Woodpecker.jpg)
+-------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/1443416/original.jpeg
+Source Page: https://www.inaturalist.org/photos/1443416
+Author: annikaml
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by annikaml, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 2 (Red-cockaded_Woodpecker_2.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/257921223/original.jpeg
+Source Page: https://www.inaturalist.org/photos/257921223
+Author: lauralovesbirds
+License: CC BY
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: Photo by lauralovesbirds, licensed under CC BY
+Notes: iNaturalist observation
+
+Photo 3 (Red-cockaded_Woodpecker_3.jpg)
+---------------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/453963416/original.jpeg
+Source Page: https://www.inaturalist.org/photos/453963416
+Author: cuihenggang
+License: CC0
+Commercial Use: YES - CC0 allows commercial use with attribution
+Attribution: Photo by cuihenggang, licensed under CC0
+Notes: iNaturalist observation

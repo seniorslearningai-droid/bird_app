@@ -22,14 +22,29 @@
     header {
       width: 100%;
       padding: 22px 24px 8px;
-      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
+    .header-inner {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .logo-svg {
+      width: clamp(44px, 9vw, 60px);
+      height: clamp(44px, 9vw, 60px);
+      flex-shrink: 0;
+      filter: drop-shadow(0 2px 6px rgba(0,0,0,0.3));
+    }
+    .header-text { display: flex; flex-direction: column; }
     header h1 {
       font-size: clamp(1.8rem, 5vw, 2.6rem);
       font-weight: 700;
       letter-spacing: 3px;
       color: #fff;
       text-shadow: 0 0 28px rgba(0, 0, 0, 0.3);
+      line-height: 1;
     }
     header p {
       font-size: clamp(0.65rem, 2vw, 0.8rem);
@@ -165,8 +180,40 @@
 <body>
 
   <header>
-    <h1>Flight Score</h1>
-    <p>North American Birds</p>
+    <div class="header-inner">
+      <!-- Red-crested Cardinal logo -->
+      <svg class="logo-svg" viewBox="0 0 60 58" xmlns="http://www.w3.org/2000/svg">
+        <!-- Tail feathers -->
+        <path d="M47 34 Q57 29 55 41 Q50 35 43 36" fill="#4b5563"/>
+        <!-- Body -->
+        <ellipse cx="31" cy="37" rx="16" ry="11" fill="#6b7280"/>
+        <!-- Wing highlight -->
+        <ellipse cx="34" cy="38" rx="11" ry="7.5" fill="#9ca3af"/>
+        <!-- White belly -->
+        <ellipse cx="23" cy="41" rx="10" ry="7" fill="#f9fafb"/>
+        <!-- Red neck join -->
+        <ellipse cx="19" cy="31" rx="8" ry="6" fill="#dc2626"/>
+        <!-- Red head -->
+        <circle cx="17" cy="24" r="12" fill="#dc2626"/>
+        <!-- Crest (tall pointed) -->
+        <path d="M14 15 C15 4 23 5 21 13 C19 7 17 8 14 15Z" fill="#b91c1c"/>
+        <path d="M17 12 C18 3 24 5 22 11" fill="none" stroke="#991b1b" stroke-width="1.5" stroke-linecap="round"/>
+        <!-- Black lore/mask -->
+        <ellipse cx="10" cy="26" rx="5" ry="3" fill="#1f2937"/>
+        <!-- Beak -->
+        <path d="M4 24 L13 22 L13 27 Z" fill="#f97316"/>
+        <!-- Eye -->
+        <circle cx="15" cy="22" r="2.8" fill="#111"/>
+        <circle cx="14" cy="21" r="0.9" fill="white"/>
+        <!-- White cheek -->
+        <ellipse cx="10" cy="29" rx="4" ry="2.5" fill="#f9fafb"/>
+      </svg>
+
+      <div class="header-text">
+        <h1>Flight Score</h1>
+        <p>North American Birds</p>
+      </div>
+    </div>
   </header>
 
   <div class="hero">

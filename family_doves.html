@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flight Score — Doves &amp; Pigeons</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      min-height: 100dvh;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: linear-gradient(160deg, #ff6a00 0%, #ff8c00 50%, #ff5500 100%);
+      color: #fff;
+    }
+
+    /* ── Header ── */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: rgba(255, 100, 0, 0.85);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      display: flex;
+      align-items: center;
+      padding: 14px 18px;
+      gap: 12px;
+      border-bottom: 1px solid rgba(255,255,255,0.2);
+    }
+    .back-btn {
+      background: rgba(255,255,255,0.2);
+      border: none;
+      border-radius: 50%;
+      width: 36px; height: 36px;
+      font-size: 1.1rem;
+      cursor: pointer;
+      color: #fff;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+      transition: background 0.15s;
+    }
+    .back-btn:hover { background: rgba(255,255,255,0.35); }
+    header h1 { font-size: clamp(1.1rem, 4vw, 1.4rem); font-weight: 700; letter-spacing: 1px; }
+
+    /* ── Grid ── */
+    main {
+      padding: 20px 16px 40px;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    .count {
+      font-size: 0.72rem;
+      color: rgba(255,255,255,0.7);
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+      gap: 16px;
+    }
+
+    .bird-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .bird-card:active .emoji { transform: scale(0.92); }
+
+    /* Circular photo "emoji" */
+    .emoji {
+      width: clamp(72px, 18vw, 100px);
+      height: clamp(72px, 18vw, 100px);
+      border-radius: 50%;
+      overflow: hidden;
+      border: 3px solid rgba(255,255,255,0.5);
+      box-shadow: 0 4px 14px rgba(0,0,0,0.3);
+      background: rgba(255,255,255,0.1);
+      transition: transform 0.15s, box-shadow 0.15s;
+      flex-shrink: 0;
+    }
+    .emoji:hover {
+      transform: scale(1.07);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+      border-color: rgba(255,255,255,0.85);
+    }
+    .emoji img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    /* Fallback if image fails */
+    .emoji .fallback {
+      width: 100%; height: 100%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 2rem;
+    }
+
+    .bird-name {
+      font-size: clamp(0.62rem, 2vw, 0.75rem);
+      font-weight: 600;
+      text-align: center;
+      color: rgba(255,255,255,0.92);
+      line-height: 1.3;
+      max-width: 110px;
+    }
+
+    /* Extinct badge */
+    .extinct {
+      font-size: 0.55rem;
+      background: rgba(0,0,0,0.35);
+      color: rgba(255,255,255,0.7);
+      border-radius: 4px;
+      padding: 1px 5px;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <button class="back-btn" onclick="window.location.href='explore.html'">&#8592;</button>
+    <h1>🕊️ Doves &amp; Pigeons</h1>
+  </header>
+
+  <main>
+    <p class="count">22 species</p>
+    <div class="grid" id="grid"></div>
+  </main>
+
+  <script>
+    const CLOUD = "https://res.cloudinary.com/dyw8gorqu/image/upload/birds";
+
+    const birds = [
+      { name: "African Collared-Dove",  safe: "African_Collared-Dove" },
+      { name: "Band-tailed Pigeon",     safe: "Band-tailed_Pigeon" },
+      { name: "Common Ground-Dove",     safe: "Common_Ground-Dove" },
+      { name: "Common Wood-Pigeon",     safe: "Common_Wood-Pigeon" },
+      { name: "Eurasian Collared-Dove", safe: "Eurasian_Collared-Dove" },
+      { name: "European Turtle-Dove",   safe: "European_Turtle-Dove" },
+      { name: "Inca Dove",              safe: "Inca_Dove" },
+      { name: "Key West Quail-Dove",    safe: "Key_West_Quail-Dove" },
+      { name: "Mourning Dove",          safe: "Mourning_Dove" },
+      { name: "Oriental Turtle-Dove",   safe: "Oriental_Turtle-Dove" },
+      { name: "Passenger Pigeon",       safe: "Passenger_Pigeon", extinct: true },
+      { name: "Red-billed Pigeon",      safe: "Red-billed_Pigeon" },
+      { name: "Rock Dove",              safe: "Rock_Dove" },
+      { name: "Ruddy Ground Dove",      safe: "Ruddy_Ground_Dove" },
+      { name: "Ruddy Quail-Dove",       safe: "Ruddy_Quail-Dove" },
+      { name: "Scaly-naped Pigeon",     safe: "Scaly-naped_Pigeon" },
+      { name: "Spotted Dove",           safe: "Spotted_Dove" },
+      { name: "White-crowned Pigeon",   safe: "White-crowned_Pigeon" },
+      { name: "White-tipped Dove",      safe: "White-tipped_Dove" },
+      { name: "White-winged Dove",      safe: "White-winged_Dove" },
+      { name: "Zebra Dove",             safe: "Zebra_Dove" },
+      { name: "Zenaida Dove",           safe: "Zenaida_Dove" },
+    ];
+
+    const grid = document.getElementById("grid");
+
+    birds.forEach(bird => {
+      const imgUrl = `${CLOUD}/${bird.safe}/${bird.safe}.jpg`;
+
+      const card = document.createElement("div");
+      card.className = "bird-card";
+      card.onclick = () => alert("Coming soon: " + bird.name);
+
+      const emojiDiv = document.createElement("div");
+      emojiDiv.className = "emoji";
+
+      const img = document.createElement("img");
+      img.src = imgUrl;
+      img.alt = bird.name;
+      img.onerror = () => {
+        emojiDiv.innerHTML = '<div class="fallback">🕊️</div>';
+      };
+
+      emojiDiv.appendChild(img);
+
+      const nameEl = document.createElement("div");
+      nameEl.className = "bird-name";
+      nameEl.textContent = bird.name;
+
+      card.appendChild(emojiDiv);
+      card.appendChild(nameEl);
+
+      if (bird.extinct) {
+        const badge = document.createElement("span");
+        badge.className = "extinct";
+        badge.textContent = "Extinct";
+        card.appendChild(badge);
+      }
+
+      grid.appendChild(card);
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BirdApp — Explore</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      min-height: 100dvh;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: linear-gradient(160deg, #ff6a00 0%, #ff8c00 50%, #ff5500 100%);
+      color: #fff;
+    }
+
+    /* ── Header ── */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: rgba(255, 100, 0, 0.85);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      display: flex;
+      align-items: center;
+      padding: 14px 18px;
+      gap: 12px;
+      border-bottom: 1px solid rgba(255,255,255,0.2);
+    }
+    .back-btn {
+      background: rgba(255,255,255,0.2);
+      border: none;
+      border-radius: 50%;
+      width: 36px; height: 36px;
+      font-size: 1.1rem;
+      cursor: pointer;
+      color: #fff;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+      transition: background 0.15s;
+    }
+    .back-btn:hover { background: rgba(255,255,255,0.35); }
+    header h1 {
+      font-size: clamp(1.1rem, 4vw, 1.5rem);
+      font-weight: 700;
+      letter-spacing: 2px;
+    }
+
+    /* ── Main content ── */
+    main {
+      padding: 20px 16px 40px;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    .section-label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.7);
+      margin: 24px 0 10px 4px;
+    }
+    .section-label:first-child { margin-top: 4px; }
+
+    /* ── Family grid ── */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 12px;
+    }
+
+    .card {
+      background: rgba(255,255,255,0.15);
+      border: 1px solid rgba(255,255,255,0.25);
+      border-radius: 16px;
+      padding: 16px 12px;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      text-align: center;
+      transition: background 0.15s, transform 0.15s;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .card:hover  { background: rgba(255,255,255,0.25); transform: scale(1.03); }
+    .card:active { transform: scale(0.96); }
+
+    .card-icon  { font-size: 2.2rem; line-height: 1; }
+    .card-name  { font-size: clamp(0.75rem, 2.5vw, 0.88rem); font-weight: 700; line-height: 1.2; }
+    .card-count { font-size: 0.65rem; color: rgba(255,255,255,0.65); }
+  </style>
+</head>
+<body>
+
+  <header>
+    <button class="back-btn" onclick="window.location.href='index.html'">&#8592;</button>
+    <h1>Explore Birds</h1>
+  </header>
+
+  <main>
+
+    <div class="section-label">Birds of Prey</div>
+    <div class="grid">
+      <div class="card" onclick="openFamily('raptors')">
+        <span class="card-icon">🦅</span>
+        <span class="card-name">Hawks &amp; Eagles</span>
+        <span class="card-count">Raptors</span>
+      </div>
+      <div class="card" onclick="openFamily('owls')">
+        <span class="card-icon">🦉</span>
+        <span class="card-name">Owls</span>
+        <span class="card-count">Strigiformes</span>
+      </div>
+      <div class="card" onclick="openFamily('falcons')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Falcons</span>
+        <span class="card-count">Falconidae</span>
+      </div>
+      <div class="card" onclick="openFamily('vultures')">
+        <span class="card-icon">🦃</span>
+        <span class="card-name">Vultures</span>
+        <span class="card-count">New World</span>
+      </div>
+    </div>
+
+    <div class="section-label">Waterbirds</div>
+    <div class="grid">
+      <div class="card" onclick="openFamily('waterfowl')">
+        <span class="card-icon">🦆</span>
+        <span class="card-name">Waterfowl</span>
+        <span class="card-count">Ducks, Geese &amp; Swans</span>
+      </div>
+      <div class="card" onclick="openFamily('herons')">
+        <span class="card-icon">🦢</span>
+        <span class="card-name">Herons &amp; Egrets</span>
+        <span class="card-count">Ardeidae</span>
+      </div>
+      <div class="card" onclick="openFamily('shorebirds')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Shorebirds</span>
+        <span class="card-count">Sandpipers &amp; Plovers</span>
+      </div>
+      <div class="card" onclick="openFamily('gulls')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Gulls &amp; Terns</span>
+        <span class="card-count">Laridae</span>
+      </div>
+      <div class="card" onclick="openFamily('seabirds')">
+        <span class="card-icon">🌊</span>
+        <span class="card-name">Seabirds</span>
+        <span class="card-count">Petrels &amp; Auks</span>
+      </div>
+      <div class="card" onclick="openFamily('pelicans')">
+        <span class="card-icon">🐟</span>
+        <span class="card-name">Pelicans &amp; Cormorants</span>
+        <span class="card-count">Pelecanidae</span>
+      </div>
+      <div class="card" onclick="openFamily('grebes')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Grebes &amp; Loons</span>
+        <span class="card-count">Diving birds</span>
+      </div>
+      <div class="card" onclick="openFamily('rails')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Rails &amp; Coots</span>
+        <span class="card-count">Rallidae</span>
+      </div>
+    </div>
+
+    <div class="section-label">Songbirds</div>
+    <div class="grid">
+      <div class="card" onclick="openFamily('warblers')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Warblers</span>
+        <span class="card-count">Parulidae</span>
+      </div>
+      <div class="card" onclick="openFamily('sparrows')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Sparrows</span>
+        <span class="card-count">Passerellidae</span>
+      </div>
+      <div class="card" onclick="openFamily('finches')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Finches</span>
+        <span class="card-count">Fringillidae</span>
+      </div>
+      <div class="card" onclick="openFamily('thrushes')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Thrushes</span>
+        <span class="card-count">Turdidae</span>
+      </div>
+      <div class="card" onclick="openFamily('flycatchers')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Flycatchers</span>
+        <span class="card-count">Tyrannidae</span>
+      </div>
+      <div class="card" onclick="openFamily('swallows')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Swallows</span>
+        <span class="card-count">Hirundinidae</span>
+      </div>
+      <div class="card" onclick="openFamily('blackbirds')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Blackbirds &amp; Orioles</span>
+        <span class="card-count">Icteridae</span>
+      </div>
+      <div class="card" onclick="openFamily('corvids')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Crows &amp; Jays</span>
+        <span class="card-count">Corvidae</span>
+      </div>
+      <div class="card" onclick="openFamily('tanagers')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Tanagers &amp; Cardinals</span>
+        <span class="card-count">Cardinalidae</span>
+      </div>
+      <div class="card" onclick="openFamily('mockingbirds')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Mockingbirds &amp; Thrashers</span>
+        <span class="card-count">Mimidae</span>
+      </div>
+      <div class="card" onclick="openFamily('vireos')">
+        <span class="card-icon">🐦</span>
+        <span class="card-name">Vireos</span>
+        <span class="card-count">Vireonidae</span>
+      </div>
+    </div>
+
+    <div class="section-label">Other Birds</div>
+    <div class="grid">
+      <div class="card" onclick="openFamily('hummingbirds')">
+        <span class="card-icon">🌺</span>
+        <span class="card-name">Hummingbirds</span>
+        <span class="card-count">Trochilidae</span>
+      </div>
+      <div class="card" onclick="openFamily('woodpeckers')">
+        <span class="card-icon">🌲</span>
+        <span class="card-name">Woodpeckers</span>
+        <span class="card-count">Picidae</span>
+      </div>
+      <div class="card" onclick="openFamily('doves')">
+        <span class="card-icon">🕊️</span>
+        <span class="card-name">Doves &amp; Pigeons</span>
+        <span class="card-count">Columbidae</span>
+      </div>
+      <div class="card" onclick="openFamily('kingfishers')">
+        <span class="card-icon">💧</span>
+        <span class="card-name">Kingfishers</span>
+        <span class="card-count">Alcedinidae</span>
+      </div>
+      <div class="card" onclick="openFamily('nightjars')">
+        <span class="card-icon">🌙</span>
+        <span class="card-name">Nightjars &amp; Nighthawks</span>
+        <span class="card-count">Caprimulgidae</span>
+      </div>
+      <div class="card" onclick="openFamily('gamebirds')">
+        <span class="card-icon">🦃</span>
+        <span class="card-name">Gamebirds</span>
+        <span class="card-count">Turkeys, Quail &amp; Grouse</span>
+      </div>
+      <div class="card" onclick="openFamily('parrots')">
+        <span class="card-icon">🦜</span>
+        <span class="card-name">Parrots &amp; Parakeets</span>
+        <span class="card-count">Psittacidae</span>
+      </div>
+      <div class="card" onclick="openFamily('hawaiian')">
+        <span class="card-icon">🌺</span>
+        <span class="card-name">Hawaiian Birds</span>
+        <span class="card-count">Endemic species</span>
+      </div>
+    </div>
+
+  </main>
+
+  <script>
+    function openFamily(family) {
+      // TODO: navigate to bird list filtered by family
+      alert('Opening: ' + family);
+    }
+  </script>
+
+</body>
+</html>

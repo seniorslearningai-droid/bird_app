@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>BirdApp — Explore</title>
+  <title>Flight Score — Explore</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -88,11 +88,10 @@
     .card:hover  { background: rgba(255,255,255,0.25); transform: scale(1.03); }
     .card:active { transform: scale(0.96); }
 
-    .card-icon  { font-size: 2.2rem; line-height: 1; }
     .card-name  { font-size: clamp(0.75rem, 2.5vw, 0.88rem); font-weight: 700; line-height: 1.2; }
     .card-count { font-size: 0.65rem; color: rgba(255,255,255,0.65); }
 
-    /* Circular photo logo for cards */
+    /* Circular photo for cards */
     .card-photo {
       width: 52px; height: 52px;
       border-radius: 50%;
@@ -105,6 +104,13 @@
       width: 100%; height: 100%;
       object-fit: cover;
       display: block;
+    }
+
+    /* Cartoon/transparent icon (no circle crop) */
+    .card-icon-img {
+      width: 52px; height: 52px;
+      object-fit: contain;
+      flex-shrink: 0;
     }
   </style>
 </head>
@@ -120,22 +126,30 @@
     <div class="section-label">Birds of Prey</div>
     <div class="grid">
       <div class="card" onclick="openFamily('raptors')">
-        <span class="card-icon">🦅</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Red-tailed_Hawk/Red-tailed_Hawk.jpg" alt="Red-tailed Hawk" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Hawks &amp; Eagles</span>
         <span class="card-count">Raptors</span>
       </div>
       <div class="card" onclick="openFamily('owls')">
-        <span class="card-icon">🦉</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Great_Horned_Owl/Great_Horned_Owl.jpg" alt="Great Horned Owl" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Owls</span>
         <span class="card-count">Strigiformes</span>
       </div>
       <div class="card" onclick="openFamily('falcons')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Peregrine_Falcon/Peregrine_Falcon.jpg" alt="Peregrine Falcon" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Falcons</span>
         <span class="card-count">Falconidae</span>
       </div>
       <div class="card" onclick="openFamily('vultures')">
-        <span class="card-icon">🦃</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Turkey_Vulture/Turkey_Vulture.jpg" alt="Turkey Vulture" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Vultures</span>
         <span class="card-count">New World</span>
       </div>
@@ -144,42 +158,58 @@
     <div class="section-label">Waterbirds</div>
     <div class="grid">
       <div class="card" onclick="openFamily('waterfowl')">
-        <span class="card-icon">🦆</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Mallard/Mallard.jpg" alt="Mallard" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Waterfowl</span>
         <span class="card-count">Ducks, Geese &amp; Swans</span>
       </div>
       <div class="card" onclick="openFamily('herons')">
-        <span class="card-icon">🦢</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Great_Blue_Heron/Great_Blue_Heron.jpg" alt="Great Blue Heron" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Herons &amp; Egrets</span>
         <span class="card-count">Ardeidae</span>
       </div>
       <div class="card" onclick="openFamily('shorebirds')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Semipalmated_Sandpiper/Semipalmated_Sandpiper.jpg" alt="Semipalmated Sandpiper" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Shorebirds</span>
         <span class="card-count">Sandpipers &amp; Plovers</span>
       </div>
       <div class="card" onclick="openFamily('gulls')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Laughing_Gull/Laughing_Gull.jpg" alt="Laughing Gull" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Gulls &amp; Terns</span>
         <span class="card-count">Laridae</span>
       </div>
       <div class="card" onclick="openFamily('seabirds')">
-        <span class="card-icon">🌊</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Atlantic_Puffin/Atlantic_Puffin.jpg" alt="Atlantic Puffin" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Seabirds</span>
         <span class="card-count">Petrels &amp; Auks</span>
       </div>
       <div class="card" onclick="openFamily('pelicans')">
-        <span class="card-icon">🐟</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/American_White_Pelican/American_White_Pelican.jpg" alt="American White Pelican" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Pelicans &amp; Cormorants</span>
         <span class="card-count">Pelecanidae</span>
       </div>
       <div class="card" onclick="openFamily('grebes')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Common_Loon/Common_Loon.jpg" alt="Common Loon" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Grebes &amp; Loons</span>
         <span class="card-count">Diving birds</span>
       </div>
       <div class="card" onclick="openFamily('rails')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/American_Coot/American_Coot.jpg" alt="American Coot" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Rails &amp; Coots</span>
         <span class="card-count">Rallidae</span>
       </div>
@@ -188,57 +218,77 @@
     <div class="section-label">Songbirds</div>
     <div class="grid">
       <div class="card" onclick="openFamily('warblers')">
-        <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/v1780235635/app_assets/warbler_icon.png" alt="Yellow Warbler" style="width:52px;height:52px;object-fit:contain;flex-shrink:0;"/>
+        <img class="card-icon-img" src="https://res.cloudinary.com/dyw8gorqu/image/upload/v1780235635/app_assets/warbler_icon.png" alt="Yellow Warbler"/>
         <span class="card-name">Warblers</span>
         <span class="card-count">Parulidae</span>
       </div>
       <div class="card" onclick="openFamily('sparrows')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Song_Sparrow/Song_Sparrow.jpg" alt="Song Sparrow" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Sparrows</span>
         <span class="card-count">Passerellidae</span>
       </div>
       <div class="card" onclick="openFamily('finches')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/American_Goldfinch/American_Goldfinch.jpg" alt="American Goldfinch" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Finches</span>
         <span class="card-count">Fringillidae</span>
       </div>
       <div class="card" onclick="openFamily('thrushes')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/American_Robin/American_Robin.jpg" alt="American Robin" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Thrushes</span>
         <span class="card-count">Turdidae</span>
       </div>
       <div class="card" onclick="openFamily('flycatchers')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Eastern_Phoebe/Eastern_Phoebe.jpg" alt="Eastern Phoebe" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Flycatchers</span>
         <span class="card-count">Tyrannidae</span>
       </div>
       <div class="card" onclick="openFamily('swallows')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Barn_Swallow/Barn_Swallow.jpg" alt="Barn Swallow" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Swallows</span>
         <span class="card-count">Hirundinidae</span>
       </div>
       <div class="card" onclick="openFamily('blackbirds')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Red-winged_Blackbird/Red-winged_Blackbird.jpg" alt="Red-winged Blackbird" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Blackbirds &amp; Orioles</span>
         <span class="card-count">Icteridae</span>
       </div>
       <div class="card" onclick="openFamily('corvids')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Blue_Jay/Blue_Jay.jpg" alt="Blue Jay" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Crows &amp; Jays</span>
         <span class="card-count">Corvidae</span>
       </div>
       <div class="card" onclick="openFamily('tanagers')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Northern_Cardinal/Northern_Cardinal.jpg" alt="Northern Cardinal" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Tanagers &amp; Cardinals</span>
         <span class="card-count">Cardinalidae</span>
       </div>
       <div class="card" onclick="openFamily('mockingbirds')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Northern_Mockingbird/Northern_Mockingbird.jpg" alt="Northern Mockingbird" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Mockingbirds &amp; Thrashers</span>
         <span class="card-count">Mimidae</span>
       </div>
       <div class="card" onclick="openFamily('vireos')">
-        <span class="card-icon">🐦</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Red-eyed_Vireo/Red-eyed_Vireo.jpg" alt="Red-eyed Vireo" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Vireos</span>
         <span class="card-count">Vireonidae</span>
       </div>
@@ -247,42 +297,58 @@
     <div class="section-label">Other Birds</div>
     <div class="grid">
       <div class="card" onclick="openFamily('hummingbirds')">
-        <span class="card-icon">🌺</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Ruby-throated_Hummingbird/Ruby-throated_Hummingbird.jpg" alt="Ruby-throated Hummingbird" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Hummingbirds</span>
         <span class="card-count">Trochilidae</span>
       </div>
       <div class="card" onclick="openFamily('woodpeckers')">
-        <span class="card-icon">🌲</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Downy_Woodpecker/Downy_Woodpecker.jpg" alt="Downy Woodpecker" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Woodpeckers</span>
         <span class="card-count">Picidae</span>
       </div>
       <div class="card" onclick="openFamily('doves')">
-        <span class="card-icon">🕊️</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Mourning_Dove/Mourning_Dove.jpg" alt="Mourning Dove" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Doves &amp; Pigeons</span>
         <span class="card-count">Columbidae</span>
       </div>
       <div class="card" onclick="openFamily('kingfishers')">
-        <span class="card-icon">💧</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Belted_Kingfisher/Belted_Kingfisher.jpg" alt="Belted Kingfisher" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Kingfishers</span>
         <span class="card-count">Alcedinidae</span>
       </div>
       <div class="card" onclick="openFamily('nightjars')">
-        <span class="card-icon">🌙</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Common_Nighthawk/Common_Nighthawk.jpg" alt="Common Nighthawk" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Nightjars &amp; Nighthawks</span>
         <span class="card-count">Caprimulgidae</span>
       </div>
       <div class="card" onclick="openFamily('gamebirds')">
-        <span class="card-icon">🦃</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Wild_Turkey/Wild_Turkey.jpg" alt="Wild Turkey" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Gamebirds</span>
         <span class="card-count">Turkeys, Quail &amp; Grouse</span>
       </div>
       <div class="card" onclick="openFamily('parrots')">
-        <span class="card-icon">🦜</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Monk_Parakeet/Monk_Parakeet.jpg" alt="Monk Parakeet" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Parrots &amp; Parakeets</span>
         <span class="card-count">Psittacidae</span>
       </div>
       <div class="card" onclick="openFamily('hawaiian')">
-        <span class="card-icon">🌺</span>
+        <div class="card-photo">
+          <img src="https://res.cloudinary.com/dyw8gorqu/image/upload/birds/Apapane/Apapane.jpg" alt="Apapane" onerror="this.style.display='none'"/>
+        </div>
         <span class="card-name">Hawaiian Birds</span>
         <span class="card-count">Endemic species</span>
       </div>

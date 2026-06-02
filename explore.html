@@ -41,6 +41,15 @@
       transition: background 0.15s;
     }
     .back-btn:hover { background: rgba(255,255,255,0.35); }
+    .header-logo {
+      width: 44px; height: 44px;
+      object-fit: contain;
+      flex-shrink: 0;
+      cursor: pointer;
+      filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));
+      transition: transform 0.15s;
+    }
+    .header-logo:hover { transform: scale(1.08); }
     header h1 {
       font-size: clamp(1.1rem, 4vw, 1.5rem);
       font-weight: 700;
@@ -268,6 +277,7 @@
 
   <header>
     <button class="back-btn" onclick="window.location.href='index.html'">&#8592;</button>
+    <img class="header-logo" src="https://res.cloudinary.com/dyw8gorqu/image/upload/app_assets/emojis/red-crested-cardinal-emoji.png" alt="Flight Score" onclick="window.location.href='index.html'"/>
     <h1>Explore Birds</h1>
   </header>
 

@@ -67,20 +67,20 @@
     /* ── Family grid ── */
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 20px;
+      grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+      gap: 16px;
     }
 
     .card {
       background: rgba(255,255,255,0.15);
       border: 1px solid rgba(255,255,255,0.25);
-      border-radius: 22px;
-      padding: 30px 20px;
+      border-radius: 20px;
+      padding: 24px 16px;
       cursor: pointer;
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 14px;
+      gap: 11px;
       text-align: center;
       transition: background 0.15s, transform 0.15s;
       -webkit-tap-highlight-color: transparent;
@@ -88,15 +88,15 @@
     .card:hover  { background: rgba(255,255,255,0.25); transform: scale(1.03); }
     .card:active { transform: scale(0.96); }
 
-    .card-name  { font-size: clamp(1rem, 2vw, 1.25rem); font-weight: 700; line-height: 1.2; }
-    .card-count { font-size: 0.85rem; color: rgba(255,255,255,0.7); }
+    .card-name  { font-size: clamp(0.9rem, 1.8vw, 1.1rem); font-weight: 700; line-height: 1.2; }
+    .card-count { font-size: 0.76rem; color: rgba(255,255,255,0.7); }
 
     .card-emoji {
-      width: 110px; height: 110px;
+      width: 88px; height: 88px;
       object-fit: contain;
       flex-shrink: 0;
     }
-    .card-icon { font-size: 4.4rem; line-height: 1; }
+    .card-icon { font-size: 3.5rem; line-height: 1; }
 
     /* ── Modal overlay ── */
     .modal-overlay {

@@ -218,7 +218,12 @@
   </div>
 
   <script>
-    function explore()  { window.location.href = 'explore.html'; }
+    function explore() {
+      // Flag that this navigation came from the home page, so explore.html
+      // knows it's allowed to render (vs. a direct visit / page refresh).
+      sessionStorage.setItem('flightScoreNav', 'explore');
+      window.location.href = 'explore.html';
+    }
     function identify() { alert('Identify tapped!'); }
   </script>
 

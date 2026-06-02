@@ -4,6 +4,18 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Flight Score — Explore</title>
+  <script>
+    // Always start the app at the home page. If this page was opened
+    // directly (bookmark, tab restore, refresh), redirect to index.html.
+    // The flag is set by the Explore button on the home page.
+    (function () {
+      if (sessionStorage.getItem('flightScoreNav') !== 'explore') {
+        window.location.replace('index.html');
+      } else {
+        sessionStorage.removeItem('flightScoreNav');
+      }
+    })();
+  </script>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 

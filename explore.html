@@ -255,7 +255,13 @@
     /* Color-code the levels */
     .node.class-node   { background: rgba(255,255,255,0.28); border-color: rgba(255,255,255,0.7); font-size: 0.95rem; }
     .node.family-node  { background: rgba(255,160, 80,0.32); font-size: 0.95rem; }
+    .node.group-node   { background: rgba(255,200,100,0.30); font-size: 0.92rem; }
     .node.species-node { background: rgba(255,255,255,0.14); font-size: 0.8rem; padding: 8px 12px; }
+
+    /* When the tree starts with sub-branches (no root), hide top connectors */
+    .tree > ul.branches > li::before,
+    .tree > ul.branches > li::after { display: none; }
+    .tree > ul.branches > li { padding-top: 0; }
   </style>
 </head>
 <body>
@@ -452,10 +458,14 @@
   <script>
     const EMOJI_BASE = 'https://res.cloudinary.com/dyw8gorqu/image/upload/app_assets/emojis/';
 
-    // Family tree data: each family has its emoji/icon and a list of representative species (common names)
+    // Family tree data: each family has its emoji/icon. Some have natural sub-branches (groups),
+    // others have a flat species list.
     const families = {
       raptors:      { name: 'Hawks & Eagles', icon: '🦅',
-                      species: ['Red-tailed Hawk', 'Bald Eagle', 'Golden Eagle', "Cooper's Hawk", 'Northern Harrier', 'Sharp-shinned Hawk'] },
+                      groups: [
+                        { label: 'Hawks',  species: ['Red-tailed Hawk', "Cooper's Hawk", 'Sharp-shinned Hawk', 'Northern Harrier'] },
+                        { label: 'Eagles', species: ['Bald Eagle', 'Golden Eagle'] }
+                      ] },
       owls:         { name: 'Owls', icon: '🦉',
                       species: ['Great Horned Owl', 'Barn Owl', 'Barred Owl', 'Snowy Owl', 'Eastern Screech-Owl', 'Burrowing Owl'] },
       falcons:      { name: 'Falcons', emoji: 'falcon-emoji.png',
@@ -464,21 +474,48 @@
                       species: ['Turkey Vulture', 'Black Vulture', 'California Condor'] },
 
       waterfowl:    { name: 'Waterfowl', icon: '🦆',
-                      species: ['Mallard', 'Canada Goose', 'Wood Duck', 'Tundra Swan', 'Northern Pintail', 'Snow Goose'] },
+                      groups: [
+                        { label: 'Ducks', species: ['Mallard', 'Wood Duck', 'Northern Pintail'] },
+                        { label: 'Geese', species: ['Canada Goose', 'Snow Goose'] },
+                        { label: 'Swans', species: ['Tundra Swan'] }
+                      ] },
       herons:       { name: 'Herons & Egrets', icon: '🦢',
-                      species: ['Great Blue Heron', 'Great Egret', 'Snowy Egret', 'Green Heron', 'Black-crowned Night-Heron', 'American Bittern'] },
+                      groups: [
+                        { label: 'Herons',  species: ['Great Blue Heron', 'Green Heron', 'Black-crowned Night-Heron', 'American Bittern'] },
+                        { label: 'Egrets',  species: ['Great Egret', 'Snowy Egret'] }
+                      ] },
       shorebirds:   { name: 'Shorebirds', emoji: 'shorebirds-emoji.png',
-                      species: ['Killdeer', 'American Avocet', 'Dunlin', 'Sanderling', 'Black-bellied Plover', 'Long-billed Curlew'] },
+                      groups: [
+                        { label: 'Plovers',    species: ['Killdeer', 'Black-bellied Plover'] },
+                        { label: 'Sandpipers', species: ['Dunlin', 'Sanderling', 'Long-billed Curlew'] },
+                        { label: 'Avocets',    species: ['American Avocet'] }
+                      ] },
       gulls:        { name: 'Gulls & Terns', emoji: 'gulls-and-terns-emoji.png',
-                      species: ['Herring Gull', 'Ring-billed Gull', 'Laughing Gull', 'Common Tern', 'Caspian Tern', 'Black-legged Kittiwake'] },
+                      groups: [
+                        { label: 'Gulls', species: ['Herring Gull', 'Ring-billed Gull', 'Laughing Gull', 'Black-legged Kittiwake'] },
+                        { label: 'Terns', species: ['Common Tern', 'Caspian Tern'] }
+                      ] },
       seabirds:     { name: 'Seabirds', emoji: 'seabirds-emoji.png',
-                      species: ['Atlantic Puffin', 'Sooty Shearwater', 'Common Murre', "Wilson's Storm-Petrel", 'Northern Fulmar'] },
+                      groups: [
+                        { label: 'Auks',           species: ['Atlantic Puffin', 'Common Murre'] },
+                        { label: 'Shearwaters',    species: ['Sooty Shearwater', 'Northern Fulmar'] },
+                        { label: 'Storm-Petrels',  species: ["Wilson's Storm-Petrel"] }
+                      ] },
       pelicans:     { name: 'Pelicans & Cormorants', emoji: 'pelicans-and-cormorants-emoji.png',
-                      species: ['American White Pelican', 'Brown Pelican', 'Double-crested Cormorant', 'Neotropic Cormorant'] },
+                      groups: [
+                        { label: 'Pelicans',   species: ['American White Pelican', 'Brown Pelican'] },
+                        { label: 'Cormorants', species: ['Double-crested Cormorant', 'Neotropic Cormorant'] }
+                      ] },
       grebes:       { name: 'Grebes & Loons', emoji: 'grebes-and-loons-emoji.png',
-                      species: ['Common Loon', 'Pied-billed Grebe', 'Western Grebe', 'Horned Grebe', 'Red-throated Loon'] },
+                      groups: [
+                        { label: 'Grebes', species: ['Pied-billed Grebe', 'Western Grebe', 'Horned Grebe'] },
+                        { label: 'Loons',  species: ['Common Loon', 'Red-throated Loon'] }
+                      ] },
       rails:        { name: 'Rails & Coots', emoji: 'rails-and-coots-emoji.png',
-                      species: ['American Coot', 'Common Gallinule', 'Virginia Rail', 'Sora', 'Clapper Rail'] },
+                      groups: [
+                        { label: 'Rails',              species: ['Virginia Rail', 'Sora', 'Clapper Rail'] },
+                        { label: 'Coots & Gallinules', species: ['American Coot', 'Common Gallinule'] }
+                      ] },
 
       warblers:     { name: 'Warblers', emoji: 'warbler-emoji.png',
                       species: ['Yellow Warbler', 'Common Yellowthroat', 'Yellow-rumped Warbler', 'Black-and-white Warbler', 'American Redstart', "Wilson's Warbler"] },
@@ -487,19 +524,37 @@
       finches:      { name: 'Finches', emoji: 'finches-emoji.png',
                       species: ['House Finch', 'American Goldfinch', 'Purple Finch', 'Pine Siskin', 'Red Crossbill', 'Evening Grosbeak'] },
       thrushes:     { name: 'Thrushes', emoji: 'thrushes-emoji.png',
-                      species: ['American Robin', 'Eastern Bluebird', 'Hermit Thrush', 'Wood Thrush', 'Western Bluebird', 'Varied Thrush'] },
+                      groups: [
+                        { label: 'True Thrushes', species: ['American Robin', 'Hermit Thrush', 'Wood Thrush', 'Varied Thrush'] },
+                        { label: 'Bluebirds',     species: ['Eastern Bluebird', 'Western Bluebird'] }
+                      ] },
       flycatchers:  { name: 'Flycatchers', emoji: 'flycatchers-emoji.png',
                       species: ['Eastern Kingbird', 'Eastern Phoebe', 'Great Crested Flycatcher', 'Western Wood-Pewee', 'Least Flycatcher'] },
       swallows:     { name: 'Swallows', emoji: 'swallows-emoji.png',
                       species: ['Barn Swallow', 'Tree Swallow', 'Cliff Swallow', 'Purple Martin', 'Bank Swallow', 'Northern Rough-winged Swallow'] },
       blackbirds:   { name: 'Blackbirds & Orioles', emoji: 'blackbirds-and-orioles-emoji.png',
-                      species: ['Red-winged Blackbird', 'Baltimore Oriole', 'Common Grackle', 'Eastern Meadowlark', 'Brown-headed Cowbird', 'Bobolink'] },
+                      groups: [
+                        { label: 'Blackbirds',           species: ['Red-winged Blackbird', 'Bobolink', 'Eastern Meadowlark'] },
+                        { label: 'Orioles',              species: ['Baltimore Oriole'] },
+                        { label: 'Grackles & Cowbirds',  species: ['Common Grackle', 'Brown-headed Cowbird'] }
+                      ] },
       corvids:      { name: 'Crows & Jays', emoji: 'crows-and-geese-emoji.png',
-                      species: ['American Crow', 'Blue Jay', "Steller's Jay", 'Black-billed Magpie', 'Common Raven', "Clark's Nutcracker"] },
+                      groups: [
+                        { label: 'Crows & Ravens',       species: ['American Crow', 'Common Raven'] },
+                        { label: 'Jays',                 species: ['Blue Jay', "Steller's Jay"] },
+                        { label: 'Magpies & Nutcrackers', species: ['Black-billed Magpie', "Clark's Nutcracker"] }
+                      ] },
       tanagers:     { name: 'Tanagers & Cardinals', emoji: 'tanagers-and-cardinals-emoji.png',
-                      species: ['Northern Cardinal', 'Scarlet Tanager', 'Indigo Bunting', 'Rose-breasted Grosbeak', 'Summer Tanager', 'Painted Bunting'] },
+                      groups: [
+                        { label: 'Cardinals',              species: ['Northern Cardinal'] },
+                        { label: 'Tanagers',               species: ['Scarlet Tanager', 'Summer Tanager'] },
+                        { label: 'Buntings & Grosbeaks',   species: ['Indigo Bunting', 'Painted Bunting', 'Rose-breasted Grosbeak'] }
+                      ] },
       mockingbirds: { name: 'Mockingbirds & Thrashers', emoji: 'mockingbirds-and-thrashers-emoji.png',
-                      species: ['Northern Mockingbird', 'Brown Thrasher', 'Gray Catbird', 'Curve-billed Thrasher', 'Sage Thrasher'] },
+                      groups: [
+                        { label: 'Mockingbirds & Catbirds', species: ['Northern Mockingbird', 'Gray Catbird'] },
+                        { label: 'Thrashers',               species: ['Brown Thrasher', 'Curve-billed Thrasher', 'Sage Thrasher'] }
+                      ] },
       vireos:       { name: 'Vireos', emoji: 'vireos-and-hummingbirds-emoji.png',
                       species: ['Red-eyed Vireo', 'Warbling Vireo', 'White-eyed Vireo', 'Blue-headed Vireo', 'Yellow-throated Vireo'] },
 
@@ -508,15 +563,28 @@
       woodpeckers:  { name: 'Woodpeckers', emoji: 'woodpeckers-emoji.png',
                       species: ['Downy Woodpecker', 'Pileated Woodpecker', 'Northern Flicker', 'Red-bellied Woodpecker', 'Hairy Woodpecker', 'Yellow-bellied Sapsucker'] },
       doves:        { name: 'Doves & Pigeons', icon: '🕊️',
-                      species: ['Mourning Dove', 'Rock Pigeon', 'Eurasian Collared-Dove', 'Common Ground-Dove', 'White-winged Dove', 'Inca Dove'] },
+                      groups: [
+                        { label: 'Doves',   species: ['Mourning Dove', 'Eurasian Collared-Dove', 'White-winged Dove', 'Inca Dove', 'Common Ground-Dove'] },
+                        { label: 'Pigeons', species: ['Rock Pigeon'] }
+                      ] },
       kingfishers:  { name: 'Kingfishers', emoji: 'kingfishers-emoji.png',
                       species: ['Belted Kingfisher', 'Green Kingfisher', 'Ringed Kingfisher'] },
       nightjars:    { name: 'Nightjars & Nighthawks', emoji: 'nightjars-and-nighthawks-emoji.png',
-                      species: ['Common Nighthawk', 'Eastern Whip-poor-will', "Chuck-will's-widow", 'Common Poorwill', 'Lesser Nighthawk'] },
+                      groups: [
+                        { label: 'Nighthawks', species: ['Common Nighthawk', 'Lesser Nighthawk'] },
+                        { label: 'Nightjars',  species: ['Eastern Whip-poor-will', "Chuck-will's-widow", 'Common Poorwill'] }
+                      ] },
       gamebirds:    { name: 'Gamebirds', emoji: 'game-birds-emoji.png',
-                      species: ['Wild Turkey', 'Northern Bobwhite', 'Ruffed Grouse', 'Greater Sage-Grouse', 'California Quail', 'Sharp-tailed Grouse'] },
+                      groups: [
+                        { label: 'Turkeys', species: ['Wild Turkey'] },
+                        { label: 'Grouse',  species: ['Ruffed Grouse', 'Greater Sage-Grouse', 'Sharp-tailed Grouse'] },
+                        { label: 'Quail',   species: ['Northern Bobwhite', 'California Quail'] }
+                      ] },
       parrots:      { name: 'Parrots & Parakeets', emoji: 'parrots-and-parakeets-emoji.png',
-                      species: ['Monk Parakeet', 'Green Parakeet', 'Thick-billed Parrot', 'Red-crowned Parrot'] },
+                      groups: [
+                        { label: 'Parakeets', species: ['Monk Parakeet', 'Green Parakeet'] },
+                        { label: 'Parrots',   species: ['Thick-billed Parrot', 'Red-crowned Parrot'] }
+                      ] },
       hawaiian:     { name: 'Hawaiian Birds', emoji: 'hawaiian-birds-emoji.png',
                       species: ['Apapane', 'Iiwi', 'Akikiki', 'Hawaii Amakihi', 'Maui Parrotbill', 'Palila'] }
     };
@@ -537,12 +605,23 @@
         </div>
       `;
 
-      // Species list only — no class or family levels
-      const speciesHTML = d.species.map(s => `
-        <li><div class="node species-node">${s}</div></li>
-      `).join('');
+      // Render either a flat species list or branched sub-groups
+      const speciesItem = s => `<li><div class="node species-node">${s}</div></li>`;
 
-      document.getElementById('modalTree').innerHTML = `<ul>${speciesHTML}</ul>`;
+      let treeHTML;
+      if (d.groups) {
+        const branchesHTML = d.groups.map(g => `
+          <li>
+            <div class="node group-node">${g.label}</div>
+            <ul>${g.species.map(speciesItem).join('')}</ul>
+          </li>
+        `).join('');
+        treeHTML = `<ul class="branches">${branchesHTML}</ul>`;
+      } else {
+        treeHTML = `<ul>${d.species.map(speciesItem).join('')}</ul>`;
+      }
+
+      document.getElementById('modalTree').innerHTML = treeHTML;
 
       document.getElementById('modalOverlay').classList.add('open');
       document.body.style.overflow = 'hidden';

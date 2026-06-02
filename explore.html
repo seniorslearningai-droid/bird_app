@@ -537,24 +537,12 @@
         </div>
       `;
 
-      // Build tree: Birds → Family → Species (common names)
+      // Species list only — no class or family levels
       const speciesHTML = d.species.map(s => `
-        <li><div class="node species-node"><span class="rank">Species</span>${s}</div></li>
+        <li><div class="node species-node">${s}</div></li>
       `).join('');
 
-      document.getElementById('modalTree').innerHTML = `
-        <ul>
-          <li>
-            <div class="node class-node"><span class="rank">Class</span>Birds</div>
-            <ul>
-              <li>
-                <div class="node family-node"><span class="rank">Family</span>${d.name}</div>
-                <ul>${speciesHTML}</ul>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      `;
+      document.getElementById('modalTree').innerHTML = `<ul>${speciesHTML}</ul>`;
 
       document.getElementById('modalOverlay').classList.add('open');
       document.body.style.overflow = 'hidden';

@@ -91,15 +91,172 @@
     .card-name  { font-size: clamp(0.75rem, 2.5vw, 0.88rem); font-weight: 700; line-height: 1.2; }
     .card-count { font-size: 0.65rem; color: rgba(255,255,255,0.65); }
 
-    /* Cartoon emoji image (transparent background, no circle crop) */
     .card-emoji {
       width: 56px; height: 56px;
       object-fit: contain;
       flex-shrink: 0;
     }
-
-    /* Text emoji fallback */
     .card-icon { font-size: 2.2rem; line-height: 1; }
+
+    /* ── Modal overlay ── */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.65);
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 100;
+      padding: 20px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.25s;
+    }
+    .modal-overlay.open {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .modal {
+      background: linear-gradient(160deg, #ff7820 0%, #ff8c00 50%, #ff5500 100%);
+      border: 2px solid rgba(255,255,255,0.35);
+      border-radius: 24px;
+      max-width: 720px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      padding: 24px 20px 32px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.45);
+      transform: scale(0.9);
+      transition: transform 0.25s;
+      position: relative;
+    }
+    .modal-overlay.open .modal { transform: scale(1); }
+
+    .modal-close {
+      position: absolute;
+      top: 14px; right: 14px;
+      width: 36px; height: 36px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.2);
+      border: none;
+      color: #fff;
+      font-size: 1.2rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.15s;
+    }
+    .modal-close:hover { background: rgba(255,255,255,0.35); }
+
+    .modal-header {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 20px;
+      padding-right: 50px;
+    }
+    .modal-header img,
+    .modal-header .modal-icon-text {
+      width: 56px; height: 56px;
+      object-fit: contain;
+      flex-shrink: 0;
+    }
+    .modal-header .modal-icon-text {
+      font-size: 2.4rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .modal-title h2 {
+      font-size: 1.4rem;
+      font-weight: 700;
+      letter-spacing: 1px;
+      line-height: 1.1;
+    }
+    .modal-title p {
+      font-size: 0.72rem;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.75);
+      margin-top: 4px;
+    }
+
+    /* ── Family tree ── */
+    .tree {
+      padding: 10px 0;
+      text-align: center;
+      overflow-x: auto;
+    }
+    .tree ul {
+      padding-top: 22px;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      list-style: none;
+      flex-wrap: wrap;
+    }
+    .tree > ul:first-child { padding-top: 0; }
+    .tree li {
+      list-style-type: none;
+      position: relative;
+      padding: 22px 6px 0;
+    }
+    .tree li::before, .tree li::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      border-top: 2px solid rgba(255,255,255,0.6);
+      width: 50%; height: 22px;
+    }
+    .tree li::after  { right: auto; left: 50%; border-left:  2px solid rgba(255,255,255,0.6); }
+    .tree li::before { left:  auto; right:50%; }
+    .tree li:only-child::after,
+    .tree li:only-child::before { display: none; }
+    .tree li:only-child { padding-top: 0; }
+    .tree li:first-child::before,
+    .tree li:last-child::after { border: 0 none; }
+    .tree li:last-child::before  { border-right: 2px solid rgba(255,255,255,0.6); border-radius: 0 6px 0 0; }
+    .tree li:first-child::after { border-radius: 6px 0 0 0; }
+
+    .tree ul ul::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 50%;
+      border-left: 2px solid rgba(255,255,255,0.6);
+      width: 0; height: 22px;
+    }
+
+    .node {
+      display: inline-block;
+      padding: 8px 14px;
+      background: rgba(255,255,255,0.18);
+      border: 1.5px solid rgba(255,255,255,0.5);
+      border-radius: 14px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      line-height: 1.2;
+      white-space: nowrap;
+      backdrop-filter: blur(6px);
+    }
+    .node .rank {
+      display: block;
+      font-size: 0.55rem;
+      font-weight: 600;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 2px;
+    }
+
+    /* Color-code the rank levels */
+    .node.class-node   { background: rgba(255,255,255,0.28); border-color: rgba(255,255,255,0.7); }
+    .node.order-node   { background: rgba(255,200,100,0.28); }
+    .node.family-node  { background: rgba(255,160, 80,0.32); }
+    .node.genus-node   { background: rgba(255,255,255,0.12); font-size: 0.72rem; padding: 6px 10px; }
   </style>
 </head>
 <body>
@@ -284,11 +441,140 @@
 
   </main>
 
+  <!-- Family tree modal -->
+  <div class="modal-overlay" id="modalOverlay" onclick="if(event.target===this) closeModal()">
+    <div class="modal">
+      <button class="modal-close" onclick="closeModal()">✕</button>
+      <div class="modal-header" id="modalHeader"></div>
+      <div class="tree" id="modalTree"></div>
+    </div>
+  </div>
+
   <script>
-    function openFamily(family) {
-      // TODO: navigate to bird list filtered by family
-      alert('Opening: ' + family);
+    const EMOJI_BASE = 'https://res.cloudinary.com/dyw8gorqu/image/upload/app_assets/emojis/';
+
+    // Taxonomic family-tree data for every family card
+    const families = {
+      raptors:      { name: 'Hawks & Eagles',         icon: '🦅', order: 'Accipitriformes', family: 'Accipitridae',
+                      genera: ['Buteo', 'Accipiter', 'Aquila', 'Haliaeetus', 'Circus'] },
+      owls:         { name: 'Owls',                   icon: '🦉', order: 'Strigiformes', family: 'Strigidae & Tytonidae',
+                      genera: ['Bubo', 'Strix', 'Megascops', 'Tyto', 'Asio'] },
+      falcons:      { name: 'Falcons',                emoji: 'falcon-emoji.png', order: 'Falconiformes', family: 'Falconidae',
+                      genera: ['Falco', 'Caracara'] },
+      vultures:     { name: 'New World Vultures',     emoji: 'vultures-emoji.png', order: 'Cathartiformes', family: 'Cathartidae',
+                      genera: ['Cathartes', 'Coragyps', 'Gymnogyps'] },
+
+      waterfowl:    { name: 'Waterfowl',              icon: '🦆', order: 'Anseriformes', family: 'Anatidae',
+                      genera: ['Anas', 'Aythya', 'Branta', 'Cygnus', 'Anser', 'Mergus'] },
+      herons:       { name: 'Herons & Egrets',        icon: '🦢', order: 'Pelecaniformes', family: 'Ardeidae',
+                      genera: ['Ardea', 'Egretta', 'Nycticorax', 'Butorides', 'Botaurus'] },
+      shorebirds:   { name: 'Shorebirds',             emoji: 'shorebirds-emoji.png', order: 'Charadriiformes', family: 'Scolopacidae & Charadriidae',
+                      genera: ['Calidris', 'Charadrius', 'Pluvialis', 'Tringa', 'Limosa', 'Numenius'] },
+      gulls:        { name: 'Gulls & Terns',          emoji: 'gulls-and-terns-emoji.png', order: 'Charadriiformes', family: 'Laridae',
+                      genera: ['Larus', 'Sterna', 'Chroicocephalus', 'Hydroprogne', 'Rissa'] },
+      seabirds:     { name: 'Seabirds',               emoji: 'seabirds-emoji.png', order: 'Procellariiformes', family: 'Procellariidae, Alcidae & Hydrobatidae',
+                      genera: ['Puffinus', 'Fratercula', 'Uria', 'Oceanites', 'Fulmarus'] },
+      pelicans:     { name: 'Pelicans & Cormorants',  emoji: 'pelicans-and-cormorants-emoji.png', order: 'Pelecaniformes / Suliformes', family: 'Pelecanidae & Phalacrocoracidae',
+                      genera: ['Pelecanus', 'Phalacrocorax', 'Nannopterum'] },
+      grebes:       { name: 'Grebes & Loons',         emoji: 'grebes-and-loons-emoji.png', order: 'Podicipediformes / Gaviiformes', family: 'Podicipedidae & Gaviidae',
+                      genera: ['Podiceps', 'Aechmophorus', 'Gavia', 'Podilymbus'] },
+      rails:        { name: 'Rails & Coots',          emoji: 'rails-and-coots-emoji.png', order: 'Gruiformes', family: 'Rallidae',
+                      genera: ['Rallus', 'Fulica', 'Gallinula', 'Porzana', 'Laterallus'] },
+
+      warblers:     { name: 'Wood-Warblers',          emoji: 'warbler-emoji.png', order: 'Passeriformes', family: 'Parulidae',
+                      genera: ['Setophaga', 'Geothlypis', 'Vermivora', 'Mniotilta', 'Oreothlypis', 'Cardellina'] },
+      sparrows:     { name: 'New World Sparrows',     emoji: 'sparrows-emoji.png', order: 'Passeriformes', family: 'Passerellidae',
+                      genera: ['Melospiza', 'Zonotrichia', 'Spizella', 'Passerculus', 'Ammodramus'] },
+      finches:      { name: 'Finches',                emoji: 'finches-emoji.png', order: 'Passeriformes', family: 'Fringillidae',
+                      genera: ['Haemorhous', 'Spinus', 'Loxia', 'Pinicola', 'Carduelis'] },
+      thrushes:     { name: 'Thrushes',               emoji: 'thrushes-emoji.png', order: 'Passeriformes', family: 'Turdidae',
+                      genera: ['Turdus', 'Catharus', 'Hylocichla', 'Sialia', 'Ixoreus'] },
+      flycatchers:  { name: 'Tyrant Flycatchers',     emoji: 'flycatchers-emoji.png', order: 'Passeriformes', family: 'Tyrannidae',
+                      genera: ['Tyrannus', 'Empidonax', 'Myiarchus', 'Sayornis', 'Contopus'] },
+      swallows:     { name: 'Swallows',               emoji: 'swallows-emoji.png', order: 'Passeriformes', family: 'Hirundinidae',
+                      genera: ['Hirundo', 'Tachycineta', 'Petrochelidon', 'Riparia', 'Progne'] },
+      blackbirds:   { name: 'Blackbirds & Orioles',   emoji: 'blackbirds-and-orioles-emoji.png', order: 'Passeriformes', family: 'Icteridae',
+                      genera: ['Agelaius', 'Icterus', 'Quiscalus', 'Sturnella', 'Molothrus'] },
+      corvids:      { name: 'Crows & Jays',           emoji: 'crows-and-geese-emoji.png', order: 'Passeriformes', family: 'Corvidae',
+                      genera: ['Corvus', 'Cyanocitta', 'Aphelocoma', 'Pica', 'Gymnorhinus'] },
+      tanagers:     { name: 'Tanagers & Cardinals',   emoji: 'tanagers-and-cardinals-emoji.png', order: 'Passeriformes', family: 'Cardinalidae',
+                      genera: ['Cardinalis', 'Piranga', 'Passerina', 'Pheucticus', 'Spiza'] },
+      mockingbirds: { name: 'Mockingbirds & Thrashers', emoji: 'mockingbirds-and-thrashers-emoji.png', order: 'Passeriformes', family: 'Mimidae',
+                      genera: ['Mimus', 'Toxostoma', 'Dumetella', 'Oreoscoptes'] },
+      vireos:       { name: 'Vireos',                 emoji: 'vireos-and-hummingbirds-emoji.png', order: 'Passeriformes', family: 'Vireonidae',
+                      genera: ['Vireo'] },
+
+      hummingbirds: { name: 'Hummingbirds',           emoji: 'vireos-and-hummingbirds-emoji.png', order: 'Apodiformes', family: 'Trochilidae',
+                      genera: ['Archilochus', 'Selasphorus', 'Calypte', 'Lampornis', 'Calothorax'] },
+      woodpeckers:  { name: 'Woodpeckers',            emoji: 'woodpeckers-emoji.png', order: 'Piciformes', family: 'Picidae',
+                      genera: ['Dryobates', 'Melanerpes', 'Sphyrapicus', 'Colaptes', 'Dryocopus'] },
+      doves:        { name: 'Doves & Pigeons',        icon: '🕊️', order: 'Columbiformes', family: 'Columbidae',
+                      genera: ['Zenaida', 'Columba', 'Patagioenas', 'Streptopelia', 'Columbina'] },
+      kingfishers:  { name: 'Kingfishers',            emoji: 'kingfishers-emoji.png', order: 'Coraciiformes', family: 'Alcedinidae',
+                      genera: ['Megaceryle', 'Chloroceryle'] },
+      nightjars:    { name: 'Nightjars & Nighthawks', emoji: 'nightjars-and-nighthawks-emoji.png', order: 'Caprimulgiformes', family: 'Caprimulgidae',
+                      genera: ['Chordeiles', 'Antrostomus', 'Phalaenoptilus', 'Nyctidromus'] },
+      gamebirds:    { name: 'Gamebirds',              emoji: 'game-birds-emoji.png', order: 'Galliformes', family: 'Phasianidae & Odontophoridae',
+                      genera: ['Meleagris', 'Bonasa', 'Centrocercus', 'Tympanuchus', 'Colinus', 'Callipepla'] },
+      parrots:      { name: 'Parrots & Parakeets',    emoji: 'parrots-and-parakeets-emoji.png', order: 'Psittaciformes', family: 'Psittacidae',
+                      genera: ['Myiopsitta', 'Conuropsis', 'Rhynchopsitta', 'Aratinga'] },
+      hawaiian:     { name: 'Hawaiian Honeycreepers', emoji: 'hawaiian-birds-emoji.png', order: 'Passeriformes', family: 'Fringillidae (Drepanidinae)',
+                      genera: ['Himatione', 'Drepanis', 'Hemignathus', 'Loxops', 'Palmeria', 'Paroreomyza'] }
+    };
+
+    function openFamily(key) {
+      const d = families[key];
+      if (!d) return;
+
+      // Build header
+      const iconHTML = d.emoji
+        ? `<img src="${EMOJI_BASE}${d.emoji}" alt="${d.name}">`
+        : `<div class="modal-icon-text">${d.icon || '🐦'}</div>`;
+      document.getElementById('modalHeader').innerHTML = `
+        ${iconHTML}
+        <div class="modal-title">
+          <h2>${d.name}</h2>
+          <p>Family tree</p>
+        </div>
+      `;
+
+      // Build tree: Class → Order → Family → Genera
+      const generaHTML = d.genera.map(g => `
+        <li><div class="node genus-node"><span class="rank">Genus</span>${g}</div></li>
+      `).join('');
+
+      document.getElementById('modalTree').innerHTML = `
+        <ul>
+          <li>
+            <div class="node class-node"><span class="rank">Class</span>Aves</div>
+            <ul>
+              <li>
+                <div class="node order-node"><span class="rank">Order</span>${d.order}</div>
+                <ul>
+                  <li>
+                    <div class="node family-node"><span class="rank">Family</span>${d.family}</div>
+                    <ul>${generaHTML}</ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      `;
+
+      document.getElementById('modalOverlay').classList.add('open');
+      document.body.style.overflow = 'hidden';
     }
+
+    function closeModal() {
+      document.getElementById('modalOverlay').classList.remove('open');
+      document.body.style.overflow = '';
+    }
+
+    // ESC closes modal
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape') closeModal();
+    });
   </script>
 
 </body>

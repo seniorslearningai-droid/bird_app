@@ -283,8 +283,14 @@
     /* When the tree starts with sub-branches (no root), hide top connectors */
     .tree > ul.branches > li::before,
     .tree > ul.branches > li::after { display: none; }
-    .tree > ul.branches > li { padding-top: 0; padding-left: 28px; padding-right: 28px; }
-    .tree > ul.branches { gap: 16px; }
+    .tree > ul.branches > li {
+      padding-top: 0;
+      padding-left: 48px;
+      padding-right: 48px;
+      border-left: 2px dashed rgba(255,255,255,0.18);
+    }
+    .tree > ul.branches > li:first-child { border-left: none; }
+    .tree > ul.branches { gap: 36px; }
   </style>
 </head>
 <body>
@@ -526,7 +532,7 @@
     owls:          { name: 'Owls',
       icon: '🦉',
       groups: [
-        { label: 'Barn Owls', species: ['American Barn Owl', 'Barn Owl'] },
+        { label: 'Barn Owls', species: ['Barn Owl'] },
         { label: 'Screech-Owls', species: [
                       'Eastern Screech-Owl',
                       'Flammulated Owl',

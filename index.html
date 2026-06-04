@@ -70,30 +70,81 @@
       justify-content: center;
       gap: 14px;
       position: relative;
+      overflow: hidden;
     }
 
     /* corner brackets */
-    .hero::before, .hero::after,
-    .c-tr, .c-bl {
+    .c-tr, .c-bl, .c-tl, .c-br {
       content: "";
       position: absolute;
       width: 26px; height: 26px;
-      border-color: rgba(255, 255, 255, 0.5);
+      border-color: rgba(255, 255, 255, 0.7);
       border-style: solid;
+      z-index: 3;
     }
-    .hero::before { top: 14px;    left: 14px;   border-width: 2px 0 0 2px; border-radius: 4px 0 0 0; }
-    .hero::after  { bottom: 14px; right: 14px;  border-width: 0 2px 2px 0; border-radius: 0 0 4px 0; }
+    .c-tl { top: 14px;    left: 14px;   border-width: 2px 0 0 2px; border-radius: 4px 0 0 0; }
+    .c-br { bottom: 14px; right: 14px;  border-width: 0 2px 2px 0; border-radius: 0 0 4px 0; }
     .c-tr { top: 14px;    right: 14px;  border-width: 2px 2px 0 0; border-radius: 0 4px 0 0; }
     .c-bl { bottom: 14px; left: 14px;   border-width: 0 0 2px 2px; border-radius: 0 0 0 4px; }
 
-    .hero-icon { font-size: clamp(4rem, 13vw, 7rem); opacity: 0.2; user-select: none; }
-    .hero-text {
-      font-size: clamp(0.78rem, 2.4vw, 0.95rem);
-      color: #7aab5a;
-      opacity: 0.8;
+    /* Bird of the Day image fills the hero card */
+    .botd-img {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      z-index: 1;
+    }
+
+    /* Gradient overlay so text reads on any photo */
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        to bottom,
+        rgba(0,0,0,0.55) 0%,
+        rgba(0,0,0,0.05) 30%,
+        rgba(0,0,0,0.05) 65%,
+        rgba(0,0,0,0.75) 100%
+      );
+      z-index: 2;
+      pointer-events: none;
+    }
+
+    /* "Bird of the Day" tag (top) */
+    .botd-tag {
+      position: absolute;
+      top: 22px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 4;
+      font-size: clamp(0.7rem, 1.8vw, 0.85rem);
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #fff;
+      text-shadow: 0 2px 6px rgba(0,0,0,0.6);
+      white-space: nowrap;
+    }
+
+    /* Bird name (bottom) */
+    .botd-name {
+      position: absolute;
+      bottom: 26px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 4;
+      font-size: clamp(1.2rem, 3.5vw, 1.7rem);
+      font-weight: 700;
+      letter-spacing: 1px;
+      color: #fff;
+      text-shadow: 0 2px 10px rgba(0,0,0,0.7);
       text-align: center;
-      padding: 0 28px;
-      line-height: 1.65;
+      padding: 0 32px;
+      max-width: 100%;
+      line-height: 1.15;
     }
 
     /* ── Bottom bar — both buttons side by side ── */
@@ -193,8 +244,13 @@
   </header>
 
   <div class="hero">
+    <img class="botd-img" id="botdImg" alt=""/>
+    <span class="c-tl"></span>
     <span class="c-tr"></span>
     <span class="c-bl"></span>
+    <span class="c-br"></span>
+    <div class="botd-tag">Bird of the Day</div>
+    <div class="botd-name" id="botdName"></div>
   </div>
 
   <div class="bottom-bar">
@@ -217,7 +273,64 @@
 
   </div>
 
+  <script src="birds.js"></script>
   <script>
+    // ── Bird of the Day ──────────────────────────────────────────────
+    // Same bird for the whole day (rotates each midnight), picked
+    // deterministically from BIRD_LIST using day-of-year as a seed.
+    const POSSESSIVE_NAMES = new Set([
+      "Aberts","Ainleys","Aleutian","Allens","Annas","Audubons","Bachmans","Bairds",
+      "Barrows","Belchers","Bells","Bendires","Bewicks","Bicknells","Bishops","Botteris",
+      "Brandts","Brants","Brewers","Bryans","Bullers","Bullocks","Bulwers","Cassins",
+      "Clarks","Cooks","Coopers","Corys","Costas","Couchs","Craveris","Erckels",
+      "Forsters","Franklins","Gambels","Graces","Hammonds","Harriss","Heermanns",
+      "Henslows","Huttons","Jouanins","Kirtlands","Kittlitzs","LeContes","Leachs",
+      "Lessons","Lewiss","Lincolns","Lucys","MacGillivrays","McCowns","McKays",
+      "Morelets","Murphys","Naumanns","Nelsons","Newells","Nuttalls","Nuttings",
+      "Pallass","Parkinsons","Ridgways","Rosss","Sabines","Salvins","Says","Scopolis",
+      "Scotts","Scrippss","Smiths","Spragues","Stejnegers","Stellers","Swainsons",
+      "Temmincks","Townsends","Tristrams","Vauxs","Virginias","Williamsons","Wilsons",
+      "Worthens","Xantuss","Zinos","Rivolis"
+    ]);
+
+    function displayName(folder) {
+      // Special cases
+      const specials = {
+        "Chuck-wills-widow":               "Chuck-will's-widow",
+        "Atlantic_Yellow-nosed_(Yellow-nosed)_Albatross": "Atlantic Yellow-nosed Albatross",
+        "Desertas_(Feas)_Petrel":          "Desertas Petrel",
+        "Eurasian_(Common)_Hoopoe":        "Eurasian Hoopoe",
+        "Eurasian_(Common)_Moorhen":       "Eurasian Moorhen",
+        "Gray-headed_(Purple)_Swamphen":   "Gray-headed Swamphen",
+        "Mangrove_Yellow_(Yellow)_Warbler":"Mangrove Yellow Warbler",
+        "Northern_Yellow_(Yellow)_Warbler":"Northern Yellow Warbler",
+        "Pacific_(Fork-tailed)_Swift":     "Pacific Swift",
+      };
+      if (specials[folder]) return specials[folder];
+      return folder.split('_').map(p => {
+        if (POSSESSIVE_NAMES.has(p)) return p.slice(0, -1) + "'s";
+        return p;
+      }).join(' ');
+    }
+
+    function pickTodaysBird() {
+      // Days since Unix epoch (UTC) — same for everyone, rotates at UTC midnight
+      const day = Math.floor(Date.now() / 86400000);
+      const idx = day % BIRD_LIST.length;
+      return BIRD_LIST[idx];
+    }
+
+    (function setBirdOfTheDay() {
+      const folder = pickTodaysBird();
+      const url = `https://res.cloudinary.com/dyw8gorqu/image/upload/birds/${folder}/${folder}.jpg`;
+      const img = document.getElementById('botdImg');
+      const name = document.getElementById('botdName');
+      const displayed = displayName(folder);
+      img.src = url;
+      img.alt = displayed;
+      name.textContent = displayed;
+    })();
+
     function explore() {
       // Flag that this navigation came from the home page, so explore.html
       // knows it's allowed to render (vs. a direct visit / page refresh).

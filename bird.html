@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flight Score — Bird</title>
+  <script>
+    // Only reachable by clicking a species in explore.html
+    (function () {
+      if (sessionStorage.getItem('birdNav') !== 'fromExplore') {
+        window.location.replace('index.html');
+      } else {
+        sessionStorage.removeItem('birdNav');
+      }
+    })();
+  </script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      min-height: 100dvh;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: linear-gradient(160deg, #ff6a00 0%, #ff8c00 50%, #ff5500 100%);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── Header ── */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: rgba(255, 100, 0, 0.88);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      display: flex;
+      align-items: center;
+      padding: 14px 18px;
+      gap: 12px;
+      border-bottom: 1px solid rgba(255,255,255,0.2);
+    }
+    .back-btn {
+      background: rgba(255,255,255,0.2);
+      border: none;
+      border-radius: 50%;
+      width: 40px; height: 40px;
+      font-size: 1.2rem;
+      cursor: pointer;
+      color: #fff;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+      transition: background 0.15s;
+    }
+    .back-btn:hover { background: rgba(255,255,255,0.35); }
+    .header-name {
+      font-size: clamp(1.1rem, 4vw, 1.6rem);
+      font-weight: 700;
+      letter-spacing: 1px;
+      line-height: 1.15;
+    }
+
+    /* ── Main content ── */
+    main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px 16px 40px;
+      gap: 16px;
+      max-width: 860px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    /* ── Primary photo ── */
+    .photo-hero {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      border-radius: 22px;
+      overflow: hidden;
+      border: 2px solid rgba(255,255,255,0.3);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+      background: rgba(255,255,255,0.08);
+      position: relative;
+    }
+    .photo-hero img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: opacity 0.3s;
+    }
+    .photo-hero .placeholder {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      font-size: 0.9rem;
+      color: rgba(255,255,255,0.55);
+    }
+    .photo-hero .placeholder span { font-size: 3rem; }
+
+    /* ── Secondary photos row ── */
+    .photo-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      width: 100%;
+    }
+    .photo-thumb {
+      aspect-ratio: 4 / 3;
+      border-radius: 16px;
+      overflow: hidden;
+      border: 1.5px solid rgba(255,255,255,0.25);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+      background: rgba(255,255,255,0.06);
+    }
+    .photo-thumb img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .photo-thumb.hidden { display: none; }
+
+    /* ── Bird name card ── */
+    .name-card {
+      width: 100%;
+      background: rgba(255,255,255,0.15);
+      border: 1px solid rgba(255,255,255,0.25);
+      border-radius: 18px;
+      padding: 18px 22px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .name-card .common-name {
+      font-size: clamp(1.4rem, 4vw, 2rem);
+      font-weight: 700;
+      line-height: 1.15;
+    }
+    .name-card .label {
+      font-size: 0.72rem;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.65);
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <button class="back-btn" onclick="goBack()">&#8592;</button>
+    <div class="header-name" id="headerName">Loading…</div>
+  </header>
+
+  <main>
+    <!-- Primary photo -->
+    <div class="photo-hero" id="heroWrap">
+      <div class="placeholder" id="heroPlaceholder">
+        <span>🐦</span>
+        <div>Loading photo…</div>
+      </div>
+      <img id="heroImg" alt="" style="opacity:0" onload="onHeroLoad()" onerror="onHeroError()"/>
+    </div>
+
+    <!-- Name card -->
+    <div class="name-card">
+      <div class="label">Common Name</div>
+      <div class="common-name" id="commonName">—</div>
+    </div>
+
+    <!-- Secondary photos -->
+    <div class="photo-row" id="photoRow">
+      <div class="photo-thumb hidden" id="thumb2">
+        <img id="img2" alt="" onerror="document.getElementById('thumb2').classList.add('hidden')"/>
+      </div>
+      <div class="photo-thumb hidden" id="thumb3">
+        <img id="img3" alt="" onerror="document.getElementById('thumb3').classList.add('hidden')"/>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    const POSSESSIVE_NAMES = new Set([
+      "Aberts","Ainleys","Allens","Annas","Audubons","Bachmans","Bairds","Barrows",
+      "Belchers","Bells","Bendires","Bewicks","Bicknells","Bishops","Botteris",
+      "Brandts","Brants","Brewers","Bryans","Bullers","Bullocks","Bulwers","Cassins",
+      "Clarks","Cooks","Coopers","Corys","Costas","Couchs","Craveris","Erckels",
+      "Forsters","Franklins","Gambels","Graces","Hammonds","Harriss","Heermanns",
+      "Henslows","Huttons","Jouanins","Kirtlands","Kittlitzs","LeContes","Leachs",
+      "Lessons","Lewiss","Lincolns","Lucys","MacGillivrays","McCowns","McKays",
+      "Morelets","Murphys","Naumanns","Nelsons","Newells","Nuttalls","Nuttings",
+      "Pallass","Parkinsons","Ridgways","Rosss","Sabines","Salvins","Says","Scopolis",
+      "Scotts","Scrippss","Smiths","Spragues","Stejnegers","Stellers","Swainsons",
+      "Temmincks","Townsends","Tristrams","Vauxs","Virginias","Williamsons","Wilsons",
+      "Worthens","Xantuss","Zinos","Rivolis"
+    ]);
+
+    function displayName(folder) {
+      const specials = {
+        "Chuck-wills-widow":               "Chuck-will's-widow",
+        "Atlantic_Yellow-nosed_(Yellow-nosed)_Albatross": "Atlantic Yellow-nosed Albatross",
+        "Desertas_(Feas)_Petrel":          "Desertas Petrel",
+        "Eurasian_(Common)_Hoopoe":        "Eurasian Hoopoe",
+        "Eurasian_(Common)_Moorhen":       "Eurasian Moorhen",
+        "Gray-headed_(Purple)_Swamphen":   "Gray-headed Swamphen",
+        "Mangrove_Yellow_(Yellow)_Warbler":"Mangrove Yellow Warbler",
+        "Northern_Yellow_(Yellow)_Warbler":"Northern Yellow Warbler",
+        "Pacific_(Fork-tailed)_Swift":     "Pacific Swift",
+      };
+      if (specials[folder]) return specials[folder];
+      return folder.split('_').map(p => {
+        if (POSSESSIVE_NAMES.has(p)) return p.slice(0, -1) + "’s";
+        return p;
+      }).join(' ');
+    }
+
+    function onHeroLoad() {
+      const img = document.getElementById('heroImg');
+      img.style.opacity = '1';
+      document.getElementById('heroPlaceholder').style.display = 'none';
+    }
+
+    function onHeroError() {
+      document.getElementById('heroImg').style.display = 'none';
+      const ph = document.getElementById('heroPlaceholder');
+      ph.querySelector('div').textContent = 'Photo not available';
+      ph.style.display = 'flex';
+    }
+
+    function goBack() {
+      sessionStorage.setItem('flightScoreNav', 'bird');
+      window.location.href = 'explore.html';
+    }
+
+    // ── Init ──────────────────────────────────────────────────────────
+    const params  = new URLSearchParams(window.location.search);
+    const safeName = params.get('bird') || '';
+    const name    = displayName(safeName);
+    const base    = `https://res.cloudinary.com/dyw8gorqu/image/upload/birds/${safeName}/`;
+
+    document.getElementById('headerName').textContent  = name;
+    document.getElementById('commonName').textContent  = name;
+    document.title = `${name} — Flight Score`;
+
+    // Primary photo
+    document.getElementById('heroImg').src = base + safeName + '.jpg';
+
+    // Secondary photos — show if they load, hide on error
+    const img2 = document.getElementById('img2');
+    img2.src = base + safeName + '_2.jpg';
+    img2.onload = () => document.getElementById('thumb2').classList.remove('hidden');
+
+    const img3 = document.getElementById('img3');
+    img3.src = base + safeName + '_3.jpg';
+    img3.onload = () => document.getElementById('thumb3').classList.remove('hidden');
+  </script>
+
+</body>
+</html>

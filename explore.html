@@ -9,7 +9,9 @@
     // directly (bookmark, tab restore, refresh), redirect to index.html.
     // The flag is set by the Explore button on the home page.
     (function () {
-      if (sessionStorage.getItem('flightScoreNav') !== 'explore') {
+      const nav = sessionStorage.getItem('flightScoreNav');
+      // Allow arrival from home page ('explore') or back-nav from bird page ('bird')
+      if (nav !== 'explore' && nav !== 'bird') {
         window.location.replace('index.html');
       } else {
         sessionStorage.removeItem('flightScoreNav');
@@ -279,6 +281,14 @@
     .node.family-node  { background: rgba(255,160, 80,0.32); font-size: 1.65rem; }
     .node.group-node   { background: rgba(255,200,100,0.30); font-size: 1.6rem; padding: 18px 30px; }
     .node.species-node { background: rgba(255,255,255,0.14); font-size: 1.4rem; padding: 16px 24px; }
+
+    /* Clickable species nodes */
+    .node.species-node {
+      cursor: pointer;
+      transition: background 0.15s, transform 0.12s;
+    }
+    .node.species-node:hover  { background: rgba(255,255,255,0.28); transform: scale(1.04); }
+    .node.species-node:active { transform: scale(0.96); }
 
     /* When the tree starts with sub-branches (no root), hide top connectors */
     .tree > ul.branches > li::before,
@@ -1716,7 +1726,11 @@
       `;
 
       // Render either a flat species list or branched sub-groups
-      const speciesItem = s => `<li><div class="node species-node">${s}</div></li>`;
+      const speciesItem = s => {
+        // Convert display name → safe folder name: remove apostrophes, spaces → underscores
+        const safe = s.replace(/'/g, '').replace(/ /g, '_');
+        return `<li><div class="node species-node" onclick="openBird('${safe}')">${s}</div></li>`;
+      };
 
       let treeHTML;
       if (d.groups) {
@@ -1735,6 +1749,11 @@
 
       document.getElementById('modalOverlay').classList.add('open');
       document.body.style.overflow = 'hidden';
+    }
+
+    function openBird(safeName) {
+      sessionStorage.setItem('birdNav', 'fromExplore');
+      window.location.href = 'bird.html?bird=' + encodeURIComponent(safeName);
     }
 
     function closeModal() {

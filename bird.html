@@ -81,18 +81,33 @@
       overflow: hidden;
       border: 2px solid rgba(255,255,255,0.3);
       box-shadow: 0 8px 32px rgba(0,0,0,0.4);
-      background: rgba(255,255,255,0.08);
+      background: rgba(0,0,0,0.25);
+      background-size: cover;
+      background-position: center;
       position: relative;
     }
+    /* Blurred background fills any letterbox gaps */
+    .photo-hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: inherit;
+      filter: blur(18px) brightness(0.7) saturate(1.4);
+      transform: scale(1.08); /* avoid thin unblurred edge */
+      z-index: 0;
+    }
     .photo-hero img {
+      position: relative;
+      z-index: 1;
       width: 100%; height: 100%;
-      object-fit: cover;
+      object-fit: contain;   /* ← never crops the bird */
       display: block;
       transition: opacity 0.3s;
     }
     .photo-hero .placeholder {
       position: absolute;
       inset: 0;
+      z-index: 2;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -116,11 +131,25 @@
       overflow: hidden;
       border: 1.5px solid rgba(255,255,255,0.25);
       box-shadow: 0 4px 16px rgba(0,0,0,0.3);
-      background: rgba(255,255,255,0.06);
+      background: rgba(0,0,0,0.2);
+      background-size: cover;
+      background-position: center;
+      position: relative;
+    }
+    .photo-thumb::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: inherit;
+      filter: blur(12px) brightness(0.7) saturate(1.3);
+      transform: scale(1.08);
+      z-index: 0;
     }
     .photo-thumb img {
+      position: relative;
+      z-index: 1;
       width: 100%; height: 100%;
-      object-fit: cover;
+      object-fit: contain;
       display: block;
     }
     .photo-thumb.hidden { display: none; }
@@ -247,17 +276,29 @@
     document.getElementById('commonName').textContent  = name;
     document.title = `${name} — Flight Score`;
 
-    // Primary photo
+    // Primary photo — full bird visible (object-fit: contain)
     document.getElementById('heroImg').src = base + safeName + '.jpg';
+
+    // Blurred background using Cloudinary's blur transformation
+    const blurUrl = `https://res.cloudinary.com/dyw8gorqu/image/upload/e_blur:1200,q_30/birds/${safeName}/${safeName}.jpg`;
+    document.getElementById('heroWrap').style.backgroundImage = `url('${blurUrl}')`;
 
     // Secondary photos — show if they load, hide on error
     const img2 = document.getElementById('img2');
     img2.src = base + safeName + '_2.jpg';
-    img2.onload = () => document.getElementById('thumb2').classList.remove('hidden');
+    img2.onload = () => {
+      const t = document.getElementById('thumb2');
+      t.style.backgroundImage = `url('https://res.cloudinary.com/dyw8gorqu/image/upload/e_blur:1200,q_30/birds/${safeName}/${safeName}_2.jpg')`;
+      t.classList.remove('hidden');
+    };
 
     const img3 = document.getElementById('img3');
     img3.src = base + safeName + '_3.jpg';
-    img3.onload = () => document.getElementById('thumb3').classList.remove('hidden');
+    img3.onload = () => {
+      const t = document.getElementById('thumb3');
+      t.style.backgroundImage = `url('https://res.cloudinary.com/dyw8gorqu/image/upload/e_blur:1200,q_30/birds/${safeName}/${safeName}_3.jpg')`;
+      t.classList.remove('hidden');
+    };
   </script>
 
 </body>

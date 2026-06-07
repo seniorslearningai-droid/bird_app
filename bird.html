@@ -178,8 +178,8 @@
       transform: scale(1.35);
     }
 
-    /* ── Bird name card ── */
-    .name-card {
+    /* ── Info cards ── */
+    .info-card {
       width: 100%;
       background: rgba(255,255,255,0.15);
       border: 1px solid rgba(255,255,255,0.25);
@@ -187,19 +187,24 @@
       padding: 18px 22px;
       display: flex;
       flex-direction: column;
-      gap: 4px;
+      gap: 6px;
     }
-    .name-card .common-name {
-      font-size: clamp(1.4rem, 4vw, 2rem);
-      font-weight: 700;
-      line-height: 1.15;
-    }
-    .name-card .label {
+    .info-card .card-label {
       font-size: 0.72rem;
       letter-spacing: 2px;
       text-transform: uppercase;
       color: rgba(255,255,255,0.65);
       font-weight: 600;
+    }
+    .info-card .common-name {
+      font-size: clamp(1.4rem, 4vw, 2rem);
+      font-weight: 700;
+      line-height: 1.15;
+    }
+    .info-card .body-text {
+      font-size: clamp(0.95rem, 2.2vw, 1.1rem);
+      line-height: 1.65;
+      color: rgba(255,255,255,0.92);
     }
   </style>
 </head>
@@ -220,9 +225,15 @@
     </div>
 
     <!-- Bird name card -->
-    <div class="name-card">
-      <div class="label">Common Name</div>
+    <div class="info-card">
+      <div class="card-label">Common Name</div>
       <div class="common-name" id="commonName">—</div>
+    </div>
+
+    <!-- Description card (hidden until loaded) -->
+    <div class="info-card" id="descCard" style="display:none">
+      <div class="card-label">Description</div>
+      <div class="body-text" id="descText"></div>
     </div>
   </main>
 
@@ -370,6 +381,19 @@
       const dx = e.changedTouches[0].clientX - touchStartX;
       if (Math.abs(dx) > 40) move(dx < 0 ? 1 : -1);
     }, { passive: true });
+
+    // ── Load description from facts.json ──────────────────────────────
+    fetch('facts.json')
+      .then(r => r.json())
+      .then(facts => {
+        const entry = facts[safeName];
+        if (!entry) return;
+        const desc = entry['Description'] || entry['description'];
+        if (!desc) return;
+        document.getElementById('descText').textContent = desc;
+        document.getElementById('descCard').style.display = '';
+      })
+      .catch(() => {}); // silently skip if unavailable
   </script>
 
 </body>

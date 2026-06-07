@@ -5,13 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Flight Score — Bird</title>
   <script>
-    // Only reachable by clicking a species in explore.html
+    // Reachable from explore.html (species tap) or index.html (Bird of the Day)
     (function () {
-      if (sessionStorage.getItem('birdNav') !== 'fromExplore') {
+      const nav = sessionStorage.getItem('birdNav');
+      if (nav !== 'fromExplore' && nav !== 'fromHome') {
         window.location.replace('index.html');
-      } else {
-        sessionStorage.removeItem('birdNav');
       }
+      // Keep the nav value so goBack() knows where to return
     })();
   </script>
   <style>
@@ -262,8 +262,14 @@
     }
 
     function goBack() {
-      sessionStorage.setItem('flightScoreNav', 'bird');
-      window.location.href = 'explore.html';
+      const nav = sessionStorage.getItem('birdNav');
+      sessionStorage.removeItem('birdNav');
+      if (nav === 'fromHome') {
+        window.location.href = 'index.html';
+      } else {
+        sessionStorage.setItem('flightScoreNav', 'bird');
+        window.location.href = 'explore.html';
+      }
     }
 
     // ── Init ──────────────────────────────────────────────────────────

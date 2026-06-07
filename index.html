@@ -129,6 +129,25 @@
       white-space: nowrap;
     }
 
+    /* Tap hint */
+    .botd-tap-hint {
+      position: absolute;
+      bottom: 52px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 4;
+      font-size: clamp(0.6rem, 1.5vw, 0.72rem);
+      font-weight: 600;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.55);
+      white-space: nowrap;
+    }
+
+    /* Press feedback */
+    .hero:active { transform: scale(0.985); }
+    .hero { transition: transform 0.12s; }
+
     /* Bird name (bottom) */
     .botd-name {
       position: absolute;
@@ -243,7 +262,7 @@
     </div>
   </header>
 
-  <div class="hero">
+  <div class="hero" onclick="openBirdOfTheDay()" style="cursor:pointer;">
     <img class="botd-img" id="botdImg" alt=""/>
     <span class="c-tl"></span>
     <span class="c-tr"></span>
@@ -251,6 +270,7 @@
     <span class="c-br"></span>
     <div class="botd-tag">Bird of the Day</div>
     <div class="botd-name" id="botdName"></div>
+    <div class="botd-tap-hint">Tap to learn more</div>
   </div>
 
   <div class="bottom-bar">
@@ -320,16 +340,23 @@
       return BIRD_LIST[idx];
     }
 
+    let todaysBirdFolder = '';
+
     (function setBirdOfTheDay() {
-      const folder = pickTodaysBird();
-      const url = `https://res.cloudinary.com/dyw8gorqu/image/upload/birds/${folder}/${folder}.jpg`;
+      todaysBirdFolder = pickTodaysBird();
+      const url = `https://res.cloudinary.com/dyw8gorqu/image/upload/birds/${todaysBirdFolder}/${todaysBirdFolder}.jpg`;
       const img = document.getElementById('botdImg');
       const name = document.getElementById('botdName');
-      const displayed = displayName(folder);
+      const displayed = displayName(todaysBirdFolder);
       img.src = url;
       img.alt = displayed;
       name.textContent = displayed;
     })();
+
+    function openBirdOfTheDay() {
+      sessionStorage.setItem('birdNav', 'fromHome');
+      window.location.href = 'bird.html?bird=' + encodeURIComponent(todaysBirdFolder);
+    }
 
     function explore() {
       // Flag that this navigation came from the home page, so explore.html

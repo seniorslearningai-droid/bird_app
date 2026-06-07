@@ -60,7 +60,7 @@
       line-height: 1.15;
     }
 
-    /* ── Main content ── */
+    /* ── Main ── */
     main {
       flex: 1;
       display: flex;
@@ -73,38 +73,51 @@
       width: 100%;
     }
 
-    /* ── Primary photo ── */
-    .photo-hero {
+    /* ── Carousel ── */
+    .carousel {
       width: 100%;
-      aspect-ratio: 4 / 3;
+      position: relative;
       border-radius: 22px;
       overflow: hidden;
       border: 2px solid rgba(255,255,255,0.3);
       box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+    }
+
+    /* Slides strip */
+    .slides {
+      display: flex;
+      transition: transform 0.38s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .slide {
+      min-width: 100%;
+      aspect-ratio: 4 / 3;
+      position: relative;
       background: rgba(0,0,0,0.25);
       background-size: cover;
       background-position: center;
-      position: relative;
+      flex-shrink: 0;
     }
-    /* Blurred background fills any letterbox gaps */
-    .photo-hero::before {
+    .slide::before {
       content: '';
       position: absolute;
       inset: 0;
       background: inherit;
       filter: blur(18px) brightness(0.7) saturate(1.4);
-      transform: scale(1.08); /* avoid thin unblurred edge */
+      transform: scale(1.08);
       z-index: 0;
     }
-    .photo-hero img {
+    .slide img {
       position: relative;
       z-index: 1;
       width: 100%; height: 100%;
-      object-fit: contain;   /* ← never crops the bird */
+      object-fit: contain;
       display: block;
       transition: opacity 0.3s;
     }
-    .photo-hero .placeholder {
+
+    /* Placeholder inside a slide */
+    .slide-placeholder {
       position: absolute;
       inset: 0;
       z-index: 2;
@@ -116,43 +129,54 @@
       font-size: 0.9rem;
       color: rgba(255,255,255,0.55);
     }
-    .photo-hero .placeholder span { font-size: 3rem; }
+    .slide-placeholder span { font-size: 3rem; }
 
-    /* ── Secondary photos row ── */
-    .photo-row {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px;
-      width: 100%;
-    }
-    .photo-thumb {
-      aspect-ratio: 4 / 3;
-      border-radius: 16px;
-      overflow: hidden;
-      border: 1.5px solid rgba(255,255,255,0.25);
-      box-shadow: 0 4px 16px rgba(0,0,0,0.3);
-      background: rgba(0,0,0,0.2);
-      background-size: cover;
-      background-position: center;
-      position: relative;
-    }
-    .photo-thumb::before {
-      content: '';
+    /* ── Arrow buttons ── */
+    .arrow {
       position: absolute;
-      inset: 0;
-      background: inherit;
-      filter: blur(12px) brightness(0.7) saturate(1.3);
-      transform: scale(1.08);
-      z-index: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 5;
+      width: 44px; height: 44px;
+      border-radius: 50%;
+      border: none;
+      background: rgba(0,0,0,0.45);
+      color: #fff;
+      font-size: 1.3rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.15s, transform 0.12s;
+      backdrop-filter: blur(4px);
+      -webkit-tap-highlight-color: transparent;
     }
-    .photo-thumb img {
-      position: relative;
-      z-index: 1;
-      width: 100%; height: 100%;
-      object-fit: contain;
-      display: block;
+    .arrow:hover  { background: rgba(0,0,0,0.65); }
+    .arrow:active { transform: translateY(-50%) scale(0.90); }
+    .arrow.hidden { display: none; }
+    .arrow-left  { left: 12px; }
+    .arrow-right { right: 12px; }
+
+    /* ── Dot indicators ── */
+    .dots {
+      position: absolute;
+      bottom: 12px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 5;
+      display: flex;
+      gap: 8px;
     }
-    .photo-thumb.hidden { display: none; }
+    .dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.45);
+      transition: background 0.2s, transform 0.2s;
+    }
+    .dot.active {
+      background: #fff;
+      transform: scale(1.35);
+    }
 
     /* ── Bird name card ── */
     .name-card {
@@ -187,29 +211,18 @@
   </header>
 
   <main>
-    <!-- Primary photo -->
-    <div class="photo-hero" id="heroWrap">
-      <div class="placeholder" id="heroPlaceholder">
-        <span>🐦</span>
-        <div>Loading photo…</div>
-      </div>
-      <img id="heroImg" alt="" style="opacity:0" onload="onHeroLoad()" onerror="onHeroError()"/>
+    <!-- Photo carousel -->
+    <div class="carousel" id="carousel">
+      <div class="slides" id="slides"></div>
+      <button class="arrow arrow-left  hidden" id="arrowLeft"  onclick="move(-1)">&#8592;</button>
+      <button class="arrow arrow-right hidden" id="arrowRight" onclick="move(1)">&#8594;</button>
+      <div class="dots" id="dots"></div>
     </div>
 
-    <!-- Name card -->
+    <!-- Bird name card -->
     <div class="name-card">
       <div class="label">Common Name</div>
       <div class="common-name" id="commonName">—</div>
-    </div>
-
-    <!-- Secondary photos -->
-    <div class="photo-row" id="photoRow">
-      <div class="photo-thumb hidden" id="thumb2">
-        <img id="img2" alt="" onerror="document.getElementById('thumb2').classList.add('hidden')"/>
-      </div>
-      <div class="photo-thumb hidden" id="thumb3">
-        <img id="img3" alt="" onerror="document.getElementById('thumb3').classList.add('hidden')"/>
-      </div>
     </div>
   </main>
 
@@ -243,22 +256,9 @@
       };
       if (specials[folder]) return specials[folder];
       return folder.split('_').map(p => {
-        if (POSSESSIVE_NAMES.has(p)) return p.slice(0, -1) + "’s";
+        if (POSSESSIVE_NAMES.has(p)) return p.slice(0, -1) + "'s";
         return p;
       }).join(' ');
-    }
-
-    function onHeroLoad() {
-      const img = document.getElementById('heroImg');
-      img.style.opacity = '1';
-      document.getElementById('heroPlaceholder').style.display = 'none';
-    }
-
-    function onHeroError() {
-      document.getElementById('heroImg').style.display = 'none';
-      const ph = document.getElementById('heroPlaceholder');
-      ph.querySelector('div').textContent = 'Photo not available';
-      ph.style.display = 'flex';
     }
 
     function goBack() {
@@ -272,7 +272,7 @@
       }
     }
 
-    // ── Init ──────────────────────────────────────────────────────────
+    // ── Cloudinary URLs ────────────────────────────────────────────────
     const params   = new URLSearchParams(window.location.search);
     const safeName = params.get('bird') || '';
     const name     = displayName(safeName);
@@ -281,9 +281,6 @@
     document.getElementById('commonName').textContent = name;
     document.title = `${name} — Flight Score`;
 
-    // Build URLs:
-    // • Smart crop = c_fill,g_auto,ar_4:3  →  Cloudinary AI zooms in on the bird
-    // • Blur bg    = e_blur:1200,q_30       →  soft background behind the photo
     function smartUrl(file) {
       return `https://res.cloudinary.com/dyw8gorqu/image/upload/c_fill,g_auto,ar_4:3/birds/${safeName}/${file}`;
     }
@@ -291,28 +288,88 @@
       return `https://res.cloudinary.com/dyw8gorqu/image/upload/e_blur:1200,q_30/birds/${safeName}/${file}`;
     }
 
-    // Primary photo
-    const heroImg  = document.getElementById('heroImg');
-    const heroWrap = document.getElementById('heroWrap');
-    heroImg.src = smartUrl(safeName + '.jpg');
-    heroWrap.style.backgroundImage = `url('${blurUrl(safeName + '.jpg')}')`;
+    // ── Carousel logic ─────────────────────────────────────────────────
+    const slidesEl  = document.getElementById('slides');
+    const dotsEl    = document.getElementById('dots');
+    const arrowL    = document.getElementById('arrowLeft');
+    const arrowR    = document.getElementById('arrowRight');
+    let current     = 0;
+    let total       = 0;           // number of slides that actually loaded
 
-    // Secondary photos — show if they load, hide on error
-    const img2 = document.getElementById('img2');
-    img2.src = smartUrl(safeName + '_2.jpg');
-    img2.onload = () => {
-      const t = document.getElementById('thumb2');
-      t.style.backgroundImage = `url('${blurUrl(safeName + '_2.jpg')}')`;
-      t.classList.remove('hidden');
-    };
+    // Files to try in order
+    const files = [safeName + '.jpg', safeName + '_2.jpg', safeName + '_3.jpg'];
 
-    const img3 = document.getElementById('img3');
-    img3.src = smartUrl(safeName + '_3.jpg');
-    img3.onload = () => {
-      const t = document.getElementById('thumb3');
-      t.style.backgroundImage = `url('${blurUrl(safeName + '_3.jpg')}')`;
-      t.classList.remove('hidden');
-    };
+    // Build all 3 slide elements up front; hide ones that fail
+    const slideEls = files.map((file, i) => {
+      const slide = document.createElement('div');
+      slide.className = 'slide';
+      slide.style.backgroundImage = `url('${blurUrl(file)}')`;
+
+      // Placeholder
+      const ph = document.createElement('div');
+      ph.className = 'slide-placeholder';
+      ph.innerHTML = '<span>🐦</span><div>Loading…</div>';
+      slide.appendChild(ph);
+
+      // Photo
+      const img = document.createElement('img');
+      img.alt   = name;
+      img.style.opacity = '0';
+      img.onload  = () => { img.style.opacity = '1'; ph.style.display = 'none'; onSlideReady(); };
+      img.onerror = () => { slide.style.display = 'none'; onSlideReady(); };
+      img.src     = smartUrl(file);
+      slide.appendChild(img);
+
+      slidesEl.appendChild(slide);
+      return slide;
+    });
+
+    function onSlideReady() {
+      // Count loaded slides each time one settles
+      total = slideEls.filter(s => s.style.display !== 'none').length;
+      buildDots();
+      updateArrows();
+    }
+
+    function buildDots() {
+      dotsEl.innerHTML = '';
+      if (total <= 1) return;
+      for (let i = 0; i < total; i++) {
+        const d = document.createElement('div');
+        d.className = 'dot' + (i === current ? ' active' : '');
+        d.onclick = () => goTo(i);
+        dotsEl.appendChild(d);
+      }
+    }
+
+    function updateArrows() {
+      arrowL.classList.toggle('hidden', total <= 1 || current === 0);
+      arrowR.classList.toggle('hidden', total <= 1 || current === total - 1);
+    }
+
+    function goTo(idx) {
+      // Find the idx-th visible slide
+      const visible = slideEls.filter(s => s.style.display !== 'none');
+      if (idx < 0 || idx >= visible.length) return;
+      // Find its position among ALL slides (including hidden) for the CSS transform
+      const realIdx = slideEls.indexOf(visible[idx]);
+      current = idx;
+      slidesEl.style.transform = `translateX(-${realIdx * 100}%)`;
+      buildDots();
+      updateArrows();
+    }
+
+    function move(dir) { goTo(current + dir); }
+
+    // Swipe support
+    let touchStartX = 0;
+    document.getElementById('carousel').addEventListener('touchstart', e => {
+      touchStartX = e.touches[0].clientX;
+    }, { passive: true });
+    document.getElementById('carousel').addEventListener('touchend', e => {
+      const dx = e.changedTouches[0].clientX - touchStartX;
+      if (Math.abs(dx) > 40) move(dx < 0 ? 1 : -1);
+    }, { passive: true });
   </script>
 
 </body>

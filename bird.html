@@ -267,36 +267,44 @@
     }
 
     // ── Init ──────────────────────────────────────────────────────────
-    const params  = new URLSearchParams(window.location.search);
+    const params   = new URLSearchParams(window.location.search);
     const safeName = params.get('bird') || '';
-    const name    = displayName(safeName);
-    const base    = `https://res.cloudinary.com/dyw8gorqu/image/upload/birds/${safeName}/`;
+    const name     = displayName(safeName);
 
-    document.getElementById('headerName').textContent  = name;
-    document.getElementById('commonName').textContent  = name;
+    document.getElementById('headerName').textContent = name;
+    document.getElementById('commonName').textContent = name;
     document.title = `${name} — Flight Score`;
 
-    // Primary photo — full bird visible (object-fit: contain)
-    document.getElementById('heroImg').src = base + safeName + '.jpg';
+    // Build URLs:
+    // • Smart crop = c_fill,g_auto,ar_4:3  →  Cloudinary AI zooms in on the bird
+    // • Blur bg    = e_blur:1200,q_30       →  soft background behind the photo
+    function smartUrl(file) {
+      return `https://res.cloudinary.com/dyw8gorqu/image/upload/c_fill,g_auto,ar_4:3/birds/${safeName}/${file}`;
+    }
+    function blurUrl(file) {
+      return `https://res.cloudinary.com/dyw8gorqu/image/upload/e_blur:1200,q_30/birds/${safeName}/${file}`;
+    }
 
-    // Blurred background using Cloudinary's blur transformation
-    const blurUrl = `https://res.cloudinary.com/dyw8gorqu/image/upload/e_blur:1200,q_30/birds/${safeName}/${safeName}.jpg`;
-    document.getElementById('heroWrap').style.backgroundImage = `url('${blurUrl}')`;
+    // Primary photo
+    const heroImg  = document.getElementById('heroImg');
+    const heroWrap = document.getElementById('heroWrap');
+    heroImg.src = smartUrl(safeName + '.jpg');
+    heroWrap.style.backgroundImage = `url('${blurUrl(safeName + '.jpg')}')`;
 
     // Secondary photos — show if they load, hide on error
     const img2 = document.getElementById('img2');
-    img2.src = base + safeName + '_2.jpg';
+    img2.src = smartUrl(safeName + '_2.jpg');
     img2.onload = () => {
       const t = document.getElementById('thumb2');
-      t.style.backgroundImage = `url('https://res.cloudinary.com/dyw8gorqu/image/upload/e_blur:1200,q_30/birds/${safeName}/${safeName}_2.jpg')`;
+      t.style.backgroundImage = `url('${blurUrl(safeName + '_2.jpg')}')`;
       t.classList.remove('hidden');
     };
 
     const img3 = document.getElementById('img3');
-    img3.src = base + safeName + '_3.jpg';
+    img3.src = smartUrl(safeName + '_3.jpg');
     img3.onload = () => {
       const t = document.getElementById('thumb3');
-      t.style.backgroundImage = `url('https://res.cloudinary.com/dyw8gorqu/image/upload/e_blur:1200,q_30/birds/${safeName}/${safeName}_3.jpg')`;
+      t.style.backgroundImage = `url('${blurUrl(safeName + '_3.jpg')}')`;
       t.classList.remove('hidden');
     };
   </script>

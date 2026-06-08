@@ -80,21 +80,35 @@
       width: 26px; height: 26px;
       border-color: rgba(255, 255, 255, 0.7);
       border-style: solid;
-      z-index: 3;
+      z-index: 5;
     }
     .c-tl { top: 14px;    left: 14px;   border-width: 2px 0 0 2px; border-radius: 4px 0 0 0; }
     .c-br { bottom: 14px; right: 14px;  border-width: 0 2px 2px 0; border-radius: 0 0 4px 0; }
     .c-tr { top: 14px;    right: 14px;  border-width: 2px 2px 0 0; border-radius: 0 4px 0 0; }
     .c-bl { bottom: 14px; left: 14px;   border-width: 0 0 2px 2px; border-radius: 0 0 0 4px; }
 
-    /* Bird of the Day image fills the hero card */
+    /* Blurred background layer — same photo, blurred, behind the bird */
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image: inherit;
+      background-size: cover;
+      background-position: center;
+      filter: blur(18px) brightness(0.65) saturate(1.4);
+      transform: scale(1.08);
+      z-index: 1;
+      pointer-events: none;
+    }
+
+    /* Bird of the Day image — full bird, never cropped */
     .botd-img {
       position: absolute;
       inset: 0;
       width: 100%;
       height: 100%;
-      object-fit: cover;
-      z-index: 1;
+      object-fit: contain;
+      z-index: 2;
     }
 
     /* Gradient overlay so text reads on any photo */
@@ -104,12 +118,12 @@
       inset: 0;
       background: linear-gradient(
         to bottom,
-        rgba(0,0,0,0.55) 0%,
-        rgba(0,0,0,0.05) 30%,
-        rgba(0,0,0,0.05) 65%,
-        rgba(0,0,0,0.75) 100%
+        rgba(0,0,0,0.5) 0%,
+        rgba(0,0,0,0.0) 28%,
+        rgba(0,0,0,0.0) 60%,
+        rgba(0,0,0,0.72) 100%
       );
-      z-index: 2;
+      z-index: 3;
       pointer-events: none;
     }
 
@@ -119,7 +133,7 @@
       top: 22px;
       left: 50%;
       transform: translateX(-50%);
-      z-index: 4;
+      z-index: 6;
       font-size: clamp(0.7rem, 1.8vw, 0.85rem);
       font-weight: 700;
       letter-spacing: 3px;
@@ -135,7 +149,7 @@
       bottom: 52px;
       left: 50%;
       transform: translateX(-50%);
-      z-index: 4;
+      z-index: 6;
       font-size: clamp(0.6rem, 1.5vw, 0.72rem);
       font-weight: 600;
       letter-spacing: 2px;
@@ -154,7 +168,7 @@
       bottom: 26px;
       left: 50%;
       transform: translateX(-50%);
-      z-index: 4;
+      z-index: 6;
       font-size: clamp(1.2rem, 3.5vw, 1.7rem);
       font-weight: 700;
       letter-spacing: 1px;
@@ -345,12 +359,15 @@
     (function setBirdOfTheDay() {
       todaysBirdFolder = pickTodaysBird();
       const url = `https://res.cloudinary.com/dyw8gorqu/image/upload/birds/${todaysBirdFolder}/${todaysBirdFolder}.jpg`;
-      const img = document.getElementById('botdImg');
-      const name = document.getElementById('botdName');
+      const img   = document.getElementById('botdImg');
+      const hero  = document.querySelector('.hero');
+      const name  = document.getElementById('botdName');
       const displayed = displayName(todaysBirdFolder);
       img.src = url;
       img.alt = displayed;
       name.textContent = displayed;
+      // Set background-image so ::before can blur it as the backdrop
+      hero.style.backgroundImage = `url('${url}')`;
     })();
 
     function openBirdOfTheDay() {

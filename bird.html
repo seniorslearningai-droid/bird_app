@@ -293,7 +293,8 @@
     document.title = `${name} — Flight Score`;
 
     function smartUrl(file) {
-      return `https://res.cloudinary.com/dyw8gorqu/image/upload/c_fill,g_auto,ar_4:3/birds/${safeName}/${file}`;
+      // Original photo, no transformation — object-fit:contain shows the full bird
+      return `https://res.cloudinary.com/dyw8gorqu/image/upload/birds/${safeName}/${file}`;
     }
     function blurUrl(file) {
       return `https://res.cloudinary.com/dyw8gorqu/image/upload/e_blur:1200,q_30/birds/${safeName}/${file}`;

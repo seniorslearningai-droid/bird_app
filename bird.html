@@ -93,25 +93,14 @@
       min-width: 100%;
       aspect-ratio: 4 / 3;
       position: relative;
-      background: rgba(0,0,0,0.25);
-      background-size: cover;
-      background-position: center;
+      background: #1a0800;
       flex-shrink: 0;
-    }
-    .slide::before {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background: inherit;
-      filter: blur(18px) brightness(0.7) saturate(1.4);
-      transform: scale(1.08);
-      z-index: 0;
+      overflow: hidden;
     }
     .slide img {
-      position: relative;
-      z-index: 1;
       width: 100%; height: 100%;
-      object-fit: contain;
+      object-fit: cover;
+      object-position: center 20%;
       display: block;
       transition: opacity 0.3s;
     }
@@ -293,11 +282,7 @@
     document.title = `${name} — Flight Score`;
 
     function smartUrl(file) {
-      // Original photo, no transformation — object-fit:contain shows the full bird
       return `https://res.cloudinary.com/dyw8gorqu/image/upload/birds/${safeName}/${file}`;
-    }
-    function blurUrl(file) {
-      return `https://res.cloudinary.com/dyw8gorqu/image/upload/e_blur:1200,q_30/birds/${safeName}/${file}`;
     }
 
     // ── Carousel logic ─────────────────────────────────────────────────
@@ -315,7 +300,6 @@
     const slideEls = files.map((file, i) => {
       const slide = document.createElement('div');
       slide.className = 'slide';
-      slide.style.backgroundImage = `url('${blurUrl(file)}')`;
 
       // Placeholder
       const ph = document.createElement('div');

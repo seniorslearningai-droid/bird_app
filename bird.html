@@ -90,16 +90,19 @@
     }
 
     .slide {
+      width: 100%;
       min-width: 100%;
-      aspect-ratio: 16 / 3;
+      max-width: 100%;
+      aspect-ratio: 4 / 3;
       position: relative;
-      background: #1a0800;
+      background: #000;
       flex-shrink: 0;
       overflow: hidden;
     }
     .slide img {
       width: 100%; height: 100%;
-      object-fit: contain;
+      max-width: 100%;
+      object-fit: cover;
       display: block;
       transition: opacity 0.3s;
     }
@@ -343,13 +346,11 @@
     }
 
     function goTo(idx) {
-      // Find the idx-th visible slide
       const visible = slideEls.filter(s => s.style.display !== 'none');
       if (idx < 0 || idx >= visible.length) return;
-      // Find its position among ALL slides (including hidden) for the CSS transform
-      const realIdx = slideEls.indexOf(visible[idx]);
       current = idx;
-      slidesEl.style.transform = `translateX(-${realIdx * 100}%)`;
+      const w = document.getElementById('carousel').offsetWidth;
+      slidesEl.style.transform = `translateX(${-idx * w}px)`;
       buildDots();
       updateArrows();
     }

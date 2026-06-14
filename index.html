@@ -194,7 +194,7 @@
       line-height: 1.15;
     }
 
-    /* ── Bottom bar — both buttons side by side ── */
+    /* ── Bottom bar — three buttons side by side ── */
     .bottom-bar {
       width: 90%;
       max-width: 480px;
@@ -202,7 +202,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      gap: clamp(32px, 8vw, 64px);
+      gap: clamp(20px, 5vw, 44px);
     }
 
     /* shared button base */
@@ -223,6 +223,20 @@
       transition: transform 0.15s ease, box-shadow 0.15s ease;
     }
     .btn:active { transform: scale(0.92); }
+
+    /* Profile — outlined style */
+    .btn-profile {
+      background: rgba(255, 255, 255, 0.08);
+      border: 2.5px solid rgba(255, 255, 255, 0.7) !important;
+      box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.06), 0 4px 16px rgba(0,0,0,0.35);
+    }
+    .btn-profile:hover {
+      background: rgba(255, 255, 255, 0.15);
+      transform: scale(1.07);
+      box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.10), 0 6px 20px rgba(0,0,0,0.4);
+    }
+    .btn-profile .btn-icon  { font-size: clamp(1.1rem, 2.4vh, 1.5rem); }
+    .btn-profile .btn-label { color: #fff; }
 
     /* Explore — outlined style */
     .btn-explore {
@@ -304,6 +318,14 @@
   </div>
 
   <div class="bottom-bar">
+
+    <div class="btn-wrap">
+      <button class="btn btn-profile" onclick="profile()">
+        <span class="btn-icon">👤</span>
+        <span class="btn-label">Profile</span>
+      </button>
+      <span class="btn-caption">Profile</span>
+    </div>
 
     <div class="btn-wrap">
       <button class="btn btn-explore" onclick="explore()">
@@ -397,6 +419,7 @@
       sessionStorage.setItem('flightScoreNav', 'explore');
       window.location.href = 'explore.html';
     }
+    function profile() { alert('Profile tapped!'); }
     function identify() { alert('Identify tapped!'); }
   </script>
 

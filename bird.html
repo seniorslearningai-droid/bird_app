@@ -169,6 +169,20 @@
       transform: scale(1.35);
     }
 
+    /* ── Bird of the Day badge ── */
+    .botd-badge {
+      width: 100%;
+      text-align: center;
+      font-size: clamp(0.75rem, 2vw, 0.9rem);
+      font-weight: 800;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: #fff;
+      text-shadow: 0 1px 6px rgba(0,0,0,0.3);
+      padding: 4px 0 0;
+      display: none;
+    }
+
     /* ── Info cards ── */
     .info-card {
       width: 100%;
@@ -207,6 +221,9 @@
   </header>
 
   <main>
+    <!-- Bird of the Day label (only shown when navigated from home) -->
+    <div class="botd-badge" id="botdBadge">Bird of the Day</div>
+
     <!-- Photo carousel -->
     <div class="carousel" id="carousel">
       <div class="slides" id="slides"></div>
@@ -279,6 +296,10 @@
     document.getElementById('headerName').textContent = name;
     document.getElementById('commonName').textContent = name;
     document.title = `${name} — Flight Score`;
+
+    if (sessionStorage.getItem('birdNav') === 'fromHome') {
+      document.getElementById('botdBadge').style.display = 'block';
+    }
 
     function smartUrl(file) {
       return `https://res.cloudinary.com/dyw8gorqu/image/upload/birds/${safeName}/${file}`;

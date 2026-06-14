@@ -221,11 +221,8 @@
       <div class="common-name" id="commonName">—</div>
     </div>
 
-    <!-- Description card (hidden until loaded) -->
-    <div class="info-card" id="descCard" style="display:none">
-      <div class="card-label">Description</div>
-      <div class="body-text" id="descText"></div>
-    </div>
+    <!-- Facts cards (hidden until loaded) -->
+    <div id="factsContainer"></div>
   </main>
 
   <script>
@@ -367,18 +364,25 @@
       if (Math.abs(dx) > 40) move(dx < 0 ? 1 : -1);
     }, { passive: true });
 
-    // ── Load description from facts.json ──────────────────────────────
+    // ── Load all facts from facts.json ────────────────────────────────
+    const FACT_SECTIONS = ['Description','Behavior','Habitat','Similar Looking Birds','Best Ways to Identify'];
     fetch('facts.json')
       .then(r => r.json())
       .then(facts => {
         const entry = facts[safeName];
         if (!entry) return;
-        const desc = entry['Description'] || entry['description'];
-        if (!desc) return;
-        document.getElementById('descText').textContent = desc;
-        document.getElementById('descCard').style.display = '';
+        const container = document.getElementById('factsContainer');
+        FACT_SECTIONS.forEach(section => {
+          const text = entry[section];
+          if (!text) return;
+          const card = document.createElement('div');
+          card.className = 'info-card';
+          card.innerHTML = `<div class="card-label">${section}</div><div class="body-text"></div>`;
+          card.querySelector('.body-text').textContent = text;
+          container.appendChild(card);
+        });
       })
-      .catch(() => {}); // silently skip if unavailable
+      .catch(() => {});
   </script>
 
 </body>

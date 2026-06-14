@@ -242,6 +242,7 @@
     <div id="factsContainer"></div>
   </main>
 
+  <script src="birds.js"></script>
   <script>
     const POSSESSIVE_NAMES = new Set([
       "Aberts","Ainleys","Allens","Annas","Audubons","Bachmans","Bairds","Barrows",
@@ -297,7 +298,8 @@
     document.getElementById('commonName').textContent = name;
     document.title = `${name} — Flight Score`;
 
-    if (sessionStorage.getItem('birdNav') === 'fromHome') {
+    const todaysBird = BIRD_LIST[Math.floor(Date.now() / 86400000) % BIRD_LIST.length];
+    if (safeName === todaysBird) {
       document.getElementById('botdBadge').style.display = 'block';
     }
 

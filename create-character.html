@@ -145,22 +145,34 @@
     </div>
 
     <div class="figure-col">
-      <svg class="character-figure" viewBox="0 0 200 460" xmlns="http://www.w3.org/2000/svg" aria-label="Character figure">
+      <svg class="character-figure" viewBox="0 0 220 480" xmlns="http://www.w3.org/2000/svg" aria-label="Character figure">
+        <!-- All shapes share one black fill, so overlaps merge into a single smooth silhouette -->
         <g fill="#000">
           <!-- Head -->
-          <circle cx="100" cy="50" r="42"/>
+          <ellipse cx="110" cy="54" rx="33" ry="38"/>
           <!-- Neck -->
-          <rect x="88" y="86" width="24" height="24"/>
-          <!-- Torso -->
-          <path d="M100 102 C70 102 58 122 58 150 L58 250 C58 262 68 268 78 264 L78 250 L122 250 L122 264 C132 268 142 262 142 250 L142 150 C142 122 130 102 100 102 Z"/>
+          <ellipse cx="110" cy="98" rx="14" ry="16"/>
+          <!-- Torso (broad shoulders tapering to waist and hips) -->
+          <path d="M60 140 C60 116 84 104 110 104 C136 104 160 116 160 140
+                   C158 180 150 215 146 250 C148 268 150 285 150 302
+                   L70 302 C70 285 72 268 74 250 C70 215 62 180 60 140 Z"/>
           <!-- Left arm -->
-          <rect x="40" y="120" width="26" height="150" rx="13"/>
+          <path d="M62 130 C46 134 40 158 38 188 C37 220 40 258 45 292
+                   C47 301 57 301 58 292 C62 258 64 220 64 190
+                   C66 162 70 142 74 130 Z"/>
           <!-- Right arm -->
-          <rect x="134" y="120" width="26" height="150" rx="13"/>
+          <path d="M158 130 C174 134 180 158 182 188 C183 220 180 258 175 292
+                   C173 301 163 301 162 292 C158 258 156 220 156 190
+                   C154 162 150 142 146 130 Z"/>
           <!-- Left leg -->
-          <rect x="62" y="248" width="32" height="200" rx="14"/>
+          <path d="M70 300 C68 340 70 390 72 436 C72 452 74 462 82 462
+                   C96 462 98 452 98 436 C100 390 102 345 104 304 L70 300 Z"/>
           <!-- Right leg -->
-          <rect x="106" y="248" width="32" height="200" rx="14"/>
+          <path d="M150 300 C152 340 150 390 148 436 C148 452 146 462 138 462
+                   C124 462 122 452 122 436 C120 390 118 345 116 304 L150 300 Z"/>
+          <!-- Feet -->
+          <ellipse cx="80" cy="462" rx="18" ry="9"/>
+          <ellipse cx="140" cy="462" rx="18" ry="9"/>
         </g>
       </svg>
     </div>

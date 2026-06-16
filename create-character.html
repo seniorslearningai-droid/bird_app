@@ -96,6 +96,20 @@
       border-color: #fff;
     }
 
+    /* Center — character figure */
+    .figure-col {
+      flex: 1;
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      align-self: stretch;
+    }
+    .character-figure {
+      width: clamp(160px, 22vw, 280px);
+      height: auto;
+      margin-top: 20px;
+    }
+
     /* Right column — options panel with empty boxes */
     .options-panel {
       display: none;
@@ -128,6 +142,27 @@
       <button class="part-btn" onclick="selectPart(this, 'Helmet')">Helmet</button>
       <button class="part-btn" onclick="selectPart(this, 'Shirt')">Shirt</button>
       <button class="part-btn" onclick="selectPart(this, 'Pants')">Pants</button>
+    </div>
+
+    <div class="figure-col">
+      <svg class="character-figure" viewBox="0 0 200 460" xmlns="http://www.w3.org/2000/svg" aria-label="Character figure">
+        <g fill="#000">
+          <!-- Head -->
+          <circle cx="100" cy="50" r="42"/>
+          <!-- Neck -->
+          <rect x="88" y="86" width="24" height="24"/>
+          <!-- Torso -->
+          <path d="M100 102 C70 102 58 122 58 150 L58 250 C58 262 68 268 78 264 L78 250 L122 250 L122 264 C132 268 142 262 142 250 L142 150 C142 122 130 102 100 102 Z"/>
+          <!-- Left arm -->
+          <rect x="40" y="120" width="26" height="150" rx="13"/>
+          <!-- Right arm -->
+          <rect x="134" y="120" width="26" height="150" rx="13"/>
+          <!-- Left leg -->
+          <rect x="62" y="248" width="32" height="200" rx="14"/>
+          <!-- Right leg -->
+          <rect x="106" y="248" width="32" height="200" rx="14"/>
+        </g>
+      </svg>
     </div>
 
     <div class="options-panel" id="optionsPanel"></div>

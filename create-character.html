@@ -130,24 +130,34 @@
       <button class="part-btn" onclick="selectPart(this, 'Pants')">Pants</button>
     </div>
 
-    <div class="options-panel" id="optionsPanel">
-      <div class="option-box"></div>
-      <div class="option-box"></div>
-      <div class="option-box"></div>
-      <div class="option-box"></div>
-      <div class="option-box"></div>
-      <div class="option-box"></div>
-    </div>
+    <div class="options-panel" id="optionsPanel"></div>
   </main>
 
   <script>
     function goBack() {
       window.location.href = 'profile.html';
     }
+
+    // Each part has its own independent set of option boxes.
+    const PART_OPTIONS = {
+      Helmet: 6,
+      Shirt:  6,
+      Pants:  6,
+    };
+
     function selectPart(btn, part) {
       document.querySelectorAll('.part-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      document.getElementById('optionsPanel').classList.add('open');
+
+      const panel = document.getElementById('optionsPanel');
+      panel.innerHTML = '';
+      const count = PART_OPTIONS[part] || 0;
+      for (let i = 0; i < count; i++) {
+        const box = document.createElement('div');
+        box.className = 'option-box';
+        panel.appendChild(box);
+      }
+      panel.classList.add('open');
     }
   </script>
 

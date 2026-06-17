@@ -26,18 +26,12 @@
       -webkit-backdrop-filter: blur(12px);
       display: flex;
       align-items: center;
-      justify-content: space-between;
       padding: 14px 18px;
+      gap: 12px;
       border-bottom: 1px solid rgba(255,255,255,0.2);
     }
 
-    .header-title {
-      font-size: clamp(1.1rem, 4vw, 1.6rem);
-      font-weight: 700;
-      letter-spacing: 1px;
-    }
-
-    .home-btn {
+    .back-btn {
       background: rgba(255,255,255,0.2);
       border: none;
       border-radius: 50%;
@@ -49,7 +43,13 @@
       flex-shrink: 0;
       transition: background 0.15s;
     }
-    .home-btn:hover { background: rgba(255,255,255,0.35); }
+    .back-btn:hover { background: rgba(255,255,255,0.35); }
+
+    .header-title {
+      font-size: clamp(1.1rem, 4vw, 1.6rem);
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
 
     /* ── Main ── */
     main {
@@ -90,8 +90,8 @@
 <body>
 
   <header>
+    <button class="back-btn" onclick="goBack()">&#8592;</button>
     <div class="header-title">Profile</div>
-    <button class="home-btn" onclick="goHome()" title="Home">🏠</button>
   </header>
 
   <main>
@@ -99,7 +99,7 @@
   </main>
 
   <script>
-    function goHome() {
+    function goBack() {
       window.location.href = 'index.html';
     }
     function createCharacter() { window.location.href = 'create-character.html'; }

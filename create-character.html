@@ -106,10 +106,11 @@
       align-self: stretch;
     }
     .character-figure {
+      /* explicit height scales the small source image up; capped so the
+         whole figure still fits on screen */
+      height: min(calc(100dvh - 150px), 72vh);
       width: auto;
-      height: auto;
-      max-height: calc(100dvh - 170px);   /* keep the whole figure on screen */
-      max-width: min(40vw, 300px);
+      max-width: min(46vw, 360px);
       margin-top: 16px;
       transform: translateX(-12%);         /* nudge toward true center */
     }

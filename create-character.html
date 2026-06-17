@@ -73,12 +73,12 @@
     }
 
     .part-btn {
-      width: clamp(320px, 80vw, 460px);
-      padding: 44px 36px;
+      width: clamp(150px, 28vw, 230px);
+      padding: 28px 24px;
       background: rgba(255, 255, 255, 0.12);
       border: 3px solid rgba(255, 255, 255, 0.6);
       border-radius: 22px;
-      font-size: clamp(2.2rem, 8vw, 3rem);
+      font-size: clamp(1.4rem, 4vw, 1.9rem);
       font-weight: 700;
       letter-spacing: 1px;
       color: #fff;
@@ -99,13 +99,15 @@
     /* Center — character figure */
     .figure-col {
       flex: 1;
+      min-width: 140px;
       display: flex;
       align-items: flex-start;
       justify-content: center;
       align-self: stretch;
     }
     .character-figure {
-      width: clamp(160px, 22vw, 280px);
+      width: clamp(150px, 26vw, 300px);
+      max-width: 100%;
       height: auto;
       margin-top: 20px;
     }
@@ -122,8 +124,8 @@
 
     /* Each box is about half the size of a Helmet button */
     .option-box {
-      width: clamp(160px, 40vw, 230px);
-      height: 68px;
+      width: clamp(110px, 22vw, 150px);
+      height: 56px;
       background: rgba(255, 255, 255, 0.10);
       border: 2.5px solid rgba(255, 255, 255, 0.55);
       border-radius: 16px;

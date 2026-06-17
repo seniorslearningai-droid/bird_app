@@ -106,10 +106,12 @@
       align-self: stretch;
     }
     .character-figure {
-      width: clamp(150px, 26vw, 300px);
-      max-width: 100%;
+      width: auto;
       height: auto;
-      margin-top: 20px;
+      max-height: calc(100dvh - 170px);   /* keep the whole figure on screen */
+      max-width: min(40vw, 300px);
+      margin-top: 16px;
+      transform: translateX(-12%);         /* nudge toward true center */
     }
 
     /* Right column — options panel with empty boxes */

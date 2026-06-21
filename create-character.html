@@ -132,6 +132,13 @@
       background: rgba(255, 255, 255, 0.10);
       border: 2.5px solid rgba(255, 255, 255, 0.55);
       border-radius: 16px;
+      overflow: hidden;
+    }
+    .option-box .option-img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
     }
 
     /* ── Eye Color slider ── */
@@ -276,6 +283,14 @@
       for (let i = 0; i < count; i++) {
         const box = document.createElement('div');
         box.className = 'option-box';
+        // Helmet's first option is the Red-crested Cardinal mask
+        if (part === 'Helmet' && i === 0) {
+          const img = document.createElement('img');
+          img.className = 'option-img';
+          img.src = 'North_American_Birds/Costumes/red_crested_cardinal_mask.png';
+          img.alt = 'Red-crested Cardinal mask';
+          box.appendChild(img);
+        }
         panel.appendChild(box);
       }
       panel.classList.add('open');

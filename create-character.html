@@ -105,15 +105,34 @@
       justify-content: center;
       align-self: stretch;
     }
+    /* Wrapper holds the figure + the eye overlay so eyes scale with it */
+    .figure-wrap {
+      position: relative;
+      display: inline-block;
+      margin-top: 16px;
+      transform: translateX(-12%);         /* nudge toward true center */
+    }
     .character-figure {
       /* explicit height scales the small source image up; capped so the
          whole figure still fits on screen */
       height: min(calc(100dvh - 150px), 72vh);
       width: auto;
       max-width: min(46vw, 360px);
-      margin-top: 16px;
-      transform: translateX(-12%);         /* nudge toward true center */
+      display: block;
     }
+    /* Eyes overlaid on the silhouette's face; recolored by the slider */
+    .eye {
+      position: absolute;
+      width: 6%;
+      aspect-ratio: 1 / 1;
+      border-radius: 50%;
+      background: var(--eye-color, #ff0000);
+      transform: translate(-50%, -50%);
+      box-shadow: 0 0 3px rgba(0,0,0,0.45);
+      pointer-events: none;
+    }
+    .eye-left  { left: 50.5%; top: 10%; }
+    .eye-right { left: 57.5%; top: 10%; }
 
     /* Right column — options panel with empty boxes */
     .options-panel {
@@ -236,7 +255,11 @@
     </div>
 
     <div class="figure-col">
-      <img class="character-figure" src="character.png" alt="Character figure"/>
+      <div class="figure-wrap">
+        <img class="character-figure" src="character.png" alt="Character figure"/>
+        <span class="eye eye-left"></span>
+        <span class="eye eye-right"></span>
+      </div>
     </div>
 
     <div class="options-panel" id="optionsPanel"></div>
@@ -288,6 +311,8 @@
       document.getElementById('ecSwatch').style.background = c.hex;
       document.getElementById('ecValue').textContent = c.name;
       ecSlider.style.setProperty('--thumb-color', c.hex);
+      // Recolor the silhouette's eyes immediately
+      document.querySelectorAll('.eye').forEach(e => e.style.background = c.hex);
     }
     updateEyeColor(ecSlider.value);
 

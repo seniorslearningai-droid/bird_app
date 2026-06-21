@@ -122,17 +122,21 @@
       align-items: flex-end;
       gap: 18px;
       flex-shrink: 0;
+      max-height: calc(100dvh - 140px);   /* never run off the screen */
+      overflow-y: auto;
+      padding: 4px 6px 4px 0;
     }
     .options-panel.open { display: flex; }
 
     /* Each box is about half the size of a Helmet button */
     .option-box {
-      width: clamp(110px, 22vw, 150px);
-      height: 56px;
+      width: clamp(150px, 26vw, 230px);
+      height: clamp(120px, 18vh, 200px);
       background: rgba(255, 255, 255, 0.10);
       border: 2.5px solid rgba(255, 255, 255, 0.55);
-      border-radius: 16px;
+      border-radius: 18px;
       overflow: hidden;
+      flex-shrink: 0;
     }
     .option-box .option-img {
       width: 100%;

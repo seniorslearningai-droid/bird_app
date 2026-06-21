@@ -73,12 +73,12 @@
     }
 
     .part-btn {
-      width: clamp(150px, 28vw, 230px);
-      padding: 28px 24px;
+      width: clamp(180px, 30vw, 320px);
+      padding: 46px 30px;
       background: rgba(255, 255, 255, 0.12);
       border: 3px solid rgba(255, 255, 255, 0.6);
-      border-radius: 22px;
-      font-size: clamp(1.4rem, 4vw, 1.9rem);
+      border-radius: 24px;
+      font-size: clamp(1.9rem, 5vw, 2.8rem);
       font-weight: 700;
       letter-spacing: 1px;
       color: #fff;
@@ -174,7 +174,7 @@
       min-width: 64px;
       text-align: left;
     }
-    /* The slider track shows the full colour range */
+    /* The slider track is filled from the full color range in JS */
     .ec-slider {
       -webkit-appearance: none;
       appearance: none;
@@ -183,10 +183,7 @@
       border-radius: 10px;
       outline: none;
       border: 2px solid rgba(255,255,255,0.7);
-      background: linear-gradient(to right,
-        #ff0000 0%, #ff7f00 11.1%, #ffd400 22.2%, #2ecc40 33.3%,
-        #0074d9 44.4%, #8e44ad 55.5%, #8b4513 66.6%, #ffffff 77.7%,
-        #808080 88.8%, #000000 100%);
+      background: #ff0000;
     }
     .ec-slider::-webkit-slider-thumb {
       -webkit-appearance: none;
@@ -195,7 +192,7 @@
       height: 26px;
       border-radius: 50%;
       background: #fff;
-      border: 3px solid #ff7a00;
+      border: 3px solid var(--thumb-color, #ff7a00);
       box-shadow: 0 2px 6px rgba(0,0,0,0.4);
       cursor: pointer;
     }
@@ -204,7 +201,7 @@
       height: 26px;
       border-radius: 50%;
       background: #fff;
-      border: 3px solid #ff7a00;
+      border: 3px solid var(--thumb-color, #ff7a00);
       box-shadow: 0 2px 6px rgba(0,0,0,0.4);
       cursor: pointer;
     }
@@ -223,7 +220,7 @@
       Eye Color
       <span class="ec-value" id="ecValue">Red</span>
     </div>
-    <input class="ec-slider" id="ecSlider" type="range" min="0" max="9" step="1" value="0"
+    <input class="ec-slider" id="ecSlider" type="range" min="0" step="1" value="0"
            oninput="updateEyeColor(this.value)"/>
   </div>
 
@@ -248,23 +245,47 @@
 
     // ── Eye Color slider: Red -> Black ──
     const EYE_COLORS = [
-      { name: 'Red',    hex: '#ff0000' },
-      { name: 'Orange', hex: '#ff7f00' },
-      { name: 'Yellow', hex: '#ffd400' },
-      { name: 'Green',  hex: '#2ecc40' },
-      { name: 'Blue',   hex: '#0074d9' },
-      { name: 'Purple', hex: '#8e44ad' },
-      { name: 'Brown',  hex: '#8b4513' },
-      { name: 'White',  hex: '#ffffff' },
-      { name: 'Gray',   hex: '#808080' },
-      { name: 'Black',  hex: '#000000' },
+      { name: 'Crimson',    hex: '#b00020' },
+      { name: 'Red',        hex: '#ff1f1f' },
+      { name: 'Coral',      hex: '#ff6f61' },
+      { name: 'Orange',     hex: '#ff8c00' },
+      { name: 'Amber',      hex: '#ffbf00' },
+      { name: 'Gold',       hex: '#ffd700' },
+      { name: 'Yellow',     hex: '#fff15a' },
+      { name: 'Lime',       hex: '#9be564' },
+      { name: 'Green',      hex: '#2ecc40' },
+      { name: 'Forest',     hex: '#1f7a3a' },
+      { name: 'Teal',       hex: '#008c8c' },
+      { name: 'Cyan',       hex: '#00c8ff' },
+      { name: 'Sky Blue',   hex: '#4aa3ff' },
+      { name: 'Blue',       hex: '#0074d9' },
+      { name: 'Navy',       hex: '#173f8a' },
+      { name: 'Indigo',     hex: '#4b3ca7' },
+      { name: 'Purple',     hex: '#8e44ad' },
+      { name: 'Magenta',    hex: '#d93bcb' },
+      { name: 'Pink',       hex: '#ff8ac8' },
+      { name: 'Hazel',      hex: '#9a6b2f' },
+      { name: 'Brown',      hex: '#6f3f1d' },
+      { name: 'Dark Brown', hex: '#2b170c' },
+      { name: 'White',      hex: '#ffffff' },
+      { name: 'Light Gray', hex: '#cfcfcf' },
+      { name: 'Gray',       hex: '#808080' },
+      { name: 'Charcoal',   hex: '#333333' },
+      { name: 'Black',      hex: '#000000' },
     ];
+    const ecSlider = document.getElementById('ecSlider');
+    ecSlider.max = EYE_COLORS.length - 1;
+    ecSlider.style.background = `linear-gradient(to right, ${
+      EYE_COLORS.map((c, i) => `${c.hex} ${(i / (EYE_COLORS.length - 1)) * 100}%`).join(', ')
+    })`;
+
     function updateEyeColor(idx) {
       const c = EYE_COLORS[idx];
       document.getElementById('ecSwatch').style.background = c.hex;
       document.getElementById('ecValue').textContent = c.name;
+      ecSlider.style.setProperty('--thumb-color', c.hex);
     }
-    updateEyeColor(document.getElementById('ecSlider').value);
+    updateEyeColor(ecSlider.value);
 
     // Each part has its own independent set of option boxes.
     const PART_OPTIONS = {

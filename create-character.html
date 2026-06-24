@@ -123,7 +123,16 @@
       display: block;
     }
     /* Figure fill follows the Skin Color slider (CSS beats the fill attr) */
-    .character-figure path { fill: var(--skin-color, #000); }
+    .character-figure path {
+      fill: var(--skin-color, #000);
+      stroke: rgba(0,0,0,0.55);
+      stroke-width: 1.5;
+      vector-effect: non-scaling-stroke;   /* same outline thickness on both figures */
+    }
+    /* Soft shadow keeps the figure readable on light skin tones */
+    .character-figure {
+      filter: drop-shadow(0 0 1px rgba(0,0,0,0.5)) drop-shadow(0 3px 5px rgba(0,0,0,0.28));
+    }
 
     /* Show adult by default, kid when body.kid-mode is set */
     .kid-fig { display: none; }

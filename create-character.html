@@ -195,19 +195,19 @@
       display: none;
       z-index: 4;                 /* above the eyes; holes are transparent */
       pointer-events: none;
-      /* Adult placement — covers the whole head */
+      /* Adult placement — centered around the eyes */
       width: 40%;
       left: 34%;
-      top: 0%;
+      top: -3%;
     }
-    body.kid-mode .helmet-overlay { width: 48%; left: 32.5%; top: 0%; }
+    body.kid-mode .helmet-overlay { width: 48%; left: 32.5%; top: -3%; }
     body.helmet-on .helmet-overlay { display: block; }
 
     /* When the helmet is on, move the eyes into the helmet's eye holes */
-    body.helmet-on .adult-eye.eye-left  { left: 46.96%; top: 10.86%; }
-    body.helmet-on .adult-eye.eye-right { left: 61.12%; top: 10.86%; }
-    body.helmet-on .kid-eye.eye-left    { left: 48.1%;  top: 13.1%; }
-    body.helmet-on .kid-eye.eye-right   { left: 65.0%;  top: 13.1%; }
+    body.helmet-on .adult-eye.eye-left  { left: 46.96%; top: 7.86%; }
+    body.helmet-on .adult-eye.eye-right { left: 61.12%; top: 7.86%; }
+    body.helmet-on .kid-eye.eye-left    { left: 48.1%;  top: 10.08%; }
+    body.helmet-on .kid-eye.eye-right   { left: 65.0%;  top: 10.08%; }
 
     /* Right column — options panel with empty boxes */
     .options-panel {

@@ -110,7 +110,9 @@
       position: relative;
       display: inline-block;
       margin-top: 16px;
-      transform: translateX(-12%);         /* nudge toward true center */
+      transform: translateX(-12%) scale(var(--age-scale, 1)); /* nudge + Kid/Adult size */
+      transform-origin: top center;
+      transition: transform 0.2s ease;
     }
     .character-figure {
       /* explicit height scales the small source image up; capped so the
@@ -163,6 +165,55 @@
       object-fit: contain;
       display: block;
     }
+
+    /* ── Kid / Adult switch ── */
+    .age-bar {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      padding: 14px 20px 2px;
+    }
+    .age-opt {
+      font-size: clamp(1rem, 3vw, 1.25rem);
+      font-weight: 700;
+      letter-spacing: 1px;
+      color: rgba(255,255,255,0.6);
+      transition: color 0.15s;
+      cursor: pointer;
+      user-select: none;
+    }
+    .age-opt.active { color: #fff; }
+    .age-switch {
+      position: relative;
+      width: 64px;
+      height: 32px;
+      flex-shrink: 0;
+      cursor: pointer;
+    }
+    .age-switch input { opacity: 0; width: 0; height: 0; }
+    .age-track {
+      position: absolute;
+      inset: 0;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.25);
+      border: 2px solid rgba(255,255,255,0.7);
+      transition: background 0.2s;
+    }
+    .age-knob {
+      position: absolute;
+      top: 3px;
+      left: 3px;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: #fff;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.35);
+      transition: transform 0.2s ease;
+    }
+    /* checked = Adult -> knob slides right */
+    .age-switch input:checked ~ .age-knob { transform: translateX(32px); }
 
     /* ── Eye Color slider ── */
     .eye-color-bar {
@@ -237,6 +288,16 @@
     <div class="header-title">Create Your Character</div>
   </header>
 
+  <div class="age-bar">
+    <span class="age-opt" id="ageKid" onclick="setAge(false)">Kid</span>
+    <label class="age-switch">
+      <input type="checkbox" id="ageToggle" checked onchange="updateAge()"/>
+      <span class="age-track"></span>
+      <span class="age-knob"></span>
+    </label>
+    <span class="age-opt" id="ageAdult" onclick="setAge(true)">Adult</span>
+  </div>
+
   <div class="eye-color-bar">
     <div class="ec-label">
       <span class="ec-swatch" id="ecSwatch"></span>
@@ -271,6 +332,19 @@
     function goBack() {
       window.location.href = 'profile.html';
     }
+
+    // ── Kid / Adult switch ──
+    function updateAge() {
+      const isAdult = document.getElementById('ageToggle').checked;
+      document.documentElement.style.setProperty('--age-scale', isAdult ? '1' : '0.66');
+      document.getElementById('ageAdult').classList.toggle('active', isAdult);
+      document.getElementById('ageKid').classList.toggle('active', !isAdult);
+    }
+    function setAge(isAdult) {
+      document.getElementById('ageToggle').checked = isAdult;
+      updateAge();
+    }
+    updateAge();
 
     // ── Eye Color slider: Red -> Black ──
     const EYE_COLORS = [

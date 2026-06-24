@@ -189,6 +189,26 @@
     .kid-eye.eye-left  { left: 53%; top: 11.5%; width: 6.5%; }
     .kid-eye.eye-right { left: 61%; top: 11.5%; width: 6.5%; }
 
+    /* ── Red-crested Cardinal helmet overlay ── */
+    .helmet-overlay {
+      position: absolute;
+      display: none;
+      z-index: 4;                 /* above the eyes; holes are transparent */
+      pointer-events: none;
+      /* Adult placement (holes land on the eyes) */
+      width: 27%;
+      left: 40.5%;
+      top: 2.17%;
+    }
+    body.kid-mode .helmet-overlay { width: 40%; left: 36.5%; top: 0.6%; }
+    body.helmet-on .helmet-overlay { display: block; }
+
+    /* When the helmet is on, move the eyes into the helmet's eye holes */
+    body.helmet-on .adult-eye.eye-left  { left: 49.25%; top: 9.5%; }
+    body.helmet-on .adult-eye.eye-right { left: 58.8%;  top: 9.5%; }
+    body.helmet-on .kid-eye.eye-left    { left: 49.5%;  top: 11.5%; }
+    body.helmet-on .kid-eye.eye-right   { left: 63.6%;  top: 11.5%; }
+
     /* Right column — options panel with empty boxes */
     .options-panel {
       display: none;
@@ -211,6 +231,11 @@
       border-radius: 18px;
       overflow: hidden;
       flex-shrink: 0;
+    }
+    .option-box.selected {
+      border-color: #fff;
+      box-shadow: 0 0 0 4px rgba(255,255,255,0.35);
+      background: rgba(255, 255, 255, 0.22);
     }
     .option-box .option-img {
       width: 100%;
@@ -391,6 +416,8 @@
         </svg>
         <span class="eye kid-eye eye-left"><span class="iris"></span></span>
         <span class="eye kid-eye eye-right"><span class="iris"></span></span>
+
+        <img class="helmet-overlay" src="North_American_Birds/Costumes/red_crested_cardinal_helmet_front.png" alt="Red-crested Cardinal helmet"/>
       </div>
     </div>
 
@@ -509,13 +536,19 @@
       for (let i = 0; i < count; i++) {
         const box = document.createElement('div');
         box.className = 'option-box';
-        // Helmet's first option is the Red-crested Cardinal mask
+        // Helmet's first option is the Red-crested Cardinal helmet (front view)
         if (part === 'Helmet' && i === 0) {
           const img = document.createElement('img');
           img.className = 'option-img';
-          img.src = 'North_American_Birds/Costumes/red_crested_cardinal_mask.png';
-          img.alt = 'Red-crested Cardinal mask';
+          img.src = 'North_American_Birds/Costumes/red_crested_cardinal_helmet_front.png';
+          img.alt = 'Red-crested Cardinal helmet';
           box.appendChild(img);
+          box.style.cursor = 'pointer';
+          if (document.body.classList.contains('helmet-on')) box.classList.add('selected');
+          box.onclick = () => {
+            const on = document.body.classList.toggle('helmet-on');
+            box.classList.toggle('selected', on);
+          };
         }
         panel.appendChild(box);
       }

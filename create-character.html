@@ -122,6 +122,9 @@
       max-width: min(46vw, 360px);
       display: block;
     }
+    /* Figure fill follows the Skin Color slider (CSS beats the fill attr) */
+    .character-figure path { fill: var(--skin-color, #000); }
+
     /* Show adult by default, kid when body.kid-mode is set */
     .kid-fig { display: none; }
     body.kid-mode .adult-fig { display: none; }
@@ -349,6 +352,16 @@
            oninput="updateEyeColor(this.value)"/>
   </div>
 
+  <div class="eye-color-bar">
+    <div class="ec-label">
+      <span class="ec-swatch" id="skinSwatch"></span>
+      Skin Color
+      <span class="ec-value" id="skinValue">Tan</span>
+    </div>
+    <input class="ec-slider" id="skinSlider" type="range" min="0" step="1" value="4"
+           oninput="updateSkin(this.value)"/>
+  </div>
+
   <main>
     <div class="parts-col">
       <button class="part-btn" onclick="selectPart(this, 'Helmet')">Helmet</button>
@@ -440,6 +453,35 @@
       document.querySelectorAll('.eye .iris').forEach(i => i.style.background = c.hex);
     }
     updateEyeColor(ecSlider.value);
+
+    // ── Skin Color slider: light -> dark ──
+    const SKIN_TONES = [
+      { name: 'Porcelain',  hex: '#ffe0c4' },
+      { name: 'Fair',       hex: '#f6cfa8' },
+      { name: 'Light',      hex: '#efbf91' },
+      { name: 'Beige',      hex: '#e3aa73' },
+      { name: 'Tan',        hex: '#d49a63' },
+      { name: 'Olive',      hex: '#bb8048' },
+      { name: 'Brown',      hex: '#99623b' },
+      { name: 'Deep',       hex: '#7a4a2b' },
+      { name: 'Dark',       hex: '#5a3621' },
+      { name: 'Ebony',      hex: '#3d2417' },
+    ];
+    const skinSlider = document.getElementById('skinSlider');
+    skinSlider.max = SKIN_TONES.length - 1;
+    skinSlider.style.background = `linear-gradient(to right, ${
+      SKIN_TONES.map((c, i) => `${c.hex} ${(i / (SKIN_TONES.length - 1)) * 100}%`).join(', ')
+    })`;
+
+    function updateSkin(idx) {
+      const c = SKIN_TONES[idx];
+      document.getElementById('skinSwatch').style.background = c.hex;
+      document.getElementById('skinValue').textContent = c.name;
+      skinSlider.style.setProperty('--thumb-color', c.hex);
+      // Tint the silhouette (both adult and kid)
+      document.documentElement.style.setProperty('--skin-color', c.hex);
+    }
+    updateSkin(skinSlider.value);
 
     // Each part has its own independent set of option boxes.
     const PART_OPTIONS = {

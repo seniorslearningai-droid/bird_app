@@ -203,11 +203,13 @@
     body.kid-mode .helmet-overlay { width: 68%; left: 22.5%; top: -5.5%; }
     body.helmet-on .helmet-overlay { display: block; }
 
-    /* When the helmet is on, move the eyes into the helmet's eye holes */
-    body.helmet-on .adult-eye.eye-left  { left: 43.8%; top: 11%; }
-    body.helmet-on .adult-eye.eye-right { left: 64.3%; top: 11%; }
-    body.helmet-on .kid-eye.eye-left    { left: 44.5%; top: 13%; }
-    body.helmet-on .kid-eye.eye-right   { left: 68.6%; top: 13%; }
+    /* When the helmet is on, move the eyes into the helmet's eye holes
+       and enlarge them (round) so they fit the holes */
+    body.helmet-on .eye { aspect-ratio: 1 / 1; }
+    body.helmet-on .adult-eye.eye-left  { left: 45.4%; top: 12.4%; width: 7%; }
+    body.helmet-on .adult-eye.eye-right { left: 62.6%; top: 12.4%; width: 7%; }
+    body.helmet-on .kid-eye.eye-left    { left: 46.4%; top: 14.6%; width: 8.3%; }
+    body.helmet-on .kid-eye.eye-right   { left: 66.6%; top: 14.6%; width: 8.3%; }
 
     /* Right column — options panel with empty boxes */
     .options-panel {

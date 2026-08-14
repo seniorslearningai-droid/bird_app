@@ -189,6 +189,24 @@
     .kid-eye.eye-left  { left: 53%; top: 11.5%; width: 6.5%; }
     .kid-eye.eye-right { left: 61%; top: 11.5%; width: 6.5%; }
 
+    /* Mouth (smile) below the eyes */
+    .mouth {
+      position: absolute;
+      transform: translate(-50%, -50%);
+      pointer-events: none;
+      height: auto;
+    }
+    .mouth path {
+      fill: none;
+      stroke: rgba(70,25,25,0.85);
+      stroke-width: 2;
+      stroke-linecap: round;
+    }
+    .adult-mouth { left: 54%; top: 14%; width: 7%; }
+    .kid-mouth   { left: 57%; top: 16.5%; width: 8%; display: none; }
+    body.kid-mode .adult-mouth { display: none; }
+    body.kid-mode .kid-mouth   { display: block; }
+
     /* ── Red-crested Cardinal helmet overlay ── */
     .helmet-overlay {
       position: absolute;
@@ -417,6 +435,9 @@
         </svg>
         <span class="eye kid-eye eye-left"><span class="iris"></span></span>
         <span class="eye kid-eye eye-right"><span class="iris"></span></span>
+
+        <svg class="mouth adult-mouth" viewBox="0 0 20 10"><path d="M2 2 Q10 10 18 2"/></svg>
+        <svg class="mouth kid-mouth" viewBox="0 0 20 10"><path d="M2 2 Q10 10 18 2"/></svg>
 
         <img class="helmet-overlay" src="North_American_Birds/Costumes/red_crested_cardinal_helmet_front.png" alt="Red-crested Cardinal helmet"/>
       </div>

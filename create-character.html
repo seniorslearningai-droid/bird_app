@@ -228,6 +228,24 @@
     body.helmet-on .kid-eye.eye-left    { left: 46.4%; top: 14.6%; }
     body.helmet-on .kid-eye.eye-right   { left: 66.6%; top: 14.6%; }
 
+    /* ── Peregrine Falcon mask overlay ── */
+    .peregrine-overlay {
+      position: absolute;
+      display: none;
+      z-index: 4;
+      pointer-events: none;
+      width: 58%;
+      left: 24%;
+      top: -1.3%;
+    }
+    body.kid-mode .peregrine-overlay { width: 68%; left: 22%; top: -2.16%; }
+    body.peregrine-on .peregrine-overlay { display: block; }
+
+    body.peregrine-on .adult-eye.eye-left  { left: 43%;   top: 12%; }
+    body.peregrine-on .adult-eye.eye-right { left: 65.1%; top: 12%; }
+    body.peregrine-on .kid-eye.eye-left    { left: 44.2%; top: 13.5%; }
+    body.peregrine-on .kid-eye.eye-right   { left: 70.2%; top: 13.5%; }
+
     /* Right column — options panel with empty boxes */
     .options-panel {
       display: none;
@@ -440,6 +458,7 @@
         <svg class="mouth kid-mouth" viewBox="0 0 20 10"><path d="M2 2 Q10 10 18 2"/></svg>
 
         <img class="helmet-overlay" src="North_American_Birds/Costumes/red_crested_cardinal_helmet_front.png" alt="Red-crested Cardinal helmet"/>
+        <img class="peregrine-overlay" src="North_American_Birds/Costumes/peregrine_falcon_mask_front.png" alt="Peregrine Falcon mask"/>
       </div>
     </div>
 
@@ -548,6 +567,25 @@
       Pants:  6,
     };
 
+    // Build a wearable-mask option box (mutually exclusive: only one mask on)
+    function makeMaskBox(box, src, alt, cls) {
+      const img = document.createElement('img');
+      img.className = 'option-img';
+      img.src = src;
+      img.alt = alt;
+      box.appendChild(img);
+      box.style.cursor = 'pointer';
+      box.dataset.mask = cls;
+      if (document.body.classList.contains(cls)) box.classList.add('selected');
+      box.onclick = () => {
+        const on = document.body.classList.contains(cls);
+        document.body.classList.remove('helmet-on', 'peregrine-on');
+        if (!on) document.body.classList.add(cls);
+        document.querySelectorAll('.option-box[data-mask]').forEach(b =>
+          b.classList.toggle('selected', document.body.classList.contains(b.dataset.mask)));
+      };
+    }
+
     function selectPart(btn, part) {
       document.querySelectorAll('.part-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
@@ -558,19 +596,13 @@
       for (let i = 0; i < count; i++) {
         const box = document.createElement('div');
         box.className = 'option-box';
-        // Helmet's first option is the Red-crested Cardinal helmet (front view)
+        // Helmet options are wearable masks (only one on at a time)
         if (part === 'Helmet' && i === 0) {
-          const img = document.createElement('img');
-          img.className = 'option-img';
-          img.src = 'North_American_Birds/Costumes/red_crested_cardinal_helmet_front.png';
-          img.alt = 'Red-crested Cardinal helmet';
-          box.appendChild(img);
-          box.style.cursor = 'pointer';
-          if (document.body.classList.contains('helmet-on')) box.classList.add('selected');
-          box.onclick = () => {
-            const on = document.body.classList.toggle('helmet-on');
-            box.classList.toggle('selected', on);
-          };
+          makeMaskBox(box, 'North_American_Birds/Costumes/red_crested_cardinal_helmet_front.png',
+                      'Red-crested Cardinal helmet', 'helmet-on');
+        } else if (part === 'Helmet' && i === 1) {
+          makeMaskBox(box, 'North_American_Birds/Costumes/peregrine_falcon_mask_front.png',
+                      'Peregrine Falcon mask', 'peregrine-on');
         }
         panel.appendChild(box);
       }

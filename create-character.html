@@ -470,6 +470,21 @@
       window.location.href = 'profile.html';
     }
 
+    // ── Persist the character so it restores next visit ──
+    const SAVE_KEY = 'flightScoreCharacter';
+    function saveCharacter() {
+      try {
+        const mask = document.body.classList.contains('helmet-on') ? 'helmet-on'
+                   : document.body.classList.contains('peregrine-on') ? 'peregrine-on' : '';
+        localStorage.setItem(SAVE_KEY, JSON.stringify({
+          adult: document.getElementById('ageToggle').checked,
+          eye:   document.getElementById('ecSlider').value,
+          skin:  document.getElementById('skinSlider').value,
+          mask:  mask,
+        }));
+      } catch (e) {}
+    }
+
     // ── Kid / Adult switch ──
     function updateAge() {
       const isAdult = document.getElementById('ageToggle').checked;
@@ -478,6 +493,7 @@
       document.documentElement.style.setProperty('--age-scale', isAdult ? '1' : '0.82');
       document.getElementById('ageAdult').classList.toggle('active', isAdult);
       document.getElementById('ageKid').classList.toggle('active', !isAdult);
+      saveCharacter();
     }
     function setAge(isAdult) {
       document.getElementById('ageToggle').checked = isAdult;
@@ -528,6 +544,7 @@
       ecSlider.style.setProperty('--thumb-color', c.hex);
       // Recolor the silhouette's irises immediately
       document.querySelectorAll('.eye .iris').forEach(i => i.style.background = c.hex);
+      saveCharacter();
     }
     updateEyeColor(ecSlider.value);
 
@@ -557,6 +574,7 @@
       skinSlider.style.setProperty('--thumb-color', c.hex);
       // Tint the silhouette (both adult and kid)
       document.documentElement.style.setProperty('--skin-color', c.hex);
+      saveCharacter();
     }
     updateSkin(skinSlider.value);
 
@@ -583,6 +601,7 @@
         if (!on) document.body.classList.add(cls);
         document.querySelectorAll('.option-box[data-mask]').forEach(b =>
           b.classList.toggle('selected', document.body.classList.contains(b.dataset.mask)));
+        saveCharacter();
       };
     }
 
@@ -608,6 +627,18 @@
       }
       panel.classList.add('open');
     }
+
+    // ── Restore a previously saved character on load ──
+    (function restoreCharacter() {
+      let s;
+      try { s = JSON.parse(localStorage.getItem(SAVE_KEY) || 'null'); } catch (e) { s = null; }
+      if (!s) return;
+      if (typeof s.adult === 'boolean') { document.getElementById('ageToggle').checked = s.adult; updateAge(); }
+      if (s.eye !== undefined)  { const el = document.getElementById('ecSlider');   el.value = s.eye;  updateEyeColor(el.value); }
+      if (s.skin !== undefined) { const el = document.getElementById('skinSlider'); el.value = s.skin; updateSkin(el.value); }
+      document.body.classList.remove('helmet-on', 'peregrine-on');
+      if (s.mask === 'helmet-on' || s.mask === 'peregrine-on') document.body.classList.add(s.mask);
+    })();
   </script>
 
 </body>

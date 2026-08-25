@@ -1,32 +1,37 @@
 Pyrrhuloxia (Cardinalis sinuatus) - Photo Licenses
-==================================================
+===================================================
 
-Photo 1 (Pyrrhuloxia.jpg)
--------------------------
-URL: https://inaturalist-open-data.s3.amazonaws.com/photos/257754958/original.jpeg
-Source Page: https://www.inaturalist.org/photos/257754958
-Author: fernandoarvizu19
-License: CC BY
+Photo 1 (Pyrrhuloxia.jpg) - adult male
+------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/353508699/original.jpg
+Source Page: https://www.inaturalist.org/observations/200372405
+Author: Matt Felperin
+License: CC BY 4.0
 Commercial Use: YES - CC BY allows commercial use with attribution
-Attribution: Photo by fernandoarvizu19, licensed under CC BY
-Notes: iNaturalist observation
+Attribution: (c) Matt Felperin, some rights reserved (CC BY)
+Notes: iNaturalist research-grade observation
 
-Photo 2 (Pyrrhuloxia_2.jpg)
+Photo 2 (Pyrrhuloxia_2.jpg) - adult female
 ---------------------------
-URL: https://inaturalist-open-data.s3.amazonaws.com/photos/8962898/original.jpeg
-Source Page: https://www.inaturalist.org/photos/8962898
-Author: tereka
-License: CC BY-SA
-Commercial Use: YES - CC BY-SA allows commercial use with attribution
-Attribution: Photo by tereka, licensed under CC BY-SA
-Notes: iNaturalist observation
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/622612000/original.jpg
+Source Page: https://www.inaturalist.org/observations/341955393
+Author: Justin Philbois
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 places the work in the public domain
+Attribution: None required (CC0)
+Notes: iNaturalist research-grade observation
 
-Photo 3 (Pyrrhuloxia_3.jpg)
+Photo 3 (Pyrrhuloxia_3.jpg) - adult female
 ---------------------------
-URL: https://inaturalist-open-data.s3.amazonaws.com/photos/237111186/original.jpeg
-Source Page: https://www.inaturalist.org/photos/237111186
-Author: ck2az
-License: CC BY
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/347342412/original.jpg
+Source Page: https://www.inaturalist.org/observations/197240709
+Author: Brent Cox
+License: CC BY 4.0
 Commercial Use: YES - CC BY allows commercial use with attribution
-Attribution: Photo by ck2az, licensed under CC BY
-Notes: iNaturalist observation
+Attribution: (c) Brent Cox, some rights reserved (CC BY)
+Notes: iNaturalist research-grade observation
+
+---
+Previous photos in this folder were incorrect (a fungus, a frog, and a
+seashell — not the bird) and were replaced on 2026-08-25 with verified
+Pyrrhuloxia photographs.

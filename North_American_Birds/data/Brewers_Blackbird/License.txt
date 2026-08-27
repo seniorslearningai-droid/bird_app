@@ -1,8 +1,26 @@
 Brewer's Blackbird (Euphagus cyanocephalus) - Photo Licenses
 ==============================================================
 
-Photo 1 (Brewers_Blackbird.jpg)
+Photo 1 (Brewers_Blackbird.jpg) - adult male
 ---------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/462994354/original.jpeg
+Source Page: https://www.inaturalist.org/observations/258083945
+Author: Richard Littauer
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: (c) Richard Littauer, some rights reserved (CC BY)
+
+Photo 2 (Brewers_Blackbird_2.jpg) - adult male
+-----------------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/288380663/original.jpeg
+Source Page: https://www.inaturalist.org/observations/166524141
+Author: Gavin Slater
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: (c) Gavin Slater, some rights reserved (CC BY)
+
+Photo 3 (Brewers_Blackbird_3.jpg) - juvenile (kept)
+-----------------------------------
 URL: https://inaturalist-open-data.s3.amazonaws.com/photos/132473276/original.jpeg
 Source Page: https://www.inaturalist.org/observations/80807240
 Author: linzyl via iNaturalist
@@ -10,20 +28,6 @@ License: CC BY-SA 4.0
 Commercial Use: YES
 Attribution: linzyl, iNaturalist, CC BY-SA 4.0
 
-Photo 2 (Brewers_Blackbird_2.jpg)
------------------------------------
-URL: https://inaturalist-open-data.s3.amazonaws.com/photos/132473459/original.jpeg
-Source Page: https://www.inaturalist.org/observations/80807240
-Author: linzyl via iNaturalist
-License: CC BY-SA 4.0
-Commercial Use: YES
-Attribution: linzyl, iNaturalist, CC BY-SA 4.0
-
-Photo 3 (Brewers_Blackbird_3.jpg)
------------------------------------
-URL: https://inaturalist-open-data.s3.amazonaws.com/photos/132473445/original.jpeg
-Source Page: https://www.inaturalist.org/observations/80807240
-Author: linzyl via iNaturalist
-License: CC BY-SA 4.0
-Commercial Use: YES
-Attribution: linzyl, iNaturalist, CC BY-SA 4.0
+---
+Photos 1 and 2 previously showed juveniles; replaced on 2026-08-25 with
+adult Brewer's Blackbird photos. One juvenile photo was kept (Photo 3).

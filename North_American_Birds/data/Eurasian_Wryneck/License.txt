@@ -3,21 +3,23 @@ Eurasian Wryneck (Jynx torquilla) - Photo Licenses
 
 Photo 1 (Eurasian_Wryneck.jpg)
 -------------------------
-URL: https://upload.wikimedia.org/wikipedia/commons/d/d9/Jynx_torquillaterr.jpg
-Source Page: https://commons.wikimedia.org/wiki/File:Jynx_torquillaterr.jpg
-Author: VC-s
-License: CC BY-SA 3.0
-Commercial Use: YES - CC BY-SA 3.0 allows commercial use
-Attribution: VC-s
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/137646050/original.jpg
+Source Page: https://www.inaturalist.org/observations/83791175
+Author: Larisa Artemyeva
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 places the work in the public domain
+Attribution: None required (CC0)
+Notes: Adult at nest box; iNaturalist research-grade observation
 
 Photo 2 (Eurasian_Wryneck_2.jpg)
 -------------------------
-URL: https://upload.wikimedia.org/wikipedia/commons/1/14/Jynx_torquilla_distr.png
-Source Page: https://commons.wikimedia.org/wiki/File:Jynx_torquilla_distr.png
-Author: The original uploader was Scops at German Wikipedia.
-License: CC BY-SA 2.0 de
-Commercial Use: YES - CC BY-SA 2.0 de allows commercial use
-Attribution: The original uploader was Scops at German Wikipedia.
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/61590313/original.jpg
+Source Page: https://www.inaturalist.org/observations/29132714
+Author: Leonard Wägele
+License: CC0 (Public Domain)
+Commercial Use: YES - CC0 places the work in the public domain
+Attribution: None required (CC0)
+Notes: Adult perched, front view; iNaturalist research-grade observation
 
 Photo 3 (Eurasian_Wryneck_3.jpg)
 -------------------------
@@ -27,3 +29,7 @@ Author: Martien Brand from Mariënberg, The Netherlands
 License: CC BY 2.0
 Commercial Use: YES - CC BY 2.0 allows commercial use
 Attribution: Martien Brand from Mariënberg, The Netherlands
+
+---
+Photos 1 and 2 previously were range/distribution maps (not photographs)
+and were replaced on 2026-08-25 with real Eurasian Wryneck photographs.

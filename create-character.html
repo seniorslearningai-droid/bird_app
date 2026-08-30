@@ -246,6 +246,47 @@
     body.peregrine-on .kid-eye.eye-left    { left: 44.2%; top: 13.5%; }
     body.peregrine-on .kid-eye.eye-right   { left: 70.2%; top: 13.5%; }
 
+    /* ── Shirt overlay (fits the torso) ── */
+    .shirt-overlay {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      display: none;
+      z-index: 2;                 /* above the body, below head masks */
+      pointer-events: none;
+    }
+    .shirt-overlay path {
+      fill: var(--shirt-color, #2a7fff);
+      stroke: rgba(0,0,0,0.4);
+      stroke-width: 1.4;
+      vector-effect: non-scaling-stroke;
+    }
+    body.shirt-on:not(.kid-mode) .adult-shirt { display: block; }
+    body.shirt-on.kid-mode       .kid-shirt   { display: block; }
+
+    /* Shirt-color slider appears only once a shirt is chosen */
+    .shirt-color-bar { display: none; }
+    body.shirt-on .shirt-color-bar { display: flex; }
+
+    /* "Choose Your Color" t-shirt option box */
+    .shirt-box { position: relative; display: flex; align-items: center; justify-content: center; }
+    .tshirt-icon { width: 82%; height: 82%; }
+    .tshirt-icon path { fill: var(--shirt-color, #2a7fff); stroke: rgba(0,0,0,0.35); stroke-width: 3; }
+    .tshirt-label {
+      position: absolute;
+      left: 0; right: 0; top: 52%;
+      transform: translateY(-50%);
+      text-align: center;
+      font-weight: 800;
+      color: #fff;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.65);
+      font-size: clamp(0.8rem, 2.2vw, 1.05rem);
+      line-height: 1.15;
+      padding: 0 10px;
+      pointer-events: none;
+    }
+
     /* Right column — options panel with empty boxes */
     .options-panel {
       display: none;
@@ -433,6 +474,16 @@
            oninput="updateSkin(this.value)"/>
   </div>
 
+  <div class="eye-color-bar shirt-color-bar">
+    <div class="ec-label">
+      <span class="ec-swatch" id="shirtSwatch"></span>
+      Shirt Color
+      <span class="ec-value" id="shirtValue">Blue</span>
+    </div>
+    <input class="ec-slider" id="shirtSlider" type="range" min="0" step="1" value="5"
+           oninput="updateShirt(this.value)"/>
+  </div>
+
   <main>
     <div class="parts-col">
       <button class="part-btn" onclick="selectPart(this, 'Helmet')">Helmet</button>
@@ -456,6 +507,9 @@
 
         <svg class="mouth adult-mouth" viewBox="0 0 20 10"><path d="M2 2 Q10 10 18 2"/></svg>
         <svg class="mouth kid-mouth" viewBox="0 0 20 10"><path d="M2 2 Q10 10 18 2"/></svg>
+
+        <svg class="shirt-overlay adult-shirt" viewBox="0 0 97 200" preserveAspectRatio="xMidYMid meet"><path d="M46,43 Q53,47 60,43 L74,44 L81,55 L73,58 L70,56 L69,94 Q69,98 65,98 L41,98 Q37,98 37,94 L36,56 L33,58 L25,55 L32,44 Z"/></svg>
+        <svg class="shirt-overlay kid-shirt" viewBox="0 0 55 113" preserveAspectRatio="xMidYMid meet"><path d="M27,30 Q32,33 37,30 L44,31 L48,39 L43,41 L41,39 L41,62 Q41,65 38,65 L26,65 Q23,65 23,62 L23,39 L21,41 L16,39 L20,31 Z"/></svg>
 
         <img class="helmet-overlay" src="North_American_Birds/Costumes/red_crested_cardinal_helmet_front.png" alt="Red-crested Cardinal helmet"/>
         <img class="peregrine-overlay" src="North_American_Birds/Costumes/peregrine_falcon_mask_front.png" alt="Peregrine Falcon mask"/>
@@ -481,6 +535,8 @@
           eye:   document.getElementById('ecSlider').value,
           skin:  document.getElementById('skinSlider').value,
           mask:  mask,
+          shirt: document.body.classList.contains('shirt-on'),
+          shirtColor: document.getElementById('shirtSlider').value,
         }));
       } catch (e) {}
     }
@@ -578,6 +634,38 @@
     }
     updateSkin(skinSlider.value);
 
+    // ── Shirt Color slider ──
+    const SHIRT_COLORS = [
+      { name: 'Red',      hex: '#e63946' },
+      { name: 'Orange',   hex: '#ff8c00' },
+      { name: 'Yellow',   hex: '#ffd400' },
+      { name: 'Green',    hex: '#2ecc40' },
+      { name: 'Teal',     hex: '#008c8c' },
+      { name: 'Blue',     hex: '#2a7fff' },
+      { name: 'Navy',     hex: '#173f8a' },
+      { name: 'Purple',   hex: '#8e44ad' },
+      { name: 'Pink',     hex: '#ff8ac8' },
+      { name: 'Brown',    hex: '#6f3f1d' },
+      { name: 'White',    hex: '#f5f5f5' },
+      { name: 'Gray',     hex: '#808080' },
+      { name: 'Black',    hex: '#1a1a1a' },
+    ];
+    const shirtSlider = document.getElementById('shirtSlider');
+    shirtSlider.max = SHIRT_COLORS.length - 1;
+    shirtSlider.style.background = `linear-gradient(to right, ${
+      SHIRT_COLORS.map((c, i) => `${c.hex} ${(i / (SHIRT_COLORS.length - 1)) * 100}%`).join(', ')
+    })`;
+
+    function updateShirt(idx) {
+      const c = SHIRT_COLORS[idx];
+      document.getElementById('shirtSwatch').style.background = c.hex;
+      document.getElementById('shirtValue').textContent = c.name;
+      shirtSlider.style.setProperty('--thumb-color', c.hex);
+      document.documentElement.style.setProperty('--shirt-color', c.hex);
+      saveCharacter();
+    }
+    updateShirt(shirtSlider.value);
+
     // Each part has its own independent set of option boxes.
     const PART_OPTIONS = {
       Helmet: 6,
@@ -605,6 +693,22 @@
       };
     }
 
+    // Build the "Choose Your Color" t-shirt option box (independent toggle)
+    function makeShirtBox(box) {
+      box.classList.add('shirt-box');
+      box.style.cursor = 'pointer';
+      box.innerHTML =
+        '<svg class="tshirt-icon" viewBox="0 0 120 112" preserveAspectRatio="xMidYMid meet">' +
+        '<path d="M40,16 L52,9 Q60,17 68,9 L80,16 L110,34 L95,55 L84,47 L84,104 L36,104 L36,47 L25,55 L10,34 Z"/>' +
+        '</svg><span class="tshirt-label">Choose Your Color</span>';
+      if (document.body.classList.contains('shirt-on')) box.classList.add('selected');
+      box.onclick = () => {
+        const on = document.body.classList.toggle('shirt-on');
+        box.classList.toggle('selected', on);
+        saveCharacter();
+      };
+    }
+
     function selectPart(btn, part) {
       document.querySelectorAll('.part-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
@@ -622,6 +726,8 @@
         } else if (part === 'Helmet' && i === 1) {
           makeMaskBox(box, 'North_American_Birds/Costumes/peregrine_falcon_mask_front.png',
                       'Peregrine Falcon mask', 'peregrine-on');
+        } else if (part === 'Shirt' && i === 0) {
+          makeShirtBox(box);
         }
         panel.appendChild(box);
       }
@@ -636,8 +742,10 @@
       if (typeof s.adult === 'boolean') { document.getElementById('ageToggle').checked = s.adult; updateAge(); }
       if (s.eye !== undefined)  { const el = document.getElementById('ecSlider');   el.value = s.eye;  updateEyeColor(el.value); }
       if (s.skin !== undefined) { const el = document.getElementById('skinSlider'); el.value = s.skin; updateSkin(el.value); }
+      if (s.shirtColor !== undefined) { const el = document.getElementById('shirtSlider'); el.value = s.shirtColor; updateShirt(el.value); }
       document.body.classList.remove('helmet-on', 'peregrine-on');
       if (s.mask === 'helmet-on' || s.mask === 'peregrine-on') document.body.classList.add(s.mask);
+      document.body.classList.toggle('shirt-on', !!s.shirt);
     })();
   </script>
 

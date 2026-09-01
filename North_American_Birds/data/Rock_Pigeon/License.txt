@@ -1,7 +1,7 @@
-Rock Dove (Columba livia) - Photo Licenses
-==========================================
+Rock Pigeon (Columba livia) - Photo Licenses
+============================================
 
-Photo 1 (Rock_Dove.jpg)
+Photo 1 (Rock_Pigeon.jpg)
 -----------------------
 URL: https://inaturalist-open-data.s3.amazonaws.com/photos/131366491/original.jpeg
 Source Page: https://www.inaturalist.org/photos/131366491
@@ -11,7 +11,7 @@ Commercial Use: YES - CC BY allows commercial use with attribution
 Attribution: Photo by zoology123, licensed under CC BY
 Notes: iNaturalist observation
 
-Photo 2 (Rock_Dove_2.jpg)
+Photo 2 (Rock_Pigeon_2.jpg)
 -------------------------
 URL: https://inaturalist-open-data.s3.amazonaws.com/photos/106619240/original.jpeg
 Source Page: https://www.inaturalist.org/photos/106619240
@@ -21,12 +21,12 @@ Commercial Use: YES - CC BY allows commercial use with attribution
 Attribution: Photo by odonut, licensed under CC BY
 Notes: iNaturalist observation
 
-Photo 3 (Rock_Dove_3.jpg)
+Photo 3 (Rock_Pigeon_3.jpg)
 -------------------------
-URL: https://inaturalist-open-data.s3.amazonaws.com/photos/106617831/original.jpeg
-Source Page: https://www.inaturalist.org/photos/106617831
-Author: odonut
-License: CC BY
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/613429468/original.jpeg
+Source Page: https://www.inaturalist.org/observations/337442093
+Author: Holly Hodges
+License: CC BY 4.0
 Commercial Use: YES - CC BY allows commercial use with attribution
-Attribution: Photo by odonut, licensed under CC BY
-Notes: iNaturalist observation
+Attribution: (c) Holly Hodges, some rights reserved (CC BY)
+Notes: Replaced a non-bird photo (a dragonfly) on 2026-08-30 with a real Rock Pigeon.

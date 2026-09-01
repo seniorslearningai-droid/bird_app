@@ -894,7 +894,7 @@ const BIRD_LIST = [
   'River_Warbler',
   'Rivolis_Hummingbird',
   'Roadside_Hawk',
-  'Rock_Dove',
+  'Rock_Pigeon',
   'Rock_Ptarmigan',
   'Rock_Sandpiper',
   'Rock_Wren',

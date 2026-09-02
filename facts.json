@@ -664,13 +664,6 @@
     "Similar Looking Birds": "Gray-cheeked Thrush nearly identical; best separated by range and breeding habitat. Call note and song differ.",
     "Best Ways to Identify": "High mountaintop stunted forest breeder. Nearly identical to Gray-cheeked. Yellow lower mandible. Specific call."
   },
-  "Bishops_Oo": {
-    "Description": "Small Hawaiian honeyeater, black with yellow ear tufts and yellow undertail coverts. Long bill. About 8 inches.",
-    "Behavior": "Foraged for nectar in native Hawaiian forest flowers. Extinct since approximately 1904. Last recorded on Maui.",
-    "Habitat": "Native forests of Molokai and later Maui. Extinct due to habitat destruction and introduced avian diseases.",
-    "Similar Looking Birds": "Other Oo species on different islands. All Hawaiian Oo now extinct.",
-    "Best Ways to Identify": "Extinct species from Molokai and Maui. Black with yellow ear tufts. No longer exists in nature."
-  },
   "Black-and-white_Warbler": {
     "Description": "Boldly striped black and white overall; male has black cheek and throat; female has white cheek; both have black-streaked white underparts.",
     "Behavior": "Creeps along tree trunks and branches like a nuthatch, probing bark for insects; one of the earliest spring warblers to arrive; \"wee-see\" thin high song.",
@@ -3653,13 +3646,6 @@
     "Similar Looking Birds": "Black Mamo all black. Iiwi red. No other black-and-yellow nectar feeder survives in Hawaii.",
     "Best Ways to Identify": "Extinct. Black with yellow rump and thighs. Very long curved bill. Big Island. No longer exists."
   },
-  "Hawaii_Oo": {
-    "Description": "Large Hawaiian honeyeater, glossy black with yellow thigh and wing patches. Long curved bill. About 12 inches.",
-    "Behavior": "Foraged for nectar. Prized yellow feathers used in Hawaiian royal cloaks. Driven extinct by feather trade and habitat loss.",
-    "Habitat": "Native forests of the Big Island of Hawaii. Extinct since approximately 1934.",
-    "Similar Looking Birds": "Other Oo species on different islands. All Hawaiian Oo now extinct.",
-    "Best Ways to Identify": "Extinct species from Big Island. Largest Oo species. Black with yellow patches. No longer exists."
-  },
   "Hawaiian_Coot": {
     "Description": "Medium waterbird. Sooty black body with white bill and large white frontal shield. Some individuals have red frontal shield knob. About 15 inches.",
     "Behavior": "Swims and dives for aquatic plants. Found year-round on Hawaiian ponds and wetlands. Endemic to Hawaiian Islands.",
@@ -4079,13 +4065,6 @@
     "Habitat": "Native wet forests of Kauai. Possibly extinct due to avian disease and habitat degradation.",
     "Similar Looking Birds": "Akiapolaau has different bill with shorter lower mandible. Kauai Amakihi smaller with shorter bill.",
     "Best Ways to Identify": "Very long decurved bill. Yellow male. Possibly extinct on Kauai. Last confirmed record 1996."
-  },
-  "Kauai_Oo": {
-    "Description": "Small black Hawaiian honeyeater with yellow thighs, white-streaked breast, long bill. Last recorded 1987. About 8 inches.",
-    "Behavior": "Foraged for nectar in ohia flowers. Last confirmed recording was a lone male singing in 1987. Extinct.",
-    "Habitat": "Native ohia-lehua forests of Kauai. Extinct due to habitat destruction, introduced predators, and avian disease.",
-    "Similar Looking Birds": "Other Hawaiian Oo species similar but on different islands. No similar birds survive in Hawaiian forests.",
-    "Best Ways to Identify": "Extinct species. Last records from Kauai forest. Black with yellow thigh patches. Last Hawaii Oo to survive."
   },
   "Kelp_Gull": {
     "Description": "Large gull, jet black back, white body, yellow bill with red spot, yellow-green legs. About 23 inches.",
@@ -5311,13 +5290,6 @@
     "Habitat": "Native forests of Oahu. Extinct due to early deforestation and introduced species.",
     "Similar Looking Birds": "Oahu Amakihi smaller with shorter bill. No similar birds survive on Oahu.",
     "Best Ways to Identify": "Extinct. Long decurved bill, yellow male. From Oahu. No longer exists."
-  },
-  "Oahu_Oo": {
-    "Description": "Small black Hawaiian honeyeater with yellow shoulder patches and undertail coverts. Long bill. About 8 inches.",
-    "Behavior": "Foraged for nectar in native Hawaiian forest. Extinct since approximately 1837 due to early human impacts.",
-    "Habitat": "Native forests of Oahu. Extinct due to habitat loss following Polynesian and later Western settlement.",
-    "Similar Looking Birds": "Other Oo species similar but island-specific. All Hawaiian Oo now extinct.",
-    "Best Ways to Identify": "Extinct species from Oahu. Black with yellow shoulder and undertail patches. No longer exists."
   },
   "Oak_Titmouse": {
     "Description": "Plain gray titmouse with small crest and no distinctive markings. Short dark bill.",

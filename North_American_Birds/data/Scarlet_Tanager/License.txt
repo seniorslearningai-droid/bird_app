@@ -1,7 +1,25 @@
 Scarlet Tanager (Piranga olivacea) - Photo Licenses
 ===================================================
 
-Photo 1 (Scarlet_Tanager.jpg)
+Photo 1 (Scarlet_Tanager.jpg) - breeding male
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/42961581/original.jpg
+Source Page: https://www.inaturalist.org/observations/27600400
+Author: Shirley Zundell
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: (c) Shirley Zundell, some rights reserved (CC BY)
+
+Photo 2 (Scarlet_Tanager_2.jpg) - breeding male
+-------------------------
+URL: https://inaturalist-open-data.s3.amazonaws.com/photos/203711981/original.jpg
+Source Page: https://www.inaturalist.org/observations/120444017
+Author: Sean Vanderluit
+License: CC BY 4.0
+Commercial Use: YES - CC BY allows commercial use with attribution
+Attribution: (c) Sean Vanderluit, some rights reserved (CC BY)
+
+Photo 3 (Scarlet_Tanager_3.jpg) - female (kept)
 -------------------------
 URL: https://upload.wikimedia.org/wikipedia/commons/0/0f/20240629_female_scarlet_tanager_gay_city_PD203371.jpg
 Source Page: https://commons.wikimedia.org/wiki/File:20240629_female_scarlet_tanager_gay_city_PD203371.jpg
@@ -10,20 +28,6 @@ License: CC BY-SA 4.0
 Commercial Use: YES - CC BY-SA 4.0 allows commercial use
 Attribution: Paul Danese
 
-Photo 2 (Scarlet_Tanager_2.jpg)
--------------------------
-URL: https://upload.wikimedia.org/wikipedia/commons/f/f3/20240718_immature_scarlet_tanager_pleasant_valley_PD206172_01.jpg
-Source Page: https://commons.wikimedia.org/wiki/File:20240718_immature_scarlet_tanager_pleasant_valley_PD206172_01.jpg
-Author: Paul Danese
-License: CC BY-SA 4.0
-Commercial Use: YES - CC BY-SA 4.0 allows commercial use
-Attribution: Paul Danese
-
-Photo 3 (Scarlet_Tanager_3.jpg)
--------------------------
-URL: https://upload.wikimedia.org/wikipedia/commons/b/bb/20240718_immature_scarlet_tanager_pleasant_valley_PD206172_02.jpg
-Source Page: https://commons.wikimedia.org/wiki/File:20240718_immature_scarlet_tanager_pleasant_valley_PD206172_02.jpg
-Author: Paul Danese
-License: CC BY-SA 4.0
-Commercial Use: YES - CC BY-SA 4.0 allows commercial use
-Attribution: Paul Danese
+---
+Photos 1 and 2 were female/immature; replaced on 2026-09-02 with breeding
+male Scarlet Tanagers (bright red). One female photo was kept (Photo 3).

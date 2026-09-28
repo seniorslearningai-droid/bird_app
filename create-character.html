@@ -601,7 +601,11 @@
 
     // ── Persist the character so it restores next visit ──
     const SAVE_KEY = 'flightScoreCharacter';
+    // Suppress saving during initial setup + restore, so the default-value
+    // init calls don't overwrite the saved character before it's restored.
+    let suppressSave = true;
     function saveCharacter() {
+      if (suppressSave) return;
       try {
         const mask = document.body.classList.contains('helmet-on') ? 'helmet-on'
                    : document.body.classList.contains('peregrine-on') ? 'peregrine-on' : '';
@@ -907,6 +911,9 @@
       document.body.classList.toggle('shirt-on', !!s.shirt);
       document.body.classList.toggle('pants-on', !!s.pants);
     })();
+    // Setup/restore done — allow saving again and persist the current state.
+    suppressSave = false;
+    saveCharacter();
   </script>
 
 </body>

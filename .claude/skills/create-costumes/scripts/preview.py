@@ -16,6 +16,14 @@ Garments - fitted to the body:
   --shape-adult "SVG d" --shape-kid "SVG d"
   --shape-color "#hex"
   --graphic LOGO.png --graphic-adult CX,CY,W --graphic-kid CX,CY,W   centred, like .fs-logo
+  --garment-image CUTOUT.png --garment-adult X0,Y0,X1,Y1 --garment-kid X0,Y0,X1,Y1
+                         the garment photo itself stretched into this viewBox box and
+                         clipped to the body (like the Blue Jeans)
+  --garment-limit-kid "SVG d" / --garment-limit-adult "SVG d"
+                         extra clip, e.g. to keep the kid's hands at the hips uncovered
+  --garment-fill-adult "SVG d" / --garment-fill-kid "SVG d"
+                         area ADDED to the body clip, e.g. the notch between the legs
+                         below the crotch that real pants would cover
 
 General:
   --out preview.png  --crop head|torso|legs|full  --skin "#d49a63"
@@ -79,6 +87,27 @@ def render(who, a, html, eyes_css, img):
     sub = arr[pad:pad + body.shape[0], :body.shape[1]]
     sub[body] = hex_rgb(a.skin)
 
+    # garment photo stretched into a box and clipped to the body (+ optional limit)
+    gbox = getattr(a, f"garment_{who}")
+    if a.garment_image and gbox:
+        x0, y0, x1, y1 = (float(v) for v in gbox.split(","))
+        clip = body.copy()
+        fill = getattr(a, f"garment_fill_{who}")
+        if fill:
+            clip |= rasterize(fill, vw, vh, sc)[:body.shape[0], :body.shape[1]]
+        lim = getattr(a, f"garment_limit_{who}")
+        if lim:
+            clip &= rasterize(lim, vw, vh, sc)[:body.shape[0], :body.shape[1]]
+        g = Image.open(a.garment_image).convert("RGBA").resize(
+            (max(1, round((x1 - x0) * sc)), max(1, round((y1 - y0) * sc))), Image.LANCZOS)
+        layer = np.zeros(sub.shape[:2] + (4,), float)
+        X0, Y0 = round(x0 * sc), round(y0 * sc)
+        ga = np.asarray(g, float)
+        hh, ww = min(ga.shape[0], layer.shape[0] - Y0), min(ga.shape[1], layer.shape[1] - X0)
+        layer[Y0:Y0 + hh, X0:X0 + ww] = ga[:hh, :ww]
+        al = layer[..., 3:] / 255 * clip[..., None]
+        sub[:] = (sub * (1 - al) + layer[..., :3] * al).astype(np.uint8)
+
     # fitted garment, clipped to the body like the page's clipPath
     d = getattr(a, f"shape_{who}") or (page_shape(html, a.use_page_shape, who) if a.use_page_shape else None)
     if d:
@@ -123,6 +152,9 @@ def main():
     ap.add_argument("--shape-adult"); ap.add_argument("--shape-kid")
     ap.add_argument("--shape-color", default="#2a7fff")
     ap.add_argument("--graphic"); ap.add_argument("--graphic-adult"); ap.add_argument("--graphic-kid")
+    ap.add_argument("--garment-image"); ap.add_argument("--garment-adult"); ap.add_argument("--garment-kid")
+    ap.add_argument("--garment-limit-adult"); ap.add_argument("--garment-limit-kid")
+    ap.add_argument("--garment-fill-adult"); ap.add_argument("--garment-fill-kid")
     a = ap.parse_args()
 
     html = page_html()

@@ -29,7 +29,7 @@ Line numbers drift, so search for the names shown here.
 ## 2. Layers and state
 
 Order inside `.figure-wrap` (later = on top): figure SVG, eyes, mouths,
-pants (z1), shirts (z2), `.fs-logo` (z2), kid hair (z3), head pieces (z4).
+pants and jeans (z1), shirts (z2), `.fs-logo` (z2), kid hair (z3), head pieces (z4).
 
 State lives in classes on `<body>`:
 
@@ -38,7 +38,7 @@ State lives in classes on `<body>`:
 | `kid-mode` | kid figure shown (absent = adult) |
 | `helmet-on`, `peregrine-on` | head pieces - only one at a time |
 | `shirt-on`, `flightscore-on` | shirts - only one at a time |
-| `pants-on` | colour pants |
+| `pants-on`, `jeans-on` | pants - only one at a time |
 | `has-hair` | kid hairstyle chosen |
 
 Show rules always come in adult/kid pairs:
@@ -117,25 +117,48 @@ an existing shirt SVG, give the clipPath a new unique id, replace the shape
 
 ## 5. Adding pants
 
-Today pants are a single independent toggle (`pants-on` + colour slider,
-built by `makePantsBox`). The first picture pants (e.g. `blue_jeans.png`)
-turn pants into a group like shirts:
+Pants are a group like shirts (only one at a time), built by
+`makePantsOption(box, kind, innerHTML)` with `data-pants`:
+box 0 = colour pants (`pants-on`, uses the Pants Color slider),
+box 1 = Blue Jeans (`jeans-on`).
 
-1. Add `makePantsOption(box, kind, innerHTML)` - same as `makeShirtOption`
-   but with `data-pants`, removing `'pants-on', 'NAME-on'`.
-2. Make the colour box use it (keep its icon + "Choose Your Color" label).
-3. CSS for the new pants, reusing the fitted shapes:
-   ```css
-   body.NAME-on:not(.kid-mode) .adult-pants { display: block; }
-   body.NAME-on.kid-mode       .kid-pants   { display: block; }
-   body.NAME-on .pants-overlay > path { fill: #HEX; }
-   ```
-   The colour slider (`.pants-color-bar`) stays tied to `pants-on` only.
-   Details such as jean seams or pockets can be extra `<path>`s inside the
-   pants SVGs with a class shown only under `body.NAME-on`; give them
-   `fill: none` and a darker stroke, and keep them inside the clip.
-4. `selectPart`: `else if (part === 'Pants' && i === 1) { makePantsOption(...) }`
-5. save/restore: section 6.
+**Photo pants (copy the Blue Jeans).** CSS:
+```css
+.NAME-overlay { position: absolute; inset: 0; width: 100%; height: 100%;
+                display: none; z-index: 1; pointer-events: none; }
+body.NAME-on:not(.kid-mode) .adult-NAME { display: block; }
+body.NAME-on.kid-mode       .kid-NAME   { display: block; }
+```
+Markup, next to the jeans SVGs (copy them and rename the clipPath ids - ids
+must be unique on the page). Each clipPath holds the figure outline (copied
+from `adultPantsClip` / `kidPantsClip`) **plus** the between-the-legs fill
+path; the kid image also has its own hands-limit clip:
+```html
+<svg class="NAME-overlay adult-NAME" viewBox="0 0 97 200" preserveAspectRatio="xMidYMid meet">
+  <defs><clipPath id="adultNAMEClip"><path d="FIGURE OUTLINE"/><path d="M43,100 H63 V186.5 H43 Z"/></clipPath></defs>
+  <g clip-path="url(#adultNAMEClip)"><image href="North_American_Birds/Costumes/NAME_cutout.png"
+     x="31.5" y="100" width="43" height="86.5" preserveAspectRatio="none"/></g></svg>
+<svg class="NAME-overlay kid-NAME" viewBox="0 0 55 113" preserveAspectRatio="xMidYMid meet">
+  <defs><clipPath id="kidNAMEClip"><path d="FIGURE OUTLINE"/><path d="M27.5,66 H37 V104 H27.5 Z"/></clipPath>
+        <clipPath id="kidNAMEHands"><path d="M18,60 L47,60 L47,70.5 L41.9,71.8 L41.3,81.5 L46,104 L18,104 L23.6,81.5 L23.1,71.8 L18,70.5 Z"/></clipPath></defs>
+  <g clip-path="url(#kidNAMEClip)"><image href="North_American_Birds/Costumes/NAME_cutout.png"
+     x="20.5" y="66" width="24" height="38" preserveAspectRatio="none" clip-path="url(#kidNAMEHands)"/></g></svg>
+```
+x/y/width/height come from the `--garment-adult/--garment-kid` boxes you
+settled on in preview.py (width = X1-X0, height = Y1-Y0).
+
+**Fitted colour pants** reuse `.adult-pants` / `.kid-pants` instead:
+```css
+body.NAME-on:not(.kid-mode) .adult-pants { display: block; }
+body.NAME-on.kid-mode       .kid-pants   { display: block; }
+body.NAME-on .pants-overlay > path { fill: #HEX; }
+```
+The Pants Color slider stays tied to `pants-on` only.
+
+**JS**:
+- `makePantsOption`: `classList.remove('pants-on', 'jeans-on', 'NAME-on')`
+- `selectPart`: `else if (part === 'Pants' && i === N) { makePantsOption(box, 'NAME-on', '<img class="option-img" src="North_American_Birds/Costumes/NAME_cutout.png" alt="..."/>'); }`
+- save/restore: section 6.
 
 ## 6. Save / restore
 
@@ -150,7 +173,10 @@ alone.
   and `toggle('NAME-on', !!s.NAME)`), or switch to one `shirtKind` string -
   but keep reading the old `shirt` / `flightscore` keys so characters people
   already saved still load.
-- Pants: same pattern as shirts.
+- Pants: `pants` and `jeans` booleans; restore does
+  `toggle('pants-on', !!s.pants && !s.jeans)` and `toggle('jeans-on', !!s.jeans)`.
+  Add `NAME` the same way (and add `&& !s.NAME` to the others so two pants
+  can never come back on together).
 
 Test by: choose the costume as a kid, go back to Profile, re-open Create Your
 Character - the kid must still be wearing it.

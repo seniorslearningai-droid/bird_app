@@ -518,7 +518,23 @@
       box-shadow: 0 2px 6px rgba(0,0,0,0.4);
       cursor: pointer;
     }
+
+    /* ── View-only mode (create-character.html?view), shown on the Profile
+       page: just the saved character, no controls, transparent background ── */
+    html.view-mode body { background: transparent; min-height: 0; }
+    html.view-mode header,
+    html.view-mode .age-bar,
+    html.view-mode .eye-color-bar,
+    html.view-mode .parts-col,
+    html.view-mode .options-panel { display: none !important; }
+    html.view-mode main { padding: 0; }
+    html.view-mode .figure-col { pointer-events: none; }
+    html.view-mode .figure-wrap { margin-top: 2vh; transform: scale(var(--age-scale, 1)); }
+    html.view-mode .character-figure { height: 96vh; max-width: none; }
   </style>
+  <script>
+    if (new URLSearchParams(location.search).has('view')) document.documentElement.classList.add('view-mode');
+  </script>
 </head>
 <body>
 
@@ -967,9 +983,10 @@
       document.body.classList.toggle('pants-on', !!s.pants && !s.jeans);
       document.body.classList.toggle('jeans-on', !!s.jeans);
     })();
-    // Setup/restore done — allow saving again and persist the current state.
-    suppressSave = false;
-    saveCharacter();
+    // Setup/restore done — allow saving from now on. Nothing is written until
+    // the user changes something, so a saved character means "edited" (the
+    // Profile page relies on that). The view-only copy never saves.
+    if (!document.documentElement.classList.contains('view-mode')) suppressSave = false;
   </script>
 
 </body>

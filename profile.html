@@ -64,9 +64,18 @@
       width: 100%;
     }
 
+    /* The saved character, drawn by create-character.html in view-only mode */
+    .character-preview {
+      width: 100%;
+      height: min(52dvh, 460px);
+      margin-top: auto;
+      border: 0;
+      background: transparent;
+      pointer-events: none;
+    }
+
     .create-btn {
       width: 100%;
-      margin-top: auto;
       margin-bottom: 120px;
       padding: 18px 24px;
       background: radial-gradient(circle at 35% 35%, #c5f07a, #6dbf2f);
@@ -95,7 +104,8 @@
   </header>
 
   <main>
-    <button class="create-btn" onclick="createCharacter()">Create your character</button>
+    <iframe class="character-preview" id="characterPreview" title="Your character" tabindex="-1"></iframe>
+    <button class="create-btn" id="createBtn" onclick="createCharacter()">Create your character</button>
   </main>
 
   <script>
@@ -103,6 +113,18 @@
       window.location.href = 'index.html';
     }
     function createCharacter() { window.location.href = 'create-character.html'; }
+
+    // Show the character and, once it has been edited (saved), relabel the button.
+    function showCharacter() {
+      let edited = false;
+      try { edited = !!localStorage.getItem('flightScoreCharacter'); } catch (e) {}
+      document.getElementById('createBtn').textContent =
+        edited ? 'Edit your character' : 'Create your character';
+      document.getElementById('characterPreview').src = 'create-character.html?view&t=' + Date.now();
+    }
+    showCharacter();
+    // Coming back with the browser's back button can reuse the old page; refresh it.
+    window.addEventListener('pageshow', e => { if (e.persisted) showCharacter(); });
   </script>
 
 </body>

@@ -178,5 +178,11 @@ alone.
   Add `NAME` the same way (and add `&& !s.NAME` to the others so two pants
   can never come back on together).
 
+The Profile page shows the same character by loading
+`create-character.html?view` in an iframe (`html.view-mode` hides the controls
+and never saves), so a new costume appears there automatically. It labels its
+button "Edit your character" when the save key exists, which is why the page
+only saves after a user action - don't add a save call on page load.
+
 Test by: choose the costume as a kid, go back to Profile, re-open Create Your
 Character - the kid must still be wearing it.
